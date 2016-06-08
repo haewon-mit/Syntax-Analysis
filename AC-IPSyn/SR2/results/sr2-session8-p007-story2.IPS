@@ -1,0 +1,529 @@
+FILENAME:sr2-session8-p007-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	FRIENDS
+1	MICAH
+2	SWINGS
+3	ISABELLA
+3	SLIDE
+4	DAISY
+4	TIME
+5	BALL
+6	BUSH
+6	NOBODY
+7	KIDS
+9	BRICK
+9	TOP
+9	TOWER
+11	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+4	THEY
+6	HER
+9	SHE
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	THREE
+4	NEW
+4	ONE
+7	BOTH
+7	HID
+7	THAT
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	THREE FRIENDS
+2	THE SWINGS
+4	NEW FRIEND
+4	ONE TIME
+6	A BUSH
+7	THE KIDS
+8	THE SLIDE
+9	THE BRICK
+9	THE TOP
+11	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+2	THE SWINGS
+6	A BUSH
+7	THE KIDS
+8	THE SLIDE
+9	THE BRICK
+9	THE TOP
+11	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	WERE THREE FRIENDS
+2	ON THE SWINGS
+3	ON THE SLIDE
+6	BEHIND A BUSH
+7	OF THE KIDS
+9	OF THE BRICK
+9	ON THE TOP
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+1	FRIENDS
+2	SWINGS
+7	KIDS
+
+SCORE:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+
+SCORE:	0
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+4	A NEW FRIEND
+
+SCORE:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+7	THEN
+
+SCORE:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	WERE
+2	GOING
+3	LIKED
+4	MADE
+6	HID
+6	SAW
+7	APPROACHED
+7	PLAYING
+8	SLID
+9	LANDED
+9	STEPED
+10	CAME
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+6	BEHIND
+8	DOWN
+9	OF
+9	ON
+9	OUT
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+2	ON THE SWINGS
+3	ON THE SLIDE
+6	BEHIND A BUSH
+7	OF THE KIDS
+9	OF THE BRICK TOWER
+9	ON THE TOP
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WERE
+7	 WERE
+
+SCORE:	1
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	1
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WERE
+7	WERE
+
+SCORE:	1
+
+
+###V7	Progressive Suffix###
+
+2	GOING
+3	GOING
+7	PLAYING
+
+SCORE:	2
+
+
+###V8	Adverb###
+
+7	THEN
+10	DOWN
+10	SO
+10	TOGETHER
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+
+SCORE:	0
+
+
+###V10	Third person singular present tense suffix###
+
+
+SCORE:	0
+
+
+###V11	Past tense modal###
+
+
+SCORE:	0
+
+
+###V12	Regular past tense suffix###
+
+2	LIKED
+3	LIKED
+5	LIKED
+9	LANDED
+9	STEPED
+
+SCORE:	2
+
+
+###V13	Past tense auxiliary###
+
+1	WERE
+7	WERE
+
+SCORE:	1
+
+
+###V14	Medial adverb###
+
+10	DOWN
+10	THEN
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+1	 WERE
+7	 WERE
+
+SCORE:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+SCORE:	0
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+SCORE:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+SCORE:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+SCORE:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	ONE TIME THERE WERE THREE FRIENDS MICAH AND ISABELLA
+2	MICAH LIKED GOING ON THE SWINGS
+3	ISABELLA LIKED GOING ON THE SLIDE
+4	ONE TIME THEY MADE A NEW FRIEND DAISY
+5	SHE LIKED BALL
+6	ONE TIME SHE HID BEHIND A BUSH UNTIL NOBODY SAW HER
+7	THEN BOTH OF THE KIDS THAT WERE PLAYING APPROACHED AND HID
+8	THEN MICAH SLID DOWN THE SLIDE AND SAW HER
+9	SHE STEPED OUT BUT LANDED ON THE TOP OF THE BRICK TOWER
+10	SO THEN THEY BOTH CAME DOWN TOGETHER
+11	THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+1	ONE TIME THERE WERE 
+2	MICAH LIKED GOING 
+3	ISABELLA LIKED GOING 
+5	SHE LIKED 
+9	SHE STEPED OUT BUT LANDED 
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	WERE THREE FRIENDS , MICAH AND ISABELLA
+2	GOING ON THE SWINGS
+2	LIKED GOING ON THE SWINGS
+3	GOING ON THE SLIDE
+3	LIKED GOING ON THE SLIDE
+4	MADE A NEW FRIEND , DAISY
+5	LIKED BALL
+6	HID BEHIND A BUSH UNTIL NOBODY SAW HER
+6	SAW HER
+8	SLID DOWN THE SLIDE
+8	SLID DOWN THE SLIDE AND SAW HER
+9	STEPED OUT BUT LANDED ON THE TOP OF THE BRICK TOWER
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+1	ONE TIME THERE WERE THREE FRIENDS , MICAH AND ISABELLA
+2	MICAH LIKED GOING ON THE SWINGS
+3	ISABELLA LIKED GOING ON THE SLIDE
+5	SHE LIKED BALL
+9	SHE STEPED OUT BUT LANDED ON THE TOP OF THE BRICK TOWER
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+1	AND
+6	UNTIL
+9	BUT
+
+SCORE:	2
+
+
+###S6	Sentence with two VP's###
+
+6	ONE TIME SHE HID BEHIND A BUSH UNTIL NOBODY SAW HER .
+8	THEN , MICAH SLID DOWN THE SLIDE AND SAW HER .
+9	SHE STEPED OUT BUT LANDED ON THE TOP OF THE BRICK TOWER .
+
+SCORE:	2
+
+
+###S7	Conjoined phrases###
+
+
+SCORE:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+SCORE:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+6	UNTIL
+9	BUT
+
+SCORE:	2
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+
+SCORE:	0
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+SCORE:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+
+SCORE:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+2	MICAH LIKED GOING ON THE SWINGS .
+3	ISABELLA LIKED GOING ON THE SLIDE .
+7	THEN BOTH OF THE KIDS THAT WERE PLAYING , APPROACHED AND HID .
+
+SCORE:	2
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-11
+NO OF UTTERANCES CONSIDERED: 11
+
+
+#########################
+NOUN SCORE: 16
+VERB SCORE: 19
+QUESTION SCORE: 0
+SENTENCE SCORE: 16
+IPSYN SCORE: 51
+##########################
+
+###Sentence Listing###
+
+1	ONE TIME THERE WERE THREE FRIENDS , MICAH AND ISABELLA .
+2	MICAH LIKED GOING ON THE SWINGS .
+3	ISABELLA LIKED GOING ON THE SLIDE .
+4	ONE TIME THEY MADE A NEW FRIEND , DAISY .
+5	SHE LIKED BALL .
+6	ONE TIME SHE HID BEHIND A BUSH UNTIL NOBODY SAW HER .
+7	THEN BOTH OF THE KIDS THAT WERE PLAYING , APPROACHED AND HID .
+8	THEN , MICAH SLID DOWN THE SLIDE AND SAW HER .
+9	SHE STEPED OUT BUT LANDED ON THE TOP OF THE BRICK TOWER .
+10	SO THEN , THEY BOTH CAME DOWN TOGETHER .
+11	THE END .

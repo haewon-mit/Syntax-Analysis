@@ -1,0 +1,51 @@
+
+(S1 (S (NP (PRP I)) (VP (VBZ castles)) (. .)))
+
+
+
+(S1 (S (NP (NNP Ba)) (VP (VBD ba) (NP (QP (CD ba) (CD ba)))) (. .)))
+
+
+
+(S1 (INTJ (JJ Ouch) (. !)))
+
+
+
+(S1 (X (NNP Ooh) (. .)))
+
+
+
+(S1 (X (NNP princess) (. .)))
+
+
+
+(S1 (FRAG (NP (NNP Waa)) (. !)))
+
+
+
+(S1 (S (NP (PRP You)) (VP (AUX are) (ADJP (JJ welcome))) (. .)))
+
+
+
+(S1 (INTJ (JJ Ouch) (. !)))
+
+
+
+(S1 (FRAG (ADJP (JJ Bad) (, ,) (JJ bad) (JJ bad))
+     (ADJP (JJ bad) (JJ bad))
+     (S (NP (PRP they))
+      (VP (VBD went) (PP (TO to) (NP (DT the) (NN castle)))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (VBP won) (ADVP (RB still)))
+     (. .)))
+
+
+
+(S1 (S (NP (DT All)) (VP (AUX done)) (. .)))
+
+

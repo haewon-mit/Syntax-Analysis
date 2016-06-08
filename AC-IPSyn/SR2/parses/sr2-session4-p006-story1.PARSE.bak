@@ -1,0 +1,45 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX is) (NP (CD two) (NNS dinosaurs)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (AUX were)
+      (VP (VBG splashing)
+       (PP (IN in) (NP (DT the) (NNP pond)))
+       (SBAR (WHADVP (WRB when))
+	(S (NP (DT a) (NNP T) (NNP Rex)) (VP (VBD came))))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (JJR taller) (CD one))
+     (VP (VB hide) (PP (IN inside) (NP (DT a) (NN palm) (NN tree))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (JJR shorter) (CD one))
+     (VP (VBD hid) (PP (IN inside) (NP (DT a) (NNP bush))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB now))
+     (NP (NNP T) (NNP Rex))
+     (VP (MD could) (RB not) (VP (VB find) (NP (PRP him))))
+     (. .)))
+
+
+
+(S1 (S (CC so) (NP (PRP he)) (VP (VBD went) (ADVP (RB away))) (. .)))
+
+
+
+(S1 (NP (DT the) (NN end) (. .)))
+
+

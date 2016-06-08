@@ -1,0 +1,180 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (, ,)
+     (NP (EX there))
+     (VP (AUX was) (NP (DT a) (JJ pretty) (NN girl)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP She))
+     (NP (PRP She))
+     (VP (VBD read)
+      (NP (NP (NNS lots))
+       (PP (IN of)
+	(NP (NP (NNS books))
+	 (PP (IN about) (NP (NN rocket) (NNS ships)))))))
+     (. .)))
+
+
+
+(S1 (S (S (NP (PRP I))
+	(VP (VBP wish)
+	 (SBAR (S (NP (PRP I))
+		(VP (AUX was) (PP (IN in) (NP (DT a) (NN rocket))))))))
+     (, ,)
+     (NP (PRP she))
+     (VP (VBD said))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (NNP Dog))
+     (VP (VBD jumped) (PP (IN on) (NP (DT the) (NN couch))))
+     (. .)))
+
+
+
+(S1 (S (S (NP (DT That)) (VP (AUX 's) (NP (PRP it))))
+     (, ,)
+     (NP (PRP she))
+     (VP (VBD said))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP You))
+     (VP (VBD gave) (NP (PRP me)) (NP (DT a) (NN idea)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP She))
+     (VP (VBD went)
+      (PP (IN on) (NP (DT the) (NN couch)))
+      (, ,)
+      (S (VP (VBG pretending)
+	  (SBAR (IN that)
+	   (S (NP (PRP she))
+	    (VP (AUX was) (PP (IN on) (NP (DT a) (NN rocket)))))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP She))
+     (VP (VBD jumped)
+      (ADVP (RB up) (CC and) (RB down))
+      (, ,)
+      (S (VP (VBG pretending)
+	  (SBAR (IN that) (S (NP (PRP she)) (VP (VBD floated)))))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB then))
+     (NP (PRP$ her) (NN dog))
+     (VP (VBD came))
+     (. .)))
+
+
+
+(S1 (SQ (MD Can)
+     (NP (PRP I))
+     (VP (AUX be)
+      (PP (IN on) (NP (DT the) (NN rocket)))
+      (ADVP (RB too)))
+     (. ?)))
+
+
+
+(S1 (S (INTJ (UH Yes)) (, ,) (NP (PRP she)) (VP (VBD said)) (. .)))
+
+
+
+(S1 (S (NP (DT The) (NN dog)) (VP (VBD came) (PRT (RP on))) (. .)))
+
+
+
+(S1 (S (NP (PRP they))
+     (VP (VP (VBD flew) (CC and) (VBD flew))
+      (CC and)
+      (VP (VBD flew) (ADVP (JJR higher))))
+     (. .)))
+
+
+
+(S1 (S (SBAR (IN As)
+	(S (NP (PRP she))
+	 (VP (VBD bounced)
+	  (ADVP (RB up)
+	   (CC and)
+	   (RB down)
+	   (CC and)
+	   (RB up)
+	   (CC and)
+	   (RB down)
+	   (CC and)
+	   (RB up)
+	   (CC and)
+	   (RB down))
+	  (ADVP (CC and)
+	   (RB up)
+	   (CC and)
+	   (RB down)
+	   (CC and)
+	   (RB up)
+	   (CC and)
+	   (RB down)
+	   (CC and)
+	   (RB up)))))
+     (NP (PRP she))
+     (VP (VBD wondered)
+      (, ,)
+      (ADVP (RB hm))
+      (, ,)
+      (SBAR (S (NP (PRP we))
+	     (VP (AUX need)
+	      (S (VP (TO to) (VP (VB go) (NP (NN home)))))))))
+     (. .)))
+
+
+
+(S1 (S (VP (VB astronaut)) (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT the) (NN cat))
+     (VP (VBZ jumps) (PRT (RP down)))
+     (. .)))
+
+
+
+(S1 (S (VP (VB come) (PRT (RP over)) (PP (TO to) (NP (PRP me))))
+     (. .)))
+
+
+
+(S1 (S (INTJ (UH Yes)) (, ,) (NP (PRP she)) (VP (VBD said)) (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (CC and)
+      (VP (ADVP (RB then))
+       (VBD pretended)
+       (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (NNP Jupiter)))))))
+      (, ,)
+      (RB then)
+      (VP (VBD pretended)
+       (S (VP (TO to) (VP (VB go) (ADVP (RB back)))))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

@@ -1,0 +1,78 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (NP (DT a) (NN seal)) (CC and) (NP (CD two) (NNS penguins)))
+     (VP (AUX were)
+      (VP (VBG climbing)
+       (PRT (RP up))
+       (NP (NP (DT a) (JJ tall) (NN mountain))
+	(PP (IN of) (NP (NN ice))))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (NN seal))
+     (VP (VP (VBD went) (ADVP (RB first)))
+      (CC and)
+      (VP (VBD fell) (PP (IN into) (NP (DT a) (NN snowman)))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT the) (NN penguin))
+     (VP (VBD fell) (PP (IN into) (NP (NN snow))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (JJ little) (NN penguin))
+     (VP (VP (VBD slid) (PRT (RP down)))
+      (CC and)
+      (VP (VBD crashed)
+       (PP (IN into) (NP (DT a) (JJ little)))
+       (NP (NNP bush))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then))
+     (NP (DT the) (JJ next) (NN day))
+     (, ,)
+     (SBAR (IN while)
+      (S (NP (PRP they))
+       (VP (AUX were)
+	(VP (VBG sleeping) (PP (IN in) (NP (PRP$ their) (NNS beds)))))))
+     (, ,)
+     (NP (DT the) (NN seal) (JJ flip))
+     (VP (VBD flopped)
+      (PRT (RP off))
+      (NP (DT the) (JJ little) (NN mountain)))
+     (. .)))
+
+
+
+(S1 (S (VP (VB flip) (NP (JJ flop) (JJ flip) (NN flop))) (. .)))
+
+
+
+(S1 (S (VP (VB flip) (NP (NN flop))) (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VP (VBD slid)
+	  (PRT (RP down))
+	  (PP (IN into) (NP (DT a) (NN snowman))))
+      (CC and)
+      (VP (ADVP (RB then))
+       (VBD bounced)
+       (PP (IN on) (NP (PRP$ its) (NN hat)))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

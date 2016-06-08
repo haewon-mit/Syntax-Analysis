@@ -1,0 +1,84 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was)
+      (NP (NP (DT a) (JJ little) (NN girl))
+       (VP (VBN named) (NP (NNP Ala)))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP She))
+     (VP (AUX had) (PP (IN in) (NP (PRP$ her) (NN back) (NN yard))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP She))
+     (VP (VBD loved) (NP (DT the) (NNS trees)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP$ Her) (NN puppy))
+     (VP (AUX was) (VP (VBN named) (S (NP (NNP Elliott)))))
+     (. .)))
+
+
+
+(S1 (FRAG (ADVP (RB too)) (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (VBD liked) (NP (NNP pirate) (NNS ships)))
+     (. .)))
+
+
+
+(S1 (S (IN So)
+     (NP (DT the) (NN dog))
+     (VP (VBN perched) (PP (IN upon) (NP (PRP$ her) (NN sofa))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT the) (NN cat))
+     (VP (VBD pranced)
+      (PP (IN around)
+       (NP (NP (DT the) (NN ship))
+	(, ,)
+	(SBAR (WHNP (WDT which))
+	 (S (VP (AUX was) (NP (DT the) (NN sofa))))))))
+     (. .)))
+
+
+
+(S1 (FRAG (CC And) (ADVP (RB then)) (. .)))
+
+
+
+(S1 (S (RB Then)
+     (NP (CD two) (NN treasure) (NNS boxs))
+     (VP (VBD floated)
+      (PRT (RP up))
+      (PP (IN onto) (NP (DT the) (NN furniture))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB then)
+     (NP (NNP Ala))
+     (VP (VBD sat)
+      (PP (IN in) (NP (DT the) (JJ big) (NN chair)))
+      (PP (IN with) (NP (PRP$ her) (NN kitty))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

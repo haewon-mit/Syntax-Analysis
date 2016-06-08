@@ -1,0 +1,668 @@
+FILENAME:sr2-session8-p006-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	BABY
+1	TIME
+2	DAY
+3	MOUNTAINS
+3	PENGUIN
+3	SNOW
+4	MOMMY
+5	SNOWMAN
+9	BALL
+11	HAT
+15	HEAD
+15	TOP
+16	ARGH
+23	HEY
+25	LION
+25	SEA
+28	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+2	THEY
+3	'S
+6	HERE
+6	I
+7	YOU
+11	WE
+14	SHE
+15	HE
+15	IT
+20	WHERE
+22	HER
+27	HIM
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+3	MOMMY
+4	'S
+4	FIRST
+4	THAT
+5	OUR
+6	EIGHT
+6	FIVE
+6	FOUR
+6	ONE
+6	READY
+6	SEVEN
+6	SIX
+6	THREE
+6	TWO
+9	BIG
+10	LITTLE
+15	SNOWMAN’S
+17	SURE
+18	GREAT
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A BABY
+1	A TIME
+2	ONE DAY
+3	A SNOWMAN
+3	MOMMY PENGUIN
+3	THE SNOW
+5	OUR SNOWMAN
+9	BIG BALL
+10	LITTLE BALLS
+10	THE BABY
+11	A HAT
+15	SNOWMAN’S HEAD
+16	LITTLE SEA
+19	THE SEA
+28	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+1	A BABY
+1	A TIME
+3	THE SNOW
+8	A SNOWMAN
+10	THE BABY
+11	A HAT
+19	THE SEA
+28	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+1	WAS A BABY
+3	IN THE SNOW
+5	HIDE OUR SNOWMAN
+5	SAID THE BABY
+8	BUILD A SNOWMAN
+11	NEED A HAT
+12	IS A HAT
+25	'S THE SEA
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+3	MOUNTAINS
+10	BALLS
+
+SCORE:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+3	MOMMY PENGUIN
+5	OUR SNOWMAN
+10	THE BABY
+
+SCORE:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+1	A MOMMY PENGUIN
+3	THE MOMMY PENGUIN
+9	A BIG BALL
+10	TWO LITTLE BALLS
+16	A LITTLE SEA
+
+SCORE:	2
+
+
+###N10	Adverb modifying adjective or nominal###
+
+6	HERE
+
+SCORE:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	WAS
+2	WENT
+3	SEEK
+4	SAID
+5	GO
+5	HIDE
+6	COME
+7	FOUND
+8	BUILD
+8	LET
+10	DID
+11	NEED
+14	TOOK
+15	FELL
+16	ARGH
+16	PLAY
+19	HID
+20	HEY
+20	IS
+21	DO
+21	KNOW
+22	SEE
+23	WALK
+25	'S
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+1	UPON
+3	IN
+15	OF
+15	ON
+23	OFF
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+3	IN THE SNOW MOUNTAINS
+15	OF HE SNOWMAN’S HEAD
+15	ON TOP
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+3	 'S
+4	 'S
+8	 'S
+12	 IS
+20	 IS
+25	 'S
+
+SCORE:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+4	DO
+10	DID
+12	IS
+20	IS
+21	DO
+22	DID
+25	'S
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+
+SCORE:	0
+
+
+###V8	Adverb###
+
+1	ONCE
+2	OUTSIDE
+6	HERE
+12	NOW
+12	WHERE
+14	OFF
+16	TOO
+21	NOT
+23	JUST
+23	MAYBE
+24	WHY
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+5	'LL GO TO HIDE OUR SNOWMAN
+16	CAN I PLAY TOO
+
+SCORE:	2
+
+
+###V10	Third person singular present tense suffix###
+
+1	WAS
+12	IS
+
+SCORE:	2
+
+
+###V11	Past tense modal###
+
+5	'LL
+
+SCORE:	1
+
+
+###V12	Regular past tense suffix###
+
+
+SCORE:	0
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+10	DID
+22	DID
+
+SCORE:	2
+
+
+###V14	Medial adverb###
+
+6	HERE
+6	NOT
+16	TOO
+20	WHERE
+23	JUST
+23	MAYBE
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+
+SCORE:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+SCORE:	0
+
+
+###Q1	Intonationally marked question###
+
+24	WHY ?
+
+SCORE:	1
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+6	ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT , READY OR NOT HERE I COME .
+21	I DO NOT KNOW .
+22	I DID NOT SEE HER HIDE .
+
+SCORE:	2
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+21	DO NOT KNOW
+22	DID NOT SEE HER HIDE
+
+SCORE:	2
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+20	HEY , WHERE IS SHE ?
+
+SCORE:	1
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+21	DO NOT KNOW
+22	DID NOT SEE HER HIDE
+
+SCORE:	2
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+24	WHY ?
+
+SCORE:	1
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS A BABY PENGUIN AND A MOMMY PENGUIN
+2	ONE DAY THEY WENT OUTSIDE
+3	AND THE MOMMY PENGUIN SAID LET 'S BUILD A SNOWMAN OR HIDE IN THE SNOW MOUNTAINS AND SEEK
+4	LET 'S DO THAT FIRST SAID MOMMY
+5	I 'LL GO TO HIDE OUR SNOWMAN SAID THE BABY
+6	ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT READY OR NOT HERE I COME
+7	FOUND YOU
+8	NOW LET 'S BUILD A SNOWMAN
+9	MOMMY BUILD A BIG BALL
+10	AND THE BABY DID TWO LITTLE BALLS
+11	BUT WE JUST NEED A HAT
+12	NOW WHERE IS A HAT SAID MOMMY
+14	SHE TOOK IT OFF
+15	IT FELL ON TOP OF HE SNOWMAN’S HEAD
+16	ARGH ARGH CAN I PLAY TOO SAID A LITTLE SEA LION
+17	YEAH SURE
+19	SO THE SEA LION WENT AND HID
+20	HEY WHERE IS SHE
+21	I DO NOT KNOW
+22	I DID NOT SEE HER HIDE
+23	HEY JUST MAYBE SHE WALK OFF
+25	BECAUSE THAT 'S THE SEA LION
+26	ARGH ARGH
+27	YEAH YOU FOUND HIM
+28	THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+2	ONE DAY THEY WENT OUTSIDE
+3	'S BUILD 
+4	LET 'S DO 
+5	I 'LL GO TO HIDE 
+9	MOMMY BUILD 
+14	SHE TOOK 
+15	IT FELL 
+16	ARGH ARGH , CAN 
+21	I DO NOT KNOW
+22	HER HIDE
+22	I DID NOT SEE 
+23	SHE WALK OFF
+26	ARGH ARGH
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	WAS A BABY PENGUIN AND A MOMMY PENGUIN
+3	BUILD A SNOWMAN OR HIDE IN THE SNOW MOUNTAINS AND SEEK
+3	HIDE IN THE SNOW MOUNTAINS
+3	LET 'S BUILD A SNOWMAN OR HIDE IN THE SNOW MOUNTAINS AND SEEK
+3	SAID , LET 'S BUILD A SNOWMAN OR HIDE IN THE SNOW MOUNTAINS AND SEEK
+4	DO THAT FIRST
+5	'LL GO TO HIDE OUR SNOWMAN
+5	GO TO HIDE OUR SNOWMAN
+5	HIDE OUR SNOWMAN
+5	TO HIDE OUR SNOWMAN
+7	FOUND YOU
+8	BUILD A SNOWMAN
+8	LET 'S BUILD A SNOWMAN
+9	BUILD A BIG BALL
+10	DID TWO LITTLE BALLS
+11	NEED A HAT
+12	SAID MOMMY
+14	TOOK IT OFF
+15	FELL ON TOP OF HE SNOWMAN’S HEAD
+16	ARGH , CAN I PLAY TOO SAID A LITTLE SEA LION
+16	PLAY TOO SAID A LITTLE SEA LION
+22	DID NOT SEE HER HIDE
+25	'S THE SEA LION
+27	FOUND HIM
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+3	'S BUILD A SNOWMAN OR HIDE IN THE SNOW MOUNTAINS AND SEEK
+4	LET 'S DO THAT FIRST
+5	I 'LL GO TO HIDE OUR SNOWMAN
+9	MOMMY BUILD A BIG BALL
+14	SHE TOOK IT OFF
+15	IT FELL ON TOP OF HE SNOWMAN’S HEAD
+16	ARGH ARGH , CAN I PLAY TOO SAID A LITTLE SEA LION
+22	I DID NOT SEE HER HIDE
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+3	AND
+6	OR
+11	BUT
+
+SCORE:	2
+
+
+###S6	Sentence with two VP's###
+
+3	AND THE MOMMY PENGUIN SAID , LET 'S BUILD A SNOWMAN OR HIDE IN THE SNOW MOUNTAINS AND SEEK .
+4	LET 'S DO THAT FIRST SAID MOMMY .
+5	I 'LL GO TO HIDE OUR SNOWMAN SAID THE BABY .
+8	NOW LET 'S BUILD A SNOWMAN .
+16	ARGH ARGH , CAN I PLAY TOO SAID A LITTLE SEA LION .
+19	SO THE SEA LION WENT AND HID .
+22	I DID NOT SEE HER HIDE .
+
+SCORE:	2
+
+
+###S7	Conjoined phrases###
+
+
+SCORE:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+5	GO TO HIDE OUR SNOWMAN
+
+SCORE:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+8	NOW LET 'S BUILD A SNOWMAN .
+
+SCORE:	1
+
+
+###S10	Adverbial Conjunction###
+
+11	BUT
+
+SCORE:	1
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+3	AND THE MOMMY PENGUIN SAID , LET 'S BUILD A SNOWMAN OR HIDE IN THE SNOW MOUNTAINS AND SEEK 
+
+SCORE:	1
+
+
+###S13	Wh-clause###
+
+
+SCORE:	0
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+3	AND THE MOMMY PENGUIN SAID , LET 'S BUILD A SNOWMAN OR HIDE IN THE SNOW MOUNTAINS AND SEEK .
+4	LET 'S DO THAT FIRST SAID MOMMY .
+5	I 'LL GO TO HIDE OUR SNOWMAN SAID THE BABY .
+16	ARGH ARGH , CAN I PLAY TOO SAID A LITTLE SEA LION .
+22	I DID NOT SEE HER HIDE .
+
+SCORE:	2
+
+
+###S16	Relative clause marked or unmarked###
+
+
+SCORE:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+
+SCORE:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-28
+NO OF UTTERANCES CONSIDERED: 28
+
+
+#########################
+NOUN SCORE: 19
+VERB SCORE: 24
+QUESTION SCORE: 9
+SENTENCE SCORE: 18
+IPSYN SCORE: 70
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS A BABY PENGUIN AND A MOMMY PENGUIN .
+2	ONE DAY THEY WENT OUTSIDE .
+3	AND THE MOMMY PENGUIN SAID , LET 'S BUILD A SNOWMAN OR HIDE IN THE SNOW MOUNTAINS AND SEEK .
+4	LET 'S DO THAT FIRST SAID MOMMY .
+5	I 'LL GO TO HIDE OUR SNOWMAN SAID THE BABY .
+6	ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT , READY OR NOT HERE I COME .
+7	FOUND YOU .
+8	NOW LET 'S BUILD A SNOWMAN .
+9	MOMMY BUILD A BIG BALL .
+10	AND THE BABY DID TWO LITTLE BALLS .
+11	BUT WE JUST NEED A HAT .
+12	NOW WHERE IS A HAT , SAID MOMMY .
+13	OK .
+14	SHE TOOK IT OFF .
+15	IT FELL ON TOP OF HE SNOWMAN’S HEAD .
+16	ARGH ARGH , CAN I PLAY TOO SAID A LITTLE SEA LION .
+17	YEAH SURE .
+18	GREAT .
+19	SO THE SEA LION WENT AND HID .
+20	HEY , WHERE IS SHE ?
+21	I DO NOT KNOW .
+22	I DID NOT SEE HER HIDE .
+23	HEY , JUST MAYBE SHE WALK OFF .
+24	WHY ?
+25	BECAUSE THAT 'S THE SEA LION .
+26	ARGH ARGH .
+27	YEAH , YOU FOUND HIM .
+28	THE END .

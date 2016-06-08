@@ -1,0 +1,533 @@
+FILENAME:sr2-session1-p013-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	ENCHANTED
+1	FOREST
+1	KING
+1	PRINCESS
+1	QUEEN
+1	TIME
+2	JEWELS
+6	SWORD
+8	GIANT
+10	END
+
+COUNTS:	10
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+1	WHO
+3	HE
+8	THEY
+
+COUNTS:	3
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+
+COUNTS:	0
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A JEWEL
+1	A KING
+1	A PRINCESS
+1	A QUEEN
+1	A TIME
+1	THE ENCHANTED
+2	A GIANT
+6	A SWORD
+6	THE GIANT
+9	THE JEWELS
+10	THE END
+
+COUNTS:	11
+
+
+###N5	Article used before a noun###
+
+1	A JEWEL
+1	A KING
+1	A PRINCESS
+1	A QUEEN
+1	A TIME
+1	THE ENCHANTED
+2	A GIANT
+6	A SWORD
+6	THE GIANT
+9	THE JEWELS
+10	THE END
+
+COUNTS:	11
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	HAD A JEWEL
+1	IN THE ENCHANTED
+1	UPON A TIME
+1	WAS A QUEEN
+2	WAS A GIANT
+3	TAKE THE JEWELS
+4	BOUGHT A SWORD
+5	WITH THE GIANT
+6	HAVE A SWORD
+8	HURT THE GIANT
+
+COUNTS:	7
+
+
+###N7	Plural suffix###
+
+2	JEWELS
+
+COUNTS:	1
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+6	THE GIANT
+
+COUNTS:	1
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+COUNTS:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+3	SOMETIMES
+9	THEN
+
+COUNTS:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	HAD
+2	TAKING
+2	WAS
+3	LIKED
+3	SNEAK
+4	BOUGHT
+5	FIGHTING
+5	WERE
+6	HAVE
+7	DID
+8	HURT
+
+COUNTS:	11
+
+
+###V2	Particle or preposition###
+
+1	UPON
+3	IN
+5	WITH
+
+COUNTS:	3
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	IN THE ENCHANTED FOREST
+1	UPON A TIME
+5	WITH THE GIANT
+
+COUNTS:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+2	 WAS
+5	 WERE
+
+COUNTS:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	HAD
+1	WAS
+2	WAS
+5	WERE
+6	DID
+6	HAVE
+7	DID
+9	HAD
+9	HAVE
+
+COUNTS:	5
+
+
+###V7	Progressive Suffix###
+
+2	TAKING
+5	FIGHTING
+
+COUNTS:	2
+
+
+###V8	Adverb###
+
+1	ONCE
+3	SOMETIMES
+6	NOT
+9	ALL
+9	THEN
+
+COUNTS:	5
+
+
+###V9	Modal preceeding verb###
+
+9	COULD HAVE ALL THE JEWELS
+
+COUNTS:	1
+
+
+###V10	Third person singular present tense suffix###
+
+2	WAS
+
+COUNTS:	1
+
+
+###V11	Past tense modal###
+
+9	COULD
+
+COUNTS:	1
+
+
+###V12	Regular past tense suffix###
+
+2	LIKED
+3	LIKED
+
+COUNTS:	1
+
+
+###V13	Past tense auxiliary###
+
+1	HAD
+1	WAS
+2	WAS
+5	WERE
+6	DID
+7	DID
+9	HAD
+
+COUNTS:	4
+
+
+###V14	Medial adverb###
+
+3	SOMETIMES
+9	ALL
+9	THEN
+
+COUNTS:	3
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+2	 WAS
+5	 WERE
+
+COUNTS:	2
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+6	AND THE GIANT DID NOT HAVE A SWORD .
+
+COUNTS:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+6	DID NOT HAVE A SWORD
+
+COUNTS:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME IN THE ENCHANTED FOREST THERE WAS A QUEEN AND A KING AND A PRINCESS WHO HAD A JEWEL
+2	AND THERE WAS A GIANT THAT LIKED TAKING JEWELS
+3	AND SOMETIMES HE LIKED TO SNEAK IN AND TAKE THE JEWELS
+4	BUT THEY BOUGHT A SWORD
+5	THEY WERE FIGHTING WITH THE GIANT
+6	AND THE GIANT DID NOT HAVE A SWORD
+7	BUT THEY DID
+8	SO THEY HURT THE GIANT
+9	AND THEN THEY COULD HAVE ALL THE JEWELS THAT THEY HAD
+10	THE END
+
+COUNTS:	5
+
+
+###S2	Subject verb sequence###
+
+5	THEY WERE FIGHTING 
+9	THEY HAD
+
+COUNTS:	2
+
+
+###S3	Verb object sequence###
+
+1	HAD A JEWEL
+1	WAS A QUEEN AND A KING AND A PRINCESS WHO HAD A JEWEL
+2	LIKED TAKING JEWELS
+2	WAS A GIANT THAT LIKED TAKING JEWELS
+3	LIKED TO SNEAK IN AND TAKE THE JEWELS
+3	TAKE THE JEWELS
+3	TO SNEAK IN AND TAKE THE JEWELS
+4	BOUGHT A SWORD
+5	FIGHTING WITH THE GIANT
+5	WERE FIGHTING WITH THE GIANT
+6	DID NOT HAVE A SWORD
+6	HAVE A SWORD
+8	HURT THE GIANT
+9	COULD HAVE ALL THE JEWELS THAT THEY HAD
+9	HAVE ALL THE JEWELS THAT THEY HAD
+
+COUNTS:	3
+
+
+###S4	Subject Verb Object Sequence###
+
+5	THEY WERE FIGHTING WITH THE GIANT
+
+COUNTS:	1
+
+
+###S5	Conjunction (any)###
+
+7	BUT
+9	AND
+
+COUNTS:	2
+
+
+###S6	Sentence with two VP's###
+
+3	AND SOMETIMES HE LIKED TO SNEAK IN AND TAKE THE JEWELS .
+
+COUNTS:	1
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+3	LIKED TO SNEAK IN AND TAKE THE JEWELS
+
+COUNTS:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+7	BUT
+
+COUNTS:	1
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+1	ONCE UPON A TIME IN THE ENCHANTED FOREST , THERE WAS A QUEEN AND A KING AND A PRINCESS WHO HAD A JEWEL .
+2	AND THERE WAS A GIANT THAT LIKED TAKING JEWELS .
+9	AND THEN THEY COULD HAVE ALL THE JEWELS THAT THEY HAD .
+
+COUNTS:	3
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+3	AND SOMETIMES HE LIKED TO SNEAK IN AND TAKE THE JEWELS .
+
+COUNTS:	1
+
+
+###S16	Relative clause marked or unmarked###
+
+1	A PRINCESS WHO HAD A JEWEL
+2	A GIANT THAT LIKED TAKING JEWELS
+9	ALL THE JEWELS THAT THEY HAD
+
+COUNTS:	3
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+2	AND THERE WAS A GIANT THAT LIKED TAKING JEWELS .
+5	THEY WERE FIGHTING WITH THE GIANT .
+
+COUNTS:	2
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-10
+NO OF UTTERANCES CONSIDERED: 10
+
+
+#########################
+NOUN COUNTS: 46
+VERB COUNTS: 43
+QUESTION COUNTS: 2
+SENTENCE COUNTS: 25
+TOTAL NO OF STRUCTURES COUNTS: 116
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME IN THE ENCHANTED FOREST , THERE WAS A QUEEN AND A KING AND A PRINCESS WHO HAD A JEWEL .
+2	AND THERE WAS A GIANT THAT LIKED TAKING JEWELS .
+3	AND SOMETIMES HE LIKED TO SNEAK IN AND TAKE THE JEWELS .
+4	BUT THEY BOUGHT A SWORD .
+5	THEY WERE FIGHTING WITH THE GIANT .
+6	AND THE GIANT DID NOT HAVE A SWORD .
+7	BUT THEY DID .
+8	SO THEY HURT THE GIANT .
+9	AND THEN THEY COULD HAVE ALL THE JEWELS THAT THEY HAD .
+10	THE END .

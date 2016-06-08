@@ -1,0 +1,64 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (PRP it))
+     (VP (AUX was) (NP (NNP Baileys) (NN birthday)))
+     (. .)))
+
+
+
+(S1 (FRAG (NP (PRP She)) (. .)))
+
+
+
+(S1 (FRAG (NP (PRP She)) (. .)))
+
+
+
+(S1 (S (INTJ (UH Well))
+     (, ,)
+     (NP (PRP$ his))
+     (VP (AUX was) (NP (PRP$ her) (JJ little) (NN baby)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP It))
+     (VP (AUX 's)
+      (NP (NP (PRP$ her) (NN birthday))
+       (, ,)
+       (NP (DT the) (JJ little) (NNS babys) (NN birthday))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT a) (NN turtle))
+     (VP (AUX was) (VP (VBG standing) (PRT (RP up))))
+     (. .)))
+
+
+
+(S1 (FRAG (NP (VBG swimming) (NN pool)) (. .)))
+
+
+
+(S1 (S (NP (NNP Bailey))
+     (VP (VBD said)
+      (, ,)
+      (S (VP (VB come) (PP (IN on) (NP (NNP Baby))))))
+     (. .)))
+
+
+
+(S1 (S (INTJ (UH Oh))
+     (CC and)
+     (NP (NNS guys))
+     (, ,)
+     (VP (VB look) (FRAG (WHADVP (WRB how))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

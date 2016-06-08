@@ -1,0 +1,340 @@
+
+#include "Bchart.h"
+#include "headFinder.h"
+#include "ECString.h"
+#include "Feature.h"
+#include "GotIter.h"
+
+extern LeftRightGotIter* globalGi;
+
+Wrd*
+Bchart::
+find_word(int wint, int st, int end)
+{
+  list<Wrd*>& wlst = words_[st][end];
+  list<Wrd*>::iterator wli = wlst.begin();
+  for( ; wli != wlst.end() ; wli++)
+    {
+      Wrd* wrd = *wli;
+      if(wrd->toInt() == wint) return wrd;
+    }
+  return NULL;
+}
+
+void
+Bchart::
+store_word(Wrd* wrd)
+{
+  words_[wrd->start()][wrd->finish()].push_front(wrd);
+}
+///??? still need to delete words at end;
+
+  
+Wrd*
+Bchart::
+add_word(int st, int end, ECString wrdStr)
+{
+  ECString wrdst = wrdStr.substr(1,wrdStr.length()-2);
+  int wint = wtoInt(wrdst); 
+  if(wint < 0)
+    {
+      ECString unk("unk");
+      wrdst = unk;
+      wint = wtoInt(unk);
+    }
+  Wrd* ans = find_word(wint, st, end);
+  if(ans) return ans;
+  ans = new Wrd(wrdst, st, end);
+  ans->toInt() = wint;
+  store_word(ans);
+  return ans;
+}
+
+bool
+Bchart::
+edgeFromIEdge(istream& str)
+{
+  int b, e;
+  b = -1;
+  ECString trmNm;
+  readItem(str, b, e, trmNm);
+  if(b == -1) return false;
+  float prb;
+  str >> prb;
+  //cerr << "Prb " << prb << endl;
+  ECString tmp;
+  str >> tmp;
+  assert(tmp == "->");
+  const Term* trm = Term::get(trmNm);
+  assert(trm);
+  //cerr << "eFE " << *trm << endl;
+  /* If this is a terminal node, the rhs will be a word; otherwise it
+     will be a rule expansion consisting of several Item s.
+   */
+  if(trm->terminal_p())
+    {
+      Item* lhs = add_item(b, e, trmNm, NULL);
+      str >> tmp;
+      Wrd* wrd = add_word(b, e, tmp); 
+      assert(wrd);
+      Item* itm = add_item(b, e, "", wrd); //???;
+      assert(itm);
+      Items subItems;
+      subItems.push_back(stops[b]);
+      subItems.push_back(itm);
+      subItems.push_back(stops[e]);
+      Edge* edg = add_edge(lhs, subItems); 
+      edg->trp() = prb;
+      assignRProbT(edg);
+      if (printDebug() > 5)
+	{
+	  cerr << "Saw tedge " << *edg << ": p=" << edg->rprob() << endl;
+	}
+      return true;
+    }
+  else
+    {
+      int b1,e1;
+      ECString trmNm1;
+      readItem(str, b1, e1, trmNm1);
+      if(b1 < 0) return true;
+      Item* lhs = add_item(b, e, trmNm, NULL);
+      Item* itm = add_item(b1, e1, trmNm1, NULL);
+      Items subItems;
+      subItems.push_back(stops[b]);
+      subItems.push_back(itm);
+      char nxt;
+      str.get(nxt);
+      for( ; (str && nxt != '\n') ; )
+	{
+	  readItem(str, b, e, trmNm);
+	  itm = add_item(b, e, trmNm, NULL);
+	  //cerr << "Saw item " << *itm << endl;
+	  subItems.push_back(itm);
+	  str.get(nxt);
+	}
+      subItems.push_back(stops[e]);
+      Edge* edg = add_edge(lhs, subItems); 
+      edg->trp() = prb;
+      assignRProb(edg); //???;
+      if (printDebug() > 5)
+	{
+	  cerr << "Saw edge " << *edg << ": p=" << edg->rprob() << endl;
+	}
+      //cerr << "endeFE " << *edg << endl;
+      return true;
+    }
+}
+  
+void
+Bchart::
+readItem(istream& str, int& b, int& e, ECString& trm)
+{
+  ECString tmp;
+  trm = "";
+  ECString numStr = "";
+  str >> tmp;
+  int len = tmp.length();
+  if(!str)
+    {
+      b = -1;
+      return;
+    }
+  if(tmp[0] == '\"')
+    {
+      b = -1;
+      while(tmp[len-1] != '\"')
+	{
+	  cerr << "Partial word " << tmp << " " << tmp[len-1];
+	  str >> tmp;
+	  assert(str);
+	  len = tmp.length();
+	}
+      return;
+    }
+  //cerr << "rI " << tmp << endl;
+  if(tmp == "->") return;
+  int i;
+  bool doneTerm = false;
+  
+  for(i = 0 ; ; i++)
+    {
+      char c1 = tmp[i];
+      if(c1 == '.') doneTerm = true;
+      else if(c1 == '-' && i != 0) break;
+      else if(!doneTerm) trm += c1;
+      else numStr += c1;
+    }
+  b = atoi(numStr.c_str());
+  i++;
+  if(i >= len)
+    {
+      cerr << tmp << " " << b << " " << numStr << endl;
+      assert(i < len);
+    }
+  numStr = "";
+  for( ; i < len ; i++)
+    {
+      char c1 = tmp[i];
+      numStr += c1;
+    }
+  e = atoi(numStr.c_str());
+  //cerr << "rI2 " << trm  << " " << b << " " << e << endl;
+}
+
+Item*
+Bchart::
+add_item(int b, int e, ECString trmNm, Wrd* wrd)
+{
+  const Term* trm = NULL;
+  if(!trmNm.empty())
+    {
+      trm = Term::get(trmNm);
+      assert(trm);
+    }
+  Item* ans = in_chart(NULL, trm, b, e);
+  if(ans)
+    {
+      //cerr << "AI1 " << b << " " << e << " " << *ans << endl;
+      if(wrd)
+	{
+	  if(ans->word())
+	    {
+	      cerr << "Itm " << *ans << " already has word " << *ans->word()
+		   << " when adding " << * wrd << endl;
+	      assert(!ans->word());
+	    }
+	  ans->word() = wrd;
+	}
+      return ans;
+    }
+  ans = new Item(trm, b, e);
+  if(wrd) ans->word() = wrd;
+  //cerr << "AI " << *ans << endl;
+  ans->poutside() = 1;  // just make sure > cutoff;
+  ans->prob() = 1;
+  put_in_reg(ans);
+  return ans;
+}
+
+
+Edge*
+Bchart::
+add_edge(Item* lhs, Items& rhs)
+{
+  int headPos = headPosFromItems(lhs, rhs);
+  //cerr << "In add_edge " << *lhs << " "
+  //   << rhs.size() << " " << headPos << endl;
+
+  Items::iterator ii = rhs.begin();
+  int pos = 0;
+  for( ; ii != rhs.end() ; ii++)
+    {
+      if(pos == headPos) break;
+      pos++;
+    }
+  Items::iterator ii2 = ii;
+  ii2++;
+  Edge  dummyedge(lhs->term());
+  dummyedge.start() = lhs->start();
+  dummyedge.loc() = lhs->finish();
+  Edge* prevEdge = &dummyedge;
+  for( ; pos >= 0 ; pos--)
+    {
+      Item* item = (*ii);
+      //cerr << "bne " << *item << endl;
+      Edge*   newEdge = new Edge(*prevEdge, *item, 0);
+      prevEdge  = newEdge;
+      //cerr << "ae1 " << *item << " " << *newEdge << endl;
+      alreadyPoped[alreadyPopedNum++] = newEdge;  //so it will be gced.;
+      if(pos > 0) ii--;
+    }
+  for( ; ii2 != rhs.end() ; ii2++)
+    {
+      Item* item = (*ii2);
+      Edge*   newEdge = new Edge(*prevEdge, *item, 1);
+      prevEdge  = newEdge;
+      //cerr << "ae2 " << *item << " " << *newEdge << endl;
+      alreadyPoped[alreadyPopedNum++] = newEdge;  //so it will be gced.;
+    }
+  prevEdge->setFinishedParent( lhs );    
+  /* Since the chart itself only stores Items, the Edges in the chart are
+     stored in the 'ineed' variable in the corresponding Item.
+   */
+  lhs->ineed().push_back(prevEdge);
+  return prevEdge;
+}
+
+int
+Bchart::
+headPosFromItems(Item* lhs, Items& rhs)
+{
+  int   ansPriority = 9999;
+  ECString lhsString(lhs->term()->name());
+  if(lhsString == "") lhsString = "S1";
+  int   pos = -1;
+  int   ans = -1;
+
+  Items::iterator ii = rhs.begin();
+  Item   *subi;
+  for( ; ii != rhs.end() ; ii++ )
+    {
+      subi = (*ii);
+      pos++;
+      const Term* trm = subi->term();
+      int nextPriority = 12;
+      if(trm)
+	{
+	  ECString rhsString(subi->term()->name());
+	  if(subi->term() == Term::stopTerm) continue;
+	  nextPriority = headPriority(lhsString, rhsString, ansPriority);
+	}
+      if(nextPriority <= ansPriority)
+	{
+	  ans = pos;
+	  ansPriority = nextPriority;
+	}
+    }
+  return ans;
+}
+
+void
+Bchart::
+assignRProb(Edge* edge)
+{
+  LeftRightGotIter lrgi(edge);
+  globalGi = &lrgi;
+  int sz = lrgi.size();
+  int i;
+  int hp = edge->headPos();
+  float ans = 1;
+  cerr << "ARP " << sz << " " << hp << endl;
+  for(i = 0 ; i < sz ; i++)
+    {
+      lrgi.pos() = i;
+      int whichInt = i < hp ? LCALC : i == hp ? MCALC : RCALC;
+      FullHist fh(edge);
+      fh.pos = i;
+      float p = meFHProbF(fh, whichInt);
+      cerr << "p" << whichInt << "(" << *lrgi.index(i) << ")= " << p << endl;
+      ans *= p;
+    }
+  if(ans == 0) cerr << "Assigned zero prob to " << *edge << endl;
+  edge->rprob() = ans;
+}
+
+
+void
+Bchart::
+assignRProbT(Edge* edge)
+{
+  ConstTerm* lhs = edge->lhs();
+  int lhsInt = lhs->toInt();
+  LeftRightGotIter lrgi(edge);
+  const Item* rhsItm = lrgi.index(1);
+  int rhsInt = rhsItm->word()->toInt();
+  float pwgt = pHst(rhsInt,lhsInt);
+  edge->rprob() = pwgt;
+  if(pwgt == 0) cerr << "Assigned zero prob to " << *edge << endl;
+}
+

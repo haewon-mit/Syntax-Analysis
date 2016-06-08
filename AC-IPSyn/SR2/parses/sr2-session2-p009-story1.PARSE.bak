@@ -1,0 +1,199 @@
+
+(S1 (S (S (NP (PRP I))
+	(VP (AUX 'm)
+	 (RB gonna)
+	 (VP (AUX do)
+	  (NP (NP (DT a) (NN story))
+	   (PP (IN about) (NP (NNS buttercups)))))))
+     (CC and)
+     (, ,)
+     (S (NP (PRP I)) (VP (VBP think)))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was) (NP (DT a) (JJ little) (NN bunny)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VBD liked)
+      (S (VP (TO to)
+	  (VP (AUX be)
+	   (VP (VBD chased) (PP (IN with) (NP (PRP$ his))))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (AUX did)
+      (RB not)
+      (VP (VB want) (S (VP (TO to) (VP (AUX be) (VP (VBN found)))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They)) (VP (VBD found)) (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VBD liked) (S (VP (TO to) (VP (VB climb) (PRT (RP up))))))
+     (. .)))
+
+
+
+(S1 (S (CC And) (NP (PRP he)) (VP (VBD jumped) (PRT (RP down))) (. .)))
+
+
+
+(S1 (FRAG (CC And) (NP (PRP$ his) (NNS legs)) (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP he))
+     (VP (VP (VBD jumped) (PRT (RP down)))
+      (CC and)
+      (VP (VBD bounced) (PRT (RP up))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VBD loved) (S (VP (VBG doing) (NP (PRP it)))))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (NP (PRP$ his) (NN friend)) (, ,) (NP (NNP Turtle)) (, ,))
+     (VP (MD could) (RB not) (VP (AUX do) (NP (PRP it))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP$ His) (NNS legs))
+     (VP (AUX were)
+      (RB not)
+      (VP (VBN made) (PP (IN for) (NP (VBG jumping)))))
+     (. .)))
+
+
+
+(S1 (S (CC So)
+     (SBAR (IN while)
+      (S (NP (PRP he))
+       (VP (AUX 's)
+	(VP (VBG hiding) (PP (IN under) (NP (DT a) (NN buttercup)))))))
+     (, ,)
+     (RB then)
+     (NP (PRP he))
+     (VP (AUX 's) (VP (VBG jumping)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP She))
+     (VP (VBD saw)
+      (SBAR (IN that)
+       (S (NP (DT the) (NNS bunnys) (NNS legs))
+	(VP (AUX were)
+	 (ADJP (ADJP (RB not) (JJ flexible))
+	  (CC and)
+	  (ADJP (ADJP (RB not) (JJ good))
+	   (PP (IN for) (NP (VBG jumping)))))))))
+     (. .)))
+
+
+
+(S1 (S (RB So)
+     (NP (DT the) (NN bunny))
+     (VP (VBD saw)
+      (SBAR (IN that)
+       (S (NP (PRP she))
+	(VP (MD could)
+	 (RB not)
+	 (VP (VB walk) (ADJP (RB as) (JJ slow)))))))
+     (. .)))
+
+
+
+(S1 (S (RB So)
+     (NP (NP (DT the) (NN leader)) (PP (IN of) (NP (PRP them))))
+     (VP (VBD knew)
+      (SBAR (IN that)
+       (S (NP (PRP they))
+	(VP (AUX were) (VP (VBG watching) (NP (DT each) (JJ other)))))))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (ADVP (RB then))
+     (NP (DT the) (NN squirrel))
+     (VP (VBD came) (PRT (RP by)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT that) (NN turtle))
+     (VP (VBD asked)
+      (NP (DT the) (NN squirrel))
+      (SBAR (WHNP (WP what)) (S (VP (TO to) (VP (AUX do))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (MD could)
+      (RB not)
+      (VP (AUX do)
+       (NP (NP (DT any))
+	(PP (IN of) (NP (PRP$ their) (JJ own) (NNS things))))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (NNS bugs))
+     (VP (AUX are) (ADJP (VBN gone)))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (PRP them)) (VP (VB follow) (NP (PRP us))) (. .)))
+
+
+
+(S1 (S (NP (DT The) (NN squirrel))
+     (, ,)
+     (NP (PRP he))
+     (VP (VBD knew)
+      (SBAR (WHNP (WP what)) (S (VP (TO to) (VP (VB answer))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VBD told)
+      (NP (PRP them))
+      (SBAR (WHNP (WP what)) (S (VP (TO to) (VP (AUX do))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP he))
+     (VP (VBD went) (ADVP (NN home) (PP (IN from))))
+     (. .)))
+
+
+
+(S1 (FRAG (NP (PRP$ Your) (NN turn)) (. .)))
+
+

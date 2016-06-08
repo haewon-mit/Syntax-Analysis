@@ -1,0 +1,547 @@
+FILENAME:sr2-session5-p006-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	ELFS
+1	TIME
+2	BABY
+3	MOTHER
+3	SELINA
+4	DADDY
+6	BYE
+8	BIRTHDAY
+8	EMMA
+8	PIE
+9	IDEA
+10	CAKE
+10	OVEN
+12	SPACESHIP
+13	TABLE
+14	END
+
+COUNTS:	16
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+4	I
+7	HE
+8	'S
+10	IT
+13	THEY
+
+COUNTS:	5
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	THREE
+8	HIS
+9	GOOD
+10	BAKED
+13	ALL
+13	HAPPY
+
+COUNTS:	6
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A TIME
+1	THREE ELFS
+2	A BABY
+3	A MOTHER
+4	THE DADDY
+7	THE SPACESHIP
+8	A PIE
+8	HIS BIRTHDAY
+9	GOOD IDEA
+10	A CAKE
+10	THE OVEN
+13	HAPPY BIRTHDAY
+13	THE TABLE
+14	THE END
+
+COUNTS:	14
+
+
+###N5	Article used before a noun###
+
+1	A TIME
+2	A BABY
+3	A MOTHER
+4	THE DADDY
+7	THE SPACESHIP
+8	A PIE
+10	A CAKE
+10	THE OVEN
+13	THE TABLE
+14	THE END
+
+COUNTS:	10
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+1	WERE THREE ELFS
+7	TO THE SPACESHIP
+8	FOR HIS BIRTHDAY
+8	MAKE A PIE
+10	IN THE OVEN
+13	AROUND THE TABLE
+13	SING HAPPY BIRTHDAY
+
+COUNTS:	8
+
+
+###N7	Plural suffix###
+
+1	ELFS
+
+COUNTS:	1
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+2	A BABY
+3	A MOTHER
+4	THE DADDY
+12	THE SPACESHIP
+
+COUNTS:	4
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+COUNTS:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+
+COUNTS:	0
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	WERE
+3	NAMED
+4	GUESS
+5	GO
+5	HAVE
+5	WORK
+7	DROVE
+7	WENT
+8	LET
+8	MAKE
+9	SAID
+10	PUT
+11	SEE
+12	LANDED
+13	GATHERED
+13	SING
+
+COUNTS:	16
+
+
+###V2	Particle or preposition###
+
+1	UPON
+5	TO
+7	OFF
+8	FOR
+10	IN
+13	AROUND
+
+COUNTS:	6
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+5	TO WORK
+7	TO THE SPACESHIP
+8	FOR HIS BIRTHDAY
+10	IN THE OVEN
+13	AROUND THE TABLE TO SING HAPPY BIRTHDAY
+
+COUNTS:	4
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WERE
+8	 'S
+
+COUNTS:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WERE
+5	HAVE
+
+COUNTS:	2
+
+
+###V7	Progressive Suffix###
+
+
+COUNTS:	0
+
+
+###V8	Adverb###
+
+1	ONCE
+
+COUNTS:	1
+
+
+###V9	Modal preceeding verb###
+
+
+COUNTS:	0
+
+
+###V10	Third person singular present tense suffix###
+
+
+COUNTS:	0
+
+
+###V11	Past tense modal###
+
+
+COUNTS:	0
+
+
+###V12	Regular past tense suffix###
+
+2	NAMED
+3	NAMED
+4	NAMED
+12	LANDED
+13	GATHERED
+
+COUNTS:	3
+
+
+###V13	Past tense auxiliary###
+
+1	WERE
+
+COUNTS:	1
+
+
+###V14	Medial adverb###
+
+
+COUNTS:	0
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WERE
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+COUNTS:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WERE THREE ELFS
+2	A BABY NAMED EMMA
+3	A MOTHER NAMED SELINA
+4	AND THE DADDY NAMED DADDY I GUESS
+5	I HAVE TO GO TO WORK SELINA
+7	HE WENT TO THE SPACESHIP AND DROVE OFF
+8	LET 'S MAKE A PIE FOR HIS BIRTHDAY SAID EMMA
+9	GOOD IDEA EMMA SAID SELINA
+10	SO THEY BAKED A CAKE AND PUT IT IN THE OVEN
+11	I SEE DADDY
+12	THE SPACESHIP LANDED
+13	AND THEY ALL GATHERED AROUND THE TABLE TO SING HAPPY BIRTHDAY
+14	THE END
+
+COUNTS:	5
+
+
+###S2	Subject verb sequence###
+
+2	A BABY NAMED 
+3	A MOTHER NAMED 
+4	I GUESS
+5	I HAVE TO GO 
+7	HE WENT 
+8	'S MAKE 
+11	I SEE 
+12	THE SPACESHIP LANDED
+
+COUNTS:	7
+
+
+###S3	Verb object sequence###
+
+1	WERE THREE ELFS
+2	NAMED EMMA
+3	NAMED SELINA
+4	NAMED DADDY , I GUESS
+5	HAVE TO GO TO WORK SELINA
+5	TO GO TO WORK SELINA
+7	WENT TO THE SPACESHIP
+7	WENT TO THE SPACESHIP AND DROVE OFF
+8	LET 'S MAKE A PIE FOR HIS BIRTHDAY
+8	MAKE A PIE FOR HIS BIRTHDAY
+10	BAKED A CAKE
+10	BAKED A CAKE AND PUT IT IN THE OVEN
+11	SEE DADDY
+13	GATHERED AROUND THE TABLE TO SING HAPPY BIRTHDAY
+13	TO SING HAPPY BIRTHDAY
+
+COUNTS:	9
+
+
+###S4	Subject Verb Object Sequence###
+
+2	A BABY NAMED EMMA
+3	A MOTHER NAMED SELINA
+5	I HAVE TO GO TO WORK SELINA
+7	HE WENT TO THE SPACESHIP AND DROVE OFF
+8	'S MAKE A PIE FOR HIS BIRTHDAY
+11	I SEE DADDY
+
+COUNTS:	4
+
+
+###S5	Conjunction (any)###
+
+10	AND
+
+COUNTS:	1
+
+
+###S6	Sentence with two VP's###
+
+4	AND THE DADDY NAMED DADDY , I GUESS .
+5	I HAVE TO GO TO WORK SELINA .
+7	HE WENT TO THE SPACESHIP AND DROVE OFF .
+8	LET 'S MAKE A PIE FOR HIS BIRTHDAY , SAID EMMA .
+13	AND THEY ALL GATHERED AROUND THE TABLE TO SING HAPPY BIRTHDAY .
+
+COUNTS:	5
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+5	HAVE TO GO TO WORK SELINA
+13	GATHERED AROUND THE TABLE TO SING HAPPY BIRTHDAY
+
+COUNTS:	2
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+8	LET 'S MAKE A PIE FOR HIS BIRTHDAY , SAID EMMA .
+
+COUNTS:	1
+
+
+###S10	Adverbial Conjunction###
+
+
+COUNTS:	0
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+
+COUNTS:	0
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+5	I HAVE TO GO TO WORK SELINA .
+8	LET 'S MAKE A PIE FOR HIS BIRTHDAY , SAID EMMA .
+
+COUNTS:	2
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+
+COUNTS:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-14
+NO OF UTTERANCES CONSIDERED: 14
+
+
+#########################
+NOUN COUNTS: 64
+VERB COUNTS: 36
+QUESTION COUNTS: 0
+SENTENCE COUNTS: 36
+TOTAL NO OF STRUCTURES COUNTS: 136
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WERE THREE ELFS .
+2	A BABY NAMED EMMA .
+3	A MOTHER NAMED SELINA .
+4	AND THE DADDY NAMED DADDY , I GUESS .
+5	I HAVE TO GO TO WORK SELINA .
+6	BYE .
+7	HE WENT TO THE SPACESHIP AND DROVE OFF .
+8	LET 'S MAKE A PIE FOR HIS BIRTHDAY , SAID EMMA .
+9	GOOD IDEA EMMA , SAID SELINA .
+10	SO THEY BAKED A CAKE AND PUT IT IN THE OVEN .
+11	I SEE DADDY !
+12	THE SPACESHIP LANDED .
+13	AND THEY ALL GATHERED AROUND THE TABLE TO SING HAPPY BIRTHDAY .
+14	THE END .

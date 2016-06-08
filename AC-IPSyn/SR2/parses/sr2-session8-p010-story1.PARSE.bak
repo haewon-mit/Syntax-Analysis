@@ -1,0 +1,142 @@
+
+(S1 (S (NP (PRP I))
+     (VP (VBP think)
+      (SBAR (S (NP (PRP I))
+	     (VP (MD 'll)
+	      (VP (VB tell)
+	       (NP (NP (DT a) (NN story))
+		(PP (IN about)
+		 (NP (NP (NN something)) (ADJP (RB else))))))))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB Well))
+     (NP (PRP I))
+     (VP (MD might)
+      (VP (VB tell)
+       (NP (NP (DT a) (NN story)) (PP (IN about) (NP (NNS aliens))))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (PRP I))
+     (ADVP (RB just))
+     (VP (VB like)
+      (S (VP (VBG moving) (NP (PRP them)) (PRT (RP around)))))
+     (. .)))
+
+
+
+(S1 (S (VP (VB Come) (PP (IN on) (NP (JJ little) (NN snowman))))
+     (. .)))
+
+
+
+(S1 (SQ (MD Ca)
+     (RB not)
+     (NP (DT the) (NN snowman))
+     (VP (VB move))
+     (. ?)))
+
+
+
+(S1 (INTJ (UH Oh) (. .)))
+
+
+
+(S1 (S (NP (NNP Sun)) (VP (AUX does) (RB not) (VP (VB move))) (. .)))
+
+
+
+(S1 (SBARQ (WHNP (WP What))
+     (SQ (MD would) (NP (DT the) (NNS clouds)) (VP (VB appear)))
+     (. ?)))
+
+
+
+(S1 (S (NP (DT This))
+     (VP (AUX is) (NP (DT the) (JJS funnest) (NN party) (JJ little)))
+     (. .)))
+
+
+
+(S1 (S (NP (NNP Snow)) (VP (AUX is) (VP (VBG falling))) (. .)))
+
+
+
+(S1 (S (CC And) (VP (VB Wait)) (. .)))
+
+
+
+(S1 (SBARQ (WHADVP (WRB How))
+     (SQ (AUX do)
+      (NP (PRP you))
+      (VP (VB move)
+       (NP (PRP it))
+       (ADVP (RB back) (PP (TO to) (NP (NN snowing))))))
+     (. ?)))
+
+
+
+(S1 (FRAG (INTJ (UH Oh)) (NP (EX there)) (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (NP (DT the) (NNS penguins))
+      (, ,)
+      (SBAR (WHNP (WP who))
+       (S (VP (AUX had)
+	   (NP (NP (NNS lots)) (PP (IN of) (NP (NNS friends))))
+	   (ADVP (RB So))))))
+     (NP (DT the) (NNS penguins))
+     (VP (VBD started)
+      (PRT (RP up))
+      (S (VP (VBG walking) (PP (IN toward) (NP (DT the) (NN snowman))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT this) (NN one))
+     (VP (AUX 's) (NP (DT a) (NN mommy)))
+     (. .)))
+
+
+
+(S1 (FRAG (ADVP (RB Then)) (NP (DT the) (NN end)) (. .)))
+
+
+
+(S1 (INTJ (UH No) (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (AUX had)
+      (NP (NP (NNS lots)) (PP (IN of) (NP (NN fun))))
+      (ADVP (RB there)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP She))
+     (VP (VBD lived) (ADVP (RB happily)) (ADVP (RB ever) (IN after)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP I))
+     (VP (VBP like) (NP (DT the) (NN snowing)))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

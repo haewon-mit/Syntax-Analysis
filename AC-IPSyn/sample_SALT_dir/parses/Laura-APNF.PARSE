@@ -1,0 +1,282 @@
+
+
+(S1 (S (ADVP (RB Once)) (NP (NNPS Mrs) (CC and) (NNPS Mrs) (NNP Porcupine)) (VP (AUX had) (NP (DT a) (NN baby))) (. .)))
+
+
+
+
+
+(S1 (S (CC and) (NP (PRP they)) (VP (AUX did) (RB not) (VP (VB know) (SBAR (WHNP (WP what)) (S (VP (TO to) (VP (VB name) (NP (PRP him)))))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP They)) (VP (VBD thought) (ADVP (RB maybe) (RB alot)) (PP (IN of) (NP (NNS names)))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (NP (PRP they)) (VP (MD would) (RB not) (VP (VB work))) (. .)))
+
+
+
+
+
+(S1 (S (IN So) (NP (PRP they)) (VP (VBD nameing) (S (NP (PRP him)) (ADJP (JJ Fluffy)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (JJ Fluffy)) (VP (VBD noticeed) (SBAR (S (NP (PRP he)) (VP (AUX was) (RB not) (ADJP (RB that) (JJ Fluffy)))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (CD One) (NN time)) (NP (PRP he)) (VP (VBD backed) (PP (IN into) (NP (DT a) (NN door)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP he)) (VP (VBD stuck) (PP (IN in) (NP (PRP it)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (CD One) (NN time)) (NP (PRP he)) (VP (ADVP (RB accidentally)) (VBD slept) (PP (IN on) (NP (PRP$ his) (NN back)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (JJ Fluffy)) (VP (AUX had) (NP (DT a) (NN umbrella))) (. .)))
+
+
+
+
+
+(S1 (S (NP (JJ Fluffy)) (VP (VBD thought) (, ,) (S (ADVP (RB Maybe)) (NP (PRP I)) (VP (MD 'll) (VP (AUX be) (NP (DT a) (NN cloud)))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NNS Clouds)) (VP (AUX are) (ADJP (JJ fluffy))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (NP (PRP he)) (VP (AUX did) (RB not) (VP (VB stay) (PRT (RP up)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBD thought) (, ,) (S (NP (NNS Pillows)) (VP (AUX are) (ADJP (JJ fluffy))))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Maybe)) (NP (PRP I)) (VP (MD 'll) (VP (AUX be) (NP (DT a) (NN pillow)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP$ His) (NN mother)) (VP (AUX did) (RB not) (VP (VB think) (SBAR (S (NP (DT that)) (VP (AUX was) (ADJP (JJ great))))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBD took) (NP (DT a) (NN bath))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBD thought) (SBAR (S (NP (PRP he)) (VP (MD would) (VP (VB get) (ADJP (JJ fluffy))))))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (NP (PRP he)) (VP (VBD got) (ADJP (JJ soggy))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBD put) (S (VP (VBG shaving) (NP (NP (NN cream)) (PP (IN on) (NP (PRP$ his) (NNS spikes))))))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (NP (DT that)) (VP (VBD took) (NP (DT a) (NN half)) (NP (DT a) (NN day))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (RB then) (NP (PRP he)) (VP (VBD said) (, ,) (SBARQ (WHADVP (WRB Why)) (SQ (AUX did) (RB not) (NP (PRP they)) (VP (VB name) (NP (PRP me)) (NP (NNP Gooey)))) (. ?)))))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBD ate) (NP (NNS marshmallows))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBD rolled) (PP (IN in) (S (VP (VBG shaving) (NP (NN cream) (CC and) (NN put) (NNS feathers)) (PP (IN on) (NP (PRP him))))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBD dressed) (PRT (RP up)) (PP (IN in) (NP (DT a) (NN bunny) (NN suit)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (JJ Fluffy)) (VP (AUX was) (RB not)) (. .)))
+
+
+
+
+
+(S1 (S (NP (NP (CD One) (NN day)) (JJ Fluffy)) (VP (AUX was) (VP (VBG walking))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP he)) (VP (VBD saw) (NP (DT a) (NN rhinoceros))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT the) (NNS rhinoceros)) (VP (AUX did) (RB not) (VP (VB look) (ADJP (JJ pleasant)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (, ,) (S (NP (PRP I)) (VP (MD 'll) (VP (VB give) (NP (PRP you)) (NP (DT a) (JJ hard) (NN time)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP he)) (VP (VBD asked) (ADJP (JJ Fluffy)) (, ,) (SBAR (WHNP (WP What)) (S (VP (AUX 's) (NP (PRP$ your) (NN name)))))) (. ?)))
+
+
+
+
+
+(S1 (S (NP (JJ Fluffy)) (VP (VBD said) (, ,) (S (ADJP (JJ Fluffy)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT the) (NNS rhinoceros)) (VP (VBD said) (, ,) (NP (NP (DT A) (NN porcupine)) (VP (VBN named) (S (ADJP (JJ Fluffy)))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT That)) (VP (AUX 's) (ADJP (RB so) (JJ funny))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBD giggleed)) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBD rolled) (ADVP (RB over)) (, ,) (S (VP (VBG laughing) (ADJP (RB really) (JJ hard))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (JJ Fluffy)) (VP (VBD said) (, ,) (SBARQ (WHNP (WP What)) (SQ (VP (AUX 's) (NP (PRP$ your) (NN name)))) (. ?)))))
+
+
+
+
+
+(S1 (S (NP (DT The) (NNS rhinoceros)) (VP (VBD said) (, ,) (INTJ (UH Ah)) (S (NP (PRP it)) (VP (AUX 's) (ADVP (UH ah)) (VP (VBN um) (SBAR (S (NP (PRP it)) (VP (POS 's) (NP (UH oh)) (S (NP (PRP I)) (VP (AUX 'm) (VP (VBG laughing) (ADVP (RB too) (RB hard)))))))))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (ADJP (NNP H)) (. .)))
+
+
+
+
+
+(S1 (S (NP (JJ Fluffy)) (VP (VBD said) (, ,) (NP (NP (DT a) (NN rhinoceros)) (VP (VBN named) (NP (NNP Hippo))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBD started) (VP (VBG giggling))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP he)) (VP (VBD started) (S (VP (VBG laughing) (ADJP (RB really) (JJ hard))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT a) (NN porcupine)) (VP (VBD named) (S (ADJP (JJ Fluffy)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT A) (NN rhinoceros)) (VP (VBD named) (NP (NNP Hippo))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP they)) (VP (VBD thought) (SBAR (S (NP (DT that)) (VP (AUX was) (ADJP (RB really) (JJ funny)))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP They)) (VP (VBP burst) (PP (IN into) (NP (NNS tears)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NN Hippo) (CC and) (JJ Fluffy)) (VP (VBD became) (NP (JJS best) (NNS friends))) (. .)))
+
+
+

@@ -1,0 +1,24 @@
+
+(S1 (S (NP (PRP We)) (VP (VBD found) (NP (PRP you))) (. !)))
+
+
+
+(S1 (S (NP (DT The) (NN screen))
+     (VP (AUX 's) (RB not) (VP (VBG working)))
+     (. .)))
+
+
+
+(S1 (S (VP (VBG moving)) (. .)))
+
+
+
+(S1 (S (VP (VB Turn) (NP (PDT all) (DT the))) (. .)))
+
+
+
+(S1 (S (NP (DT That))
+     (VP (VBZ works) (PP (IN for) (NP (DT the) (NN squirrel))))
+     (. .)))
+
+

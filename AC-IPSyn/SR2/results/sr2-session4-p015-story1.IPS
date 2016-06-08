@@ -1,0 +1,648 @@
+FILENAME:sr2-session4-p015-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	DINOSAUR
+1	NO
+2	SKY
+6	ZOE
+9	NAME
+9	NICHOLAS
+9	W
+10	SOPHIE
+12	ELSA
+12	S
+12	TIME
+13	PARENTS
+17	COUNTER
+21	MOMMY
+23	DADS
+23	TURN
+24	MOMS
+30	DA-DA
+31	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+6	I
+13	HER
+17	SHE
+18	HERE
+21	YOU
+23	IT
+25	THEM
+28	THEY
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+5	MIDDLE
+5	THIS
+8	LAST
+12	FOUR
+13	HER
+16	MOST
+18	FIVE
+18	READY
+18	SIX
+18	THREE
+18	TWO
+22	ALL
+25	ONE
+28	BOO
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A DINOSAUR
+12	A TIME
+13	HER PARENTS
+14	THE TIME
+15	HER MOMMY
+16	MOST TIMES
+17	THE COUNTER
+23	HER DADS
+30	THE DA-DA
+31	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+1	A DINOSAUR
+12	A TIME
+14	THE TIME
+17	THE COUNTER
+30	THE DA-DA
+31	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	WAS A DINOSAUR
+12	UPON A TIME
+17	BE THE COUNTER
+23	WAS HER DADS
+30	GET THE DA-DA
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+13	PARENTS
+16	TIMES
+23	DADS
+24	MOMS
+
+SCORE:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+1	A DINOSAUR
+13	HER PARENTS
+15	HER MOMMY
+
+SCORE:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+SCORE:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+5	NOW
+10	SO
+18	HERE
+29	THEN
+
+SCORE:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	NAMED
+2	SAY
+5	IS
+9	PICK
+12	WERE
+13	FEED
+13	LOVED
+16	HIDE
+16	PLAY
+16	SEEK
+17	BE
+18	COME
+19	SEE
+23	WAS
+24	TURN
+25	FIND
+26	FEEL
+27	WENT
+28	SHOUTED
+29	GOT
+30	GET
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+12	UPON
+27	TO
+29	OUT
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+12	UPON A TIME
+27	TO THE
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+5	 IS
+8	 IS
+12	 WERE
+17	 BE
+23	 WAS
+
+SCORE:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+5	IS
+8	IS
+12	WERE
+23	WAS
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+
+SCORE:	0
+
+
+###V8	Adverb###
+
+5	NOW
+8	SO
+12	ONCE
+14	ALL
+15	TOO
+18	HERE
+18	NOT
+25	ANYWHERE
+25	THEN
+27	BACK
+27	HOME
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+2	SHOULD I SAY ELSA OR SKY
+6	SHOULD I PICK ZOE OR SOPHIE
+8	SHOULD I PICK THIS
+9	SHOULD I PICK ZOE W NAME
+15	WOULD COME TOO
+16	WOULD PLAY HIDE AND SEEK
+17	WOULD BE THE COUNTER
+25	COULD NOT FIND THEM
+30	CAN NOT GET THE DA-DA
+
+SCORE:	2
+
+
+###V10	Third person singular present tense suffix###
+
+5	IS
+23	WAS
+
+SCORE:	2
+
+
+###V11	Past tense modal###
+
+9	SHOULD
+16	WOULD
+25	COULD
+
+SCORE:	2
+
+
+###V12	Regular past tense suffix###
+
+1	NAMED
+13	LOVED
+28	SHOUTED
+
+SCORE:	2
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+12	WERE
+23	WAS
+
+SCORE:	2
+
+
+###V14	Medial adverb###
+
+10	SO
+14	ALL
+18	HERE
+18	NOT
+27	BACK
+27	HOME
+29	THEN
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+12	 WERE
+23	 WAS
+
+SCORE:	2
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+SCORE:	0
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	2
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	2
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+18	ONE , TWO THREE , FOUR , FIVE , SIX READY OR NOT HERE I COME .
+25	ONE , TWO , THREE AND THEN DAD COULD NOT FIND THEM ANYWHERE .
+30	THEY CAN NOT GET THE DA-DA OUT .
+
+SCORE:	2
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+25	COULD NOT FIND THEM ANYWHERE
+30	CAN NOT GET THE DA-DA OUT
+
+SCORE:	2
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+25	COULD NOT FIND THEM ANYWHERE
+30	CAN NOT GET THE DA-DA OUT
+
+SCORE:	2
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+2	SHOULD I SAY ELSA OR SKY ?
+6	SHOULD I PICK ZOE OR SOPHIE ?
+9	SHOULD I PICK ZOE W NAME OR NICHOLAS ?
+
+SCORE:	2
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS A DINOSAUR NAMED NO
+2	SHOULD I SAY ELSA OR SKY
+5	NOW THIS IS THE MIDDLE ONE
+6	SHOULD I PICK ZOE OR SOPHIE
+8	SO SHOULD I PICK THIS IS THE LAST ONE
+9	SHOULD I PICK ZOE W NAME OR NICHOLAS
+10	OK SO ELSA SOPHIE NICHOLAS
+12	ONCE UPON A TIME THERE WERE FOUR ELSA ZOE S NAME AND NICHOLAS
+13	AND HER PARENTS LOVED TO FEED HER
+14	AND SHE WENT ALL THE TIME
+15	AND HER MOMMY WOULD COME TOO
+16	BUT MOST TIMES THEY WOULD PLAY HIDE AND SEEK
+17	SHE WOULD BE THE COUNTER
+18	ONE TWO THREE FOUR FIVE SIX READY OR NOT HERE I COME
+19	I SEE YOU DADDY
+20	I SEE YOU
+21	I SEE YOU MOMMY
+22	THEY ALL GOT OUT
+23	AND THEN IT WAS HER DADS TURN
+24	OR MOMS TURN
+25	ONE TWO THREE AND THEN DAD COULD NOT FIND THEM ANYWHERE
+26	BUT FEEL
+27	THEY WENT BACK HOME TO THE
+28	AND THEN THEY SHOUTED BOO
+29	AND THEN THEY GOT OUT
+30	THEY CAN NOT GET THE DA-DA OUT
+31	THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+8	THIS IS 
+17	SHE WOULD BE 
+19	I SEE 
+20	I SEE 
+21	I SEE 
+22	THEY ALL GOT OUT
+25	ONE , TWO , THREE AND THEN DAD COULD NOT FIND 
+27	THEY WENT BACK HOME 
+30	THEY CAN NOT GET 
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	WAS A DINOSAUR NAMED NO
+2	SAY ELSA OR SKY
+5	IS THE MIDDLE ONE
+6	PICK ZOE OR SOPHIE
+8	IS THE LAST ONE
+8	PICK THIS IS THE LAST ONE
+9	PICK ZOE W NAME OR NICHOLAS
+12	WERE FOUR , ELSA , ZOE , S NAME , AND NICHOLAS
+13	LOVED TO FEED HER
+13	TO FEED HER
+14	WENT ALL THE TIME
+16	PLAY HIDE AND SEEK
+16	WOULD PLAY HIDE AND SEEK
+17	BE THE COUNTER
+17	WOULD BE THE COUNTER
+19	SEE YOU , DADDY
+20	SEE YOU
+21	SEE YOU , MOMMY
+23	WAS HER DADS TURN
+25	COULD NOT FIND THEM ANYWHERE
+25	FIND THEM ANYWHERE
+27	WENT BACK HOME TO THE
+30	CAN NOT GET THE DA-DA OUT
+30	GET THE DA-DA OUT
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+8	THIS IS THE LAST ONE
+17	SHE WOULD BE THE COUNTER
+19	I SEE YOU , DADDY
+20	I SEE YOU
+21	I SEE YOU , MOMMY
+25	ONE , TWO , THREE AND THEN DAD COULD NOT FIND THEM ANYWHERE
+27	THEY WENT BACK HOME TO THE
+30	THEY CAN NOT GET THE DA-DA OUT
+
+SCORE:	1
+
+
+###S5	Conjunction (any)###
+
+2	OR
+12	AND
+26	BUT
+
+SCORE:	2
+
+
+###S6	Sentence with two VP's###
+
+13	AND HER PARENTS LOVED TO FEED HER .
+16	BUT MOST TIMES THEY WOULD PLAY HIDE AND SEEK .
+
+SCORE:	2
+
+
+###S7	Conjoined phrases###
+
+2	ELSA OR SKY
+6	ZOE OR SOPHIE
+16	HIDE AND SEEK
+
+SCORE:	2
+
+
+###S8	Infinitive without catenative, marked with to###
+
+13	LOVED TO FEED HER
+
+SCORE:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+26	BUT
+
+SCORE:	1
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+
+SCORE:	0
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+16	BUT MOST TIMES THEY WOULD PLAY HIDE AND SEEK .
+
+SCORE:	1
+
+
+###S16	Relative clause marked or unmarked###
+
+
+SCORE:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+
+SCORE:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-31
+NO OF UTTERANCES CONSIDERED: 31
+
+
+#########################
+NOUN SCORE: 18
+VERB SCORE: 28
+QUESTION SCORE: 12
+SENTENCE SCORE: 16
+IPSYN SCORE: 74
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS A DINOSAUR NAMED NO .
+2	SHOULD I SAY ELSA OR SKY ?
+3	PICK .
+4	OK .
+5	NOW THIS IS THE MIDDLE ONE .
+6	SHOULD I PICK ZOE OR SOPHIE ?
+7	OK .
+8	SO SHOULD I PICK THIS IS THE LAST ONE .
+9	SHOULD I PICK ZOE W NAME OR NICHOLAS ?
+10	OK , SO ELSA SOPHIE NICHOLAS .
+11	OK .
+12	ONCE UPON A TIME THERE WERE FOUR , ELSA , ZOE , S NAME , AND NICHOLAS .
+13	AND HER PARENTS LOVED TO FEED HER .
+14	AND SHE WENT ALL THE TIME .
+15	AND HER MOMMY WOULD COME TOO .
+16	BUT MOST TIMES THEY WOULD PLAY HIDE AND SEEK .
+17	SHE WOULD BE THE COUNTER .
+18	ONE , TWO THREE , FOUR , FIVE , SIX READY OR NOT HERE I COME .
+19	I SEE YOU , DADDY .
+20	I SEE YOU .
+21	I SEE YOU , MOMMY .
+22	THEY ALL GOT OUT .
+23	AND THEN IT WAS HER DADS TURN .
+24	OR MOMS TURN .
+25	ONE , TWO , THREE AND THEN DAD COULD NOT FIND THEM ANYWHERE .
+26	BUT FEEL .
+27	THEY WENT BACK HOME TO THE .
+28	AND THEN THEY SHOUTED , BOO !
+29	AND THEN THEY GOT OUT .
+30	THEY CAN NOT GET THE DA-DA OUT .
+31	THE END .

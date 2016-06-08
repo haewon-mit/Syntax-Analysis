@@ -1,0 +1,129 @@
+
+(S1 (FRAG (ADJP (JJ Wrong) (NP (CD one))) (. .)))
+
+
+
+(S1 (X (NNP Bye) (. .)))
+
+
+
+(S1 (SQ (AUX Do)
+     (NP (PRP you))
+     (VP (VB want)
+      (S (VP (TO to)
+	  (VP (VB come) (PP (TO to) (NP (PRP$ my) (NN party)))))))
+     (. ?)))
+
+
+
+(S1 (INTJ (JJ Sure) (. .)))
+
+
+
+(S1 (NP (NNP du) (NNP du) (NNP du) (. .)))
+
+
+
+(S1 (NP (NNP du)
+     (NNP du)
+     (NNP du)
+     (NNP du)
+     (NNP du)
+     (NNP du)
+     (NNP du)
+     (NNP du)
+     (. .)))
+
+
+
+(S1 (SBARQ (WHNP (WP What))
+     (SQ (NP (DT a) (NN mean)) (VP (VB crocodile)))
+     (. .)))
+
+
+
+(S1 (X (NNP Whaa) (. .)))
+
+
+
+(S1 (X (NNP Whaa) (. .)))
+
+
+
+(S1 (S (NP (PRP She))
+     (VP (MD should)
+      (VP (AUX have)
+       (VP (AUX been) (ADVP (RB here)) (PP (IN by) (NP (RB now))))))
+     (. .)))
+
+
+
+(S1 (S (NP (NNP Hm)) (VP (VBD hm) (NP (CD hm))) (. .)))
+
+
+
+(S1 (S (INTJ (UH Oh))
+     (, ,)
+     (NP (PRP you))
+     (VP (VBP mean) (ADJP (JJ crocodile)))
+     (. !)))
+
+
+
+(S1 (S (NP (PRP I))
+     (VP (VBD steped) (PP (IN on) (NP (PRP you))))
+     (. .)))
+
+
+
+(S1 (NP (NNP du) (NNP du) (NNP du) (NNP du) (. .)))
+
+
+
+(S1 (S (RB So) (NP (PRP we)) (VP (MD 'll)) (. .)))
+
+
+
+(S1 (NP (NNP du) (NNP du) (NNP du) (NNP du) (NNP du) (NNP du) (. .)))
+
+
+
+(S1 (S (NP (PRP I))
+     (VP (VBD steped) (PP (IN on) (NP (DT the) (NN crocodile))))
+     (. .)))
+
+
+
+(S1 (INTJ (UH Oh) (JJ good) (. .)))
+
+
+
+(S1 (S (NP (PRP We))
+     (VP (MD can) (VP (VB go) (PP (TO to) (NP (DT the) (NN party)))))
+     (. .)))
+
+
+
+(S1 (NP (NNP du) (NNP du) (NNP du) (NNP du) (. .)))
+
+
+
+(S1 (NP (NNP du) (NNP du) (NNP da) (NNP du) (. .)))
+
+
+
+(S1 (NP (NNP Da) (NNP du) (NNP du) (NNP du) (. .)))
+
+
+
+(S1 (NP (NNP Du) (NNP du) (NNP du) (NNP du) (. .)))
+
+
+
+(S1 (NP (NNP Hm) (NNP du) (NNP du) (NNP du) (NNP du) (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

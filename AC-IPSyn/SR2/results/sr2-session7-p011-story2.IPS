@@ -1,0 +1,479 @@
+FILENAME:sr2-session7-p011-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	BIRD
+1	DRAGON
+1	TIME
+2	SKY
+3	WALK
+4	NAP
+4	TREES
+5	TOYS
+8	PICTURE
+8	SOMEBODY
+10	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+3	THEY
+8	THEM
+9	HE
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+3	LONG
+5	THEIR
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A BIRD
+1	A DRAGON
+1	A TIME
+2	THE SKY
+3	LONG WALK
+4	A NAP
+4	THE TREES
+5	THEIR TOYS
+8	A PICTURE
+10	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+1	A BIRD
+1	A DRAGON
+1	A TIME
+2	THE SKY
+4	A NAP
+4	THE TREES
+8	A PICTURE
+10	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+1	WAS A BIRD
+2	IN THE SKY
+4	IN THE TREES
+4	TOOK A NAP
+5	PLAYED THEIR TOYS
+8	TOOK A PICTURE
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+4	TREES
+5	TOYS
+
+SCORE:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+
+SCORE:	0
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+3	A LONG WALK
+
+SCORE:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+9	THEN
+
+SCORE:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	WAS
+2	PLAYED
+3	TOOK
+6	HIDE
+6	SEEK
+7	SMILED
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+1	UPON
+2	IN
+8	OF
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+2	IN THE SKY
+4	IN THE TREES
+8	OF THEM
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+
+SCORE:	1
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	1
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+
+SCORE:	1
+
+
+###V7	Progressive Suffix###
+
+
+SCORE:	0
+
+
+###V8	Adverb###
+
+1	ONCE
+6	-RSB-
+9	THEN
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+
+SCORE:	0
+
+
+###V10	Third person singular present tense suffix###
+
+1	WAS
+
+SCORE:	1
+
+
+###V11	Past tense modal###
+
+
+SCORE:	0
+
+
+###V12	Regular past tense suffix###
+
+2	PLAYED
+5	PLAYED
+6	PLAYED
+7	SMILED
+
+SCORE:	2
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+
+SCORE:	1
+
+
+###V14	Medial adverb###
+
+6	-RSB-
+9	THEN
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+
+SCORE:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+SCORE:	0
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+SCORE:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+SCORE:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+SCORE:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS A BIRD AND A DRAGON
+2	AND THEY PLAYED IN THE SKY
+3	AND THEN THEY TOOK A LONG WALK
+4	AND THEN THEY TOOK A NAP IN THE TREES
+5	AND THEN THEY PLAYED THEIR TOYS
+6	AND -RSB- THEN THEY PLAYED HIDE AND SEEK
+7	AND THEN HE SMILED
+8	AND SOMEBODY TOOK A PICTURE OF THEM
+9	AND THEN HE
+10	AND THEN THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+
+SCORE:	0
+
+
+###S3	Verb object sequence###
+
+1	WAS A BIRD AND A DRAGON
+2	PLAYED IN THE SKY
+3	TOOK A LONG WALK
+4	TOOK A NAP IN THE TREES
+5	PLAYED THEIR TOYS
+6	PLAYED HIDE AND SEEK
+8	TOOK A PICTURE OF THEM
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+
+SCORE:	0
+
+
+###S5	Conjunction (any)###
+
+9	AND
+
+SCORE:	1
+
+
+###S6	Sentence with two VP's###
+
+6	AND -RSB- THEN THEY PLAYED HIDE AND SEEK .
+
+SCORE:	1
+
+
+###S7	Conjoined phrases###
+
+6	HIDE AND SEEK
+
+SCORE:	1
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+SCORE:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+SCORE:	0
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+
+SCORE:	0
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+6	AND -RSB- THEN THEY PLAYED HIDE AND SEEK .
+
+SCORE:	1
+
+
+###S16	Relative clause marked or unmarked###
+
+
+SCORE:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+
+SCORE:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-10
+NO OF UTTERANCES CONSIDERED: 10
+
+
+#########################
+NOUN SCORE: 16
+VERB SCORE: 18
+QUESTION SCORE: 0
+SENTENCE SCORE: 8
+IPSYN SCORE: 42
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS A BIRD AND A DRAGON .
+2	AND THEY PLAYED IN THE SKY .
+3	AND THEN THEY TOOK A LONG WALK .
+4	AND THEN THEY TOOK A NAP IN THE TREES .
+5	AND THEN THEY PLAYED THEIR TOYS .
+6	AND -RSB- THEN THEY PLAYED HIDE AND SEEK .
+7	AND THEN HE SMILED .
+8	AND SOMEBODY TOOK A PICTURE OF THEM .
+9	AND THEN HE .
+10	AND THEN THE END .

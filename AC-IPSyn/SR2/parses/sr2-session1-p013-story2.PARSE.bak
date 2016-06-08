@@ -1,0 +1,85 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon)
+      (NP (NP (DT a) (NN time))
+       (PP (IN in) (NP (DT the) (NNP Enchanted) (NNP Forest)))))
+     (, ,)
+     (NP (EX there))
+     (VP (AUX was)
+      (NP (NP (NP (DT a) (NN queen)) (CC and) (NP (DT a) (NN king)))
+       (CC and)
+       (NP (NP (DT a) (NNP princess))
+	(SBAR (WHNP (WP who))
+	 (S (VP (AUX had) (NP (DT a) (NN jewel))))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (EX there))
+     (VP (AUX was)
+      (NP (NP (DT a) (NN giant))
+       (SBAR (WHNP (WDT that))
+	(S (VP (VBD liked) (S (VP (VBG taking) (NP (NNS jewels)))))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB sometimes))
+     (NP (PRP he))
+     (VP (VBD liked)
+      (S (VP (TO to)
+	  (VP (VBP sneak) (PRT (RP in)))
+	  (CC and)
+	  (VP (VB take) (NP (DT the) (NNS jewels))))))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (PRP they))
+     (VP (VBD bought) (NP (DT a) (NN sword)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (AUX were)
+      (VP (VBG fighting) (PP (IN with) (NP (DT the) (NN giant)))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT the) (NN giant))
+     (VP (AUX did) (RB not) (VP (AUX have) (NP (DT a) (NN sword))))
+     (. .)))
+
+
+
+(S1 (S (CC But) (NP (PRP they)) (VP (AUX did)) (. .)))
+
+
+
+(S1 (S (IN So)
+     (NP (PRP they))
+     (VP (VBP hurt) (NP (DT the) (NN giant)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then))
+     (NP (PRP they))
+     (VP (MD could)
+      (VP (AUX have)
+       (NP (NP (PDT all) (DT the) (NNS jewels))
+	(SBAR (WHNP (IN that)) (S (NP (PRP they)) (VP (AUX had)))))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

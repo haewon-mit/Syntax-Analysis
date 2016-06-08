@@ -1,0 +1,424 @@
+FILENAME:sr2-session2-p001-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+2	SCREEN
+5	SQUIRREL
+
+COUNTS:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+1	WE
+1	YOU
+
+COUNTS:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+5	THAT
+
+COUNTS:	1
+
+
+###N4	Two word NP preceded by article or modifier###
+
+2	THE SCREEN
+5	THE SQUIRREL
+
+COUNTS:	2
+
+
+###N5	Article used before a noun###
+
+2	THE SCREEN
+5	THE SQUIRREL
+
+COUNTS:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+5	FOR THE SQUIRREL
+
+COUNTS:	1
+
+
+###N7	Plural suffix###
+
+
+COUNTS:	0
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+2	THE SCREEN
+
+COUNTS:	1
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+COUNTS:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+
+COUNTS:	0
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	FOUND
+2	'S
+2	WORKING
+3	MOVING
+4	TURN
+
+COUNTS:	5
+
+
+###V2	Particle or preposition###
+
+5	FOR
+
+COUNTS:	1
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+5	FOR THE SQUIRREL
+
+COUNTS:	1
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+2	 'S
+
+COUNTS:	1
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+2	'S
+
+COUNTS:	1
+
+
+###V7	Progressive Suffix###
+
+2	WORKING
+3	MOVING
+
+COUNTS:	2
+
+
+###V8	Adverb###
+
+2	NOT
+4	ALL
+
+COUNTS:	2
+
+
+###V9	Modal preceeding verb###
+
+
+COUNTS:	0
+
+
+###V10	Third person singular present tense suffix###
+
+5	WORKS
+
+COUNTS:	1
+
+
+###V11	Past tense modal###
+
+
+COUNTS:	0
+
+
+###V12	Regular past tense suffix###
+
+
+COUNTS:	0
+
+
+###V13	Past tense auxiliary###
+
+
+COUNTS:	0
+
+
+###V14	Medial adverb###
+
+4	ALL
+
+COUNTS:	1
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+
+COUNTS:	0
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+2	THE SCREEN 'S NOT WORKING .
+
+COUNTS:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+2	'S NOT WORKING
+
+COUNTS:	1
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+2	'S NOT WORKING
+
+COUNTS:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	WE FOUND YOU
+2	THE SCREEN 'S NOT WORKING
+4	TURN ALL THE
+5	THAT WORKS FOR THE SQUIRREL
+
+COUNTS:	2
+
+
+###S2	Subject verb sequence###
+
+1	WE FOUND 
+2	THE SCREEN 'S NOT WORKING
+5	THAT WORKS 
+
+COUNTS:	3
+
+
+###S3	Verb object sequence###
+
+1	FOUND YOU
+4	TURN ALL THE
+5	WORKS FOR THE SQUIRREL
+
+COUNTS:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+1	WE FOUND YOU
+5	THAT WORKS FOR THE SQUIRREL
+
+COUNTS:	2
+
+
+###S5	Conjunction (any)###
+
+
+COUNTS:	0
+
+
+###S6	Sentence with two VP's###
+
+
+COUNTS:	0
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+COUNTS:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+COUNTS:	0
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+
+COUNTS:	0
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+COUNTS:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+2	THE SCREEN 'S NOT WORKING .
+3	MOVING .
+
+COUNTS:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-5
+NO OF UTTERANCES CONSIDERED: 5
+
+
+#########################
+NOUN COUNTS: 11
+VERB COUNTS: 15
+QUESTION COUNTS: 3
+SENTENCE COUNTS: 10
+TOTAL NO OF STRUCTURES COUNTS: 39
+##########################
+
+###Sentence Listing###
+
+1	WE FOUND YOU !
+2	THE SCREEN 'S NOT WORKING .
+3	MOVING .
+4	TURN ALL THE .
+5	THAT WORKS FOR THE SQUIRREL .

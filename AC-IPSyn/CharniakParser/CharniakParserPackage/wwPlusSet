@@ -1,0 +1,3 @@
+#!/bin/sh
+ulimit -s unlimited
+wwBCTest  -l100 -T350 -s90 $1 /pro/dpg/ecdata/cp2/ "/pro/dpg/tb2/combined/combined/wsj/nAtest"

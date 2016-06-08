@@ -1,0 +1,538 @@
+FILENAME:sr2-session4-p009-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	FRIENDS
+1	STORY
+4	DAY
+4	DINOSAURS
+7	TREE
+9	BAH
+9	POND
+11	END
+
+COUNTS:	8
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+1	I
+8	IT
+10	HE
+10	HIM
+10	THEY
+
+COUNTS:	5
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+4	BIGGER
+4	ONE
+4	TWO
+5	HIGHEST
+7	ANOTHER
+7	HIGH
+
+COUNTS:	6
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A STORY
+2	A DINOSAUR
+4	BIGGER DINOSAURS
+4	ONE DAY
+5	HIGHEST TREE
+9	A POND
+10	A TREE
+11	THE END
+
+COUNTS:	8
+
+
+###N5	Article used before a noun###
+
+1	A STORY
+2	A DINOSAUR
+9	A POND
+10	A TREE
+11	THE END
+
+COUNTS:	5
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	TELL A STORY
+2	WAS A DINOSAUR
+9	INTO A POND
+10	BEHIND A TREE
+
+COUNTS:	4
+
+
+###N7	Plural suffix###
+
+1	FRIENDS
+3	TREES
+4	DINOSAURS
+
+COUNTS:	3
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+4	BIGGER DINOSAURS
+
+COUNTS:	1
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+4	TWO BIGGER DINOSAURS
+5	THE HIGHEST TREE
+
+COUNTS:	2
+
+
+###N10	Adverb modifying adjective or nominal###
+
+7	SO
+7	VERY
+
+COUNTS:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+4	BIGGER
+5	HIGHEST
+
+COUNTS:	2
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	TELL
+1	THINK
+2	WAS
+3	CLIMBING
+3	LOVED
+4	CAME
+5	SCARED
+7	HAD
+8	KNOCKED
+9	SPLASHED
+10	FIND
+10	HID
+
+COUNTS:	12
+
+
+###V2	Particle or preposition###
+
+1	ABOUT
+7	UP
+8	DOWN
+9	INTO
+10	BEHIND
+
+COUNTS:	5
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	ABOUT DINOSAUR FRIENDS
+5	UP THE HIGHEST TREE
+9	INTO A POND
+10	BEHIND A TREE
+
+COUNTS:	4
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+2	 WAS
+5	HE WAS SCARED
+
+COUNTS:	1
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+2	WAS
+5	WAS
+7	HAD
+10	HAD
+
+COUNTS:	2
+
+
+###V7	Progressive Suffix###
+
+3	CLIMBING
+
+COUNTS:	1
+
+
+###V8	Adverb###
+
+2	ONCE
+7	SO
+7	VERY
+10	NOT
+
+COUNTS:	4
+
+
+###V9	Modal preceeding verb###
+
+1	'LL TELL A STORY
+10	COULD NOT FIND HIM
+
+COUNTS:	2
+
+
+###V10	Third person singular present tense suffix###
+
+5	WAS
+
+COUNTS:	1
+
+
+###V11	Past tense modal###
+
+1	'LL
+10	COULD
+
+COUNTS:	2
+
+
+###V12	Regular past tense suffix###
+
+3	LOVED
+6	KNOCKED
+8	KNOCKED
+9	SPLASHED
+
+COUNTS:	3
+
+
+###V13	Past tense auxiliary###
+
+2	WAS
+5	WAS
+7	HAD
+10	HAD
+
+COUNTS:	2
+
+
+###V14	Medial adverb###
+
+7	VERY
+
+COUNTS:	1
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+2	 WAS
+5	 WAS
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+10	THEY COULD NOT FIND HIM BECAUSE HE HAD HID BEHIND A TREE .
+
+COUNTS:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+10	COULD NOT FIND HIM BECAUSE HE HAD HID BEHIND A TREE
+
+COUNTS:	1
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+10	COULD NOT FIND HIM BECAUSE HE HAD HID BEHIND A TREE
+
+COUNTS:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	I THINK I 'LL TELL A STORY ABOUT DINOSAUR FRIENDS
+2	ONCE THERE WAS A DINOSAUR
+3	HE LOVED CLIMBING TREES
+4	ONE DAY TWO BIGGER DINOSAURS CAME
+5	HE WAS SCARED CLIMBED UP THE HIGHEST TREE
+6	BUT HE KNOCKED IT DOWN
+7	SO HE HAD TO CLIMB UP ANOTHER VERY VERY HIGH TREE
+8	BUT HE KNOCKED IT DOWN
+9	BAH AND SPLASHED INTO A POND
+10	THEY COULD NOT FIND HIM BECAUSE HE HAD HID BEHIND A TREE
+11	THE END
+
+COUNTS:	6
+
+
+###S2	Subject verb sequence###
+
+1	I 'LL TELL 
+1	I THINK 
+3	HE LOVED CLIMBING 
+4	ONE DAY TWO BIGGER DINOSAURS CAME
+5	HE WAS 
+9	BAH AND SPLASHED 
+10	HE HAD HID 
+10	THEY COULD NOT FIND 
+
+COUNTS:	6
+
+
+###S3	Verb object sequence###
+
+1	'LL TELL A STORY ABOUT DINOSAUR FRIENDS
+1	THINK I 'LL TELL A STORY ABOUT DINOSAUR FRIENDS
+2	WAS A DINOSAUR
+3	CLIMBING TREES
+3	LOVED CLIMBING TREES
+5	WAS SCARED , CLIMBED UP THE HIGHEST TREE
+6	KNOCKED IT DOWN
+7	HAD TO CLIMB UP ANOTHER VERY , VERY HIGH TREE
+7	TO CLIMB UP ANOTHER VERY , VERY HIGH TREE
+8	KNOCKED IT DOWN
+9	AND SPLASHED INTO A POND
+9	SPLASHED INTO A POND
+10	COULD NOT FIND HIM BECAUSE HE HAD HID BEHIND A TREE
+10	FIND HIM BECAUSE HE HAD HID BEHIND A TREE
+10	HAD HID BEHIND A TREE
+
+COUNTS:	6
+
+
+###S4	Subject Verb Object Sequence###
+
+1	I 'LL TELL A STORY ABOUT DINOSAUR FRIENDS
+1	I THINK I 'LL TELL A STORY ABOUT DINOSAUR FRIENDS
+3	HE LOVED CLIMBING TREES
+5	HE WAS SCARED , CLIMBED UP THE HIGHEST TREE
+9	BAH AND SPLASHED INTO A POND
+10	HE HAD HID BEHIND A TREE
+10	THEY COULD NOT FIND HIM BECAUSE HE HAD HID BEHIND A TREE
+
+COUNTS:	5
+
+
+###S5	Conjunction (any)###
+
+8	BUT
+9	AND
+10	BECAUSE
+
+COUNTS:	3
+
+
+###S6	Sentence with two VP's###
+
+1	I THINK I 'LL TELL A STORY ABOUT DINOSAUR FRIENDS .
+5	HE WAS SCARED , CLIMBED UP THE HIGHEST TREE .
+10	THEY COULD NOT FIND HIM BECAUSE HE HAD HID BEHIND A TREE .
+
+COUNTS:	3
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+7	HAD TO CLIMB UP ANOTHER VERY , VERY HIGH TREE
+
+COUNTS:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+8	BUT
+10	BECAUSE
+
+COUNTS:	2
+
+
+###S11	Propositional Complement###
+
+1	THINK
+
+COUNTS:	1
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+
+COUNTS:	0
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+5	HE WAS SCARED , CLIMBED UP THE HIGHEST TREE .
+10	THEY COULD NOT FIND HIM BECAUSE HE HAD HID BEHIND A TREE .
+
+COUNTS:	2
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+3	HE LOVED CLIMBING TREES .
+
+COUNTS:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-11
+NO OF UTTERANCES CONSIDERED: 11
+
+
+#########################
+NOUN COUNTS: 46
+VERB COUNTS: 41
+QUESTION COUNTS: 3
+SENTENCE COUNTS: 36
+TOTAL NO OF STRUCTURES COUNTS: 126
+##########################
+
+###Sentence Listing###
+
+1	I THINK I 'LL TELL A STORY ABOUT DINOSAUR FRIENDS .
+2	ONCE THERE WAS A DINOSAUR .
+3	HE LOVED CLIMBING TREES .
+4	ONE DAY TWO BIGGER DINOSAURS CAME .
+5	HE WAS SCARED , CLIMBED UP THE HIGHEST TREE .
+6	BUT HE KNOCKED IT DOWN .
+7	SO HE HAD TO CLIMB UP ANOTHER VERY , VERY HIGH TREE .
+8	BUT HE KNOCKED IT DOWN .
+9	BAH AND SPLASHED INTO A POND .
+10	THEY COULD NOT FIND HIM BECAUSE HE HAD HID BEHIND A TREE .
+11	THE END .

@@ -1,0 +1,565 @@
+FILENAME:sr2-session4-p007-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	ACHTODON
+1	BAILEY
+1	REX
+1	STEG
+1	STEGOSAURUS
+1	TIME
+1	TYRANNOSAURUS
+2	PALEOSAUR
+4	TOPS
+4	TREE
+8	STEGGIEOSAURUSS
+13	DINOSAURS
+13	POND
+14	EATER
+14	MEAT
+16	END
+
+COUNTS:	16
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+4	THEY
+9	I
+9	YOU
+10	HE
+11	IT
+
+COUNTS:	5
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+2	RAA
+13	OTHER
+
+COUNTS:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A STEGOSAURUS
+1	A TIME
+1	A TYRANNOSAURUS
+1	AN ACHTODON
+2	RAA PALEOSAUR
+4	THE TREE
+13	OTHER DINOSAURS
+13	THE POND
+14	A MEAT
+16	THE END
+
+COUNTS:	10
+
+
+###N5	Article used before a noun###
+
+1	A STEGOSAURUS
+1	A TIME
+1	A TYRANNOSAURUS
+1	AN ACHTODON
+4	THE TREE
+13	THE POND
+14	A MEAT
+16	THE END
+
+COUNTS:	8
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+1	WAS A STEGOSAURUS
+2	IS RAA PALEOSAUR
+4	IN THE TREE
+13	OVER THE POND
+14	WAS A MEAT
+
+COUNTS:	5
+
+
+###N7	Plural suffix###
+
+3	PALEOSAURS
+4	TOPS
+13	DINOSAURS
+
+COUNTS:	3
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+1	A STEGOSAURUS
+1	AN ACHTODON
+13	OTHER DINOSAURS
+
+COUNTS:	3
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+13	THE OTHER DINOSAURS
+
+COUNTS:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+13	THEN
+
+COUNTS:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	NAMED
+2	IS
+3	SWIM
+4	EAT
+4	LOVE
+6	LIKED
+6	PLAY
+7	HID
+8	JUMPED
+10	RODE
+10	SWAMP
+11	FELL
+14	WAS
+
+COUNTS:	13
+
+
+###V2	Particle or preposition###
+
+1	UPON
+4	IN
+4	UP
+6	WITH
+8	ONTO
+11	INTO
+13	OVER
+
+COUNTS:	7
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+4	IN THE TREE TOPS
+6	WITH STEGOSAURUS
+8	ONTO STEGGIEOSAURUSS
+10	INTO THE SWAMP
+11	INTO IT
+13	OVER THE POND
+
+COUNTS:	5
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+2	 IS
+14	 WAS
+
+COUNTS:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+2	IS
+14	WAS
+
+COUNTS:	2
+
+
+###V7	Progressive Suffix###
+
+
+COUNTS:	0
+
+
+###V8	Adverb###
+
+1	ONCE
+4	ALSO
+8	BACK
+8	UP
+11	DOWN
+13	THEN
+15	NOT
+
+COUNTS:	7
+
+
+###V9	Modal preceeding verb###
+
+9	'LL EAT YOU
+15	COULD NOT SWIM
+
+COUNTS:	2
+
+
+###V10	Third person singular present tense suffix###
+
+2	IS
+14	WAS
+
+COUNTS:	2
+
+
+###V11	Past tense modal###
+
+9	'LL
+15	COULD
+
+COUNTS:	2
+
+
+###V12	Regular past tense suffix###
+
+1	NAMED
+5	PLAYED
+6	LIKED
+8	JUMPED
+13	JUMPED
+
+COUNTS:	4
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+14	WAS
+
+COUNTS:	1
+
+
+###V14	Medial adverb###
+
+4	ALSO
+8	THEN
+8	UP
+11	DOWN
+
+COUNTS:	4
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+14	 WAS
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+15	SO HE COULD NOT SWIM .
+
+COUNTS:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+15	COULD NOT SWIM
+
+COUNTS:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS A STEGOSAURUS NAMED STEG AND A TYRANNOSAURUS REX NAMED REX AND AN ACHTODON NAMED BAILEY
+2	BAILEY IS RAA PALEOSAUR
+3	PALEOSAURS LOVE TO SWIM
+4	AND THEY ALSO LOVE TO EAT UP IN THE TREE TOPS
+5	REX PLAYED
+6	HE LIKED TO PLAY WITH STEGOSAURUS
+7	HE HID
+8	AND THEN JUMPED UP ONTO STEGGIEOSAURUSS BACK
+9	I 'LL EAT YOU
+10	HE RODE INTO THE SWAMP
+11	HE FELL DOWN INTO IT
+12	OH NO
+13	THEN THE OTHER DINOSAURS JUMPED OVER THE POND
+14	REX WAS A MEAT EATER
+15	SO HE COULD NOT SWIM
+16	THE END
+
+COUNTS:	3
+
+
+###S2	Subject verb sequence###
+
+2	BAILEY IS 
+3	PALEOSAURS LOVE 
+5	REX PLAYED
+6	HE LIKED TO PLAY 
+7	HE HID
+9	I 'LL EAT 
+10	HE RODE 
+11	HE FELL DOWN 
+14	REX WAS 
+
+COUNTS:	2
+
+
+###S3	Verb object sequence###
+
+1	NAMED REX
+1	NAMED STEG AND A TYRANNOSAURUS REX NAMED REX
+1	WAS A STEGOSAURUS NAMED STEG AND A TYRANNOSAURUS REX NAMED REX AND AN ACHTODON NAMED BAILEY
+2	IS RAA PALEOSAUR
+4	LOVE TO EAT UP IN THE TREE TOPS
+4	TO EAT UP IN THE TREE TOPS
+6	LIKED TO PLAY WITH STEGOSAURUS
+6	TO PLAY WITH STEGOSAURUS
+8	JUMPED UP ONTO STEGGIEOSAURUSS BACK
+9	'LL EAT YOU
+9	EAT YOU
+10	RODE INTO THE SWAMP
+11	FELL DOWN INTO IT
+13	JUMPED OVER THE POND
+14	WAS A MEAT EATER
+
+COUNTS:	3
+
+
+###S4	Subject Verb Object Sequence###
+
+2	BAILEY IS RAA PALEOSAUR
+6	HE LIKED TO PLAY WITH STEGOSAURUS
+9	I 'LL EAT YOU
+10	HE RODE INTO THE SWAMP
+11	HE FELL DOWN INTO IT
+14	REX WAS A MEAT EATER
+
+COUNTS:	6
+
+
+###S5	Conjunction (any)###
+
+1	AND
+15	SO
+
+COUNTS:	2
+
+
+###S6	Sentence with two VP's###
+
+1	ONCE UPON A TIME , THERE WAS A STEGOSAURUS NAMED STEG AND A TYRANNOSAURUS REX NAMED REX AND AN ACHTODON NAMED BAILEY .
+3	PALEOSAURS LOVE TO SWIM .
+4	AND THEY ALSO LOVE TO EAT UP IN THE TREE TOPS .
+6	HE LIKED TO PLAY WITH STEGOSAURUS .
+10	HE RODE INTO THE SWAMP .
+
+COUNTS:	4
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+4	LOVE TO EAT UP IN THE TREE TOPS
+6	LIKED TO PLAY WITH STEGOSAURUS
+
+COUNTS:	2
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+15	SO
+
+COUNTS:	1
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+
+COUNTS:	0
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+1	ONCE UPON A TIME , THERE WAS A STEGOSAURUS NAMED STEG AND A TYRANNOSAURUS REX NAMED REX AND AN ACHTODON NAMED BAILEY .
+
+COUNTS:	1
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+
+COUNTS:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-16
+NO OF UTTERANCES CONSIDERED: 16
+
+
+#########################
+NOUN COUNTS: 54
+VERB COUNTS: 52
+QUESTION COUNTS: 2
+SENTENCE COUNTS: 24
+TOTAL NO OF STRUCTURES COUNTS: 132
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME , THERE WAS A STEGOSAURUS NAMED STEG AND A TYRANNOSAURUS REX NAMED REX AND AN ACHTODON NAMED BAILEY .
+2	BAILEY IS RAA PALEOSAUR .
+3	PALEOSAURS LOVE TO SWIM .
+4	AND THEY ALSO LOVE TO EAT UP IN THE TREE TOPS .
+5	REX PLAYED .
+6	HE LIKED TO PLAY WITH STEGOSAURUS .
+7	HE HID .
+8	AND THEN JUMPED UP ONTO STEGGIEOSAURUSS BACK .
+9	I 'LL EAT YOU .
+10	HE RODE INTO THE SWAMP .
+11	HE FELL DOWN INTO IT .
+12	OH NO !
+13	THEN THE OTHER DINOSAURS JUMPED OVER THE POND .
+14	REX WAS A MEAT EATER .
+15	SO HE COULD NOT SWIM .
+16	THE END .

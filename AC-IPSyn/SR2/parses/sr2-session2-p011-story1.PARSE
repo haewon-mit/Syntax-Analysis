@@ -1,0 +1,48 @@
+
+
+(S1 (S (NP (NP (DT A) (NN turtle)) (CC and) (NP (DT the) (NN rabbit) (CC and) (NN squirrel))) (VP (AUX were) (PP (IN with) (NP (NP (NN out)) (SBAR (S (VP (VBD Took) (NP (PRP them)) (PP (IN with) (NP (PRP them))))))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP They)) (VP (VBD played) (NP (VB hide) (CC and) (VB seek))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (CD one)) (VP (VBD hided) (PP (IN behind) (NP (NP (DT a) (NN tree)) (CC and) (NP (NP (CD one)) (PP (IN behind) (NP (DT a) (NN rock))))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT That)) (VP (AUX was)) (. .)))
+
+
+
+
+
+(S1 (FRAG (CC And) (RB then) (ADVP (NP (CD one)) (IN behind) (DT the)) (PP (IN from) (NP (DT the) (NNS woods))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBD moved) (PRT (RP out))) (. .)))
+
+
+
+
+
+(S1 (S (NP (EX There)) (VP (AUX 's) (NP (NP (NN alot)) (PP (IN of) (NP (NNS flowers))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (RB then) (NP (PRP they)) (VP (VBD lived) (ADVP (RB happily)) (ADVP (RB ever) (IN after))) (. .)))
+
+
+

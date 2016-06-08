@@ -1,0 +1,108 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was) (NP (DT a) (NN dad)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP it))
+     (VP (AUX was) (NP (PRP$ his) (NN birthday)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (PP (ADVP (NP (DT the) (NN mom)) (RB Once))
+      (IN upon)
+      (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was)
+      (NP (NP (DT a) (NN dad))
+       (, ,)
+       (NP (DT a) (NN mom))
+       (CC and)
+       (NP (DT a) (NN baby))))
+     (. .)))
+
+
+
+(S1 (S (CC and)
+     (NP (EX there))
+     (VP (AUX was) (NP (NNP Babys) (NN birthday)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB then)
+     (NP (DT the) (NN dad))
+     (VP (VBP come) (NP (NN home)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (AUX was)
+      (VP (VBG making)
+       (NP (NP (DT a) (NN cake))
+	(SBAR (WHADVP (WRB when))
+	 (S (NP (PRP she))
+	  (VP (AUX was) (PP (IN at) (NP (NN school)))))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then))
+     (NP (PRP she))
+     (VP (VBD came) (ADVP (RB back)) (ADVP (RB home)))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB Actually))
+     (, ,)
+     (NP (PRP it))
+     (VP (AUX was) (NP (DT a) (JJ big) (NN girl)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP she))
+     (VP (VBD came) (ADVP (RB back)) (ADVP (RB home)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP she))
+     (VP (VBD saw)
+      (NP (NP (NNS lots))
+       (PP (IN of) (NP (NNS presents) (CC and) (NNS friends)))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP She))
+     (VP (AUX was) (ADJP (RB so) (JJ excited)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP It))
+     (VP (AUX 's) (NP (PRP$ her) (NN birthday)))
+     (. .)))
+
+
+
+(S1 (S (CC And) (NP (PRP she)) (VP (VBD knew) (NP (DT that))) (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

@@ -1,0 +1,24 @@
+
+
+(S1 (SBARQ (WHNP (WP What)) (SQ (AUX is) (NP (DT the))) (. .)))
+
+
+
+
+
+(S1 (NP (NP (NNP goo) (NNP goo)) (NP (NP (NNP ga)) (NP (NNP ga))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (DT the) (NN baby)) (VP (AUX was) (VP (VBN named) (S (NP (NNP Babacoocoo))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (CC And) (PRP they) (CC And) (PRP they)) (DT both) (VP (VBD lived) (ADVP (RB happily)) (ADVP (RB ever) (IN after))) (. .)))
+
+
+

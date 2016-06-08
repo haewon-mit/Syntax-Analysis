@@ -1,0 +1,110 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was)
+      (NP (NP (DT a) (JJ blue) (NN bird))
+       (CC and)
+       (NP (DT a) (NN butterfly))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (VBD liked) (S (VP (VBG playing) (NP (NNS games)))))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (PRP they))
+     (VP (AUX did)
+      (RB not)
+      (VP (VB like)
+       (S (VP (TO to)
+	   (VP (VB play) (PP (IN with) (NP (DT the) (NNP dragon))))))))
+     (. .)))
+
+
+
+(S1 (FRAG (CC And)
+     (ADVP (RB once))
+     (NP (NP (NN time))
+      (SBAR (S (NP (PRP they))
+	     (VP (VBD saw) (NP (DT the) (NNP dragon))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (VBD started) (VP (VBG hiding)))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (DT the) (NNP dragon))
+     (VP (AUX was) (ADVP (RB actually)) (ADJP (JJ nice)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (AUX did) (RB not) (VP (VB know) (NP (DT that))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (VBD started) (VP (VBG running) (PRT (RP off))))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (DT the) (NNP dragon))
+     (VP (VBD started) (VP (VBG chasing) (NP (PRP them))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB then)
+     (NP (DT the) (NNP dragon))
+     (VP (VBD said)
+      (, ,)
+      (S (NP (PRP I)) (VP (AUX 'm) (RB not) (ADJP (JJ bad)))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP I)) (VP (AUX 'm) (ADJP (JJ nice))) (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB then)
+     (NP (PRP they))
+     (VP (VBD said) (, ,) (INTJ (UH Oh)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB then)
+     (NP (DT the) (NNP dragon))
+     (VP (VBD asked)
+      (NP (PRP them))
+      (SBAR (IN if)
+       (S (NP (PRP he))
+	(VP (MD could) (VP (VB play) (PP (IN with) (NP (PRP them))))))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

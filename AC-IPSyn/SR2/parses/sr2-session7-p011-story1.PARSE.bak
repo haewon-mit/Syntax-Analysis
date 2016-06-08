@@ -1,0 +1,63 @@
+
+(S1 (S (ADVP (RB So) (RB once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was)
+      (NP (NP (DT a) (NN girl))
+       (SBAR (WHNP (WDT that))
+	(S (VP (AUX had)
+	    (NP (NP (DT a) (NN cat)) (CC and) (NP (DT a) (NN dog))))))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (NN dog) (CC and) (NN cat))
+     (VP (VBD played)
+      (ADVP (RB together))
+      (PP (IN with) (NP (DT the) (NN ball))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT the) (NN girl))
+     (VP (VBD played)
+      (PP (IN with) (NP (DT the) (JJ big) (, ,) (JJ tall) (NNS blocks))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (VP (VBD sat) (PP (IN in) (NP (DT the) (NN chair))))
+      (CC and)
+      (VP (VBD watched) (NP (DT the))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB then)
+     (NP (PRP they))
+     (VP (VBD sat) (PP (IN on) (NP (DT the) (NN couch))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP It))
+     (VP (AUX was) (NP (DT a) (NNP pirate) (NN ship)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB then)
+     (NP (PRP they))
+     (VP (VBD played) (NP (NNS pirates)) (PP (IN in) (NP (PRP it))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

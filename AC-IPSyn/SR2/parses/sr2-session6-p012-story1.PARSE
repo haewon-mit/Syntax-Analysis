@@ -1,0 +1,48 @@
+
+
+(S1 (FRAG (NP (DT the) (NN guess)) (WHNP (WP what)) (. ?)))
+
+
+
+
+
+(S1 (FRAG (RB then) (NP (PRP he)) (. .)))
+
+
+
+
+
+(S1 (FRAG (WRB Why) (. ?)))
+
+
+
+
+
+(S1 (INTJ (UH Yeah) (. .)))
+
+
+
+
+
+(S1 (SQ (CC And) (AUX do) (NP (PRP you)) (VP (VB know) (NP (WP what))) (. ?)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (AUX have) (NP (NP (DT a) (NN friend)) (VP (VBN named) (NP (NNP Green))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP It)) (VP (AUX 's) (RB not) (NP (DT this) (NN Green))) (. .)))
+
+
+
+
+
+(S1 (FRAG (RB Not) (NP (DT this)) (. .)))
+
+
+

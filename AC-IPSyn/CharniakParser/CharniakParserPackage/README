@@ -1,0 +1,150 @@
+/*
+ * Copyright 1999, 2000, 2001, 2005 Brown University, Providence, RI.
+ * 
+ *                         All Rights Reserved
+ * 
+ * Permission to use, copy, modify, and distribute this software and its
+ * documentation for any purpose other than its incorporation into a
+ * commercial product is hereby granted without fee, provided that the
+ * above copyright notice appear in all copies and that both that
+ * copyright notice and this permission notice appear in supporting
+ * documentation, and that the name of Brown University not be used in
+ * advertising or publicity pertaining to distribution of the software
+ * without specific, written prior permission.
+ * 
+ * BROWN UNIVERSITY DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE,
+ * INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR ANY
+ * PARTICULAR PURPOSE.  IN NO EVENT SHALL BROWN UNIVERSITY BE LIABLE FOR
+ * ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+ * WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ * ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+ * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+ */
+
+First, the important news. This version of the parser can produce
+multiple-best parses.  So if you what 50 alternative parses rather
+than just one, change the line
+#define NTH 1
+in AnswerTree.h to
+#define NTH 50
+
+This version can also be used in language-modeling mode.  More on this
+later.
+
+The input-output for single-best is as before: Input is ascii text
+with sentences delimited by <s> ...</s>, and outputs the parsed
+versions in Penn tree-bank style.  (The <s> and </s> must be separated
+by spaces from all other text.) So if the input is
+
+<s> (``He'll work at the factory.'') </s>
+
+the output will be:
+
+(S1 (PRN (-LRB- -LRB-)
+     (S (`` ``)
+      (NP (PRP He))
+      (VP (MD 'll)
+       (VP (VB work) (PP (IN at) (NP (DT the) (NN factory)))))
+      (. .)
+      ('' ''))
+     (-RRB- -RRB-)))
+
+The program was created from this file by
+make parseIt
+
+In multiparse mode the ouput format is slightly different;
+Sent# #ofParses
+logProb(parse1)
+parse1
+
+logProb(parse2)
+parse2
+
+etc.
+
+The program is run from this directory by:
+parseIt <path to data directory>  <text file>
+e.g.,
+parseIt DATA/ sometxt
+
+The parser will ignore any sentence consisting of > 100
+words+punctuation.  To change this to, say 200 you give it the on-line
+argument -l200.  
+
+The parser is set to be case sensitive.  To make it case insensitive
+add the command-line flat -C .
+
+Currently there are various array sizes that make 400
+the absolute maximum sentence length.  To allow for longer sentences
+change (in Feature.h)
+#define MAXSENTLEN 400
+Similarly to allow for a larger dictionary of words from training increase
+#define MAXNUMWORDS 50000
+
+To see debugging information give it the on-line argument -d#
+where # is a number > 5.  As the numbers get larger, the verbosity of
+the information increases.
+
+VERY IMPORTANT.  MANY IMPLEMENTATIONS OF UNIX HAVE VERY LOW DEFAULT
+STACK SIZE LIMITS.  THIS CAN CAUSE MY PARSER TO ABORT.  IT IS
+GENERALLY A GOOD IDEA TO SET THE STACK SIZE TO "unlimited" BEFORE YOU
+RUN THE PARSER.
+
+There is a subdirectory TRAIN which contains the programs used to
+collect the statistics the parser requires from tree-bank data.  As
+the parser comes with the statistics it needs you will only need this
+if you want to try experiments with the parser on more (or less, or
+different) tree-bank data.  For more information see the README file
+in TRAIN.
+
+LANGUAGE MODELING
+
+To use the parser as the language model described in Charniak 2001
+(Proceedings of ACL) you must first retrain the data using the
+settings found in DATALM.  In TRAIN you must use the script
+allScriptLM.
+
+Then give parseIt a -L command-line arguement.  If the data is from speech,
+and thus all one case, also use the -C flag.
+
+The output in -L  mode is of the form:
+
+log-grammar-probability	  log-trigram-probability   log-mixed-probability
+parse
+
+Again, if the data is from speech and has a limited vocabularay, it
+will often be the case that the parser will have a very difficult time
+finding a parse becase of incorrect words (or, in simulated speech
+output, the presence of "unk" the unknown word replacement), and there
+will be many parses with equally bad probabilities.  In such cases the
+pruning that keeps memory in bounds for 50-best parsing fails.  So
+just use 1-best, or maybe 10 best.
+
+
+-------------------------------------------------
+
+The rest is for more complicated tasks.
+
+If you plan on training the parser on for languages other than
+English, or for all upper (or lower) case text, changingfollowing pieces
+of code ought to be considered
+
+in BchartSm.C
+//return 1.0 //ADD to IGNORE hypenization for unknown words
+//return 1.0 //ADD to IGNORE endings for unknown words
+
+in Edge.C and sel/ccInd.C
+//Change next two lines depending on possible conjunction parts of speech
+ECString CCInd[2] = {"CC", "CONJP"};
+if(pos != 0 && (nm == CCInd[0] || nm == CCInd[1])) sawCC = true;
+
+in sel/ccINd.C	
+  /*Change next line to indicate which non-terminals get specially
+    marked to indicate that they are conjoined together */
+  if(trm != "NP" && trm != "S" && trm != "VP") return tint;
+and similarly in Edge.C
+  if(tNm != "NP" && tNm != "S" && tNm != "VP") return tint;
+
+
+Also check out this area in fhSubFns.C
+      // punctuation rules are Language specific 

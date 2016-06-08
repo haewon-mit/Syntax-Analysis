@@ -1,0 +1,548 @@
+FILENAME:sr2-session7-p013-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	DOG
+1	TIME
+3	CAT
+3	TOYS
+4	MINUTE
+4	ROOM
+8	GIRL
+8	LESSONS
+9	STUFF
+10	END
+
+COUNTS:	10
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+5	IT
+6	HER
+9	SHE
+
+COUNTS:	3
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+2	HER
+4	EVERY
+5	ONE
+7	MOST
+8	SOME
+9	ANGRY
+
+COUNTS:	6
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A CAT
+1	A GIRL
+1	A TIME
+2	HER CAT
+3	THE TOYS
+4	EVERY MINUTE
+4	HER ROOM
+7	THE CAT
+7	THE TIME
+8	SOME LESSONS
+8	THE GIRL
+9	THE STUFF
+10	THE END
+
+COUNTS:	13
+
+
+###N5	Article used before a noun###
+
+1	A CAT
+1	A GIRL
+1	A TIME
+3	THE TOYS
+6	THE CAT
+7	THE TIME
+8	THE GIRL
+9	THE STUFF
+10	THE END
+
+COUNTS:	9
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	HAD A CAT
+1	UPON A TIME
+1	WAS A GIRL
+2	WITH HER CAT
+3	AROUND HER ROOM
+3	PUTTING THE TOYS
+4	CLEANS HER ROOM
+4	LIKE EVERY MINUTE
+7	OF THE TIME
+8	TAUGHT THE CAT
+9	CLEAN THE STUFF
+
+COUNTS:	10
+
+
+###N7	Plural suffix###
+
+3	TOYS
+8	LESSONS
+
+COUNTS:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+3	HER CAT
+8	THE GIRL
+9	THE CAT
+
+COUNTS:	3
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+COUNTS:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+5	ONLY
+5	SOMETIMES
+8	SO
+9	NOW
+9	VERY
+
+COUNTS:	5
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	HAD
+1	STUFFED
+1	WAS
+2	LIKED
+2	PLAYING
+3	KEEPS
+3	PUTTING
+5	CLEANS
+6	LISTENS
+7	DOES
+8	TAUGHT
+9	HAS
+9	KNOWS
+
+COUNTS:	13
+
+
+###V2	Particle or preposition###
+
+1	UPON
+2	WITH
+3	AROUND
+4	LIKE
+6	TO
+7	OF
+9	UP
+
+COUNTS:	7
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+2	WITH HER CAT
+3	AROUND HER ROOM
+4	LIKE EVERY MINUTE
+5	UP ONLY ONE
+6	TO HER
+7	OF THE TIME
+
+COUNTS:	6
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+
+COUNTS:	1
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	HAD
+1	WAS
+7	DO
+9	HAS
+
+COUNTS:	4
+
+
+###V7	Progressive Suffix###
+
+2	PLAYING
+3	PUTTING
+
+COUNTS:	2
+
+
+###V8	Adverb###
+
+1	ONCE
+5	ONLY
+5	SOMETIMES
+7	NOT
+8	SO
+9	AGAIN
+9	NOW
+9	VERY
+9	WHEN
+
+COUNTS:	9
+
+
+###V9	Modal preceeding verb###
+
+
+COUNTS:	0
+
+
+###V10	Third person singular present tense suffix###
+
+1	WAS
+3	KEEPS
+5	CLEANS
+6	LISTENS
+7	DOES
+9	HAS
+9	KNOWS
+
+COUNTS:	7
+
+
+###V11	Past tense modal###
+
+
+COUNTS:	0
+
+
+###V12	Regular past tense suffix###
+
+1	STUFFED
+2	LIKED
+
+COUNTS:	2
+
+
+###V13	Past tense auxiliary###
+
+1	HAD
+1	WAS
+
+COUNTS:	2
+
+
+###V14	Medial adverb###
+
+5	ONLY
+5	SOMETIMES
+9	NOW
+9	VERY
+9	WHEN
+
+COUNTS:	5
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+7	BUT MOST OF THE TIME THE CAT DOES NOT .
+
+COUNTS:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+7	DOES NOT
+
+COUNTS:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS A GIRL THAT HAD A CAT AND A STUFFED DOG
+2	SHE LIKED PLAYING WITH HER CAT
+3	BUT HER CAT KEEPS PUTTING THE TOYS AROUND HER ROOM
+4	LIKE EVERY MINUTE SHE CLEANS HER ROOM UP
+5	SO SOMETIMES SHE CLEANS IT UP ONLY ONE TIME
+6	AND SOMETIMES THE CAT LISTENS TO HER
+7	BUT MOST OF THE TIME THE CAT DOES NOT
+8	SO THE GIRL TAUGHT THE CAT SOME LESSONS
+9	AND NOW THE CAT KNOWS THAT SHE VERY ANGRY WHEN SHE HAS TO CLEAN THE STUFF UP AGAIN
+10	THE END
+
+COUNTS:	2
+
+
+###S2	Subject verb sequence###
+
+2	SHE LIKED PLAYING 
+
+COUNTS:	1
+
+
+###S3	Verb object sequence###
+
+1	HAD A CAT
+1	WAS A GIRL THAT HAD A CAT AND A STUFFED DOG
+2	LIKED PLAYING WITH HER CAT
+2	PLAYING WITH HER CAT
+3	KEEPS PUTTING THE TOYS AROUND HER ROOM
+3	PUTTING THE TOYS AROUND HER ROOM
+4	CLEANS HER ROOM UP
+5	CLEANS IT UP ONLY ONE TIME
+6	LISTENS TO HER
+8	TAUGHT THE CAT SOME LESSONS
+9	HAS TO CLEAN THE STUFF UP AGAIN
+9	KNOWS THAT SHE VERY ANGRY WHEN SHE HAS TO CLEAN THE STUFF UP AGAIN
+
+COUNTS:	4
+
+
+###S4	Subject Verb Object Sequence###
+
+2	SHE LIKED PLAYING WITH HER CAT
+
+COUNTS:	1
+
+
+###S5	Conjunction (any)###
+
+1	AND
+7	BUT
+9	THAT
+
+COUNTS:	3
+
+
+###S6	Sentence with two VP's###
+
+9	AND NOW THE CAT KNOWS THAT SHE VERY ANGRY WHEN SHE HAS TO CLEAN THE STUFF UP AGAIN .
+
+COUNTS:	1
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+9	HAS TO CLEAN THE STUFF UP AGAIN
+
+COUNTS:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+7	BUT
+9	THAT
+
+COUNTS:	2
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+1	ONCE UPON A TIME THERE WAS A GIRL THAT HAD A CAT AND A STUFFED DOG .
+9	AND NOW THE CAT KNOWS THAT SHE VERY ANGRY WHEN SHE HAS TO CLEAN THE STUFF UP AGAIN .
+
+COUNTS:	2
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+1	ONCE UPON A TIME THERE WAS A GIRL THAT HAD A CAT AND A STUFFED DOG .
+9	AND NOW THE CAT KNOWS THAT SHE VERY ANGRY WHEN SHE HAS TO CLEAN THE STUFF UP AGAIN .
+
+COUNTS:	2
+
+
+###S16	Relative clause marked or unmarked###
+
+1	A GIRL THAT HAD A CAT AND A STUFFED DOG
+
+COUNTS:	1
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+2	SHE LIKED PLAYING WITH HER CAT .
+3	BUT HER CAT KEEPS PUTTING THE TOYS AROUND HER ROOM .
+
+COUNTS:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-10
+NO OF UTTERANCES CONSIDERED: 10
+
+
+#########################
+NOUN COUNTS: 61
+VERB COUNTS: 59
+QUESTION COUNTS: 2
+SENTENCE COUNTS: 21
+TOTAL NO OF STRUCTURES COUNTS: 143
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS A GIRL THAT HAD A CAT AND A STUFFED DOG .
+2	SHE LIKED PLAYING WITH HER CAT .
+3	BUT HER CAT KEEPS PUTTING THE TOYS AROUND HER ROOM .
+4	LIKE EVERY MINUTE SHE CLEANS HER ROOM UP .
+5	SO SOMETIMES SHE CLEANS IT UP ONLY ONE TIME .
+6	AND SOMETIMES THE CAT LISTENS TO HER .
+7	BUT MOST OF THE TIME THE CAT DOES NOT .
+8	SO THE GIRL TAUGHT THE CAT SOME LESSONS .
+9	AND NOW THE CAT KNOWS THAT SHE VERY ANGRY WHEN SHE HAS TO CLEAN THE STUFF UP AGAIN .
+10	THE END .

@@ -1,0 +1,32 @@
+@UTF8
+@Begin
+@Languages:	en
+@Participants:	INV Lisa Investigator, CHI Target_Child
+@ID:	en|conti4|INV|||||Investigator||
+@ID:	en|conti4|CHI|13;10.27||||Target_Child||
+@Date:	28-NOV-2001
+@Coder:	Dee
+@Situation:	Participants in a quiet room at the child's home, using Frog
+	where are you? book for stimulus.
+@Warning:	608 has fairly severe articulation difficulties: <looked>
+	sounds like lived and toot is used for took but both are used
+	consistently.
+*INV:	www.
+%exp:	child and investigator talk briefly before narrative begins.
+*CHI:	in the night this boy was looking at a frog.
+*CHI:	in the morning the frog was gone.
+*CHI:	the boy looked around his room and looked outside in the garden.
+*CHI:	then they looked in the park.
+*CHI:	then they looked in a beehive, got stung by the bees.
+*CHI:	he looked up a tree.
+*CHI:	he got on a reindeer.
+*CHI:	and the reindeer pushed him off a cliff into a pond.
+*CHI:	then he fell into a pond.
+*CHI:	then # he looked around the pond for his frog.
+*CHI:	then he looked behind a log.
+*CHI:	and he found his frog with his wife and baby frogs.
+*CHI:	and then the boy took the frog and said goodbye to the frog's
+	family.
+*INV:	www.
+%exp:	investigator talks as disc is turned off.
+@End

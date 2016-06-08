@@ -1,0 +1,586 @@
+FILENAME:sr2-session8-p010-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	ALIENS
+2	GREEN
+2	WANNA
+3	HEAD
+3	STORY
+6	BOY
+6	GIRL
+6	SNOWFLAKE
+6	TIME
+7	BALL
+11	DAISY
+12	UHOH
+14	FERDINAND
+14	KING
+14	LET
+16	OLAF
+23	END
+
+COUNTS:	17
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+2	I
+8	IT
+8	THEM
+17	HE
+19	THEY
+
+COUNTS:	5
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+3	MY
+7	BLUE
+9	ALL
+14	'S
+
+COUNTS:	4
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A STORY
+3	MY HEAD
+6	A BOY
+6	A GIRL
+6	A TIME
+7	BLUE BALL
+9	THE OLAF
+23	THE END
+
+COUNTS:	8
+
+
+###N5	Article used before a noun###
+
+1	A STORY
+6	A BOY
+6	A GIRL
+6	A TIME
+9	THE OLAF
+23	THE END
+
+COUNTS:	6
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+3	HAVE A STORY
+3	IN MY HEAD
+5	TELL A STORY
+6	UPON A TIME
+6	WAS A GIRL
+
+COUNTS:	4
+
+
+###N7	Plural suffix###
+
+1	ALIENS
+
+COUNTS:	1
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+6	A BOY
+6	A GIRL
+
+COUNTS:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+7	A BLUE BALL
+
+COUNTS:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+14	THEN
+
+COUNTS:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	THINK
+2	DO
+2	TELL
+3	HAVE
+6	NAMED
+7	PLAYED
+8	TOSSING
+8	WERE
+13	SCARED
+13	WAS
+14	SAYS
+14	SWING
+17	LIKES
+17	SLIDING
+19	WANTED
+
+COUNTS:	15
+
+
+###V2	Particle or preposition###
+
+1	ABOUT
+3	IN
+6	UPON
+7	WITH
+8	OF
+17	DOWN
+
+COUNTS:	6
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	ABOUT ALIENS
+3	IN MY HEAD
+6	UPON A TIME
+7	WITH A BLUE BALL
+8	OF THEM
+17	DOWN THE
+
+COUNTS:	6
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+6	 WAS
+8	 WERE
+13	I WAS JUST SCARED
+14	 'S
+
+COUNTS:	3
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+2	WANNA
+
+COUNTS:	1
+
+
+###V6	Auxiliary be, do, have in VP###
+
+2	DO
+3	DO
+3	HAVE
+6	WAS
+8	WERE
+13	WAS
+19	DO
+
+COUNTS:	4
+
+
+###V7	Progressive Suffix###
+
+8	TOSSING
+17	SLIDING
+
+COUNTS:	2
+
+
+###V8	Adverb###
+
+3	NOT
+3	NOW
+3	RIGHT
+6	ONCE
+13	JUST
+14	THEN
+21	TOO
+
+COUNTS:	7
+
+
+###V9	Modal preceeding verb###
+
+1	'LL TELL A STORY
+5	'LL TELL A STORY
+
+COUNTS:	1
+
+
+###V10	Third person singular present tense suffix###
+
+6	WAS
+14	SAYS
+15	SWINGS
+17	LIKES
+
+COUNTS:	4
+
+
+###V11	Past tense modal###
+
+5	'LL
+
+COUNTS:	1
+
+
+###V12	Regular past tense suffix###
+
+6	NAMED
+7	PLAYED
+19	WANTED
+21	WANTED
+
+COUNTS:	3
+
+
+###V13	Past tense auxiliary###
+
+6	WAS
+8	WERE
+13	WAS
+
+COUNTS:	2
+
+
+###V14	Medial adverb###
+
+3	NOT
+3	RIGHT
+9	ONCE
+13	JUST
+
+COUNTS:	4
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+6	 WAS
+8	 WERE
+13	 WAS
+
+COUNTS:	2
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+2	I DO NOT WANNA TELL A STORY GREEN .
+3	I DO NOT HAVE A STORY IN MY HEAD RIGHT NOW .
+
+COUNTS:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+2	DO NOT WANNA TELL A STORY GREEN
+3	DO NOT HAVE A STORY IN MY HEAD RIGHT NOW
+
+COUNTS:	1
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+2	DO NOT WANNA TELL A STORY GREEN
+3	DO NOT HAVE A STORY IN MY HEAD RIGHT NOW
+
+COUNTS:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	I THINK I 'LL TELL A STORY ABOUT ALIENS AND
+2	I DO NOT WANNA TELL A STORY GREEN
+3	I DO NOT HAVE A STORY IN MY HEAD RIGHT NOW
+5	I 'LL TELL A STORY
+6	ONCE UPON A TIME THERE WAS A GIRL NAMED DAISY AND A GIRL NAMED SNOWFLAKE AND A BOY NAMED
+7	AND THEY PLAYED BALL WITH A BLUE BALL
+8	AND ALL OF THEM WERE TOSSING IT
+9	ALL AT ONCE THE OLAF
+13	I WAS JUST SCARED
+14	THEN KING FERDINAND SAYS LET 'S SWING
+15	AND DAISY SNOWFLAKE SWINGS
+17	HE LIKES SLIDING DOWN THE
+18	WHEE WHEE WHEE WHEE WHEE
+19	THEY WANTED TO DO IT TOO
+20	WHEE WHEE WHEE WHEE WHEE
+21	DAISY WANTED TO TOO
+22	WHEE WHEE WHEE WHEE WHEE WHEE WHEE WHEE WHEE
+23	AND THE END
+
+COUNTS:	3
+
+
+###S2	Subject verb sequence###
+
+1	I 'LL TELL 
+1	I THINK 
+2	I DO NOT WANNA TELL 
+3	I DO NOT HAVE 
+5	I 'LL TELL 
+13	I WAS 
+14	LET 'S SWING
+17	HE LIKES SLIDING 
+19	THEY WANTED TO DO 
+21	DAISY WANTED TO , TOO
+
+COUNTS:	6
+
+
+###S3	Verb object sequence###
+
+1	'LL TELL A STORY ABOUT ALIENS AND
+1	THINK I 'LL TELL A STORY ABOUT ALIENS AND
+2	DO NOT WANNA TELL A STORY GREEN
+2	WANNA TELL A STORY GREEN
+3	DO NOT HAVE A STORY IN MY HEAD RIGHT NOW
+3	HAVE A STORY IN MY HEAD RIGHT NOW
+5	'LL TELL A STORY
+5	TELL A STORY
+6	NAMED DAISY
+6	WAS A GIRL NAMED DAISY AND A GIRL NAMED SNOWFLAKE AND A BOY NAMED
+7	PLAYED BALL WITH A BLUE BALL
+8	TOSSING IT
+8	WERE TOSSING IT
+14	SAYS , LET 'S SWING
+17	LIKES SLIDING DOWN THE
+17	SLIDING DOWN THE
+19	TO DO IT TOO
+19	WANTED TO DO IT TOO
+
+COUNTS:	4
+
+
+###S4	Subject Verb Object Sequence###
+
+1	I 'LL TELL A STORY ABOUT ALIENS AND
+1	I THINK I 'LL TELL A STORY ABOUT ALIENS AND
+2	I DO NOT WANNA TELL A STORY GREEN
+3	I DO NOT HAVE A STORY IN MY HEAD RIGHT NOW
+5	I 'LL TELL A STORY
+17	HE LIKES SLIDING DOWN THE
+19	THEY WANTED TO DO IT TOO
+
+COUNTS:	3
+
+
+###S5	Conjunction (any)###
+
+7	AND
+
+COUNTS:	1
+
+
+###S6	Sentence with two VP's###
+
+1	I THINK I 'LL TELL A STORY ABOUT ALIENS AND .
+6	ONCE UPON A TIME THERE WAS A GIRL NAMED DAISY AND A GIRL NAMED SNOWFLAKE AND A BOY NAMED .
+14	THEN KING FERDINAND SAYS , LET 'S SWING .
+
+COUNTS:	1
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+19	WANTED TO DO IT TOO
+
+COUNTS:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+COUNTS:	0
+
+
+###S11	Propositional Complement###
+
+1	THINK
+
+COUNTS:	1
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+
+COUNTS:	0
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+6	ONCE UPON A TIME THERE WAS A GIRL NAMED DAISY AND A GIRL NAMED SNOWFLAKE AND A BOY NAMED .
+
+COUNTS:	1
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+8	AND ALL OF THEM WERE TOSSING IT .
+17	HE LIKES SLIDING DOWN THE .
+
+COUNTS:	2
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-23
+NO OF UTTERANCES CONSIDERED: 23
+
+
+#########################
+NOUN COUNTS: 49
+VERB COUNTS: 61
+QUESTION COUNTS: 3
+SENTENCE COUNTS: 23
+TOTAL NO OF STRUCTURES COUNTS: 136
+##########################
+
+###Sentence Listing###
+
+1	I THINK I 'LL TELL A STORY ABOUT ALIENS AND .
+2	I DO NOT WANNA TELL A STORY GREEN .
+3	I DO NOT HAVE A STORY IN MY HEAD RIGHT NOW .
+4	OK .
+5	I 'LL TELL A STORY .
+6	ONCE UPON A TIME THERE WAS A GIRL NAMED DAISY AND A GIRL NAMED SNOWFLAKE AND A BOY NAMED .
+7	AND THEY PLAYED BALL WITH A BLUE BALL .
+8	AND ALL OF THEM WERE TOSSING IT .
+9	ALL AT ONCE , THE OLAF .
+10	AND .
+11	DAISY !
+12	UHOH .
+13	I WAS JUST SCARED .
+14	THEN KING FERDINAND SAYS , LET 'S SWING .
+15	AND DAISY SNOWFLAKE SWINGS .
+16	OLAF .
+17	HE LIKES SLIDING DOWN THE .
+18	WHEE WHEE WHEE WHEE WHEE .
+19	THEY WANTED TO DO IT TOO .
+20	WHEE WHEE WHEE WHEE WHEE .
+21	DAISY WANTED TO , TOO .
+22	WHEE WHEE WHEE WHEE WHEE WHEE WHEE WHEE WHEE .
+23	AND THE END .

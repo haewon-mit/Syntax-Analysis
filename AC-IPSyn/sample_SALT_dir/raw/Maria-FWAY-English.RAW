@@ -1,0 +1,602 @@
+FILENAME:Maria-FWAY-English
+
+
+###N1	Proper Mass or Count Noun###
+
+1	DAY
+2	BED
+4	FRASC
+7	DOG
+8	FROG
+13	BIRD
+16	ROCK
+21	BOY
+21	SHH
+24	HAND
+25	NOTHERS
+
+COUNTS:	11
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+5	HE
+22	THERE
+
+COUNTS:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	LITTLE
+1	ONE
+2	YOUR
+7	'S
+24	HIS
+25	BYE
+
+COUNTS:	6
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A FROG
+1	LITTLE BOY
+1	ONE DAY
+2	YOUR BED
+4	THE FRASC
+7	THE DOG
+8	THE FROG
+13	A BIRD
+16	ONE ROCK
+21	THE BOY
+24	HIS FROG
+24	YOUR HAND
+25	THE NOTHERS
+
+COUNTS:	13
+
+
+###N5	Article used before a noun###
+
+1	A FROG
+4	THE FRASC
+7	THE DOG
+8	THE FROG
+13	A BIRD
+21	THE BOY
+25	THE NOTHERS
+
+COUNTS:	7
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	BE A FROG
+2	TO YOUR BED
+4	IN THE FRASC
+5	TO THE FROG
+13	BE A BIRD
+24	IN YOUR HAND
+25	TO THE NOTHERS
+
+COUNTS:	5
+
+
+###N7	Plural suffix###
+
+25	FROGS
+25	NOTHERS
+
+COUNTS:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+4	THE FROG
+14	THE DOG
+21	THE BOY
+24	HIS FROG
+
+COUNTS:	4
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+1	A LITTLE BOY
+
+COUNTS:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+11	THEN
+
+COUNTS:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	BE
+3	'S
+4	IS
+4	PEEKS
+5	CALLING
+14	RUN
+18	GOING
+20	SAY
+21	SAID
+22	BUSC
+
+COUNTS:	10
+
+
+###V2	Particle or preposition###
+
+4	IN
+15	UP
+19	DOWN
+23	OVER
+25	TO
+
+COUNTS:	5
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+2	TO YOUR BED
+4	IN THE FRASC
+5	TO THE FROG
+8	TO THE FROG
+20	OVER THERE
+23	OVER THERE
+24	IN YOUR HAND
+25	TO THE NOTHERS
+
+COUNTS:	5
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 'S
+1	 BE
+2	 IS
+3	 'S
+4	 IS
+5	 'S
+7	 'S
+8	 'S
+10	 'S
+11	 'S
+12	 'S
+13	 'S
+13	 BE
+14	 IS
+18	 IS
+20	 IS
+23	 IS
+24	 IS
+
+COUNTS:	3
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	'S
+2	IS
+3	'S
+4	IS
+5	'S
+8	'S
+10	'S
+11	'S
+12	'S
+13	'S
+14	IS
+18	IS
+20	IS
+23	IS
+24	IS
+
+COUNTS:	2
+
+
+###V7	Progressive Suffix###
+
+2	GOING
+3	GOING
+5	CALLING
+8	CALLING
+10	CALLING
+11	CALLING
+12	CALLING
+17	CALLING
+18	GOING
+
+COUNTS:	2
+
+
+###V8	Adverb###
+
+4	NOT
+4	WHEN
+11	TOO
+12	THEN
+23	THERE
+
+COUNTS:	5
+
+
+###V9	Modal preceeding verb###
+
+
+COUNTS:	0
+
+
+###V10	Third person singular present tense suffix###
+
+4	IS
+4	PEEKS
+15	GOS
+22	BUSC
+
+COUNTS:	4
+
+
+###V11	Past tense modal###
+
+
+COUNTS:	0
+
+
+###V12	Regular past tense suffix###
+
+
+COUNTS:	0
+
+
+###V13	Past tense auxiliary###
+
+
+COUNTS:	0
+
+
+###V14	Medial adverb###
+
+
+COUNTS:	0
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+
+COUNTS:	0
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+4	WHEN HE PEEKS UP , THE FROG IS NOT IN THE FRASC .
+
+COUNTS:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+4	IS NOT IN THE FRASC
+
+COUNTS:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONE DAY A LITTLE BOY HE 'S BE A FROG
+2	AND HE IS GOING TO YOUR BED
+3	THE FROG HE 'S GOING
+4	WHEN HE PEEKS UP THE FROG IS NOT IN THE FRASC
+5	HE 'S CALLING TO THE FROG
+7	THE DOG HE 'S GO DOWN
+8	HE 'S CALLING TO THE FROG
+9	FROG FROG
+10	HE 'S CALLING AND CALLING
+11	THEN THE DOG HE 'S CALLING TOO
+12	THEN HE 'S CALLING
+13	HE 'S BE A BIRD
+14	THE DOG IS RUN
+15	AND HE GOS UP
+16	AND ONE ROCK
+17	HE CALLING AND CALLING
+18	HE IS GOING DOWN
+19	HE GOS DOWN
+20	HE SAY IS OVER THERE
+21	THE BOY SAID SHH
+22	AND HE BUSC THERE
+23	AND HE IS OVER THERE
+24	AND HIS FROG IS IN YOUR HAND
+25	HE SAY BYE TO THE NOTHERS FROGS
+
+COUNTS:	7
+
+
+###S2	Subject verb sequence###
+
+4	HE PEEKS UP
+5	HE 'S CALLING 
+8	HE 'S CALLING 
+10	HE 'S CALLING AND CALLING
+13	HE 'S BE 
+14	THE DOG IS RUN
+17	HE CALLING AND CALLING
+18	HE IS GOING DOWN
+19	HE GOS DOWN
+20	HE SAY 
+21	THE BOY SAID , 
+25	HE SAY 
+
+COUNTS:	6
+
+
+###S3	Verb object sequence###
+
+1	'S BE A FROG
+1	BE A FROG
+2	GOING TO YOUR BED
+2	IS GOING TO YOUR BED
+5	'S CALLING TO THE FROG
+5	CALLING TO THE FROG
+8	'S CALLING TO THE FROG
+8	CALLING TO THE FROG
+13	'S BE A BIRD
+13	BE A BIRD
+20	IS OVER THERE
+20	SAY IS OVER THERE
+21	SAID , SHH
+23	IS OVER THERE
+24	IS IN YOUR HAND
+25	SAY BYE TO THE NOTHERS FROGS
+
+COUNTS:	7
+
+
+###S4	Subject Verb Object Sequence###
+
+5	HE 'S CALLING TO THE FROG
+8	HE 'S CALLING TO THE FROG
+13	HE 'S BE A BIRD
+20	HE SAY IS OVER THERE
+21	THE BOY SAID , SHH
+25	HE SAY BYE TO THE NOTHERS FROGS
+
+COUNTS:	4
+
+
+###S5	Conjunction (any)###
+
+17	AND
+
+COUNTS:	1
+
+
+###S6	Sentence with two VP's###
+
+
+COUNTS:	0
+
+
+###S7	Conjoined phrases###
+
+10	CALLING AND CALLING
+17	CALLING AND CALLING
+
+COUNTS:	1
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+COUNTS:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+COUNTS:	0
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+4	WHEN HE PEEKS UP , THE FROG IS NOT IN THE FRASC .
+
+COUNTS:	1
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+COUNTS:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+2	AND HE IS GOING TO YOUR BED .
+3	THE FROG , HE 'S GOING .
+5	HE 'S CALLING TO THE FROG .
+8	HE 'S CALLING TO THE FROG .
+10	HE 'S CALLING AND CALLING .
+11	THEN THE DOG , HE 'S CALLING TOO .
+12	THEN HE 'S CALLING .
+17	HE CALLING AND CALLING .
+18	HE IS GOING DOWN .
+
+COUNTS:	5
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-100
+NO OF UTTERANCES CONSIDERED: 25
+
+
+#########################
+NOUN COUNTS: 52
+VERB COUNTS: 36
+QUESTION COUNTS: 2
+SENTENCE COUNTS: 32
+TOTAL NO OF STRUCTURES COUNTS: 122
+##########################
+
+###Sentence Listing###
+
+1	ONE DAY A LITTLE BOY HE 'S BE A FROG .
+2	AND HE IS GOING TO YOUR BED .
+3	THE FROG , HE 'S GOING .
+4	WHEN HE PEEKS UP , THE FROG IS NOT IN THE FRASC .
+5	HE 'S CALLING TO THE FROG .
+6	BUT NOT
+7	THE DOG , HE 'S GO DOWN .
+8	HE 'S CALLING TO THE FROG .
+9	FROG , FROG .
+10	HE 'S CALLING AND CALLING .
+11	THEN THE DOG , HE 'S CALLING TOO .
+12	THEN HE 'S CALLING .
+13	HE 'S BE A BIRD .
+14	THE DOG IS RUN .
+15	AND HE GOS UP .
+16	AND ONE ROCK .
+17	HE CALLING AND CALLING .
+18	HE IS GOING DOWN .
+19	HE GOS DOWN .
+20	HE SAY IS OVER THERE ?
+21	THE BOY SAID , SHH .
+22	AND HE BUSC THERE .
+23	AND HE IS OVER THERE .
+24	AND HIS FROG IS IN YOUR HAND .
+25	HE SAY BYE TO THE NOTHERS FROGS .

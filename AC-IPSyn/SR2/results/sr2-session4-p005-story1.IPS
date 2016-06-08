@@ -1,0 +1,594 @@
+FILENAME:sr2-session4-p005-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+5	HEY
+13	PHONE
+19	TURN
+21	GREEN
+25	END
+32	WANNA
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+7	YOU
+10	I
+11	THERE
+20	IT
+22	WHAT
+29	ME
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+3	THIS
+11	THAT
+19	YOUR
+21	GREEN
+26	QUICK
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+13	A PHONE
+25	THE END
+27	YOUR TURN
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+13	A PHONE
+25	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+13	LIKE A PHONE
+27	'S YOUR TURN
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+7	TURNS
+
+SCORE:	1
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+13	A PHONE
+
+SCORE:	1
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+SCORE:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+27	NOW
+
+SCORE:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	KNOW
+1	SLEEP
+1	SUPPOSED
+2	DO
+3	LIKE
+3	TAKE
+4	PUT
+7	ARE
+10	BEEN
+10	HAVE
+11	IS
+13	STUCK
+15	COME
+17	WE
+18	DONE
+22	'S
+22	GOTTEN
+24	WAS
+28	MINE
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+3	OFF
+13	IN
+13	LIKE
+15	ON
+18	WITH
+22	INTO
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+13	LIKE A PHONE
+15	ON GREEN
+22	INTO YOU
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 ARE
+7	 ARE
+8	 ARE
+10	 BEEN
+11	 IS
+13	 'S
+16	 'S
+18	 WAS
+19	 'S
+22	 'S
+24	 WAS
+26	THAT WAS QUICK
+27	 'S
+
+SCORE:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	ARE
+2	DO
+3	DO
+7	ARE
+8	ARE
+10	HAVE
+11	IS
+13	'S
+14	DO
+16	'S
+18	DO
+18	WAS
+19	'S
+22	'S
+24	WAS
+26	WAS
+27	'S
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+7	DOING
+
+SCORE:	1
+
+
+###V8	Adverb###
+
+1	IN
+1	NOT
+4	THEN
+11	THERE
+24	JUST
+27	NOW
+29	TOO
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+
+SCORE:	0
+
+
+###V10	Third person singular present tense suffix###
+
+11	IS
+18	WAS
+
+SCORE:	2
+
+
+###V11	Past tense modal###
+
+
+SCORE:	0
+
+
+###V12	Regular past tense suffix###
+
+1	SUPPOSED
+
+SCORE:	1
+
+
+###V13	Past tense auxiliary###
+
+18	WAS
+24	WAS
+26	WAS
+
+SCORE:	1
+
+
+###V14	Medial adverb###
+
+3	JUST
+4	THEN
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+10	 BEEN
+18	 WAS
+24	 WAS
+26	 WAS
+
+SCORE:	2
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+SCORE:	0
+
+
+###Q1	Intonationally marked question###
+
+21	GREEN , GREEN ?
+
+SCORE:	2
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+7	WHAT ARE YOU DOING TURNS ?
+8	WHAT ARE YOU ?
+14	WHAT DO ?
+22	WHAT 'S GOTTEN INTO YOU ?
+
+SCORE:	2
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+1	YOU KNOW YOU ARE NOT SUPPOSED TO SLEEP IN .
+
+SCORE:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+7	WHAT ARE YOU DOING TURNS ?
+8	WHAT ARE YOU ?
+14	WHAT DO ?
+22	WHAT 'S GOTTEN INTO YOU ?
+
+SCORE:	2
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+1	ARE NOT SUPPOSED TO SLEEP IN
+
+SCORE:	1
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+7	WHAT ARE YOU DOING TURNS ?
+8	WHAT ARE YOU ?
+14	WHAT DO ?
+22	WHAT 'S GOTTEN INTO YOU ?
+
+SCORE:	2
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+1	ARE NOT SUPPOSED TO SLEEP IN
+
+SCORE:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+3	DO YOU JUST LIKE TAKE THIS OFF ?
+11	IS THAT A IN THERE ?
+
+SCORE:	2
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	YOU KNOW YOU ARE NOT SUPPOSED TO SLEEP IN
+2	WHAT DO GREEN
+3	DO YOU JUST LIKE TAKE THIS OFF
+4	AND THEN PUT
+5	HEY GREEN
+6	GREEN GREEN
+7	WHAT ARE YOU DOING TURNS
+8	WHAT ARE YOU
+10	I HAVE BEEN
+11	IS THAT A IN THERE
+12	LIKE A PHONE
+13	IT 'S LIKE A PHONE STUCK IN
+14	WHAT DO
+15	COME ON GREEN
+16	THAT 'S
+18	I WAS DONE WITH
+19	GREEN IT 'S YOUR TURN
+20	SO IT GREEN
+21	GREEN GREEN
+22	WHAT 'S GOTTEN INTO YOU
+23	OK GREEN
+24	I WAS JUST
+25	THE END
+26	THAT WAS QUICK
+27	NOW IT 'S YOUR TURN
+28	MINE TOO
+29	ME TOO
+32	I WANNA
+33	I GREEN
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+1	YOU ARE NOT SUPPOSED TO SLEEP IN
+1	YOU KNOW 
+10	I HAVE BEEN
+13	IT 'S 
+16	THAT 'S
+18	I WAS DONE 
+24	I WAS JUST
+26	THAT WAS 
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	KNOW YOU ARE NOT SUPPOSED TO SLEEP IN
+3	LIKE TAKE THIS OFF
+3	TAKE THIS OFF
+7	DOING TURNS
+13	'S LIKE A PHONE STUCK IN
+15	COME ON GREEN
+19	'S YOUR TURN
+22	'S GOTTEN INTO YOU
+22	GOTTEN INTO YOU
+27	'S YOUR TURN
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+1	YOU KNOW YOU ARE NOT SUPPOSED TO SLEEP IN
+13	IT 'S LIKE A PHONE STUCK IN
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+4	AND
+
+SCORE:	1
+
+
+###S6	Sentence with two VP's###
+
+1	YOU KNOW YOU ARE NOT SUPPOSED TO SLEEP IN .
+3	DO YOU JUST LIKE TAKE THIS OFF ?
+
+SCORE:	2
+
+
+###S7	Conjoined phrases###
+
+
+SCORE:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+1	SUPPOSED TO SLEEP IN
+
+SCORE:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+SCORE:	0
+
+
+###S11	Propositional Complement###
+
+1	
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+2	WHAT DO GREEN .
+7	WHAT ARE YOU DOING TURNS ?
+8	WHAT ARE YOU ?
+14	WHAT DO ?
+22	WHAT 'S GOTTEN INTO YOU ?
+
+SCORE:	2
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+1	YOU KNOW YOU ARE NOT SUPPOSED TO SLEEP IN .
+3	DO YOU JUST LIKE TAKE THIS OFF ?
+
+SCORE:	2
+
+
+###S16	Relative clause marked or unmarked###
+
+
+SCORE:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+7	WHAT ARE YOU DOING TURNS ?
+
+SCORE:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-33
+NO OF UTTERANCES CONSIDERED: 33
+
+
+#########################
+NOUN SCORE: 15
+VERB SCORE: 23
+QUESTION SCORE: 13
+SENTENCE SCORE: 17
+IPSYN SCORE: 68
+##########################
+
+###Sentence Listing###
+
+1	YOU KNOW YOU ARE NOT SUPPOSED TO SLEEP IN .
+2	WHAT DO GREEN .
+3	DO YOU JUST LIKE TAKE THIS OFF ?
+4	AND THEN PUT .
+5	HEY GREEN .
+6	GREEN , GREEN .
+7	WHAT ARE YOU DOING TURNS ?
+8	WHAT ARE YOU ?
+9	YEAH .
+10	I HAVE BEEN .
+11	IS THAT A IN THERE ?
+12	LIKE A PHONE .
+13	IT 'S LIKE A PHONE STUCK IN .
+14	WHAT DO ?
+15	COME ON GREEN .
+16	THAT 'S .
+17	WE .
+18	I WAS DONE WITH .
+19	GREEN , IT 'S YOUR TURN .
+20	SO IT GREEN .
+21	GREEN , GREEN ?
+22	WHAT 'S GOTTEN INTO YOU ?
+23	OK GREEN .
+24	I WAS JUST .
+25	THE END .
+26	THAT WAS QUICK .
+27	NOW IT 'S YOUR TURN .
+28	MINE TOO .
+29	ME TOO .
+30	YEAH .
+31	YEAH .
+32	I WANNA .
+33	I GREEN .

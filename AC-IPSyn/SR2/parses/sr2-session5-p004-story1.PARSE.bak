@@ -1,0 +1,111 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was)
+      (NP (NP (DT a) (NN family)) (PP (IN of) (NP (NNS aliens)))))
+     (. .)))
+
+
+
+(S1 (INTJ (UH Yeah) (. .)))
+
+
+
+(S1 (S (VP (VB Look)) (. .)))
+
+
+
+(S1 (INTJ (UH Oh) (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (AUX had)
+      (ADVP (RB just))
+      (VP (VBN arrived) (PP (IN on) (NP (NN planet) (NNP Earth)))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (AUX were)
+      (VP (VBG unpacking) (NP (PRP$ their) (NNS things))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (VBD decided)
+      (SBAR (S (NP (PRP they))
+	     (VP (AUX were)
+	      (VP (VBG going) (S (VP (TO to) (VP (VB celebrate)))))))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (JJ little))
+     (VP (AUX was) (NP (RB only) (DT the) (JJS littlest) (NN kid)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (AUX did)
+      (RB not)
+      (VP (VB tell) (NP (NN mom) (CC or) (NN dad))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VP (VBD went)
+	  (ADJP (JJ right))
+	  (PP (IN past) (NP (PRP them))))
+      (CC and)
+      (VP (VBD made)
+       (NP (DT a) (NN birthday) (NN cake))
+       (PP (DT all) (IN by) (NP (PRP himself)))))
+     (. .)))
+
+
+
+(S1 (S (RB Then)
+     (NP (PRP he))
+     (VP (VBD brought) (NP (PRP it)) (PRT (RP over)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (AUX were) (ADJP (RB so) (JJ surprised)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (VBD decided)
+      (S (VP (TO to)
+	  (VP (VB go)
+	   (S (VP (VB eat)
+	       (NP (PRP it))
+	       (PP (IN on) (NP (DT the) (JJ other) (NN planet)))))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (VP (VBD went)
+	  (ADVP (RB back)
+	   (PP (TO to) (NP (DT the) (JJ other) (NN planet)))))
+      (CC and)
+      (VP (VBD ate) (NP (DT the) (NN cake))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

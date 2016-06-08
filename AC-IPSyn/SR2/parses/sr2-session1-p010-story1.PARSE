@@ -1,0 +1,36 @@
+
+
+(S1 (X (NNP Ooo) (. .)))
+
+
+
+
+
+(S1 (NP (NP (JJ nice) (JJ small) (NNS whiskers)) (. .)))
+
+
+
+
+
+(S1 (NP (FW la) (FW la) (FW la) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (, ,) (S (INTJ (UH Daddy)) (, ,) (NP (PRP I)) (VP (AUX 'm) (ADJP (VBN scared) (PP (TO to)))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (AUX 'm) (ADVP (RB really))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (AUX do) (RB not) (VP (VB know) (SBAR (WHNP (WP what)) (S (ADJP (RB else) (PP (TO to) (NP (DT The) (NN end)))))))) (. .)))
+
+
+

@@ -1,0 +1,117 @@
+
+(S1 (S (NP (PRP I))
+     (VP (VBP want)
+      (S (VP (TO to)
+	  (VP (VB tell)
+	   (NP (NP (DT a) (NN story))
+	    (PP (IN about)
+	     (NP (NP (DT a) (NN rabbit))
+	      (CC and)
+	      (NP (NP (DT a) (NN squirrel))
+	       (SBAR (WHNP (WP who))
+		(S (VP (AUX were) (NP (NNS friends)))))))))))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was) (NP (DT a) (NN rabbit)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (AUX had)
+      (NP (NP (DT a) (NN friend))
+       (SBAR (WHNP (WDT that))
+	(S (VP (AUX was) (NP (DT a) (NN squirrel)))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (VBD liked)
+      (NP (DT each) (JJ other))
+      (ADVP (RB very) (RB much)))
+     (. .)))
+
+
+
+(S1 (S (NP (CD One) (NN day) (NN squirrel))
+     (VP (VBD came)
+      (PRT (RP over))
+      (PP (TO to) (NP (DT the) (NNS rabbits) (NN house))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (AUX was) (VP (VBG baking) (NP (NNS cookies))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB Then))
+     (NP (PRP they))
+     (VP (VBD saw) (NP (DT a) (NN turtle)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (VBD liked)
+      (S (VP (TO to) (VP (VB play) (NP (NN tick) (NN tock))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They)) (VP (ADVP (PDT both))) (. .)))
+
+
+
+(S1 (S (RB Then)
+     (NP (PRP they))
+     (VP (VP (VBD knocked) (PRT (RP down)) (NP (DT the) (NN door)))
+      (CC and)
+      (VP (VBD opened) (NP (PRP it))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VBD went)
+      (ADVP (RB inside))
+      (S (VP (VBG looking) (PP (IN for) (NP (PRP them))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (MD could)
+      (RB not)
+      (VP (VB find)
+       (NP (PRP them))
+       (ADVP (RB anywhere))
+       (PP (IN until) (NP (NN sundown)))))
+     (. .)))
+
+
+
+(S1 (S (RB Then)
+     (NP (PRP they))
+     (VP (VBD poped) (PRT (RP out)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP You))
+     (VP (VBP coud) (S (RB not) (VP (VB find) (NP (PRP us)))))
+     (. !)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

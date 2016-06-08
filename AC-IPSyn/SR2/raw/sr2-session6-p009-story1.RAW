@@ -1,0 +1,489 @@
+FILENAME:sr2-session6-p009-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+3	CROCODILE
+4	PIE
+10	FACES
+10	PEOPLE
+12	EYES
+
+COUNTS:	5
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+2	THEY
+4	YOU
+5	HE
+7	WHERE
+11	HIM
+
+COUNTS:	5
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+4	YOUR
+7	HUGE
+7	THOSE
+9	FUNNY
+9	THAT
+10	BLACK
+10	MOST
+12	BIG
+
+COUNTS:	8
+
+
+###N4	Two word NP preceded by article or modifier###
+
+3	A CROCODILE
+4	YOUR PIE
+6	HUGE EYES
+10	BLACK FACES
+10	MOST PEOPLE
+12	BIG EYES
+
+COUNTS:	6
+
+
+###N5	Article used before a noun###
+
+3	A CROCODILE
+
+COUNTS:	1
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+4	EAT YOUR PIE
+10	HAVE BLACK FACES
+
+COUNTS:	2
+
+
+###N7	Plural suffix###
+
+10	FACES
+12	EYES
+
+COUNTS:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+3	A CROCODILE
+10	MOST PEOPLE
+
+COUNTS:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+7	THOSE HUGE EYES
+
+COUNTS:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+5	THEN
+9	REALLY
+
+COUNTS:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+2	GOT
+2	MARRIED
+4	ARE
+4	EAT
+4	SAID
+5	CAME
+5	RAN
+7	GET
+9	WAS
+10	DO
+10	HAVE
+10	KNOW
+11	LIKE
+
+COUNTS:	13
+
+
+###V2	Particle or preposition###
+
+5	AWAY
+
+COUNTS:	1
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+
+COUNTS:	0
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+4	 ARE
+9	THAT WAS REALLY FUNNY
+
+COUNTS:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+4	GONNA
+
+COUNTS:	1
+
+
+###V6	Auxiliary be, do, have in VP###
+
+4	ARE
+9	WAS
+10	DO
+10	HAVE
+
+COUNTS:	4
+
+
+###V7	Progressive Suffix###
+
+
+COUNTS:	0
+
+
+###V8	Adverb###
+
+3	THEN
+5	BACK
+5	NEVER
+7	WHERE
+9	REALLY
+10	NOT
+
+COUNTS:	6
+
+
+###V9	Modal preceeding verb###
+
+7	'D HE GET THOSE HUGE EYES
+
+COUNTS:	1
+
+
+###V10	Third person singular present tense suffix###
+
+9	WAS
+
+COUNTS:	1
+
+
+###V11	Past tense modal###
+
+
+COUNTS:	0
+
+
+###V12	Regular past tense suffix###
+
+2	MARRIED
+
+COUNTS:	1
+
+
+###V13	Past tense auxiliary###
+
+9	WAS
+
+COUNTS:	1
+
+
+###V14	Medial adverb###
+
+5	NEVER
+9	REALLY
+
+COUNTS:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+9	 WAS
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+9	REALLY
+
+COUNTS:	1
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+5	THEN HE RAN AWAY AND NEVER CAME BACK .
+10	YOU KNOW , MOST PEOPLE DO NOT HAVE BLACK FACES .
+
+COUNTS:	2
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+7	WHERE 'D HE GET THOSE HUGE EYES ?
+
+COUNTS:	1
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+10	DO NOT HAVE BLACK FACES
+
+COUNTS:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+2	THEY GOT MARRIED
+3	THEN A CROCODILE CAME
+4	HE SAID ARE YOU GONNA EAT YOUR PIE
+5	THEN HE RAN AWAY AND NEVER CAME BACK
+6	HUGE EYES
+7	WHERE 'D HE GET THOSE HUGE EYES
+9	THAT WAS REALLY FUNNY
+10	YOU KNOW MOST PEOPLE DO NOT HAVE BLACK FACES
+11	LIKE HIM
+12	BIG EYES
+
+COUNTS:	6
+
+
+###S2	Subject verb sequence###
+
+2	THEY GOT MARRIED
+4	HE SAID , ARE 
+9	THAT WAS 
+10	YOU KNOW
+
+COUNTS:	2
+
+
+###S3	Verb object sequence###
+
+4	EAT YOUR PIE
+4	SAID , ARE YOU GONNA EAT YOUR PIE ?
+7	GET THOSE HUGE EYES
+11	LIKE HIM
+
+COUNTS:	3
+
+
+###S4	Subject Verb Object Sequence###
+
+4	HE SAID , ARE YOU GONNA EAT YOUR PIE ?
+
+COUNTS:	1
+
+
+###S5	Conjunction (any)###
+
+1	BUT
+5	AND
+
+COUNTS:	2
+
+
+###S6	Sentence with two VP's###
+
+2	THEY GOT MARRIED .
+4	HE SAID , ARE YOU GONNA EAT YOUR PIE ?
+5	THEN HE RAN AWAY AND NEVER CAME BACK .
+
+COUNTS:	2
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+COUNTS:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+1	BUT
+
+COUNTS:	1
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+7	WHERE 'D HE GET THOSE HUGE EYES ?
+
+COUNTS:	1
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+4	HE SAID , ARE YOU GONNA EAT YOUR PIE ?
+10	YOU KNOW , MOST PEOPLE DO NOT HAVE BLACK FACES .
+
+COUNTS:	2
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+
+COUNTS:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-12
+NO OF UTTERANCES CONSIDERED: 12
+
+
+#########################
+NOUN COUNTS: 34
+VERB COUNTS: 35
+QUESTION COUNTS: 4
+SENTENCE COUNTS: 20
+TOTAL NO OF STRUCTURES COUNTS: 93
+##########################
+
+###Sentence Listing###
+
+1	BUT .
+2	THEY GOT MARRIED .
+3	THEN A CROCODILE CAME .
+4	HE SAID , ARE YOU GONNA EAT YOUR PIE ?
+5	THEN HE RAN AWAY AND NEVER CAME BACK .
+6	HUGE EYES .
+7	WHERE 'D HE GET THOSE HUGE EYES ?
+8	YEAH .
+9	THAT WAS REALLY FUNNY .
+10	YOU KNOW , MOST PEOPLE DO NOT HAVE BLACK FACES .
+11	LIKE HIM .
+12	BIG EYES .

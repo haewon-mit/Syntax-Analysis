@@ -1,0 +1,150 @@
+
+
+(S1 (S (NP (NP (CD One) (NN day)) (NP (DT a) (JJ little) (NN boy))) (NP (PRP he)) (VP (AUX 's) (VP (AUX be) (NP (DT a) (NN frog)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP he)) (VP (AUX is) (VP (VBG going) (PP (TO to) (NP (PRP$ your) (NN bed))))) (. .)))
+
+
+
+
+
+(S1 (S (S (NP (DT The) (NN frog))) (, ,) (NP (PRP he)) (VP (AUX 's) (VP (VBG going))) (. .)))
+
+
+
+
+
+(S1 (S (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBZ peeks) (PRT (RP up))))) (, ,) (NP (DT the) (NN frog)) (VP (AUX is) (RB not) (PP (IN in) (NP (DT the) (NN frasc)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (AUX 's) (VP (VBG calling) (PP (TO to) (NP (DT the) (NN frog))))) (. .)))
+
+
+
+
+
+(S1 (FRAG (CC But) (RB not)))
+
+
+
+
+
+(S1 (S (NP (DT The) (NN dog)) (, ,) (NP (PRP he)) (VP (POS 's) (VP (VB go) (PRT (RP down)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (AUX 's) (VP (VBG calling) (PP (TO to) (NP (DT the) (NN frog))))) (. .)))
+
+
+
+
+
+(S1 (NP (NP (NNP Frog)) (, ,) (NP (NNP Frog)) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP he)) (VP (AUX 's) (VP (VBG calling) (CC and) (VBG calling))) (. .)))
+
+
+
+
+
+(S1 (S (S (ADVP (RB Then)) (NP (DT the) (NN dog))) (, ,) (NP (PRP he)) (VP (AUX 's) (VP (VBG calling) (ADVP (RB too)))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Then)) (NP (PRP he)) (VP (AUX 's) (VP (VBG calling))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (AUX 's) (VP (AUX be) (NP (DT a) (NN bird)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT The) (NN dog)) (VP (AUX is) (VP (VBN run))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP he)) (VP (VBZ gos) (PRT (RP up))) (. .)))
+
+
+
+
+
+(S1 (FRAG (CC And) (NP (CD one) (NN rock)) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBG calling) (CC and) (VBG calling)) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (AUX is) (VP (VBG going) (PRT (RP down)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBZ gos) (PRT (RP down))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VB say) (SBAR (S (VP (AUX Is) (PP (IN over) (NP (RB there))))))) (. ?)))
+
+
+
+
+
+(S1 (S (NP (DT The) (NN boy)) (VP (VBD said) (, ,) (NP (NNP Shh))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP he)) (VP (VBZ busc) (ADVP (RB there))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP he)) (VP (AUX is) (PP (IN over) (NP (RB there)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP$ his) (NN frog)) (VP (AUX is) (PP (IN in) (NP (PRP$ your) (NN hand)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBP say) (NP (ADJP (JJ bye) (PP (TO to) (NP (DT the) (NNS nothers)))) (NNS frogs))) (. .)))
+
+
+

@@ -1,0 +1,135 @@
+
+(S1 (S (NP (PRP I))
+     (VP (VBP think)
+      (SBAR (S (NP (PRP I))
+	     (VP (MD 'll)
+	      (VP (VB tell)
+	       (NP (NP (DT a) (NN story))
+		(PP (IN about)
+		 (NP (NP (DT the) (NN crocodile))
+		  (CC and)
+		  (NP (DT the) (NN prince))))))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He)) (VP (AUX had) (NP (DT a) (NN carriage))) (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VBD loved) (NP (PRP$ his) (NN castle)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP It)) (VP (AUX was) (ADJP (RB so) (JJ big))) (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VBD liked) (NP (PRP$ his) (NN horsey)))
+     (. .)))
+
+
+
+(S1 (NP (NN -RSB-)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (AUX had)
+      (NP (NP (DT some) (NNS alligators))
+       (CC and)
+       (NP (DT some) (NNS horseys))))
+     (. .)))
+
+
+
+(S1 (S (VP (VB come) (VP (VBG running) (ADVP (RB fast)))) (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP he))
+     (VP (MD could)
+      (VP (VB ride)
+       (ADVP (RB really) (RB fast))
+       (PP (IN into) (NP (DT the) (NN gate)))))
+     (. .)))
+
+
+
+(S1 (S (NP (NP (CD One) (NN day)) (NP (PRP$ his) (NN ride)))
+     (VP (AUX had) (S (VP (TO to) (VP (VB go)))))
+     (. .)))
+
+
+
+(S1 (S (CC And) (NP (PRP they)) (VP (NNS chickens)) (. .)))
+
+
+
+(S1 (X (NNP The) (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VBD wanted)
+      (S (VP (TO to)
+	  (VP (VB keep)
+	   (S (VP (VBG riding) (PP (IN on) (NP (PRP$ its) (NN back)))))))))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (PRP$ his) (NN ride) (NN creature))
+     (NP (PRP it))
+     (VP (MD would)
+      (VP (AUX be) (ADVP (RB back)) (NP (DT the) (JJ next) (NN day))))
+     (. .)))
+
+
+
+(S1 (S (IN So)
+     (NP (PRP he))
+     (VP (VBD splashed)
+      (NP (PRP him))
+      (PP (IN with) (NP (DT the) (NN water))))
+     (. .)))
+
+
+
+(S1 (SBARQ (SBAR (IN While)
+	    (S (NP (PRP it)) (VP (AUX was) (ADJP (VBN gone)))))
+     (PRN (, ,)
+      (S (NP (DT the) (NNP princess))
+       (VP (VBD came) (CC and) (VBD asked) (NP (DT the) (NN king))))
+      (, ,))
+     (SQ (AUX Do)
+      (NP (PRP you))
+      (VP (VB want)
+       (NP (DT a) (NN ride))
+       (PP (IN in) (NP (PRP$ my) (NN carriage)))))
+     (. ?)))
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBD said) (INTJ (UH yes))) (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP she))
+     (VP (VBD gave) (NP (PRP him)) (NP (DT a) (NN ride)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (NP (PRP they)) (NP (DT both)))
+     (VP (VBD lived) (ADVP (RB happily)) (ADVP (RB ever) (IN after)))
+     (. .)))
+
+

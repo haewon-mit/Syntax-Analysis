@@ -1,0 +1,566 @@
+FILENAME:sr2-session6-p013-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	BROTHER
+1	FRIENDS
+1	SISTER
+1	TIME
+2	DAY
+6	FIRE
+6	MOUTH
+7	GROUND
+8	DADS
+8	MOMS
+8	SOUND
+9	KIDS
+10	HOME
+11	KNIGHT
+11	SUITS
+12	DRAGON
+13	END
+
+COUNTS:	17
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+5	HIM
+6	HE
+9	THEY
+
+COUNTS:	3
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	GREAT
+1	TWO
+2	ONE
+3	NICE
+6	HIS
+6	SOME
+7	ALL
+9	DEAD
+9	THEIR
+
+COUNTS:	9
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A BROTHER
+1	A SISTER
+1	A TIME
+1	GREAT FRIENDS
+2	A DRAGON
+2	ONE DAY
+6	HIS MOUTH
+6	SOME FIRE
+7	THE GROUND
+8	THE MOMS
+8	THE SOUND
+9	THEIR KIDS
+12	THE DRAGON
+13	THE END
+
+COUNTS:	14
+
+
+###N5	Article used before a noun###
+
+1	A BROTHER
+1	A SISTER
+1	A TIME
+2	A DRAGON
+7	THE GROUND
+8	THE MOMS
+8	THE SOUND
+12	THE DRAGON
+13	THE END
+
+COUNTS:	9
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+1	WAS A BROTHER
+2	MET A DRAGON
+6	FROM HIS MOUTH
+7	TO THE GROUND
+8	FOLLOWED THE SOUND
+9	SAW THEIR KIDS
+12	FROM THE DRAGON
+
+COUNTS:	8
+
+
+###N7	Plural suffix###
+
+1	FRIENDS
+8	DADS
+8	MOMS
+9	KIDS
+11	SUITS
+
+COUNTS:	5
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+
+COUNTS:	0
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+1	TWO GREAT FRIENDS
+
+COUNTS:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+9	ALMOST
+10	NN
+
+COUNTS:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+2	MET
+4	WAS
+5	PLAYED
+6	LET
+7	FELL
+8	FOLLOWED
+8	HEARD
+9	SAW
+9	WERE
+10	BACK
+10	RAN
+11	GOT
+12	GET
+12	HURT
+
+COUNTS:	14
+
+
+###V2	Particle or preposition###
+
+1	UPON
+5	WITH
+6	FROM
+6	OUT
+7	TO
+
+COUNTS:	5
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+5	WITH HIM
+6	FROM HIS MOUTH
+7	TO THE GROUND
+12	FROM THE DRAGON
+
+COUNTS:	5
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+3	HE WAS NICE
+4	 WAS
+9	THEY WERE ALMOST DEAD
+
+COUNTS:	3
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+3	WAS
+4	WAS
+9	WERE
+
+COUNTS:	2
+
+
+###V7	Progressive Suffix###
+
+
+COUNTS:	0
+
+
+###V8	Adverb###
+
+1	ONCE
+4	ACTUALLY
+4	NOT
+7	THEN
+8	WHEN
+9	ALMOST
+10	AS
+10	FAST
+
+COUNTS:	8
+
+
+###V9	Modal preceeding verb###
+
+12	WILL NOT GET HURT FROM THE DRAGON
+
+COUNTS:	1
+
+
+###V10	Third person singular present tense suffix###
+
+4	WAS
+
+COUNTS:	1
+
+
+###V11	Past tense modal###
+
+10	COULD
+
+COUNTS:	1
+
+
+###V12	Regular past tense suffix###
+
+5	PLAYED
+8	FOLLOWED
+
+COUNTS:	2
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+3	WAS
+4	WAS
+9	WERE
+
+COUNTS:	2
+
+
+###V14	Medial adverb###
+
+4	ACTUALLY
+4	NOT
+7	THEN
+8	WHEN
+9	ALMOST
+10	AS
+10	FAST
+
+COUNTS:	7
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+3	 WAS
+4	 WAS
+9	 WERE
+
+COUNTS:	2
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+4	ACTUALLY
+
+COUNTS:	1
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+4	BUT HE WAS ACTUALLY NOT NICE .
+12	SO THEY WILL NOT GET HURT FROM THE DRAGON .
+
+COUNTS:	2
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+12	WILL NOT GET HURT FROM THE DRAGON
+
+COUNTS:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS TWO GREAT FRIENDS THAT WAS A BROTHER AND A SISTER
+2	AND ONE DAY THEY MET A DRAGON
+3	AND HE WAS NICE
+4	BUT HE WAS ACTUALLY NOT NICE
+5	SO THEY PLAYED WITH HIM
+6	AND HE LET OUT SOME FIRE FROM HIS MOUTH
+7	AND THEN THEY ALL FELL TO THE GROUND
+8	BUT WHEN THE MOMS AND DADS HEARD THAT THEY FOLLOWED THE SOUND
+9	AND WHEN THEY SAW THEIR KIDS THEY WERE ALMOST DEAD
+10	SO THEY RAN HOME AS FAST AS THEY COULD AND THEN BACK
+11	AND THEY GOT KNIGHT SUITS
+12	SO THEY WILL NOT GET HURT FROM THE DRAGON
+13	THE END
+
+COUNTS:	6
+
+
+###S2	Subject verb sequence###
+
+8	THE MOMS AND DADS HEARD 
+8	THEY FOLLOWED 
+9	THEY SAW 
+10	THEY COULD AND THEN BACK
+
+COUNTS:	3
+
+
+###S3	Verb object sequence###
+
+1	WAS A BROTHER AND A SISTER
+1	WAS TWO GREAT FRIENDS THAT WAS A BROTHER AND A SISTER
+2	MET A DRAGON
+5	PLAYED WITH HIM
+6	LET OUT SOME FIRE FROM HIS MOUTH
+7	FELL TO THE GROUND
+8	FOLLOWED THE SOUND
+8	HEARD THAT THEY FOLLOWED THE SOUND
+9	SAW THEIR KIDS
+10	RAN HOME AS FAST AS THEY COULD AND THEN BACK
+11	GOT KNIGHT SUITS
+12	GET HURT FROM THE DRAGON
+12	WILL NOT GET HURT FROM THE DRAGON
+
+COUNTS:	6
+
+
+###S4	Subject Verb Object Sequence###
+
+8	THE MOMS AND DADS HEARD THAT THEY FOLLOWED THE SOUND
+8	THEY FOLLOWED THE SOUND
+9	THEY SAW THEIR KIDS
+
+COUNTS:	2
+
+
+###S5	Conjunction (any)###
+
+4	BUT
+8	THAT
+9	AND
+
+COUNTS:	3
+
+
+###S6	Sentence with two VP's###
+
+8	BUT WHEN THE MOMS AND DADS HEARD THAT THEY FOLLOWED THE SOUND .
+10	SO THEY RAN HOME AS FAST AS THEY COULD AND THEN BACK .
+12	SO THEY WILL NOT GET HURT FROM THE DRAGON .
+
+COUNTS:	3
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+COUNTS:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+4	BUT
+8	THAT
+
+COUNTS:	2
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+1	ONCE UPON A TIME THERE WAS TWO GREAT FRIENDS THAT WAS A BROTHER AND A SISTER .
+8	BUT WHEN THE MOMS AND DADS HEARD THAT THEY FOLLOWED THE SOUND .
+9	AND WHEN THEY SAW THEIR KIDS THEY WERE ALMOST DEAD .
+
+COUNTS:	2
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+COUNTS:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+1	TWO GREAT FRIENDS THAT WAS A BROTHER AND A SISTER
+
+COUNTS:	1
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+
+COUNTS:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-13
+NO OF UTTERANCES CONSIDERED: 13
+
+
+#########################
+NOUN COUNTS: 68
+VERB COUNTS: 54
+QUESTION COUNTS: 3
+SENTENCE COUNTS: 28
+TOTAL NO OF STRUCTURES COUNTS: 153
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS TWO GREAT FRIENDS THAT WAS A BROTHER AND A SISTER .
+2	AND ONE DAY , THEY MET A DRAGON .
+3	AND HE WAS NICE .
+4	BUT HE WAS ACTUALLY NOT NICE .
+5	SO THEY PLAYED WITH HIM .
+6	AND HE LET OUT SOME FIRE FROM HIS MOUTH .
+7	AND THEN THEY ALL FELL TO THE GROUND .
+8	BUT WHEN THE MOMS AND DADS HEARD THAT THEY FOLLOWED THE SOUND .
+9	AND WHEN THEY SAW THEIR KIDS THEY WERE ALMOST DEAD .
+10	SO THEY RAN HOME AS FAST AS THEY COULD AND THEN BACK .
+11	AND THEY GOT KNIGHT SUITS .
+12	SO THEY WILL NOT GET HURT FROM THE DRAGON .
+13	THE END .

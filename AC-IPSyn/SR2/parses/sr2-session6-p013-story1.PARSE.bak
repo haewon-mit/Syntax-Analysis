@@ -1,0 +1,111 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was)
+      (NP (NP (CD two) (JJ great) (NNS friends))
+       (SBAR (WHNP (WDT that))
+	(S (VP (AUX was)
+	    (NP (NP (DT a) (NN brother))
+	     (CC and)
+	     (NP (DT a) (NN sister))))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (CD one) (NN day))
+     (, ,)
+     (NP (PRP they))
+     (VP (VBD met) (NP (DT a) (NNP dragon)))
+     (. .)))
+
+
+
+(S1 (S (CC And) (NP (PRP he)) (VP (AUX was) (ADJP (JJ nice))) (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (PRP he))
+     (VP (AUX was) (ADVP (RB actually)) (ADJP (RB not) (JJ nice)))
+     (. .)))
+
+
+
+(S1 (S (IN So)
+     (NP (PRP they))
+     (VP (VBD played) (PP (IN with) (NP (PRP him))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP he))
+     (VP (VBD let)
+      (PRT (RP out))
+      (NP (NP (DT some) (NN fire))
+       (PP (IN from) (NP (PRP$ his) (NN mouth)))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB then)
+     (NP (NP (PRP they)) (NP (DT all)))
+     (VP (VBD fell) (PP (TO to) (NP (DT the) (NN ground))))
+     (. .)))
+
+
+
+(S1 (FRAG (CC But)
+     (SBAR (WHADVP (WRB when))
+      (S (NP (DT the) (NNS moms) (CC and) (NNS dads))
+       (VP (VBD heard)
+	(SBAR (IN that)
+	 (S (NP (PRP they))
+	  (VP (VBD followed) (NP (DT the) (NN sound))))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (SBAR (WHADVP (WRB when))
+      (S (NP (PRP they)) (VP (VBD saw) (NP (PRP$ their) (NNS kids)))))
+     (NP (PRP they))
+     (VP (AUX were) (ADJP (RB almost) (JJ dead)))
+     (. .)))
+
+
+
+(S1 (S (IN So)
+     (NP (PRP they))
+     (VP (VBD ran)
+      (ADVP (ADVP (NN home) (RB as) (RB fast))
+       (SBAR (IN as)
+	(S (NP (PRP they))
+	 (VP (MD could) (ADVP (CC and) (RB then)) (VP (VB back)))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (VBD got) (NP (NN knight) (NNS suits)))
+     (. .)))
+
+
+
+(S1 (S (IN So)
+     (NP (PRP they))
+     (VP (MD will)
+      (RB not)
+      (VP (VB get)
+       (S (VP (VBN hurt) (PP (IN from) (NP (DT the) (NNP dragon)))))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

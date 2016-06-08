@@ -1,0 +1,674 @@
+FILENAME:sr2-session6-p006-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	FOREST
+1	TIME
+4	DINOSAUR
+8	REX
+8	T
+15	GUYS
+27	STEGASAURUS
+28	HMM
+29	BRIDGE
+29	OW
+31	SPIKES
+33	FUN
+34	END
+
+COUNTS:	13
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+5	IT
+6	HE
+16	I
+17	WE
+24	HERE
+26	THERE
+26	YOU
+27	WHERE
+33	THEY
+
+COUNTS:	9
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+5	HARD
+20	TWO
+24	EIGHT
+24	FIVE
+24	FOUR
+24	ONE
+24	READY
+24	SEVEN
+24	SIX
+24	THREE
+26	BIG
+29	OW
+29	THIS
+30	STEGASAURUS
+31	YOUR
+
+COUNTS:	15
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A TIME
+1	THE FOREST
+1	TWO DINOSAURS
+6	THE DINOSAUR
+8	A T
+29	OW OW
+29	THIS BRIDGE
+31	YOUR SPIKES
+34	THE END
+
+COUNTS:	9
+
+
+###N5	Article used before a noun###
+
+1	A TIME
+1	THE FOREST
+6	THE DINOSAUR
+8	A T
+34	THE END
+
+COUNTS:	5
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	THROUGH THE FOREST
+1	UPON A TIME
+29	ACROSS THIS BRIDGE
+29	OW OW OW
+31	ON YOUR SPIKES
+
+COUNTS:	5
+
+
+###N7	Plural suffix###
+
+1	DINOSAURS
+15	GUYS
+31	SPIKES
+
+COUNTS:	3
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+1	THE FOREST
+1	TWO DINOSAURS
+4	THE DINOSAUR
+
+COUNTS:	3
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+COUNTS:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+4	SO
+24	HERE
+26	TOO
+30	SORRY
+
+COUNTS:	4
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	PLAYING
+1	SEEK
+1	WALKING
+1	WERE
+5	WAS
+6	NOTICE
+9	STOP
+10	WANTED
+12	LIKE
+20	FIND
+21	COUNT
+24	COME
+25	FOUND
+26	ARE
+26	FIT
+27	IS
+29	AM
+29	OW
+31	DID
+31	MEAN
+33	HAD
+33	HIDE
+
+COUNTS:	22
+
+
+###V2	Particle or preposition###
+
+1	THROUGH
+1	UPON
+16	WITH
+26	IN
+29	ACROSS
+31	ON
+
+COUNTS:	6
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	THROUGH THE FOREST
+1	UPON A TIME
+26	IN THERE
+29	ACROSS THIS BRIDGE
+31	ON YOUR SPIKES
+
+COUNTS:	5
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WERE
+5	 WAS
+26	 ARE
+27	 IS
+29	 AM
+
+COUNTS:	5
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WERE
+5	WAS
+6	DID
+26	ARE
+27	IS
+29	AM
+31	DID
+33	HAD
+
+COUNTS:	7
+
+
+###V7	Progressive Suffix###
+
+1	PLAYING
+1	WALKING
+33	PLAYING
+
+COUNTS:	2
+
+
+###V8	Adverb###
+
+1	ONCE
+6	RIGHT
+10	JUST
+17	TOGETHER
+20	EASY
+21	NOW
+24	HERE
+26	THERE
+26	TOO
+27	WHERE
+29	SO
+29	WHY
+30	SORRY
+31	NOT
+
+COUNTS:	14
+
+
+###V9	Modal preceeding verb###
+
+2	'LL COUNT
+12	WOULD YOU LIKE TO PLAY HIDE AND SEEK
+14	'LL HIDE
+16	'LL HIDE TOO
+17	'LL HIDE TOGETHER
+21	'LL COUNT
+22	'LL COUNT
+23	'LL COUNT
+
+COUNTS:	2
+
+
+###V10	Third person singular present tense suffix###
+
+5	WAS
+27	IS
+
+COUNTS:	2
+
+
+###V11	Past tense modal###
+
+12	WOULD
+23	'LL
+
+COUNTS:	2
+
+
+###V12	Regular past tense suffix###
+
+4	COUNTED
+6	WALKED
+10	WANTED
+
+COUNTS:	3
+
+
+###V13	Past tense auxiliary###
+
+1	WERE
+5	WAS
+6	DID
+31	DID
+33	HAD
+
+COUNTS:	4
+
+
+###V14	Medial adverb###
+
+6	RIGHT
+10	JUST
+20	EASY
+24	HERE
+24	NOT
+26	TOO
+29	SO
+29	WHY
+30	SORRY
+
+COUNTS:	9
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WERE
+5	 WAS
+
+COUNTS:	2
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+6	BUT HE DID NOT NOTICE THAT HE WALKED RIGHT PAST THE DINOSAUR .
+24	I ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT , READY OR NOT HERE I COME .
+31	I DID NOT MEAN TO WALK ON YOUR SPIKES .
+
+COUNTS:	3
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+31	DID NOT MEAN TO WALK ON YOUR SPIKES
+
+COUNTS:	1
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+27	WHERE IS STEGASAURUS ?
+29	OW OW OW , WHY AM I SO ACROSS THIS BRIDGE ?
+
+COUNTS:	1
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+6	DID NOT NOTICE THAT HE WALKED RIGHT PAST THE DINOSAUR
+31	DID NOT MEAN TO WALK ON YOUR SPIKES
+
+COUNTS:	2
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME TWO DINOSAURS WERE WALKING THROUGH THE FOREST PLAYING HIDE AND SEEK
+2	I 'LL COUNT
+3	YOU HIDE
+4	SO THE DINOSAUR COUNTED
+5	IT WAS HARD TO FIND
+6	BUT HE DID NOT NOTICE THAT HE WALKED RIGHT PAST THE DINOSAUR
+7	FOUND YOU
+8	BUT AH A T REX
+10	I JUST WANTED TO PLAY
+12	WOULD YOU LIKE TO PLAY HIDE AND SEEK
+14	I 'LL HIDE
+15	YOU GUYS COUNT
+16	I 'LL HIDE TOO WITH
+17	WE 'LL HIDE TOGETHER
+18	FOUND YOU
+19	FOUND YOU
+20	TWO EASY FIND
+21	NOW I 'LL COUNT
+22	NO I 'LL COUNT
+23	I 'LL COUNT
+24	I ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT READY OR NOT HERE I COME
+25	FOUND YOU TWO
+26	YOU ARE TOO BIG TO FIT IN THERE
+27	WHERE IS STEGASAURUS
+29	OW OW OW WHY AM I SO ACROSS THIS BRIDGE
+30	OH SORRY STEGASAURUS
+31	I DID NOT MEAN TO WALK ON YOUR SPIKES
+32	YOU COUNT
+33	THEY HAD FUN PLAYING HIDE AND SEEK
+34	THE END
+
+COUNTS:	6
+
+
+###S2	Subject verb sequence###
+
+2	I 'LL COUNT
+3	YOU HIDE
+5	IT WAS 
+6	HE WALKED 
+14	I 'LL HIDE
+15	YOU GUYS COUNT
+16	I 'LL HIDE TOO 
+17	WE 'LL HIDE TOGETHER
+23	I 'LL COUNT
+26	YOU ARE 
+31	I DID NOT MEAN TO WALK 
+32	YOU COUNT
+33	THEY HAD 
+
+COUNTS:	7
+
+
+###S3	Verb object sequence###
+
+1	PLAYING HIDE AND SEEK
+1	WALKING THROUGH THE FOREST PLAYING HIDE AND SEEK
+1	WERE WALKING THROUGH THE FOREST PLAYING HIDE AND SEEK
+6	DID NOT NOTICE THAT HE WALKED RIGHT PAST THE DINOSAUR
+6	NOTICE THAT HE WALKED RIGHT PAST THE DINOSAUR
+6	WALKED RIGHT PAST THE DINOSAUR
+7	FOUND YOU
+12	LIKE TO PLAY HIDE AND SEEK
+12	TO PLAY HIDE AND SEEK
+18	FOUND YOU
+19	FOUND YOU
+25	FOUND YOU TWO
+26	ARE TOO BIG TO FIT IN THERE
+26	TO FIT IN THERE
+29	OW OW OW
+31	DID NOT MEAN TO WALK ON YOUR SPIKES
+31	MEAN TO WALK ON YOUR SPIKES
+31	WALK ON YOUR SPIKES
+33	HAD FUN PLAYING HIDE AND SEEK
+33	PLAYING HIDE AND SEEK
+
+COUNTS:	9
+
+
+###S4	Subject Verb Object Sequence###
+
+6	HE WALKED RIGHT PAST THE DINOSAUR
+26	YOU ARE TOO BIG TO FIT IN THERE
+31	I DID NOT MEAN TO WALK ON YOUR SPIKES
+33	THEY HAD FUN PLAYING HIDE AND SEEK
+
+COUNTS:	4
+
+
+###S5	Conjunction (any)###
+
+6	THAT
+8	BUT
+12	AND
+24	OR
+
+COUNTS:	4
+
+
+###S6	Sentence with two VP's###
+
+1	ONCE UPON A TIME TWO DINOSAURS WERE WALKING THROUGH THE FOREST PLAYING HIDE AND SEEK .
+6	BUT HE DID NOT NOTICE THAT HE WALKED RIGHT PAST THE DINOSAUR .
+10	I JUST WANTED TO PLAY .
+12	WOULD YOU LIKE TO PLAY HIDE AND SEEK .
+31	I DID NOT MEAN TO WALK ON YOUR SPIKES .
+33	THEY HAD FUN PLAYING HIDE AND SEEK .
+
+COUNTS:	2
+
+
+###S7	Conjoined phrases###
+
+1	HIDE AND SEEK
+12	HIDE AND SEEK
+33	HIDE AND SEEK
+
+COUNTS:	1
+
+
+###S8	Infinitive without catenative, marked with to###
+
+5	WAS HARD TO FIND
+10	WANTED TO PLAY
+12	LIKE TO PLAY HIDE AND SEEK
+26	ARE TOO BIG TO FIT IN THERE
+31	MEAN TO WALK ON YOUR SPIKES
+
+COUNTS:	4
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+6	THAT
+8	BUT
+
+COUNTS:	2
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+27	WHERE IS STEGASAURUS ?
+
+COUNTS:	1
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+1	ONCE UPON A TIME TWO DINOSAURS WERE WALKING THROUGH THE FOREST PLAYING HIDE AND SEEK .
+6	BUT HE DID NOT NOTICE THAT HE WALKED RIGHT PAST THE DINOSAUR .
+12	WOULD YOU LIKE TO PLAY HIDE AND SEEK .
+31	I DID NOT MEAN TO WALK ON YOUR SPIKES .
+33	THEY HAD FUN PLAYING HIDE AND SEEK .
+
+COUNTS:	3
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+1	ONCE UPON A TIME TWO DINOSAURS WERE WALKING THROUGH THE FOREST PLAYING HIDE AND SEEK .
+29	OW OW OW , WHY AM I SO ACROSS THIS BRIDGE ?
+33	THEY HAD FUN PLAYING HIDE AND SEEK .
+
+COUNTS:	2
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-34
+NO OF UTTERANCES CONSIDERED: 34
+
+
+#########################
+NOUN COUNTS: 66
+VERB COUNTS: 85
+QUESTION COUNTS: 7
+SENTENCE COUNTS: 45
+TOTAL NO OF STRUCTURES COUNTS: 203
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME TWO DINOSAURS WERE WALKING THROUGH THE FOREST PLAYING HIDE AND SEEK .
+2	I 'LL COUNT .
+3	YOU HIDE .
+4	SO THE DINOSAUR COUNTED .
+5	IT WAS HARD TO FIND .
+6	BUT HE DID NOT NOTICE THAT HE WALKED RIGHT PAST THE DINOSAUR .
+7	FOUND YOU .
+8	BUT AH , A T REX .
+9	STOP .
+10	I JUST WANTED TO PLAY .
+11	OK .
+12	WOULD YOU LIKE TO PLAY HIDE AND SEEK .
+13	YES .
+14	I 'LL HIDE .
+15	YOU GUYS COUNT .
+16	I 'LL HIDE TOO WITH .
+17	WE 'LL HIDE TOGETHER .
+18	FOUND YOU .
+19	FOUND YOU .
+20	TWO EASY FIND .
+21	NOW , I 'LL COUNT .
+22	NO , I 'LL COUNT .
+23	I 'LL COUNT .
+24	I ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT , READY OR NOT HERE I COME .
+25	FOUND YOU TWO .
+26	YOU ARE TOO BIG TO FIT IN THERE .
+27	WHERE IS STEGASAURUS ?
+28	HMM .
+29	OW OW OW , WHY AM I SO ACROSS THIS BRIDGE ?
+30	OH , SORRY STEGASAURUS .
+31	I DID NOT MEAN TO WALK ON YOUR SPIKES .
+32	YOU COUNT .
+33	THEY HAD FUN PLAYING HIDE AND SEEK .
+34	THE END .

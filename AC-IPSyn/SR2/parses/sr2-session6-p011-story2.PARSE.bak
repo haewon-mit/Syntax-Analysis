@@ -1,0 +1,118 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (PRP he))
+     (VP (AUX was) (PP (IN at) (NP (DT the))))
+     (. .)))
+
+
+
+(S1 (SINV (CC And) (AUX was) (NP (DT a) (NN stegosaurus)) (. .)))
+
+
+
+(S1 (S (CC and)
+     (NP (PRP he))
+     (VP (AUX had) (NP (DT a) (JJ tall) (NN neck)))
+     (. .)))
+
+
+
+(S1 (S (CC and)
+     (NP (PRP he))
+     (VP (AUX had) (NP (DT a) (JJ long) (NN tail)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (NP (PRP they)) (NP (DT all)))
+     (VP (VBD wanted) (NP (DT a) (JJ second) (NN story)))
+     (. .)))
+
+
+
+(S1 (S (CC but)
+     (NP (NNP Stegosaurus) (CC and) (CD two))
+     (VP (AUX were) (VP (VBG walking)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then))
+     (NP (PRP they))
+     (VP (VBD saw) (NP (DT the) (NNP pond)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (VBD went) (PP (IN around) (NP (DT the) (NNP pond))))
+     (. .)))
+
+
+
+(S1 (S (CC and)
+     (NP (PRP they))
+     (VP (VBP swam) (CC and) (VBP swam) (CC and) (VBP swam))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB then)
+     (NP (PRP they))
+     (VP (VBP hid) (PP (IN behind) (NP (DT a) (NN tree))))
+     (. .)))
+
+
+
+(S1 (S (CC and)
+     (NP (PRP they))
+     (VP (VBD said)
+      (ADJP (JJ boo) (PP (TO to) (NP (DT each) (JJ other)))))
+     (. .)))
+
+
+
+(S1 (S (CC and)
+     (ADVP (RB then))
+     (NP (PRP they))
+     (VP (VP (VB hide) (PRT (RP behind)) (NP (NNS bushs)))
+      (CC and)
+      (VP (VBD played) (SBAR (S (VP (VB hide) (CC and) (VB seek))))))
+     (. .)))
+
+
+
+(S1 (S (CC and)
+     (ADVP (RB then))
+     (NP (PRP they))
+     (VP (VP (VB hide)
+	  (PRT (RP behind))
+	  (NP (DT the) (NN palm) (NNS trees)))
+      (CC and)
+      (VP (VBD played) (SBAR (S (VP (VB hide) (CC and) (VB seek))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then))
+     (NP (PRP they))
+     (VP (VB hide) (PRT (RP behind)) (NP (DT the) (NNS trees)))
+     (. .)))
+
+
+
+(S1 (FRAG (CC and) (RB then) (NP (PRP they)) (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (VBD lived) (ADVP (RB happily)) (ADVP (RB ever) (IN after)))
+     (. .)))
+
+

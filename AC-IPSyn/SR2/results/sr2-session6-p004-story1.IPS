@@ -1,0 +1,542 @@
+FILENAME:sr2-session6-p004-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	STORY
+2	A
+2	PRINCE
+2	PRINCESS
+3	TOWER
+4	ANYONE
+4	BRIDGE
+5	EVE
+5	MOAT
+5	SLEEP
+6	DAY
+6	ROAD
+7	CROCODILE
+8	SIDE
+9	TIME
+10	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+1	I
+5	THEM
+7	HE
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+3	BOTH
+6	ONE
+6	SLEEPY
+8	OTHER
+9	NO
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A STORY
+2	A PRINCESS
+2	A TIME
+3	A CROCODILE
+3	THE TOWER
+4	THE BRIDGE
+5	THE MOAT
+6	ONE DAY
+6	THE ROAD
+7	THE CROCODILE
+8	OTHER SIDE
+9	NO TIME
+9	THE PRINCE
+10	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+1	A STORY
+2	A PRINCESS
+2	A TIME
+3	A CROCODILE
+3	THE TOWER
+4	THE BRIDGE
+5	THE MOAT
+6	THE ROAD
+7	THE CROCODILE
+9	THE PRINCE
+10	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	ABOUT A CROCODILE
+1	TELL A STORY
+2	UPON A TIME
+2	WERE A PRINCESS
+3	BY A CROCODILE
+3	IN THE TOWER
+4	CROSS THE BRIDGE
+5	INTO THE MOAT
+6	DOWN THE ROAD
+7	SAW THE CROCODILE
+9	IN NO TIME
+9	RESCUED THE PRINCE
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+
+SCORE:	0
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+
+SCORE:	0
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+8	THE OTHER SIDE
+
+SCORE:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+4	NEVER
+6	VERY
+
+SCORE:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	TELL
+1	WANT
+2	WERE
+4	CROSS
+4	TRYED
+5	TOSSED
+5	WENT
+6	CAME
+6	WALKING
+7	SAW
+8	SWIM
+9	HAD
+9	RESCUED
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+1	ABOUT
+2	UPON
+3	BY
+3	IN
+5	INTO
+5	TO
+6	DOWN
+8	ACROSS
+8	OF
+8	ON
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	ABOUT A CROCODILE
+2	UPON A TIME
+3	BY A CROCODILE
+3	IN THE TOWER
+5	INTO THE MOAT
+5	TO SLEEP
+6	DOWN THE ROAD
+8	OF THE
+8	ON THE OTHER SIDE
+9	IN NO TIME
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+2	 WERE
+
+SCORE:	1
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+2	WERE
+9	HAD
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+
+SCORE:	0
+
+
+###V8	Adverb###
+
+2	ONCE
+4	NEVER
+6	VERY
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+
+SCORE:	0
+
+
+###V10	Third person singular present tense suffix###
+
+
+SCORE:	0
+
+
+###V11	Past tense modal###
+
+
+SCORE:	0
+
+
+###V12	Regular past tense suffix###
+
+3	WALKED
+4	TRYED
+5	TOSSED
+9	RESCUED
+
+SCORE:	2
+
+
+###V13	Past tense auxiliary###
+
+2	WERE
+9	HAD
+
+SCORE:	2
+
+
+###V14	Medial adverb###
+
+6	VERY
+
+SCORE:	1
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+9	NO TIME HE HAD
+
+SCORE:	1
+
+
+###V16	Past tense copula###
+
+2	 WERE
+
+SCORE:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+SCORE:	0
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+4	NEVER ANYONE TRYED TO CROSS THE BRIDGE .
+9	IN NO TIME HE HAD RESCUED THE PRINCE AND PRINCESS .
+
+SCORE:	2
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+SCORE:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+SCORE:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	I WANT TO TELL A STORY ABOUT A CROCODILE
+2	ONCE UPON A TIME THERE WERE A PRINCESS AND A PRINCE
+3	BOTH WALKED IN THE TOWER BY A CROCODILE
+4	NEVER ANYONE TRYED TO CROSS THE BRIDGE
+5	EVE WENT TO SLEEP TOSSED THEM INTO THE MOAT
+6	ONE DAY A VERY SLEEPY PRINCE CAME WALKING DOWN THE ROAD
+7	HE SAW THE CROCODILE
+8	AND WENT ON THE OTHER SIDE OF THE TO SWIM ACROSS
+9	IN NO TIME HE HAD RESCUED THE PRINCE AND PRINCESS
+10	THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+1	I WANT TO TELL 
+3	BOTH WALKED 
+5	EVE WENT 
+6	ONE DAY A VERY SLEEPY PRINCE CAME 
+7	HE SAW 
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	TO TELL A STORY ABOUT A CROCODILE
+1	WANT TO TELL A STORY ABOUT A CROCODILE
+2	WERE A PRINCESS AND A PRINCE
+3	WALKED IN THE TOWER BY A CROCODILE
+4	TO CROSS THE BRIDGE
+4	TRYED TO CROSS THE BRIDGE
+5	TOSSED THEM
+5	WENT TO SLEEP TOSSED THEM INTO THE MOAT
+6	CAME WALKING DOWN THE ROAD
+7	SAW THE CROCODILE
+8	WENT ON THE OTHER SIDE OF THE TO SWIM ACROSS
+9	HAD RESCUED THE PRINCE AND PRINCESS
+9	RESCUED THE PRINCE AND PRINCESS
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+1	I WANT TO TELL A STORY ABOUT A CROCODILE
+3	BOTH WALKED IN THE TOWER BY A CROCODILE
+5	EVE WENT TO SLEEP TOSSED THEM INTO THE MOAT
+6	ONE DAY A VERY SLEEPY PRINCE CAME WALKING DOWN THE ROAD
+7	HE SAW THE CROCODILE
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+2	AND
+
+SCORE:	1
+
+
+###S6	Sentence with two VP's###
+
+1	I WANT TO TELL A STORY ABOUT A CROCODILE .
+4	NEVER ANYONE TRYED TO CROSS THE BRIDGE .
+5	EVE WENT TO SLEEP TOSSED THEM INTO THE MOAT .
+8	AND WENT ON THE OTHER SIDE OF THE TO SWIM ACROSS .
+
+SCORE:	2
+
+
+###S7	Conjoined phrases###
+
+
+SCORE:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+1	WANT TO TELL A STORY ABOUT A CROCODILE
+4	TRYED TO CROSS THE BRIDGE
+
+SCORE:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+SCORE:	0
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+
+SCORE:	0
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+SCORE:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+8	THE TO SWIM ACROSS
+
+SCORE:	1
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+6	ONE DAY A VERY SLEEPY PRINCE CAME WALKING DOWN THE ROAD .
+
+SCORE:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-10
+NO OF UTTERANCES CONSIDERED: 10
+
+
+#########################
+NOUN SCORE: 15
+VERB SCORE: 20
+QUESTION SCORE: 2
+SENTENCE SCORE: 14
+IPSYN SCORE: 51
+##########################
+
+###Sentence Listing###
+
+1	I WANT TO TELL A STORY ABOUT A CROCODILE .
+2	ONCE UPON A TIME THERE WERE A PRINCESS AND A PRINCE .
+3	BOTH WALKED IN THE TOWER BY A CROCODILE .
+4	NEVER ANYONE TRYED TO CROSS THE BRIDGE .
+5	EVE WENT TO SLEEP TOSSED THEM INTO THE MOAT .
+6	ONE DAY A VERY SLEEPY PRINCE CAME WALKING DOWN THE ROAD .
+7	HE SAW THE CROCODILE .
+8	AND WENT ON THE OTHER SIDE OF THE TO SWIM ACROSS .
+9	IN NO TIME HE HAD RESCUED THE PRINCE AND PRINCESS .
+10	THE END .

@@ -1,0 +1,192 @@
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (NP (DT a) (NNP dragon)) (VP (VBN named) (S (NP (NNP Coocoo-caca)))))) (. .)))
+
+
+
+
+
+(S1 (INTJ (UH No) (. .)))
+
+
+
+
+
+(S1 (SBARQ (WHNP (WP What)) (SQ (MD should) (NP (DT the) (JJ first) (NN name)) (VP (AUX be))) (. ?)))
+
+
+
+
+
+(S1 (S (RB So) (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (PRP you)) (NP (CD two) (NNS names)))) (. .)))
+
+
+
+
+
+(S1 (NP (NNP Sophie) (CC or) (NNP Chloe) (. ?)))
+
+
+
+
+
+(S1 (INTJ (UH OK) (. .)))
+
+
+
+
+
+(S1 (S (NP (NNP Sophie)) (VP (AUX was) (ADVP (RB always))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP You)) (VP (VBD said) (SBAR (IN that) (FRAG (ADVP (RB already))))) (. !)))
+
+
+
+
+
+(S1 (S (CC But) (NP (PRP you)) (VP (VBD said) (NP (PRP it)) (NP (DT the) (JJ first) (NN name)) (SBAR (S (NP (PRP I)) (VP (AUX did))))) (. .)))
+
+
+
+
+
+(S1 (FRAG (INTJ (UH No) (UH no) (UH no) (UH no) (UH no)) (. !)))
+
+
+
+
+
+(S1 (NP (DT The) (JJ first) (NN game) (. .)))
+
+
+
+
+
+(S1 (S (NP (NNP Zoe)) (VP (VBZ S) (NP (NN name))) (. .)))
+
+
+
+
+
+(S1 (FRAG (NP (NNP Zoe)) (, ,) (INTJ (UH OK)) (. .)))
+
+
+
+
+
+(S1 (FRAG (RB So) (NP (NNP Zoe) (NNP W) (NN name) (CC or) (NN Sky)) (. ?)))
+
+
+
+
+
+(S1 (FRAG (INTJ (UH OK)) (, ,) (NP (NNP Sky)) (. .)))
+
+
+
+
+
+(S1 (FRAG (ADVP (RB so)) (NP (NNP Nicholas) (CC or) (NNP Zachary)) (. ?)))
+
+
+
+
+
+(S1 (S (NP (NNP Zach)) (, ,) (ADVP (RB so)) (VP (VB tell) (NP (PRP me) (NP (DT the) (NN name)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NNP Chloe) (NNP Zoe)) (VP (AUX Is) (NP (DT that)) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (ADVP (RB choosed) (RB really)) (VP (AUX need) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (DT the) (NN bathroom)))))))))) (. .)))
+
+
+
+
+
+(S1 (INTJ (UH Yes) (. .)))
+
+
+
+
+
+(S1 (S (NP (CD two)) (VP (NNS people) (PP (IN at) (NP (DT a) (NN time))) (PP (IN with) (NP (PRP you)))) (. .)))
+
+
+
+
+
+(S1 (NP (DT this) (NN summer) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (MD 'll) (VP (VB choose) (SBAR (WHNP (WP who)) (S (NP (PRP I)) (ADVP (NNP wanna)) (VP (VBP play)))))) (. .)))
+
+
+
+
+
+(S1 (FRAG (NP (NNP Alright)) (WHADVP (WRB how)) (NP (QP (IN about) (CD three) (CC or) (CD four))) (. ?)))
+
+
+
+
+
+(S1 (SQ (MD Can) (NP (PRP we)) (VP (VB bring) (NP (CD five)) (SBAR (IN because) (S (NP (PRP I)) (VP (AUX 'm) (RB gonna) (VP (AUX be) (NP (CD five))))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (AUX 'm) (RB gonna) (VP (AUX be) (NP (NP (CD five)) (PP (IN in) (NP (NN fall)))))) (. .)))
+
+
+
+
+
+(S1 (INTJ (UH No) (. .)))
+
+
+
+
+
+(S1 (S (IN Because) (NP (DT that)) (VP (AUX 's) (ADJP (JJ young))) (. .)))
+
+
+
+
+
+(S1 (S (VP (VB Mm) (ADJP (JJ OK))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (POS 's) (NP (NP (DT a) (NNP dragon)) (VP (VBN named) (S (NP (NNP Chloe) (NNP Zoe) (NNP Zachary)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC and) (NP (PRP she)) (VP (AUX had) (NP (NP (NNS friends)) (VP (VBN named) (S (NP (NP (NN Butterfly)) (CC and) (NP (NNP Birdie))))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NP (PRP They)) (NP (DT all))) (VP (VBD played) (PRT (RP together)) (NP (DT every) (NN day))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

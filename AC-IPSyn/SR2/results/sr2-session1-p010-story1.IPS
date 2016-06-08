@@ -1,0 +1,432 @@
+FILENAME:sr2-session1-p010-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	OOO
+2	WHISKERS
+6	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+4	HE
+6	I
+6	WHAT
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+2	NICE
+2	SMALL
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+2	SMALL WHISKERS
+6	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+6	THE END
+
+SCORE:	1
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+6	TO THE END
+
+SCORE:	1
+
+
+###N7	Plural suffix###
+
+2	WHISKERS
+
+SCORE:	1
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+
+SCORE:	0
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+2	NICE SMALL WHISKERS
+
+SCORE:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+
+SCORE:	0
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+4	'M
+4	SAID
+4	SCARED
+6	DO
+6	KNOW
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+6	TO
+
+SCORE:	1
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+6	TO THE END
+
+SCORE:	1
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+
+SCORE:	0
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+4	'M
+5	'M
+6	DO
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+
+SCORE:	0
+
+
+###V8	Adverb###
+
+5	REALLY
+6	ELSE
+6	NOT
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+
+SCORE:	0
+
+
+###V10	Third person singular present tense suffix###
+
+
+SCORE:	0
+
+
+###V11	Past tense modal###
+
+
+SCORE:	0
+
+
+###V12	Regular past tense suffix###
+
+
+SCORE:	0
+
+
+###V13	Past tense auxiliary###
+
+
+SCORE:	0
+
+
+###V14	Medial adverb###
+
+6	ELSE
+6	NOT
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+
+SCORE:	0
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+5	REALLY
+
+SCORE:	1
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+6	I DO NOT KNOW WHAT ELSE TO THE END .
+
+SCORE:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+6	DO NOT KNOW WHAT ELSE TO THE END
+
+SCORE:	1
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+6	DO NOT KNOW WHAT ELSE TO THE END
+
+SCORE:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+2	NICE SMALL WHISKERS
+3	LA LA LA
+4	HE SAID DADDY I 'M SCARED TO
+5	I 'M REALLY
+6	I DO NOT KNOW WHAT ELSE TO THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+4	HE SAID , DADDY , 
+5	I 'M REALLY
+6	I DO NOT KNOW 
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+4	'M SCARED TO
+4	SAID , DADDY , I 'M SCARED TO
+6	DO NOT KNOW WHAT ELSE TO THE END
+6	KNOW WHAT ELSE TO THE END
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+4	HE SAID , DADDY , I 'M SCARED TO
+6	I DO NOT KNOW WHAT ELSE TO THE END
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+
+SCORE:	0
+
+
+###S6	Sentence with two VP's###
+
+4	HE SAID , DADDY , I 'M SCARED TO .
+
+SCORE:	1
+
+
+###S7	Conjoined phrases###
+
+
+SCORE:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+SCORE:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+SCORE:	0
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+6	I DO NOT KNOW WHAT ELSE TO THE END .
+
+SCORE:	1
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+4	HE SAID , DADDY , I 'M SCARED TO .
+
+SCORE:	1
+
+
+###S16	Relative clause marked or unmarked###
+
+
+SCORE:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+
+SCORE:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-6
+NO OF UTTERANCES CONSIDERED: 6
+
+
+#########################
+NOUN SCORE: 12
+VERB SCORE: 13
+QUESTION SCORE: 3
+SENTENCE SCORE: 11
+IPSYN SCORE: 39
+##########################
+
+###Sentence Listing###
+
+1	OOO .
+2	NICE SMALL WHISKERS .
+3	LA LA LA .
+4	HE SAID , DADDY , I 'M SCARED TO .
+5	I 'M REALLY .
+6	I DO NOT KNOW WHAT ELSE TO THE END .

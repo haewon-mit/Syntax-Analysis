@@ -1,0 +1,86 @@
+
+(S1 (S (S (NP (PRP I)) (VP (AUX 'm) (ADJP (JJ gonna))))
+     (VP (VBP tell)
+      (NP (NP (DT a) (NN story))
+       (PP (IN about) (NP (DT the) (NN playground)))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX were) (NP (CD three) (NNS kids)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (AUX were)
+      (DT all)
+      (PP (IN on) (NP (DT the) (NN playground))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then))
+     (NP (NP (PRP they)) (NP (DT both)))
+     (VP (AUX had) (NP (NNS balls)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (VP (VBD got) (NP (DT another) (NN ball)))
+      (CC and)
+      (VP (VBD played) (NP (NN hopscotch))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They)) (VP (AUX were) (ADJP (JJ jealous))) (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (VBD went)
+      (ADVP (RB down) (NP (DT the) (NNS swings)))
+      (ADVP (RB instead))
+      (, ,)
+      (S (VP (VBG leaving)
+	  (NP (PRP$ their) (NNS balls))
+	  (ADVP (RB behind)))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB Then))
+     (, ,)
+     (NP (DT the) (CD one) (NN ball))
+     (VP (CC and) (VP (VBN caught) (NP (DT a) (NN ball))))
+     (. .)))
+
+
+
+(S1 (S (RB Then)
+     (NP (PRP she))
+     (VP (VBZ comes) (ADVP (RB back)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB then)
+     (NP (PRP she))
+     (VP (VBD climbed)
+      (PP (TO to)
+       (NP (NP (DT the) (NN top))
+	(PP (IN of) (NP (NN play) (NN stuff))))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

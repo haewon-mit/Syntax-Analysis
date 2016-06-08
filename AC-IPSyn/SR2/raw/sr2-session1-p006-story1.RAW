@@ -1,0 +1,522 @@
+FILENAME:sr2-session1-p006-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	ICE
+1	SEAL
+1	TIME
+3	PENGUIN
+3	SNOW
+4	BUSH
+5	BEDS
+5	DAY
+5	MOUNTAIN
+6	FLOP
+8	HAT
+8	SNOWMAN
+9	END
+
+COUNTS:	13
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+5	THEY
+8	HE
+
+COUNTS:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	TALL
+1	TWO
+4	LITTLE
+5	FLIP
+5	NEXT
+5	THEIR
+6	FLOP
+8	ITS
+
+COUNTS:	8
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A SEAL
+1	A TIME
+1	TALL MOUNTAIN
+1	TWO PENGUINS
+2	A SNOWMAN
+3	THE PENGUIN
+4	LITTLE PENGUIN
+5	LITTLE MOUNTAIN
+5	NEXT DAY
+5	THE SEAL
+5	THEIR BEDS
+6	FLIP FLOP
+8	ITS HAT
+9	THE END
+
+COUNTS:	14
+
+
+###N5	Article used before a noun###
+
+1	A SEAL
+1	A TIME
+2	A SNOWMAN
+3	THE PENGUIN
+5	THE SEAL
+9	THE END
+
+COUNTS:	6
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+5	IN THEIR BEDS
+8	INTO A SNOWMAN
+8	ON ITS HAT
+
+COUNTS:	4
+
+
+###N7	Plural suffix###
+
+1	PENGUINS
+5	BEDS
+
+COUNTS:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+1	TWO PENGUINS
+3	THE PENGUIN
+
+COUNTS:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+1	A TALL MOUNTAIN
+4	THE LITTLE PENGUIN
+5	THE LITTLE MOUNTAIN
+5	THE NEXT DAY
+6	FLOP FLIP FLOP
+
+COUNTS:	4
+
+
+###N10	Adverb modifying adjective or nominal###
+
+5	THEN
+
+COUNTS:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	CLIMBING
+1	WERE
+2	FELL
+2	WENT
+4	CRASHED
+5	FLOPPED
+5	SLEEPING
+7	FLIP
+8	BOUNCED
+8	SLID
+
+COUNTS:	10
+
+
+###V2	Particle or preposition###
+
+1	OF
+1	UP
+1	UPON
+4	INTO
+5	IN
+5	OFF
+8	DOWN
+8	ON
+
+COUNTS:	8
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	OF ICE
+1	UPON A TIME
+2	INTO A SNOWMAN
+3	INTO SNOW
+4	INTO A LITTLE
+5	IN THEIR BEDS
+8	INTO A SNOWMAN
+8	ON ITS HAT
+
+COUNTS:	5
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WERE
+5	 WERE
+
+COUNTS:	1
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WERE
+5	WERE
+
+COUNTS:	1
+
+
+###V7	Progressive Suffix###
+
+1	CLIMBING
+5	SLEEPING
+
+COUNTS:	2
+
+
+###V8	Adverb###
+
+1	ONCE
+2	FIRST
+5	THEN
+
+COUNTS:	3
+
+
+###V9	Modal preceeding verb###
+
+
+COUNTS:	0
+
+
+###V10	Third person singular present tense suffix###
+
+
+COUNTS:	0
+
+
+###V11	Past tense modal###
+
+
+COUNTS:	0
+
+
+###V12	Regular past tense suffix###
+
+4	CRASHED
+5	FLOPPED
+
+COUNTS:	2
+
+
+###V13	Past tense auxiliary###
+
+1	WERE
+5	WERE
+
+COUNTS:	1
+
+
+###V14	Medial adverb###
+
+2	FIRST
+5	THEN
+
+COUNTS:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WERE
+5	 WERE
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+COUNTS:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME A SEAL AND TWO PENGUINS WERE CLIMBING UP A TALL MOUNTAIN OF ICE
+2	THE SEAL WENT FIRST AND FELL INTO A SNOWMAN
+3	AND THE PENGUIN FELL INTO SNOW
+4	THE LITTLE PENGUIN SLID DOWN AND CRASHED INTO A LITTLE BUSH
+5	AND THEN THE NEXT DAY WHILE THEY WERE SLEEPING IN THEIR BEDS THE SEAL FLIP FLOPPED OFF THE LITTLE MOUNTAIN
+6	FLIP FLOP FLIP FLOP
+7	FLIP FLOP
+8	HE SLID DOWN INTO A SNOWMAN AND THEN BOUNCED ON ITS HAT
+9	THE END
+
+COUNTS:	4
+
+
+###S2	Subject verb sequence###
+
+2	THE SEAL WENT FIRST AND FELL 
+4	THE LITTLE PENGUIN SLID DOWN AND CRASHED 
+5	THEY WERE SLEEPING 
+8	HE SLID DOWN 
+
+COUNTS:	2
+
+
+###S3	Verb object sequence###
+
+1	CLIMBING UP A TALL MOUNTAIN OF ICE
+1	WERE CLIMBING UP A TALL MOUNTAIN OF ICE
+2	WENT FIRST AND FELL INTO A SNOWMAN
+3	FELL INTO SNOW
+4	SLID DOWN AND CRASHED INTO A LITTLE BUSH
+5	SLEEPING IN THEIR BEDS
+5	WERE SLEEPING IN THEIR BEDS
+6	FLIP FLOP FLIP FLOP
+7	FLIP FLOP
+8	SLID DOWN INTO A SNOWMAN
+8	SLID DOWN INTO A SNOWMAN AND THEN BOUNCED ON ITS HAT
+
+COUNTS:	7
+
+
+###S4	Subject Verb Object Sequence###
+
+2	THE SEAL WENT FIRST AND FELL INTO A SNOWMAN
+4	THE LITTLE PENGUIN SLID DOWN AND CRASHED INTO A LITTLE BUSH
+5	THEY WERE SLEEPING IN THEIR BEDS
+8	HE SLID DOWN INTO A SNOWMAN AND THEN BOUNCED ON ITS HAT
+
+COUNTS:	3
+
+
+###S5	Conjunction (any)###
+
+3	AND
+5	WHILE
+
+COUNTS:	2
+
+
+###S6	Sentence with two VP's###
+
+2	THE SEAL WENT FIRST AND FELL INTO A SNOWMAN .
+4	THE LITTLE PENGUIN SLID DOWN AND CRASHED INTO A LITTLE BUSH .
+8	HE SLID DOWN INTO A SNOWMAN AND THEN BOUNCED ON ITS HAT .
+
+COUNTS:	3
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+COUNTS:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+5	WHILE
+
+COUNTS:	1
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+
+COUNTS:	0
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+COUNTS:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+1	ONCE UPON A TIME A SEAL AND TWO PENGUINS WERE CLIMBING UP A TALL MOUNTAIN OF ICE .
+5	AND THEN THE NEXT DAY , WHILE THEY WERE SLEEPING IN THEIR BEDS , THE SEAL FLIP FLOPPED OFF THE LITTLE MOUNTAIN .
+
+COUNTS:	2
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+5	WHILE THEY WERE SLEEPING IN THEIR BEDS
+
+COUNTS:	1
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-9
+NO OF UTTERANCES CONSIDERED: 9
+
+
+#########################
+NOUN COUNTS: 56
+VERB COUNTS: 36
+QUESTION COUNTS: 0
+SENTENCE COUNTS: 25
+TOTAL NO OF STRUCTURES COUNTS: 117
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME A SEAL AND TWO PENGUINS WERE CLIMBING UP A TALL MOUNTAIN OF ICE .
+2	THE SEAL WENT FIRST AND FELL INTO A SNOWMAN .
+3	AND THE PENGUIN FELL INTO SNOW .
+4	THE LITTLE PENGUIN SLID DOWN AND CRASHED INTO A LITTLE BUSH .
+5	AND THEN THE NEXT DAY , WHILE THEY WERE SLEEPING IN THEIR BEDS , THE SEAL FLIP FLOPPED OFF THE LITTLE MOUNTAIN .
+6	FLIP FLOP FLIP FLOP .
+7	FLIP FLOP .
+8	HE SLID DOWN INTO A SNOWMAN AND THEN BOUNCED ON ITS HAT .
+9	THE END .

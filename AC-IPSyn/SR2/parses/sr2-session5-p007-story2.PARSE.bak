@@ -1,0 +1,185 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was) (NP (DT a) (JJ little) (NN squirrel)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP She))
+     (VP (VBD liked) (S (VP (VBG climbing) (NP (NNS trees)))))
+     (. .)))
+
+
+
+(S1 (S (NP (EX There))
+     (VP (AUX was)
+      (NP (NP (DT a) (NN turtle)) (, ,) (ADJP (RB so) (JJ slow))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (PRP he))
+     (VP (AUX was) (NP (DT a) (NN rabbit)))
+     (. .)))
+
+
+
+(S1 (S (NP (NNP Ha)) (VP (VBD ha) (NP (CD ha))) (. .)))
+
+
+
+(S1 (S (ADVP (RB Then))
+     (PRN (S (NP (PRP he))
+	   (VP (VBD treated) (NP (PRP it)) (ADVP (RB so) (RB well))))
+      (, ,))
+     (NP (NP (NN none)) (PP (IN of) (NP (DT the) (NNS animals))))
+     (VP (MD could))
+     (. .)))
+
+
+
+(S1 (S (RB So)
+     (NP (DT the) (NN bunny))
+     (VP (VBD played) (NP (VB hide) (CC and) (VB seek) (IN with)))
+     (. .)))
+
+
+
+(S1 (S (NP (NN turtle))
+     (VP (VBD went)
+      (ADJP (JJ slow))
+      (, ,)
+      (S (VP (VB slow) (ADJP (JJ slow)))))
+     (. .)))
+
+
+
+(S1 (S (CC And) (VP (VB T) (PP (IN for) (NP (NN turtle)))) (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (NNS T))
+     (VP (VBP squirrel)
+      (SBAR (IN because)
+       (S (NP (PRP it))
+	(VP (AUX was)
+	 (NP (NP (NN T) (CC and) (NN turn))
+	  (PP (TO to) (NP (NN hop))))))))
+     (. .)))
+
+
+
+(S1 (S (IN So)
+     (NP (PRP they))
+     (VP (VBP hid)
+      (SBAR (WHADVP (WRB where))
+       (S (NP (PRP they))
+	(VP (VBD knew)
+	 (SBAR (S (NP (PRP they))
+		(VP (MD would) (RB not) (VP (AUX be) (VP (VBN found))))))))))
+     (. .)))
+
+
+
+(S1 (S (NP (NN Turtle))
+     (VP (VBD hid)
+      (PP (IN in) (NP (DT the) (NNS trees)))
+      (, ,)
+      (S (VP (VBG hoping))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB Then))
+     (NP (NN Rabbit))
+     (VP (VBD found) (NP (NNP Turtle)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (VBD looked) (PP (IN for) (NP (NNP Squirrel))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB Then))
+     (NP (PRP they))
+     (VP (VBD looked) (PP (IN for) (NP (NNP T))))
+     (. .)))
+
+
+
+(S1 (S (NP (NNP T))
+     (VP (VBD found) (NP (PRP them)) (ADVP (RB instead)))
+     (. .)))
+
+
+
+(S1 (S (RB Then)
+     (NP (PRP they))
+     (VP (VBD went)
+      (S (VP (TO to) (VP (VB hide) (NP (DT some) (JJR more))))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT this) (NN time))
+     (NP (PRP it))
+     (VP (AUX was)
+      (NP (NP (NNS rabbits) (NN turn))
+       (SBAR (S (VP (TO to) (VP (VB hide)))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP it))
+     (VP (AUX was)
+      (NP (NP (NNS turtles) (NN turn))
+       (SBAR (S (VP (TO to) (VP (VB hide)))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (NNP Squirrel))
+     (VP (VBD hid)
+      (PP (IN behind)
+       (NP (NP (DT a) (NNP bush)) (CC and) (S (VP (VBN counted))))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB Finally))
+     (, ,)
+     (NP (PRP he))
+     (VP (VBD got) (PP (TO to) (NP (CD twenty))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VP (VBD climbed) (PRT (RP up)))
+      (, ,)
+      (VP (VBD slid) (PRT (RP down)))
+      (CC and)
+      (VP (VBD found) (NP (NN Rabbit))))
+     (. .)))
+
+
+
+(S1 (S (RB Then)
+     (NP (PRP they))
+     (VP (VP (VBD jumped) (PRT (RP out)))
+      (CC and)
+      (VP (VBD found) (NP (NNP Turtle))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

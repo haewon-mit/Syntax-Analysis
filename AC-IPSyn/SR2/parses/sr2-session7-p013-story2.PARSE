@@ -1,0 +1,60 @@
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (NP (DT a) (NN girl)) (SBAR (SBAR (WHNP (WDT that)) (S (VP (AUX had) (NP (DT a) (NN cat))))) (CC and) (SBAR (DT a) (S (VP (VBD stuffed) (NP (NN dog)))))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP She)) (VP (VBD liked) (S (VP (VBG playing) (PP (IN with) (NP (PRP$ her) (NN cat)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (NP (PRP$ her) (NN cat)) (VP (VBZ keeps) (VP (VBG putting) (NP (DT the) (NNS toys)) (PP (IN around) (NP (PRP$ her) (NN room))))) (. .)))
+
+
+
+
+
+(S1 (S (PP (IN Like) (NP (DT every) (NN minute))) (NP (PRP she)) (VP (VBZ cleans) (NP (PRP$ her) (NN room)) (PRT (RP up))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB So) (RB sometimes)) (NP (PRP she)) (VP (VBZ cleans) (NP (PRP it)) (PP (IN up) (NP (QP (RB only) (CD one)) (NN time)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (ADVP (RB sometimes)) (NP (DT the) (NN cat)) (VP (VBZ listens) (PP (TO to) (NP (PRP her)))) (. .)))
+
+
+
+
+
+(S1 (S (CC but) (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (NN time)))) (NP (DT the) (NN cat)) (VP (AUX does) (RB not)) (. .)))
+
+
+
+
+
+(S1 (S (RB So) (NP (DT the) (NN girl)) (VP (VBD taught) (NP (DT the) (NN cat)) (NP (DT some) (NNS lessons))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (ADVP (RB now)) (NP (DT the) (NN cat)) (VP (VBZ knows) (SBAR (IN that) (S (NP (PRP she)) (ADJP (RB very) (JJ angry)) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (AUX has) (S (VP (TO to) (VP (VB clean) (NP (DT the) (NN stuff)) (PRT (RP up)) (ADVP (RB again))))))))))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

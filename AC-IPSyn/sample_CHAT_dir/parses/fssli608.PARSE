@@ -1,0 +1,78 @@
+
+
+(S1 (S (PP (IN in) (NP (DT the) (NN night))) (NP (DT this) (NN boy)) (VP (AUX was) (VP (VBG looking) (PP (IN at) (NP (DT a) (NN frog))))) (. .)))
+
+
+
+
+
+(S1 (S (PP (IN in) (NP (DT the) (NN morning))) (NP (DT the) (NN frog)) (VP (AUX was) (ADJP (VBN gone))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT the) (NN boy)) (VP (VP (VBD looked) (PP (IN around) (NP (PRP$ his) (NN room)))) (CC and) (VP (VBD looked) (PP (IN outside) (PP (IN in) (NP (DT the) (NN garden)))))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB then)) (NP (PRP they)) (VP (VBD looked) (PP (IN in) (NP (DT the) (NN park)))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB then)) (NP (PRP they)) (VP (VP (VBD looked) (PP (IN in) (NP (DT a) (NN beehive)))) (, ,) (VP (VBD got) (VP (VBN stung) (PP (IN by) (NP (DT the) (NNS bees)))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP he)) (VP (VBD looked) (ADVP (RB up) (NP (DT a) (NN tree)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP he)) (VP (VBD got) (PP (IN on) (NP (DT a) (NN reindeer)))) (. .)))
+
+
+
+
+
+(S1 (S (CC and) (NP (DT the) (NN reindeer)) (VP (VBD pushed) (NP (PRP him)) (PP (IN off) (NP (DT a) (NN cliff))) (PP (IN into) (NP (DT a) (NNP pond)))) (. .)))
+
+
+
+
+
+(S1 (S (RB then) (NP (PRP he)) (VP (VBD fell) (PP (IN into) (NP (DT a) (NNP pond)))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB then)) (NP (PRP he)) (VP (VBD looked) (PP (IN around) (NP (DT the) (NNP pond))) (PP (IN for) (NP (PRP$ his) (NN frog)))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB then)) (NP (PRP he)) (VP (VBD looked) (PP (IN behind) (NP (DT a) (NN log)))) (. .)))
+
+
+
+
+
+(S1 (S (CC and) (NP (PRP he)) (VP (VBD found) (NP (PRP$ his) (NN frog)) (PP (IN with) (NP (NP (PRP$ his) (NN wife)) (CC and) (NP (NN baby) (NNS frogs))))) (. .)))
+
+
+
+
+
+(S1 (S (CC and) (ADVP (RB then)) (NP (DT the) (NN boy)) (VP (VP (VBD took) (NP (DT the) (NN frog))) (CC and) (VP (VBD said) (NP (NNP goodbye)) (PP (TO to) (NP (NP (DT the) (NN frog) (POS 's)) (NN family))))) (. .)))
+
+
+

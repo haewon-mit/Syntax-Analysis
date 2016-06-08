@@ -1,0 +1,535 @@
+FILENAME:sr2-session7-p007-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	ALA
+1	GIRL
+1	TIME
+2	BACK
+2	YARD
+3	TREES
+4	ELLIOTT
+4	PUPPY
+6	PIRATE
+6	SHIPS
+7	DOG
+8	CAT
+8	SOFA
+10	BOXS
+10	FURNITURE
+10	TREASURE
+11	CHAIR
+11	KITTY
+12	END
+
+COUNTS:	19
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+2	SHE
+6	THEY
+
+COUNTS:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	LITTLE
+2	HER
+10	TWO
+11	BIG
+
+COUNTS:	4
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A TIME
+1	LITTLE GIRL
+2	HER BACK
+3	THE TREES
+4	HER PUPPY
+7	HER SOFA
+7	THE DOG
+8	THE CAT
+8	THE SHIP
+8	THE SOFA
+10	THE FURNITURE
+10	TWO TREASURE
+11	BIG CHAIR
+11	HER KITTY
+12	THE END
+
+COUNTS:	15
+
+
+###N5	Article used before a noun###
+
+1	A TIME
+3	THE TREES
+7	THE DOG
+8	THE CAT
+8	THE SHIP
+8	THE SOFA
+10	THE FURNITURE
+12	THE END
+
+COUNTS:	8
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+2	IN HER BACK
+3	LOVED THE TREES
+7	UPON HER SOFA
+8	AROUND THE SHIP
+8	WAS THE SOFA
+10	ONTO THE FURNITURE
+11	WITH HER KITTY
+
+COUNTS:	8
+
+
+###N7	Plural suffix###
+
+3	TREES
+6	SHIPS
+10	BOXS
+
+COUNTS:	3
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+1	LITTLE GIRL
+4	HER PUPPY
+7	THE DOG
+8	THE CAT
+
+COUNTS:	4
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+1	A LITTLE GIRL
+11	THE BIG CHAIR
+
+COUNTS:	2
+
+
+###N10	Adverb modifying adjective or nominal###
+
+11	THEN
+
+COUNTS:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	NAMED
+2	HAD
+3	LOVED
+4	WAS
+6	LIKED
+7	PERCHED
+8	PRANCED
+10	FLOATED
+11	SAT
+
+COUNTS:	9
+
+
+###V2	Particle or preposition###
+
+1	UPON
+2	IN
+8	AROUND
+10	ONTO
+10	UP
+11	WITH
+
+COUNTS:	6
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+2	IN HER BACK YARD
+7	UPON HER SOFA
+8	AROUND THE SHIP
+10	ONTO THE FURNITURE
+11	IN THE BIG CHAIR
+11	WITH HER KITTY
+
+COUNTS:	3
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+4	 WAS
+8	 WAS
+
+COUNTS:	1
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+2	HAD
+4	WAS
+8	WAS
+
+COUNTS:	2
+
+
+###V7	Progressive Suffix###
+
+
+COUNTS:	0
+
+
+###V8	Adverb###
+
+1	ONCE
+5	TOO
+9	THEN
+
+COUNTS:	3
+
+
+###V9	Modal preceeding verb###
+
+
+COUNTS:	0
+
+
+###V10	Third person singular present tense suffix###
+
+4	WAS
+
+COUNTS:	1
+
+
+###V11	Past tense modal###
+
+
+COUNTS:	0
+
+
+###V12	Regular past tense suffix###
+
+1	NAMED
+3	LOVED
+4	NAMED
+6	LIKED
+7	PERCHED
+8	PRANCED
+10	FLOATED
+
+COUNTS:	6
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+2	HAD
+4	WAS
+8	WAS
+
+COUNTS:	2
+
+
+###V14	Medial adverb###
+
+11	THEN
+
+COUNTS:	1
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+4	 WAS
+8	 WAS
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+COUNTS:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS A LITTLE GIRL NAMED ALA
+2	SHE HAD IN HER BACK YARD
+3	SHE LOVED THE TREES
+4	HER PUPPY WAS NAMED ELLIOTT
+6	THEY LIKED PIRATE SHIPS
+7	SO THE DOG PERCHED UPON HER SOFA
+8	AND THE CAT PRANCED AROUND THE SHIP WHICH WAS THE SOFA
+9	AND THEN
+10	THEN TWO TREASURE BOXS FLOATED UP ONTO THE FURNITURE
+11	AND THEN ALA SAT IN THE BIG CHAIR WITH HER KITTY
+12	THE END
+
+COUNTS:	7
+
+
+###S2	Subject verb sequence###
+
+2	SHE HAD 
+3	SHE LOVED 
+4	HER PUPPY WAS NAMED 
+6	THEY LIKED 
+
+COUNTS:	2
+
+
+###S3	Verb object sequence###
+
+1	NAMED ALA
+1	WAS A LITTLE GIRL NAMED ALA
+2	HAD IN HER BACK YARD
+3	LOVED THE TREES
+4	WAS NAMED ELLIOTT
+6	LIKED PIRATE SHIPS
+7	PERCHED UPON HER SOFA
+8	PRANCED AROUND THE SHIP , WHICH WAS THE SOFA
+8	WAS THE SOFA
+10	FLOATED UP ONTO THE FURNITURE
+11	SAT IN THE BIG CHAIR WITH HER KITTY
+
+COUNTS:	5
+
+
+###S4	Subject Verb Object Sequence###
+
+2	SHE HAD IN HER BACK YARD
+3	SHE LOVED THE TREES
+4	HER PUPPY WAS NAMED ELLIOTT
+6	THEY LIKED PIRATE SHIPS
+
+COUNTS:	4
+
+
+###S5	Conjunction (any)###
+
+11	AND
+
+COUNTS:	1
+
+
+###S6	Sentence with two VP's###
+
+
+COUNTS:	0
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+COUNTS:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+COUNTS:	0
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+8	AND THE CAT PRANCED AROUND THE SHIP , WHICH WAS THE SOFA .
+
+COUNTS:	1
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+COUNTS:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+8	THE SHIP , WHICH WAS THE SOFA
+
+COUNTS:	1
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+
+COUNTS:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-12
+NO OF UTTERANCES CONSIDERED: 12
+
+
+#########################
+NOUN COUNTS: 66
+VERB COUNTS: 35
+QUESTION COUNTS: 0
+SENTENCE COUNTS: 21
+TOTAL NO OF STRUCTURES COUNTS: 122
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS A LITTLE GIRL NAMED ALA .
+2	SHE HAD IN HER BACK YARD .
+3	SHE LOVED THE TREES .
+4	HER PUPPY WAS NAMED ELLIOTT .
+5	TOO .
+6	THEY LIKED PIRATE SHIPS .
+7	SO THE DOG PERCHED UPON HER SOFA .
+8	AND THE CAT PRANCED AROUND THE SHIP , WHICH WAS THE SOFA .
+9	AND THEN .
+10	THEN TWO TREASURE BOXS FLOATED UP ONTO THE FURNITURE .
+11	AND THEN ALA SAT IN THE BIG CHAIR WITH HER KITTY .
+12	THE END .

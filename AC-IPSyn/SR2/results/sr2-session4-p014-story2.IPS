@@ -1,0 +1,394 @@
+FILENAME:sr2-session4-p014-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+2	TODAY
+3	WHILE
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+1	ME
+
+SCORE:	1
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+
+SCORE:	0
+
+
+###N4	Two word NP preceded by article or modifier###
+
+
+SCORE:	0
+
+
+###N5	Article used before a noun###
+
+
+SCORE:	0
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+
+SCORE:	0
+
+
+###N7	Plural suffix###
+
+
+SCORE:	0
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+
+SCORE:	0
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+SCORE:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+
+SCORE:	0
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+3	CROCODILE
+
+SCORE:	1
+
+
+###V2	Particle or preposition###
+
+3	AFTER
+
+SCORE:	1
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+3	AFTER WHILE
+
+SCORE:	1
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+
+SCORE:	0
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+
+SCORE:	0
+
+
+###V7	Progressive Suffix###
+
+
+SCORE:	0
+
+
+###V8	Adverb###
+
+1	TOO
+2	MAYBE
+2	NOT
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+
+SCORE:	0
+
+
+###V10	Third person singular present tense suffix###
+
+
+SCORE:	0
+
+
+###V11	Past tense modal###
+
+
+SCORE:	0
+
+
+###V12	Regular past tense suffix###
+
+
+SCORE:	0
+
+
+###V13	Past tense auxiliary###
+
+
+SCORE:	0
+
+
+###V14	Medial adverb###
+
+2	MAYBE
+2	NOT
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+
+SCORE:	0
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+SCORE:	0
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+2	UH MAYBE , MAYBE NOT TODAY .
+
+SCORE:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+SCORE:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+SCORE:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	ME TOO
+2	UH MAYBE MAYBE NOT TODAY
+3	AFTER WHILE CROCODILE
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+
+SCORE:	0
+
+
+###S3	Verb object sequence###
+
+
+SCORE:	0
+
+
+###S4	Subject Verb Object Sequence###
+
+
+SCORE:	0
+
+
+###S5	Conjunction (any)###
+
+
+SCORE:	0
+
+
+###S6	Sentence with two VP's###
+
+
+SCORE:	0
+
+
+###S7	Conjoined phrases###
+
+
+SCORE:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+SCORE:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+SCORE:	0
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+
+SCORE:	0
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+SCORE:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+
+SCORE:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+
+SCORE:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-3
+NO OF UTTERANCES CONSIDERED: 3
+
+
+#########################
+NOUN SCORE: 3
+VERB SCORE: 7
+QUESTION SCORE: 1
+SENTENCE SCORE: 2
+IPSYN SCORE: 13
+##########################
+
+###Sentence Listing###
+
+1	ME TOO .
+2	UH MAYBE , MAYBE NOT TODAY .
+3	AFTER WHILE , CROCODILE .

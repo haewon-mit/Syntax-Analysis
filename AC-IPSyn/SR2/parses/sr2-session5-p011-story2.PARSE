@@ -1,0 +1,48 @@
+
+
+(S1 (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (NP (DT a) (NN story)) (PP (IN about) (NP (DT a) (NN turtle)))))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (DT a) (NN turtle)) (VP (AUX was) (VP (VBG walking) (PP (IN down) (NP (DT the) (NN path))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (RB then) (NP (DT the) (NN turtle)) (VP (VP (VBD walked) (CC and) (VBD walked)) (CC and) (VP (VBD walked) (PP (TO to) (NP (DT the) (NNS squirrels) (NN house))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (RB then) (NP (DT the) (NN turtle)) (VP (VBD decided) (S (VP (TO to) (VP (AUX have) (NP (DT some) (JJ hot) (NN cocoa)) (PP (IN on) (NP (DT a) (JJ snowy) (NN day))))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP he)) (VP (AUX had) (S (VP (TO to) (VP (VB sleepover))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP he)) (VP (AUX had) (NP (IN that) (DT the) (JJ other) (NN day))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Then)) (NP (PRP$ his) (NN family)) (VP (VBD came) (ADVP (RB back))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

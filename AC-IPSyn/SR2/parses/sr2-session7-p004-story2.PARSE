@@ -1,0 +1,18 @@
+
+
+(S1 (S (ADVP (RB Once) (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (NP (DT a) (NN girl)) (PP (IN on) (NP (PRP$ her) (NN couch))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP She)) (VP (AUX had) (NP (NP (DT a) (JJ pet) (NN dog)) (SBAR (WHNP (WDT that)) (S (VP (AUX was) (PP (IN near) (NP (NP (PRP her)) (CC and) (NP (NP (DT a) (JJ pet) (NN cat)) (SBAR (WHNP (WDT that)) (S (VP (AUX was) (ADJP (JJ close) (PP (TO to) (NP (PRP her))))))))))))))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

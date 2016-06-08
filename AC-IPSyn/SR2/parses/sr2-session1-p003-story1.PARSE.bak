@@ -1,0 +1,9 @@
+
+(S1 (S (S (VP (VB Look) (NP (PRP it))))
+     (, ,)
+     (NP (PRP he))
+     (VP (AUX 's)
+      (PP (IN on) (NP (NP (DT the) (NN top)) (PP (IN of)))))
+     (. .)))
+
+

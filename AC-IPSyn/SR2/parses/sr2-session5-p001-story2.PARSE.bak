@@ -1,0 +1,16 @@
+
+(S1 (INTJ (UH OK) (. .)))
+
+
+
+(S1 (FRAG (NP (PRP$ My) (NN story)) (. .)))
+
+
+
+(S1 (S (NP (PRP I))
+     (VP (AUX do)
+      (RB not)
+      (VP (NNP wanna) (VP (VB tell) (NP (DT another) (NN story)))))
+     (. .)))
+
+

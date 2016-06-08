@@ -1,0 +1,90 @@
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (NP (DT some) (NNS friends)) (, ,) (NP (NNP Squirrel) (, ,) (NNP Turtle) (, ,) (CC and) (NN Rabbit)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP They)) (VP (VBD liked) (S (VP (VBG playing) (PP (IN with) (NP (DT each) (JJ other)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (NP (NNP Turtle)) (VP (AUX was) (ADVP (RB still)) (NP (DT a) (JJ little) (NN mean))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP he)) (VP (AUX had) (S (VP (TO to) (VP (VB learn) (NP (JJR more)))))) (. .)))
+
+
+
+
+
+(S1 (S (IN So) (NP (NP (NN Rabbit)) (CC and) (NP (NNP Squirrel))) (VP (VBN excluded) (NP (NN turtle))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (NP (NNP Turtle)) (VP (VBD felt) (ADJP (RB really) (JJ sad) (PP (IN about) (NP (DT that))))) (. .)))
+
+
+
+
+
+(S1 (S (IN So) (NP (NNP Turtle)) (VP (VBD said) (PP (TO to) (NP (PRP them))) (, ,) (S (NP (PRP I)) (NP (NNP wanna)) (VP (VBP play) (, ,) (ADVP (RB too))))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (NP (PRP they)) (VP (MD will) (RB not) (VP (VB let) (NP (PRP him)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP he)) (VP (VBD said) (, ,) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (VBP know) (SBAR (WHADVP (WRB why)) (S (NP (PRP you)) (VP (MD will) (RB not) (VP (VB let) (NP (PRP me)) (SBAR (IN because) (S (NP (PRP I)) (VP (AUX do) (RB not) (VP (VB know) (NP (DT that) (JJ much)))))))))))))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP they)) (VP (VBD said) (, ,) (S (NP (DT That)) (VP (AUX 's) (FRAG (WHADVP (WRB why)))))) (. .)))
+
+
+
+
+
+(S1 (S (IN So) (NP (NNP Turtle)) (VP (VBD said) (, ,) (SQ (MD Would) (NP (PRP you)) (VP (VB teach) (NP (PRP me)) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB learn) (, ,) (SBAR (IN so) (S (NP (PRP you)) (VP (MD could) (RB not) (VP (VB exclude) (NP (PRP me))))))))))))) (. .)))
+
+
+
+
+
+(S1 (S (IN So) (NP (PRP they)) (VP (VBD teached) (NP (PRP him))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (RB then) (NP (PRP he)) (VP (VBD knew)) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP he)) (VP (MD could) (VP (VB play) (PP (IN with) (NP (PRP them))))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

@@ -1,0 +1,9 @@
+
+Let p0 = prob(most probable parse)
+ptotal = prob of all (50) parses.
+
+Geometric mean of p0/ptotal = 0.34633
+
+Number of sentences for which p0/ptoal is between
+1-1/2   	1/2-1/4 	1/4-1/8 	1/8-1/16	1/16-1/32
+489		427		281		129		19

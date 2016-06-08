@@ -1,0 +1,515 @@
+FILENAME:sr2-session6-p005-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+2	BYE
+3	PARTY
+7	MEAN
+8	WHAA
+11	HM
+17	CROCODILE
+21	DU
+22	DA
+25	END
+
+COUNTS:	9
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+7	WHAT
+10	HERE
+10	SHE
+12	YOU
+15	WE
+17	I
+
+COUNTS:	6
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	ONE
+1	WRONG
+3	MY
+4	SURE
+11	HM
+12	CROCODILE
+18	GOOD
+
+COUNTS:	7
+
+
+###N4	Two word NP preceded by article or modifier###
+
+3	MY PARTY
+7	A MEAN
+17	THE CROCODILE
+19	THE PARTY
+25	THE END
+
+COUNTS:	5
+
+
+###N5	Article used before a noun###
+
+7	A MEAN
+17	THE CROCODILE
+19	THE PARTY
+25	THE END
+
+COUNTS:	4
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+3	TO MY PARTY
+17	ON THE CROCODILE
+19	TO THE PARTY
+
+COUNTS:	2
+
+
+###N7	Plural suffix###
+
+
+COUNTS:	0
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+7	A MEAN
+
+COUNTS:	1
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+COUNTS:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+15	SO
+
+COUNTS:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+3	COME
+3	DO
+3	WANT
+7	CROCODILE
+10	BEEN
+10	HAVE
+11	HM
+12	MEAN
+13	STEPED
+19	GO
+
+COUNTS:	10
+
+
+###V2	Particle or preposition###
+
+3	TO
+10	BY
+13	ON
+
+COUNTS:	3
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+3	TO MY PARTY
+10	BY NOW
+13	ON YOU
+17	ON THE CROCODILE
+19	TO THE PARTY
+
+COUNTS:	3
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+10	 BEEN
+12	YOU MEAN CROCODILE
+
+COUNTS:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+3	DO
+10	HAVE
+
+COUNTS:	2
+
+
+###V7	Progressive Suffix###
+
+
+COUNTS:	0
+
+
+###V8	Adverb###
+
+10	HERE
+10	NOW
+15	SO
+
+COUNTS:	3
+
+
+###V9	Modal preceeding verb###
+
+10	SHOULD HAVE BEEN HERE
+19	CAN GO TO THE PARTY
+
+COUNTS:	2
+
+
+###V10	Third person singular present tense suffix###
+
+
+COUNTS:	0
+
+
+###V11	Past tense modal###
+
+10	SHOULD
+15	'LL
+
+COUNTS:	2
+
+
+###V12	Regular past tense suffix###
+
+13	STEPED
+17	STEPED
+
+COUNTS:	1
+
+
+###V13	Past tense auxiliary###
+
+
+COUNTS:	0
+
+
+###V14	Medial adverb###
+
+10	HERE
+
+COUNTS:	1
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+10	 BEEN
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+COUNTS:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+3	DO YOU WANT TO COME TO MY PARTY ?
+
+COUNTS:	1
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	WRONG ONE
+3	DO YOU WANT TO COME TO MY PARTY
+5	DU DU DU
+6	DU DU DU DU DU DU DU DU
+7	WHAT A MEAN CROCODILE
+10	SHE SHOULD HAVE BEEN HERE BY NOW
+11	HM HM HM
+12	OH YOU MEAN CROCODILE
+13	I STEPED ON YOU
+14	DU DU DU DU
+15	SO WE 'LL
+16	DU DU DU DU DU DU
+17	I STEPED ON THE CROCODILE
+18	OH GOOD
+19	WE CAN GO TO THE PARTY
+20	DU DU DU DU
+21	DU DU DA DU
+22	DA DU DU DU
+23	DU DU DU DU
+24	HM DU DU DU DU
+25	THE END
+
+COUNTS:	6
+
+
+###S2	Subject verb sequence###
+
+10	SHE SHOULD HAVE BEEN HERE 
+11	HM HM 
+13	I STEPED 
+17	I STEPED 
+19	WE CAN GO 
+
+COUNTS:	3
+
+
+###S3	Verb object sequence###
+
+3	TO COME TO MY PARTY
+3	WANT TO COME TO MY PARTY
+10	HAVE BEEN HERE BY NOW
+10	SHOULD HAVE BEEN HERE BY NOW
+11	HM HM
+13	STEPED ON YOU
+17	STEPED ON THE CROCODILE
+19	CAN GO TO THE PARTY
+19	GO TO THE PARTY
+
+COUNTS:	6
+
+
+###S4	Subject Verb Object Sequence###
+
+10	SHE SHOULD HAVE BEEN HERE BY NOW
+11	HM HM HM
+13	I STEPED ON YOU
+17	I STEPED ON THE CROCODILE
+19	WE CAN GO TO THE PARTY
+
+COUNTS:	3
+
+
+###S5	Conjunction (any)###
+
+
+COUNTS:	0
+
+
+###S6	Sentence with two VP's###
+
+3	DO YOU WANT TO COME TO MY PARTY ?
+
+COUNTS:	1
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+3	WANT TO COME TO MY PARTY
+
+COUNTS:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+COUNTS:	0
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+7	WHAT A MEAN CROCODILE .
+
+COUNTS:	1
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+3	DO YOU WANT TO COME TO MY PARTY ?
+
+COUNTS:	1
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+
+COUNTS:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-25
+NO OF UTTERANCES CONSIDERED: 25
+
+
+#########################
+NOUN COUNTS: 35
+VERB COUNTS: 30
+QUESTION COUNTS: 1
+SENTENCE COUNTS: 22
+TOTAL NO OF STRUCTURES COUNTS: 88
+##########################
+
+###Sentence Listing###
+
+1	WRONG ONE .
+2	BYE .
+3	DO YOU WANT TO COME TO MY PARTY ?
+4	SURE .
+5	DU DU DU .
+6	DU DU DU DU DU DU DU DU .
+7	WHAT A MEAN CROCODILE .
+8	WHAA .
+9	WHAA .
+10	SHE SHOULD HAVE BEEN HERE BY NOW .
+11	HM HM HM .
+12	OH , YOU MEAN CROCODILE !
+13	I STEPED ON YOU .
+14	DU DU DU DU .
+15	SO WE 'LL .
+16	DU DU DU DU DU DU .
+17	I STEPED ON THE CROCODILE .
+18	OH GOOD .
+19	WE CAN GO TO THE PARTY .
+20	DU DU DU DU .
+21	DU DU DA DU .
+22	DA DU DU DU .
+23	DU DU DU DU .
+24	HM DU DU DU DU .
+25	THE END .

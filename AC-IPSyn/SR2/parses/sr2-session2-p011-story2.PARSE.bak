@@ -1,0 +1,61 @@
+
+(S1 (S (CC And)
+     (NP (DT the) (FW croc))
+     (VP (VBD lived) (PP (IN in) (NP (DT the) (NN castle))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then))
+     (NP (DT a) (NNP princess))
+     (VP (VBD came) (ADVP (RB along)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP she))
+     (VP (VBD loved) (NP (DT the) (NN prince)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (PP (IN at) (NP (NN night)))
+     (, ,)
+     (RB then)
+     (NP (PRP they))
+     (VP (VBD got)
+      (NP (DT the) (FW croc))
+      (PP (IN in) (NP (DT the) (NN moment))))
+     (. .)))
+
+
+
+(S1 (S (NP (EX There))
+     (VP (AUX 's) (NP (JJ other) (NNS crocs)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (VBD became) (NP (NNS friends)))
+     (. .)))
+
+
+
+(S1 (S (NP (NP (PRP They)) (NP (DT all)))
+     (VP (VBD became) (NP (NNS friends)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB then)
+     (NP (PRP they))
+     (VP (VBD lived) (ADVP (RB happily)) (ADVP (RB ever) (IN after)))
+     (. .)))
+
+

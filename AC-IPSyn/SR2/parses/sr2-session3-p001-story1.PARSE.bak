@@ -1,0 +1,40 @@
+
+(S1 (S (NP (NNP meow) (NN meow) (NN meow))
+     (VP (VBZ meows)
+      (NP (CC And)
+       (NP (DT the) (NN cat))
+       (CC and)
+       (NP (NP (DT the) (NN dog))
+	(SBAR (S (NP (PRP they)) (VP (VBD walked)))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (VBD walked) (PRT (RP back)) (ADVP (CC and)))
+     (. .)))
+
+
+
+(S1 (X (NNP doggy) (. .)))
+
+
+
+(S1 (S (NP (DT The) (NN dog)) (VP (VBD played)) (. .)))
+
+
+
+(S1 (NP (NP (CD One))
+     (, ,)
+     (NP (CD two))
+     (, ,)
+     (NP (CD three))
+     (, ,)
+     (NP (CD four))
+     (. .)))
+
+
+
+(S1 (S (NP (DT That)) (VP (AUX 's)) (. .)))
+
+

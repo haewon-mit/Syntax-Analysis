@@ -1,0 +1,72 @@
+
+
+(S1 (FRAG (ADVP (RB This)) (. .)))
+
+
+
+
+
+(S1 (SQ (CC And) (. .)))
+
+
+
+
+
+(S1 (FRAG (NP (DT These) (CD two)) (. .)))
+
+
+
+
+
+(S1 (SQ (CC and) (. .)))
+
+
+
+
+
+(S1 (SBARQ (WHADVP (WRB Why)) (SQ (AUX did) (NP (PRP you)) (VP (AUX have) (S (VP (TO to))))) (. ?)))
+
+
+
+
+
+(S1 (S (VP (VB Let) (NP (PRP you)) (ADVP (RB back) (RB in))) (. .)))
+
+
+
+
+
+(S1 (FRAG (ADVP (RB So)) (. .)))
+
+
+
+
+
+(S1 (FRAG (NP (NN Roar)) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (AUX was)) (. .)))
+
+
+
+
+
+(S1 (S (NP (NNP Chh)) (VP (VBD chh)) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (AUX 'm) (VP (AUX done))) (. .)))
+
+
+
+
+
+(S1 (INTJ (UH Yeah) (. .)))
+
+
+

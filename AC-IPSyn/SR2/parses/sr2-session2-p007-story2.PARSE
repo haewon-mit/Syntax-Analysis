@@ -1,0 +1,66 @@
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (NP (DT a) (NN crocodile)) (VP (VBN named) (S (NP (NNP Mr) (NNP Croc)))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBD stood) (PP (IN on) (NP (DT the) (NN bridge))) (PP (IN with) (NP (NP (DT a) (NN prince)) (PP (IN on) (NP (PRP$ his) (NN back)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (SBAR (WHADVP (WRB when)) (S (NP (NN someone)) (VP (VBD came) (ADVP (RB close))))) (, ,) (NP (DT the) (NN crocodile)) (VP (VP (VBD ran) (ADVP (RB inside))) (CC and) (VP (ADVP (RB so)) (AUX did) (NP (DT the) (NN prince)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (SBAR (WHADVP (WRB when)) (S (NP (DT the) (NNP princess)) (VP (VBD crossed) (NP (DT the) (NN bridge))))) (, ,) (ADVP (RB sure) (RB enough)) (, ,) (NP (EX there)) (VP (AUX was) (NP (NNP Croc))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT The) (NNP princess)) (VP (VP (VBD ran) (PRT (RP away))) (CC and) (VP (VBD took) (NP (DT the) (JJ left) (NN bridge)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (RB then) (NP (PRP he)) (VP (VBD followed) (PP (IN after))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (AUX did) (RB not) (VP (VB see) (SBAR (WHADVP (WRB where)) (S (NP (PRP he)) (VP (VBD went)))))) (. .)))
+
+
+
+
+
+(S1 (S (RB So) (NP (PRP she)) (ADVP (RB just)) (VP (VBD took) (NP (DT the))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (ADVP (RB then)) (NP (DT the) (NN prince)) (VP (VBD went) (NP (DT the) (JJ right) (NN way))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP they)) (VP (VBD lived) (ADVP (RB happily)) (ADVP (RB ever) (IN after))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

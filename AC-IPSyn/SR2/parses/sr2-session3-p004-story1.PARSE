@@ -1,0 +1,240 @@
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (DT a) (JJ little) (NN girl))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP She)) (VP (AUX had) (NP (DT a) (NN ball))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (NN Nothing)) (VP (AUX 's) (VP (VBG working))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (AUX 'm) (VP (VBG holding) (NP (NNS hands)) (PP (IN with) (NP (DT a) (NN robot))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (DT the) (JJ little) (NN girl)) (VP (AUX had) (NP (NP (DT a) (NN ball)) (SBAR (WHNP (WDT that)) (S (NP (PRP she)) (ADVP (RB really)) (VP (VBD liked)))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP It)) (VP (AUX was) (VP (VBN covered) (PP (IN in) (NP (NN blue))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP she)) (VP (AUX had) (NP (NP (DT a) (NN dog)) (CC and) (NP (DT a) (NN cat)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NN Cat)) (VP (VBD liked) (S (VP (VBG climbing) (PP (TO to) (NP (NP (DT the) (NN top)) (PP (IN of) (NP (PRP$ her) (NN chair)))))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (DT the) (NN dog)) (VP (MD would) (VP (VP (VB sniff) (NP (DT the) (NN chair))) (CC and) (VP (VB try) (CC and) (VB figure) (SBAR (WHPP (IN out) (WHNP (WDT which) (NN one))) (S (NP (PRP she)) (VP (AUX was) (PP (IN on) (NP (NP (NN top)) (PP (IN of)))))))))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Usuallly)) (NP (DT the) (NN dog)) (VP (MD would) (VP (VB scare) (NP (PRP her)) (PRT (RP down)) (PP (IN onto) (NP (DT the) (JJ other) (NN chair))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP It)) (VP (AUX was)) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (DT the) (NN dog)) (VP (AUX Are) (S (NP (PRP you)) (VP (VB talk)))) (. ?)))
+
+
+
+
+
+(S1 (SQ (AUX Is) (NP (PRP it)) (NP (NP (DT a) (NN boy)) (CC or) (NP (DT a) (NN girl))) (. ?)))
+
+
+
+
+
+(S1 (NP (DT A) (NN girl) (. .)))
+
+
+
+
+
+(S1 (SBARQ (INTJ (UH OK)) (, ,) (WHNP (WHADJP (WRB how) (JJ many)) (NNS fingers)) (SQ (AUX am) (NP (PRP I)) (VP (VBG holding) (PRT (RP up)))) (. ?)))
+
+
+
+
+
+(S1 (FRAG (NP (NN anything)) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (AUX do) (RB not) (VP (VB know) (SBAR (WHNP (WP what)) (S (VP (TO to) (VP (AUX do) (PP (IN with) (NP (PRP him))))))))) (. .)))
+
+
+
+
+
+(S1 (SBARQ (WHADVP (WRB Why)) (SQ (VP (AUX is) (S (NP (PRP it)) (VP (AUX 's) (RB not) (VP (VBG doing) (NP (NN anything))))))) (. ?)))
+
+
+
+
+
+(S1 (S (NP (PRP They)) (ADVP (RB even)) (VP (AUX had) (S (VP (TO to) (VP (VB use) (NP (PRP$ my) (NNS fingers) (RB as)))))) (. .)))
+
+
+
+
+
+(S1 (SBARQ (WHNP (WP What)) (SQ (VP (AUX 's) (NP (DT that)))) (. ?)))
+
+
+
+
+
+(S1 (SBARQ (WHNP (WP What)) (SQ (AUX are) (NP (PRP we)) (VP (VBG going) (S (VP (TO to) (VP (AUX do)))))) (. ?)))
+
+
+
+
+
+(S1 (INTJ (UH Yay) (. .)))
+
+
+
+
+
+(S1 (S (S (NP (PRP I)) (VP (AUX 'm) (ADJP (JJ gonna)))) (VP (VBP tell) (NP (NP (DT a) (NN story)) (PP (IN about) (NP (DT a) (NNP princess))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (AUX 's) (RB not) (VP (VBG moving))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (DT a) (NNP princess))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (NNP a))) (. .)))
+
+
+
+
+
+(S1 (S (S (NP (PRP I)) (VP (AUX 'm) (ADJP (JJ gonna)))) (VP (VBP tell) (NP (NP (DT a) (NN story)) (PP (IN about) (NP (DT an) (NN alien))))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (NP (DT an) (NN alien)) (SBAR (WHNP (IN that)) (S (NP (DT a) (NN rocketship)))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT The) (NN rocket)) (VP (VBD blasted) (PRT (RP off))) (. .)))
+
+
+
+
+
+(S1 (NP (NNS Aliens) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT That)) (VP (AUX 's) (NP (PRP$ their) (NN home) (NN planet))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (NP (PRP it)) (VP (VBD blasted) (PRT (RP off)) (PP (IN without) (NP (PRP them)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP They)) (VP (AUX were) (VP (VBN puzzled))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP They)) (VP (AUX did) (RB not) (VP (VB know) (SBAR (WHNP (WP what)) (S (VP (TO to) (VP (AUX do))))))) (. .)))
+
+
+
+
+
+(S1 (FRAG (NP (CD Two) (CC and) (CD one)) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP They)) (VP (VBD went) (PP (IN into) (NP (DT the) (NN house))) (SBAR (IN that) (S (NP (PRP they)) (VP (AUX had) (VP (VBN bought) (S (VP (TO to) (VP (VB use))))))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (RB then) (NP (DT the) (NN rocketship)) (VP (VBD fell) (ADVP (RB back) (PP (IN onto) (NP (NN earth))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP They)) (VP (VP (ADVP (RB quickly)) (VBD hoped) (PP (IN into) (NP (PRP it)))) (, ,) (NP (NP (DT all) (CD three)) (PP (IN of) (NP (PRP them))))) (. .)))
+
+
+
+
+
+(S1 (S (CC and) (ADVP (RB then)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBD started) (S (VP (TO to) (VP (VB blast) (PRT (RP off)))))))) (, ,) (NP (NP (PRP they)) (NP (DT all))) (VP (VBN holded) (PP (IN onto) (NP (PRP it)))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

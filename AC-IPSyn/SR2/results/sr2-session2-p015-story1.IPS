@@ -1,0 +1,585 @@
+FILENAME:sr2-session2-p015-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	A
+1	TIME
+7	PEOPLE
+9	FOOD
+10	FLOWERS
+10	MEAT
+14	PACKS
+16	KIDS
+16	ONE
+16	STUFF
+19	BYE
+19	FRIENDS
+20	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+6	IT
+12	WHO
+13	THEM
+13	THEY
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+11	ALL
+11	THAT
+16	EACH
+16	THEIR
+19	GOOD
+19	SAD
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A TIME
+4	THE FLOWERS
+5	A FLOWER
+9	THE FOOD
+11	THAT STUFF
+11	THE TIME
+12	THE PEOPLE
+16	THEIR KIDS
+19	GOOD BYE
+19	THEIR FRIENDS
+20	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+1	A TIME
+4	THE FLOWERS
+5	A FLOWER
+9	THE FOOD
+11	THE TIME
+12	THE PEOPLE
+20	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+2	LIKE THE FOOD
+4	ATE THE FLOWERS
+5	WANTED A FLOWER
+11	ATE THAT STUFF
+11	OF THE TIME
+16	FOR THEIR KIDS
+19	SAY GOOD BYE
+19	TO THEIR FRIENDS
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+12	FLOWERS
+14	PACKS
+16	KIDS
+19	FRIENDS
+
+SCORE:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+12	THE PEOPLE
+
+SCORE:	1
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+SCORE:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+10	JUST
+
+SCORE:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	WAS
+2	DID
+3	LIKED
+5	EAT
+5	WANTED
+6	DO
+7	LIVE
+7	WENT
+10	ATE
+10	LOVE
+12	KNEW
+12	THOUGHT
+14	DECIDED
+14	GET
+15	TAKE
+16	HAVE
+17	TRY
+19	SAY
+19	WERE
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+1	UPON
+7	WITH
+11	OF
+16	FOR
+18	IN
+19	TO
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+7	WITH PEOPLE
+11	OF THE TIME
+16	FOR THEIR KIDS AND STUFF
+19	TO THEIR FRIENDS
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+19	 WERE
+
+SCORE:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+2	DID
+6	DO
+6	HAVE
+16	HAVE
+19	WERE
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+
+SCORE:	0
+
+
+###V8	Adverb###
+
+1	ONCE
+9	ALL
+10	JUST
+13	AGAIN
+17	NOT
+18	BEFORE
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+5	COULD EAT
+15	WOULD TAKE
+16	COULD HAVE ONE
+17	WOULD NOT TRY AGAIN
+
+SCORE:	2
+
+
+###V10	Third person singular present tense suffix###
+
+1	WAS
+
+SCORE:	1
+
+
+###V11	Past tense modal###
+
+5	COULD
+17	WOULD
+
+SCORE:	2
+
+
+###V12	Regular past tense suffix###
+
+5	WANTED
+14	DECIDED
+
+SCORE:	2
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+2	DID
+19	WERE
+
+SCORE:	2
+
+
+###V14	Medial adverb###
+
+9	ALL
+10	JUST
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+19	 WERE
+
+SCORE:	2
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+SCORE:	0
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+2	AND THEY DID NOT LIKE THE FOOD .
+6	BUT THEY DO NOT HAVE IT .
+17	SO THEY WOULD NOT TRY AGAIN .
+
+SCORE:	2
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+SCORE:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+2	DID NOT LIKE THE FOOD
+6	DO NOT HAVE IT
+17	WOULD NOT TRY AGAIN
+
+SCORE:	2
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS A
+2	AND THEY DID NOT LIKE THE FOOD
+3	BUT THEY JUST LIKED FLOWERS
+4	SO THEY ATE AND ATE THE FLOWERS
+5	BUT THEY WANTED A FLOWER THAT PEOPLE COULD EAT
+6	BUT THEY DO NOT HAVE IT
+7	SO THEY WENT TO LIVE WITH PEOPLE
+8	AND THEY
+9	THEY ATE ALL THE FOOD
+10	THEY JUST ATE MEAT JUST MEAT BECAUSE THEY LOVE MEAT AND FLOWERS
+11	SO THEY ATE THAT STUFF ALL OF THE TIME
+12	SO THE PEOPLE THOUGHT WHO KNEW FLOWERS AND FLOWERS AND
+13	BUT THEY ATE THEM AGAIN
+14	SO THEY DECIDED TO GET PACKS
+15	SO THEY WOULD TAKE
+16	AND THEY EACH COULD HAVE ONE FOR THEIR KIDS AND STUFF
+17	SO THEY WOULD NOT TRY AGAIN
+18	SO THEY WENT IN BEFORE
+19	THEY WERE SAD TO SAY GOOD BYE TO THEIR FRIENDS
+20	THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+5	PEOPLE COULD EAT
+9	THEY ATE 
+19	THEY WERE 
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	WAS A
+2	DID NOT LIKE THE FOOD
+2	LIKE THE FOOD
+3	JUST LIKED FLOWERS
+4	ATE AND ATE THE FLOWERS
+5	WANTED A FLOWER THAT PEOPLE COULD EAT
+6	DO NOT HAVE IT
+6	HAVE IT
+7	TO LIVE WITH PEOPLE
+7	WENT TO LIVE WITH PEOPLE
+9	ATE ALL THE FOOD
+10	ATE MEAT , JUST MEAT BECAUSE THEY LOVE MEAT AND FLOWERS
+10	LOVE MEAT AND FLOWERS
+11	ATE THAT STUFF ALL OF THE TIME
+12	KNEW FLOWERS AND FLOWERS
+12	THOUGHT , WHO KNEW FLOWERS AND FLOWERS AND
+13	ATE THEM AGAIN
+14	DECIDED TO GET PACKS
+14	TO GET PACKS
+16	COULD HAVE ONE FOR THEIR KIDS AND STUFF
+16	HAVE ONE FOR THEIR KIDS AND STUFF
+19	TO SAY GOOD BYE TO THEIR FRIENDS
+19	WERE SAD TO SAY GOOD BYE TO THEIR FRIENDS
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+9	THEY ATE ALL THE FOOD
+19	THEY WERE SAD TO SAY GOOD BYE TO THEIR FRIENDS
+
+SCORE:	1
+
+
+###S5	Conjunction (any)###
+
+5	THAT
+7	SO
+8	AND
+13	BUT
+
+SCORE:	2
+
+
+###S6	Sentence with two VP's###
+
+4	SO THEY ATE AND ATE THE FLOWERS .
+5	BUT THEY WANTED A FLOWER THAT PEOPLE COULD EAT .
+7	SO THEY WENT TO LIVE WITH PEOPLE .
+10	THEY JUST ATE MEAT , JUST MEAT BECAUSE THEY LOVE MEAT AND FLOWERS .
+12	SO THE PEOPLE THOUGHT , WHO KNEW FLOWERS AND FLOWERS AND .
+14	SO THEY DECIDED TO GET PACKS .
+
+SCORE:	2
+
+
+###S7	Conjoined phrases###
+
+4	ATE AND ATE
+10	MEAT AND FLOWERS
+
+SCORE:	2
+
+
+###S8	Infinitive without catenative, marked with to###
+
+7	WENT TO LIVE WITH PEOPLE
+14	DECIDED TO GET PACKS
+19	WERE SAD TO SAY GOOD BYE TO THEIR FRIENDS
+
+SCORE:	2
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+5	THAT
+7	SO
+13	BUT
+
+SCORE:	2
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+12	SO THE PEOPLE THOUGHT , WHO KNEW FLOWERS AND FLOWERS AND .
+
+SCORE:	1
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+SCORE:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+
+SCORE:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+
+SCORE:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-20
+NO OF UTTERANCES CONSIDERED: 20
+
+
+#########################
+NOUN SCORE: 16
+VERB SCORE: 27
+QUESTION SCORE: 4
+SENTENCE SCORE: 18
+IPSYN SCORE: 65
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS A .
+2	AND THEY DID NOT LIKE THE FOOD .
+3	BUT THEY JUST LIKED FLOWERS .
+4	SO THEY ATE AND ATE THE FLOWERS .
+5	BUT THEY WANTED A FLOWER THAT PEOPLE COULD EAT .
+6	BUT THEY DO NOT HAVE IT .
+7	SO THEY WENT TO LIVE WITH PEOPLE .
+8	AND THEY .
+9	THEY ATE ALL THE FOOD .
+10	THEY JUST ATE MEAT , JUST MEAT BECAUSE THEY LOVE MEAT AND FLOWERS .
+11	SO THEY ATE THAT STUFF ALL OF THE TIME .
+12	SO THE PEOPLE THOUGHT , WHO KNEW FLOWERS AND FLOWERS AND .
+13	BUT THEY ATE THEM AGAIN .
+14	SO THEY DECIDED TO GET PACKS .
+15	SO THEY WOULD TAKE .
+16	AND THEY EACH COULD HAVE ONE FOR THEIR KIDS AND STUFF .
+17	SO THEY WOULD NOT TRY AGAIN .
+18	SO THEY WENT IN BEFORE .
+19	THEY WERE SAD TO SAY GOOD BYE TO THEIR FRIENDS .
+20	THE END .

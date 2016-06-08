@@ -1,0 +1,36 @@
+
+
+(S1 (S (NP (PRP I)) (VP (VBP want)) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (AUX 'm) (VP (VBG going) (S (VP (TO to) (VP (VB whee) (NP (FW whee) (FW whee) (FW whee))))))) (. !)))
+
+
+
+
+
+(S1 (INTJ (UH Oh) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Now)) (, ,) (NP (DT all) (PRP I) (AUX need)) (VP (AUX is) (ADJP (JJ my))) (. .)))
+
+
+
+
+
+(S1 (SBARQ (RB So) (, ,) (WHADVP (WRB why)) (SQ (AUX do) (RB not) (NP (PRP you)) (VP (VBP show) (NP (PRP me)) (NP (PRP it)) (, ,) (ADVP (NN friend)))) (. ?)))
+
+
+
+
+
+(S1 (S (CC And) (ADVP (RB then)) (NP (DT that)) (VP (AUX was) (NP (DT the) (NN end))) (. .)))
+
+
+

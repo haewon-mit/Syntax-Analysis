@@ -1,0 +1,616 @@
+FILENAME:sr2-session3-p009-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	GIRL
+3	CAT
+4	PUPPY
+5	BALL
+7	BOXS
+8	CHAIR
+8	DAY
+8	DOG
+10	COUCH
+10	TIME
+12	WINDOW
+13	END
+17	LIFE
+17	REST
+18	TURN
+19	MHM
+
+COUNTS:	16
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+2	SHE
+7	THEY
+7	WHERE
+16	HE
+17	HERSELF
+
+COUNTS:	5
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	ALL
+1	LITTLE
+8	ONE
+10	FIRST
+14	HIS
+17	HER
+18	YOUR
+
+COUNTS:	7
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A TIME
+1	ALL DAY
+1	LITTLE GIRL
+2	A PUPPY
+3	A CAT
+4	THE PUPPY
+4	THE TIME
+5	A BALL
+7	THE BOXS
+8	A CHAIR
+8	ONE DAY
+8	THE DOG
+10	FIRST TIME
+10	THE COUCH
+12	THE CAT
+12	THE WINDOW
+13	THE END
+17	HER LIFE
+17	THE GIRL
+18	YOUR TURN
+
+COUNTS:	20
+
+
+###N5	Article used before a noun###
+
+1	A TIME
+2	A PUPPY
+3	A CAT
+4	THE CAT
+4	THE PUPPY
+5	A BALL
+5	THE TIME
+7	THE BOXS
+8	A CHAIR
+8	THE DOG
+10	THE COUCH
+12	THE WINDOW
+13	THE END
+17	THE GIRL
+
+COUNTS:	14
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+1	WAS ALL DAY
+2	HAD A PUPPY
+3	HAD A CAT
+4	CHASED THE CAT
+5	HAD A BALL
+8	UNDER A CHAIR
+9	GET THE CAT
+10	ON THE COUCH
+11	ON A BALL
+17	OF HER LIFE
+
+COUNTS:	7
+
+
+###N7	Plural suffix###
+
+
+COUNTS:	0
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+1	LITTLE GIRL
+4	THE PUPPY
+7	THE BOXS
+8	THE DOG
+
+COUNTS:	4
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+1	A LITTLE GIRL
+10	THE FIRST TIME
+
+COUNTS:	2
+
+
+###N10	Adverb modifying adjective or nominal###
+
+12	THEN
+16	SO
+
+COUNTS:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+4	CHASED
+6	BOXS
+6	HAD
+7	STAYED
+7	WERE
+8	HID
+9	GET
+9	HOPING
+9	POUNCE
+10	CLIMBED
+11	TRIPED
+12	JUMPED
+16	SEEN
+16	WAS
+17	PROMISED
+
+COUNTS:	15
+
+
+###V2	Particle or preposition###
+
+1	UPON
+8	UNDER
+9	UP
+10	FOR
+11	ON
+15	OUT
+17	OF
+
+COUNTS:	7
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+8	UNDER A CHAIR
+10	FOR THE FIRST TIME
+10	ON THE COUCH
+11	ON A BALL
+17	OF HER LIFE
+
+COUNTS:	5
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+7	 WERE
+9	 WAS
+12	 WAS
+16	 WAS
+
+COUNTS:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+2	HAD
+3	HAD
+5	HAD
+6	HAD
+7	WERE
+9	WAS
+12	WAS
+16	WAS
+
+COUNTS:	3
+
+
+###V7	Progressive Suffix###
+
+9	HOPING
+
+COUNTS:	1
+
+
+###V8	Adverb###
+
+1	LONG
+1	ONCE
+4	ALL
+7	WHERE
+12	THEN
+16	AGAIN
+16	NEVER
+16	SO
+
+COUNTS:	8
+
+
+###V9	Modal preceeding verb###
+
+
+COUNTS:	0
+
+
+###V10	Third person singular present tense suffix###
+
+12	WAS
+
+COUNTS:	1
+
+
+###V11	Past tense modal###
+
+
+COUNTS:	0
+
+
+###V12	Regular past tense suffix###
+
+4	CHASED
+7	STAYED
+10	CLIMBED
+11	TRIPED
+12	JUMPED
+15	JUMPED
+17	PROMISED
+
+COUNTS:	6
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+2	HAD
+3	HAD
+5	HAD
+6	HAD
+7	WERE
+9	WAS
+12	WAS
+16	WAS
+
+COUNTS:	3
+
+
+###V14	Medial adverb###
+
+4	ALL
+7	WHERE
+16	NEVER
+
+COUNTS:	3
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+7	 WERE
+9	 WAS
+12	 WAS
+16	 WAS
+
+COUNTS:	2
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+18	YOUR TURN ?
+
+COUNTS:	1
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+12	THEN THE CAT JUMPED OUT OF THE WINDOW AND WAS NEVER SEEN AGAIN .
+16	SO HE WAS NEVER SEEN AGAIN .
+
+COUNTS:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+12	WAS NEVER SEEN AGAIN
+16	WAS NEVER SEEN AGAIN
+
+COUNTS:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME A LITTLE GIRL WAS ALL DAY LONG
+2	AND SHE HAD A PUPPY
+3	AND SHE HAD A CAT
+4	THE PUPPY CHASED THE CAT ALL THE TIME
+5	AND SHE HAD A BALL ALL THE TIME
+6	AND SHE HAD BOXS
+7	THE BOXS STAYED WHERE THEY WERE ALL THE TIME
+8	ONE DAY THE DOG HID UNDER A CHAIR
+9	HE WAS HOPING TO POUNCE UP AND GET THE CAT
+10	FOR THE FIRST TIME SHE CLIMBED UP ON THE COUCH
+11	AND HE TRIPED ON A BALL
+12	THEN THE CAT JUMPED OUT OF THE WINDOW AND WAS NEVER SEEN AGAIN
+13	THE END
+14	SO THE DOG BECAUSE HIS
+15	AND HE JUMPED OUT OF THE WINDOW
+16	SO HE WAS NEVER SEEN AGAIN
+17	AND THE GIRL REST OF HER LIFE LIKE SHE PROMISED HERSELF
+18	YOUR TURN
+
+COUNTS:	9
+
+
+###S2	Subject verb sequence###
+
+4	THE PUPPY CHASED 
+7	THE BOXS STAYED 
+7	THEY WERE 
+9	HE WAS HOPING TO POUNCE UP AND GET 
+17	SHE PROMISED 
+
+COUNTS:	3
+
+
+###S3	Verb object sequence###
+
+1	WAS ALL DAY LONG
+2	HAD A PUPPY
+3	HAD A CAT
+4	CHASED THE CAT ALL THE TIME
+5	HAD A BALL ALL THE TIME
+7	STAYED WHERE THEY WERE ALL THE TIME
+7	WERE ALL THE TIME
+8	HID UNDER A CHAIR
+9	GET THE CAT
+9	HOPING TO POUNCE UP AND GET THE CAT
+9	POUNCE UP AND GET THE CAT
+9	TO POUNCE UP AND GET THE CAT
+9	WAS HOPING TO POUNCE UP AND GET THE CAT
+10	CLIMBED UP ON THE COUCH
+11	TRIPED ON A BALL
+12	JUMPED OUT OF THE WINDOW
+12	JUMPED OUT OF THE WINDOW AND WAS NEVER SEEN AGAIN
+14	BECAUSE HIS
+15	JUMPED OUT OF THE WINDOW
+17	PROMISED HERSELF
+
+COUNTS:	11
+
+
+###S4	Subject Verb Object Sequence###
+
+4	THE PUPPY CHASED THE CAT ALL THE TIME
+7	THE BOXS STAYED WHERE THEY WERE ALL THE TIME
+7	THEY WERE ALL THE TIME
+9	HE WAS HOPING TO POUNCE UP AND GET THE CAT
+17	SHE PROMISED HERSELF
+
+COUNTS:	4
+
+
+###S5	Conjunction (any)###
+
+9	AND
+17	LIKE
+
+COUNTS:	2
+
+
+###S6	Sentence with two VP's###
+
+9	HE WAS HOPING TO POUNCE UP AND GET THE CAT .
+12	THEN THE CAT JUMPED OUT OF THE WINDOW AND WAS NEVER SEEN AGAIN .
+
+COUNTS:	2
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+9	HOPING TO POUNCE UP AND GET THE CAT
+
+COUNTS:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+17	LIKE
+
+COUNTS:	1
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+9	HE WAS HOPING TO POUNCE UP AND GET THE CAT 
+
+COUNTS:	1
+
+
+###S13	Wh-clause###
+
+7	THE BOXS STAYED WHERE THEY WERE ALL THE TIME .
+
+COUNTS:	1
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+9	HE WAS HOPING TO POUNCE UP AND GET THE CAT .
+12	THEN THE CAT JUMPED OUT OF THE WINDOW AND WAS NEVER SEEN AGAIN .
+
+COUNTS:	2
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+9	HE WAS HOPING TO POUNCE UP AND GET THE CAT .
+
+COUNTS:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-19
+NO OF UTTERANCES CONSIDERED: 19
+
+
+#########################
+NOUN COUNTS: 77
+VERB COUNTS: 56
+QUESTION COUNTS: 3
+SENTENCE COUNTS: 38
+TOTAL NO OF STRUCTURES COUNTS: 174
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME A LITTLE GIRL WAS ALL DAY LONG .
+2	AND SHE HAD A PUPPY .
+3	AND SHE HAD A CAT .
+4	THE PUPPY CHASED THE CAT ALL THE TIME .
+5	AND SHE HAD A BALL ALL THE TIME .
+6	AND SHE HAD BOXS .
+7	THE BOXS STAYED WHERE THEY WERE ALL THE TIME .
+8	ONE DAY THE DOG HID UNDER A CHAIR .
+9	HE WAS HOPING TO POUNCE UP AND GET THE CAT .
+10	FOR THE FIRST TIME SHE CLIMBED UP ON THE COUCH .
+11	AND HE TRIPED ON A BALL .
+12	THEN THE CAT JUMPED OUT OF THE WINDOW AND WAS NEVER SEEN AGAIN .
+13	THE END .
+14	SO THE DOG BECAUSE HIS .
+15	AND HE JUMPED OUT OF THE WINDOW .
+16	SO HE WAS NEVER SEEN AGAIN .
+17	AND THE GIRL REST OF HER LIFE LIKE SHE PROMISED HERSELF .
+18	YOUR TURN ?
+19	MHM .

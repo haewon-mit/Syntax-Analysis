@@ -1,0 +1,618 @@
+FILENAME:sr2-session2-p009-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	CROCODILE
+1	PRINCE
+1	STORY
+2	CARRIAGE
+3	CASTLE
+6	-RSB-
+7	ALLIGATORS
+7	HORSEYS
+9	GATE
+10	DAY
+10	RIDE
+11	CHICKENS
+12	THE
+13	BACK
+14	CREATURE
+15	WATER
+16	KING
+16	PRINCESS
+
+COUNTS:	18
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+1	I
+5	HE
+11	THEY
+14	IT
+15	HIM
+16	YOU
+18	SHE
+
+COUNTS:	7
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+3	HIS
+4	BIG
+7	SOME
+10	ONE
+13	ITS
+14	NEXT
+16	MY
+19	BOTH
+
+COUNTS:	8
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A STORY
+1	THE CROCODILE
+1	THE PRINCE
+2	A CARRIAGE
+3	HIS CASTLE
+5	HIS HORSEY
+7	SOME ALLIGATORS
+7	SOME HORSEYS
+9	THE GATE
+10	HIS RIDE
+10	ONE DAY
+13	ITS BACK
+14	NEXT DAY
+15	THE WATER
+16	MY CARRIAGE
+16	THE KING
+16	THE PRINCESS
+18	A RIDE
+
+COUNTS:	18
+
+
+###N5	Article used before a noun###
+
+1	A STORY
+1	THE CROCODILE
+1	THE PRINCE
+2	A CARRIAGE
+9	THE GATE
+15	THE WATER
+16	THE KING
+16	THE PRINCESS
+18	A RIDE
+
+COUNTS:	9
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	ABOUT THE CROCODILE
+1	TELL A STORY
+2	HAD A CARRIAGE
+3	LOVED HIS CASTLE
+5	LIKED HIS HORSEY
+7	HAD SOME ALLIGATORS
+9	INTO THE GATE
+13	ON ITS BACK
+15	WITH THE WATER
+16	ASKED THE KING
+16	IN MY CARRIAGE
+16	WANT A RIDE
+
+COUNTS:	12
+
+
+###N7	Plural suffix###
+
+7	ALLIGATORS
+7	HORSEYS
+11	CHICKENS
+
+COUNTS:	3
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+10	HIS RIDE
+16	THE PRINCESS
+
+COUNTS:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+14	THE NEXT DAY
+
+COUNTS:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+4	SO
+14	BACK
+
+COUNTS:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	TELL
+1	THINK
+3	LOVED
+4	WAS
+5	LIKED
+7	HAD
+8	COME
+8	RUNNING
+9	RIDE
+10	GO
+13	KEEP
+13	WANTED
+14	BE
+15	SPLASHED
+16	ASKED
+16	CAME
+16	DO
+16	GONE
+17	SAID
+18	GAVE
+19	LIVED
+
+COUNTS:	21
+
+
+###V2	Particle or preposition###
+
+1	ABOUT
+9	INTO
+13	ON
+15	WITH
+16	IN
+
+COUNTS:	5
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	ABOUT THE CROCODILE
+9	INTO THE GATE
+13	ON ITS BACK
+15	WITH THE WATER
+16	IN MY CARRIAGE
+
+COUNTS:	5
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+4	IT WAS SO BIG
+14	 BE
+16	IT WAS GONE
+
+COUNTS:	1
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+2	HAD
+4	WAS
+7	HAD
+10	HAD
+16	DO
+16	WAS
+
+COUNTS:	3
+
+
+###V7	Progressive Suffix###
+
+8	RUNNING
+13	RIDING
+
+COUNTS:	2
+
+
+###V8	Adverb###
+
+4	SO
+8	FAST
+9	REALLY
+14	BACK
+19	EVER
+19	HAPPILY
+
+COUNTS:	6
+
+
+###V9	Modal preceeding verb###
+
+1	'LL TELL A STORY
+9	COULD RIDE REALLY FAST
+14	WOULD BE BACK
+
+COUNTS:	3
+
+
+###V10	Third person singular present tense suffix###
+
+4	WAS
+
+COUNTS:	1
+
+
+###V11	Past tense modal###
+
+1	'LL
+9	COULD
+14	WOULD
+
+COUNTS:	3
+
+
+###V12	Regular past tense suffix###
+
+3	LOVED
+5	LIKED
+13	WANTED
+15	SPLASHED
+19	LIVED
+
+COUNTS:	5
+
+
+###V13	Past tense auxiliary###
+
+2	HAD
+4	WAS
+7	HAD
+10	HAD
+16	WAS
+
+COUNTS:	2
+
+
+###V14	Medial adverb###
+
+4	SO
+9	FAST
+9	REALLY
+14	BACK
+19	EVER
+19	HAPPILY
+
+COUNTS:	6
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+4	 WAS
+16	 WAS
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+9	REALLY
+19	HAPPILY
+
+COUNTS:	2
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+COUNTS:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+16	WHILE IT WAS GONE , THE PRINCESS CAME AND ASKED THE KING , DO YOU WANT A RIDE IN MY CARRIAGE ?
+
+COUNTS:	1
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	I THINK I 'LL TELL A STORY ABOUT THE CROCODILE AND THE PRINCE
+2	HE HAD A CARRIAGE
+3	HE LOVED HIS CASTLE
+4	IT WAS SO BIG
+5	HE LIKED HIS HORSEY
+7	HE HAD SOME ALLIGATORS AND SOME HORSEYS
+8	COME RUNNING FAST
+9	AND HE COULD RIDE REALLY FAST INTO THE GATE
+10	ONE DAY HIS RIDE HAD TO GO
+11	AND THEY CHICKENS
+13	HE WANTED TO KEEP RIDING ON ITS BACK
+14	BUT HIS RIDE CREATURE IT WOULD BE BACK THE NEXT DAY
+15	SO HE SPLASHED HIM WITH THE WATER
+16	WHILE IT WAS GONE THE PRINCESS CAME AND ASKED THE KING DO YOU WANT A RIDE IN MY CARRIAGE
+17	HE SAID YES
+18	AND SHE GAVE HIM A RIDE
+19	AND THEY BOTH LIVED HAPPILY EVER AFTER
+
+COUNTS:	3
+
+
+###S2	Subject verb sequence###
+
+1	I 'LL TELL 
+1	I THINK 
+2	HE HAD 
+3	HE LOVED 
+4	IT WAS 
+5	HE LIKED 
+7	HE HAD 
+10	ONE DAY HIS RIDE HAD TO GO
+13	HE WANTED TO KEEP RIDING 
+16	IT WAS 
+17	HE SAID YES
+
+COUNTS:	6
+
+
+###S3	Verb object sequence###
+
+1	'LL TELL A STORY ABOUT THE CROCODILE AND THE PRINCE
+1	THINK I 'LL TELL A STORY ABOUT THE CROCODILE AND THE PRINCE
+2	HAD A CARRIAGE
+3	LOVED HIS CASTLE
+5	LIKED HIS HORSEY
+7	HAD SOME ALLIGATORS AND SOME HORSEYS
+9	COULD RIDE REALLY FAST INTO THE GATE
+9	RIDE REALLY FAST INTO THE GATE
+13	RIDING ON ITS BACK
+13	TO KEEP RIDING ON ITS BACK
+13	WANTED TO KEEP RIDING ON ITS BACK
+14	BE BACK THE NEXT DAY
+14	WOULD BE BACK THE NEXT DAY
+15	SPLASHED HIM WITH THE WATER
+16	WAS GONE
+18	GAVE HIM A RIDE
+
+COUNTS:	3
+
+
+###S4	Subject Verb Object Sequence###
+
+1	I 'LL TELL A STORY ABOUT THE CROCODILE AND THE PRINCE
+1	I THINK I 'LL TELL A STORY ABOUT THE CROCODILE AND THE PRINCE
+2	HE HAD A CARRIAGE
+3	HE LOVED HIS CASTLE
+5	HE LIKED HIS HORSEY
+7	HE HAD SOME ALLIGATORS AND SOME HORSEYS
+13	HE WANTED TO KEEP RIDING ON ITS BACK
+16	IT WAS GONE
+
+COUNTS:	4
+
+
+###S5	Conjunction (any)###
+
+14	BUT
+18	AND
+
+COUNTS:	2
+
+
+###S6	Sentence with two VP's###
+
+1	I THINK I 'LL TELL A STORY ABOUT THE CROCODILE AND THE PRINCE .
+13	HE WANTED TO KEEP RIDING ON ITS BACK .
+16	WHILE IT WAS GONE , THE PRINCESS CAME AND ASKED THE KING , DO YOU WANT A RIDE IN MY CARRIAGE ?
+
+COUNTS:	2
+
+
+###S7	Conjoined phrases###
+
+16	CAME AND ASKED
+
+COUNTS:	1
+
+
+###S8	Infinitive without catenative, marked with to###
+
+10	HAD TO GO
+13	WANTED TO KEEP RIDING ON ITS BACK
+
+COUNTS:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+14	BUT
+
+COUNTS:	1
+
+
+###S11	Propositional Complement###
+
+1	THINK
+
+COUNTS:	1
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+
+COUNTS:	0
+
+
+###S14	Bitransitive predicate###
+
+18	GAVE HIM A RIDE
+
+COUNTS:	1
+
+
+###S15	Sentence with three or more VPs###
+
+16	WHILE IT WAS GONE , THE PRINCESS CAME AND ASKED THE KING , DO YOU WANT A RIDE IN MY CARRIAGE ?
+
+COUNTS:	1
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+8	COME RUNNING FAST .
+13	HE WANTED TO KEEP RIDING ON ITS BACK .
+
+COUNTS:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+16	WHILE IT WAS GONE
+
+COUNTS:	1
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-19
+NO OF UTTERANCES CONSIDERED: 19
+
+
+#########################
+NOUN COUNTS: 80
+VERB COUNTS: 66
+QUESTION COUNTS: 1
+SENTENCE COUNTS: 28
+TOTAL NO OF STRUCTURES COUNTS: 175
+##########################
+
+###Sentence Listing###
+
+1	I THINK I 'LL TELL A STORY ABOUT THE CROCODILE AND THE PRINCE .
+2	HE HAD A CARRIAGE .
+3	HE LOVED HIS CASTLE .
+4	IT WAS SO BIG .
+5	HE LIKED HIS HORSEY .
+6	-RSB-
+7	HE HAD SOME ALLIGATORS AND SOME HORSEYS .
+8	COME RUNNING FAST .
+9	AND HE COULD RIDE REALLY FAST INTO THE GATE .
+10	ONE DAY HIS RIDE HAD TO GO .
+11	AND THEY CHICKENS .
+12	THE .
+13	HE WANTED TO KEEP RIDING ON ITS BACK .
+14	BUT HIS RIDE CREATURE IT WOULD BE BACK THE NEXT DAY .
+15	SO HE SPLASHED HIM WITH THE WATER .
+16	WHILE IT WAS GONE , THE PRINCESS CAME AND ASKED THE KING , DO YOU WANT A RIDE IN MY CARRIAGE ?
+17	HE SAID YES .
+18	AND SHE GAVE HIM A RIDE .
+19	AND THEY BOTH LIVED HAPPILY EVER AFTER .

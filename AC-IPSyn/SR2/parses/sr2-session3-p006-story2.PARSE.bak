@@ -1,0 +1,106 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was) (NP (CD two) (NNS aliens)))
+     (. .)))
+
+
+
+(S1 (S (NP (CD One)) (VP (AUX was) (NP (DT the) (NN baby))) (. .)))
+
+
+
+(S1 (S (NP (CD One)) (VP (AUX was) (NP (DT the) (NN mommy))) (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (AUX were)
+      (VP (VBG walking) (ADVP (IN along) (NP (CD one) (NN day)))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (VBD found) (NP (DT a) (NN spaceship)))
+     (. .)))
+
+
+
+(S1 (S (CC and)
+     (NP (DT the) (NN mommy))
+     (VP (VBD said)
+      (, ,)
+      (S (VP (VB let)
+	  (S (NP (PRP 's))
+	   (VP (VB go)
+	    (VP (VB use)
+	     (NP (DT this))
+	     (S (VP (TO to)
+		 (VP (VB get)
+		  (ADVP (RB away)
+		   (PP (IN from) (NP (PRP$ our) (NN enemy)))))))))))))
+     (. .)))
+
+
+
+(S1 (S (CC So)
+     (NP (PRP they))
+     (VP (VBD went) (PP (IN into) (NP (DT the) (NN spaceship))))
+     (. .)))
+
+
+
+(S1 (S (CC And) (NP (PRP they)) (VP (VBD landed)) (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (VBD got)
+      (PP (IN out) (PP (IN of) (NP (DT the) (NN spaceship)))))
+     (. .)))
+
+
+
+(S1 (S (IN Except)
+     (NP (DT a) (JJ purple) (NN alien))
+     (VP (VBD came))
+     (. .)))
+
+
+
+(S1 (SQ (CC and)
+     (SBAR (S (NP (PRP he)) (VP (AUX was) (VP (JJ like)))))
+     (, ,)
+     (MD can)
+     (NP (PRP I))
+     (VP (VB play) (PP (IN with) (NP (PRP you))))
+     (. ?)))
+
+
+
+(S1 (S (CC and)
+     (NP (PRP he))
+     (VP (AUX was) (ADJP (JJ like) (, ,) (JJ sure)))
+     (. .)))
+
+
+
+(S1 (S (SBAR (RB So)
+	(WHADVP (WRB when))
+	(S (NP (PRP he))
+	 (VP (VBD got)
+	  (PP (IN into) (NP (PRP$ his) (NN spaceship)))
+	  (SBAR (S (NP (PRP it))
+		 (VP (AUX was) (ADVP (RB very) (CC And) (RB then))))))))
+     (NP (PRP they))
+     (VP (VBD took) (PRT (RP off)))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

@@ -1,0 +1,600 @@
+FILENAME:sr2-session8-p010-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	SOMETHING
+1	STORY
+2	ALIENS
+3	TIME
+5	SNOWMAN
+7	SUN
+8	CLOUDS
+9	PARTY
+10	SNOW
+14	FRIENDS
+14	LOTS
+14	PENGUINS
+15	MOMMY
+15	ONE
+16	END
+18	FUN
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+2	I
+3	THEM
+8	WHAT
+12	IT
+12	YOU
+14	WHO
+18	THERE
+18	THEY
+19	SHE
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+4	LITTLE
+9	FUNNEST
+9	THIS
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A STORY
+3	A TIME
+4	LITTLE SNOWMAN
+5	THE SNOWMAN
+8	THE CLOUDS
+9	FUNNEST PARTY
+14	THE PENGUINS
+15	A MOMMY
+15	THIS ONE
+16	THE END
+20	THE SNOWING
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+1	A STORY
+3	A TIME
+5	THE SNOWMAN
+8	THE CLOUDS
+14	THE PENGUINS
+15	A MOMMY
+16	THE END
+20	THE SNOWING
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+2	TELL A STORY
+3	UPON A TIME
+4	ON LITTLE SNOWMAN
+8	WOULD THE CLOUDS
+14	TOWARD THE SNOWMAN
+15	'S A MOMMY
+20	LIKE THE SNOWING
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+2	ALIENS
+8	CLOUDS
+14	FRIENDS
+14	PENGUINS
+
+SCORE:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+5	THE SNOWMAN
+8	THE CLOUDS
+14	THE PENGUINS
+15	THIS ONE
+
+SCORE:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+9	THE FUNNEST PARTY
+
+SCORE:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+2	WELL
+14	SO
+16	THEN
+
+SCORE:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+9	FUNNEST
+
+SCORE:	1
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	THINK
+2	TELL
+4	COME
+7	DOES
+7	MOVE
+8	APPEAR
+9	IS
+10	FALLING
+11	WAIT
+12	DO
+14	HAD
+14	STARTED
+14	WALKING
+15	'S
+19	LIVED
+20	LIKE
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+1	ABOUT
+3	AROUND
+3	UPON
+4	ON
+12	TO
+14	TOWARD
+14	UP
+18	OF
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	ABOUT SOMETHING
+2	ABOUT ALIENS
+3	UPON A TIME
+4	ON LITTLE SNOWMAN
+12	TO SNOWING
+14	OF FRIENDS
+14	TOWARD THE SNOWMAN
+18	OF FUN
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+9	 IS
+10	 IS
+15	 'S
+
+SCORE:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+7	DO
+9	IS
+10	IS
+12	DO
+14	HAD
+15	'S
+18	HAD
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+3	MOVING
+10	FALLING
+14	WALKING
+
+SCORE:	2
+
+
+###V8	Adverb###
+
+1	ELSE
+2	WELL
+3	JUST
+3	ONCE
+7	NOT
+12	BACK
+12	HOW
+14	SO
+16	THEN
+18	THERE
+19	EVER
+19	HAPPILY
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+1	'LL TELL A STORY
+2	MIGHT TELL A STORY
+5	CA NOT THE SNOWMAN MOVE
+8	WOULD THE CLOUDS APPEAR
+
+SCORE:	2
+
+
+###V10	Third person singular present tense suffix###
+
+7	DOES
+9	IS
+
+SCORE:	2
+
+
+###V11	Past tense modal###
+
+1	'LL
+2	MIGHT
+8	WOULD
+
+SCORE:	2
+
+
+###V12	Regular past tense suffix###
+
+14	STARTED
+19	LIVED
+
+SCORE:	2
+
+
+###V13	Past tense auxiliary###
+
+14	HAD
+18	HAD
+
+SCORE:	1
+
+
+###V14	Medial adverb###
+
+3	JUST
+12	BACK
+14	SO
+19	EVER
+19	HAPPILY
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+
+SCORE:	0
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+19	HAPPILY
+
+SCORE:	1
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	2
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+8	WHAT WOULD THE CLOUDS APPEAR ?
+
+SCORE:	2
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+5	CA NOT THE SNOWMAN MOVE ?
+7	SUN DOES NOT MOVE .
+
+SCORE:	2
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+8	WHAT WOULD THE CLOUDS APPEAR ?
+
+SCORE:	1
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+7	DOES NOT MOVE
+
+SCORE:	1
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+8	WHAT WOULD THE CLOUDS APPEAR ?
+12	HOW DO YOU MOVE IT BACK TO SNOWING ?
+
+SCORE:	2
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+7	DOES NOT MOVE
+
+SCORE:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+5	CA NOT THE SNOWMAN MOVE ?
+
+SCORE:	1
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	I THINK I 'LL TELL A STORY ABOUT SOMETHING ELSE
+2	WELL I MIGHT TELL A STORY ABOUT ALIENS
+3	ONCE UPON A TIME I JUST LIKE MOVING THEM AROUND
+4	COME ON LITTLE SNOWMAN
+5	CA NOT THE SNOWMAN MOVE
+7	SUN DOES NOT MOVE
+8	WHAT WOULD THE CLOUDS APPEAR
+9	THIS IS THE FUNNEST PARTY LITTLE
+10	SNOW IS FALLING
+11	AND WAIT
+12	HOW DO YOU MOVE IT BACK TO SNOWING
+13	OH THERE
+14	AND THE PENGUINS WHO HAD LOTS OF FRIENDS SO THE PENGUINS STARTED UP WALKING TOWARD THE SNOWMAN
+15	AND THIS ONE 'S A MOMMY
+16	THEN THE END
+18	AND THEY HAD LOTS OF FUN THERE
+19	SHE LIVED HAPPILY EVER AFTER
+20	AND I LIKE THE SNOWING
+21	THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+1	I 'LL TELL 
+1	I THINK 
+7	SUN DOES NOT MOVE
+9	THIS IS 
+10	SNOW IS FALLING
+19	SHE LIVED HAPPILY EVER AFTER
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	'LL TELL A STORY ABOUT SOMETHING ELSE
+1	THINK I 'LL TELL A STORY ABOUT SOMETHING ELSE
+2	MIGHT TELL A STORY ABOUT ALIENS
+2	TELL A STORY ABOUT ALIENS
+3	LIKE MOVING THEM AROUND
+3	MOVING THEM AROUND
+4	COME ON LITTLE SNOWMAN
+9	IS THE FUNNEST PARTY LITTLE
+12	MOVE IT BACK TO SNOWING
+14	HAD LOTS OF FRIENDS SO
+15	'S A MOMMY
+18	HAD LOTS OF FUN THERE
+20	LIKE THE SNOWING
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+1	I 'LL TELL A STORY ABOUT SOMETHING ELSE
+1	I THINK I 'LL TELL A STORY ABOUT SOMETHING ELSE
+9	THIS IS THE FUNNEST PARTY LITTLE
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+11	AND
+
+SCORE:	1
+
+
+###S6	Sentence with two VP's###
+
+1	I THINK I 'LL TELL A STORY ABOUT SOMETHING ELSE .
+
+SCORE:	1
+
+
+###S7	Conjoined phrases###
+
+
+SCORE:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+SCORE:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+SCORE:	0
+
+
+###S11	Propositional Complement###
+
+1	THINK
+
+SCORE:	1
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+8	WHAT WOULD THE CLOUDS APPEAR ?
+12	HOW DO YOU MOVE IT BACK TO SNOWING ?
+14	AND THE PENGUINS , WHO HAD LOTS OF FRIENDS SO THE PENGUINS STARTED UP WALKING TOWARD THE SNOWMAN .
+
+SCORE:	2
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+SCORE:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+14	THE PENGUINS , WHO HAD LOTS OF FRIENDS SO
+
+SCORE:	1
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+3	ONCE UPON A TIME I JUST LIKE MOVING THEM AROUND .
+10	SNOW IS FALLING .
+14	AND THE PENGUINS , WHO HAD LOTS OF FRIENDS SO THE PENGUINS STARTED UP WALKING TOWARD THE SNOWMAN .
+
+SCORE:	2
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-21
+NO OF UTTERANCES CONSIDERED: 21
+
+
+#########################
+NOUN SCORE: 20
+VERB SCORE: 28
+QUESTION SCORE: 12
+SENTENCE SCORE: 16
+IPSYN SCORE: 76
+##########################
+
+###Sentence Listing###
+
+1	I THINK I 'LL TELL A STORY ABOUT SOMETHING ELSE .
+2	WELL I MIGHT TELL A STORY ABOUT ALIENS .
+3	ONCE UPON A TIME I JUST LIKE MOVING THEM AROUND .
+4	COME ON LITTLE SNOWMAN .
+5	CA NOT THE SNOWMAN MOVE ?
+6	OH .
+7	SUN DOES NOT MOVE .
+8	WHAT WOULD THE CLOUDS APPEAR ?
+9	THIS IS THE FUNNEST PARTY LITTLE .
+10	SNOW IS FALLING .
+11	AND WAIT .
+12	HOW DO YOU MOVE IT BACK TO SNOWING ?
+13	OH THERE .
+14	AND THE PENGUINS , WHO HAD LOTS OF FRIENDS SO THE PENGUINS STARTED UP WALKING TOWARD THE SNOWMAN .
+15	AND THIS ONE 'S A MOMMY .
+16	THEN THE END .
+17	NO .
+18	AND THEY HAD LOTS OF FUN THERE .
+19	SHE LIVED HAPPILY EVER AFTER .
+20	AND I LIKE THE SNOWING .
+21	THE END .

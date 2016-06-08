@@ -1,0 +1,149 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was)
+      (NP (NP (DT a) (NN girl))
+       (SBAR (WHNP (WP who))
+	(S (VP (VBD liked)
+	    (S (VP (TO to) (VP (VB play) (NP (NN ball))))))))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (NN ball)) (VP (VBD went) (PRT (RP up))) (. .)))
+
+
+
+(S1 (S (CC And) (NP (PRP she)) (VP (VBD caught) (NP (PRP it))) (. .)))
+
+
+
+(S1 (S (NP (DT the) (NN dog))
+     (ADVP (RB woof))
+     (VP (VB like)
+      (VP (VB catch) (NP (DT the) (NN ball)) (ADVP (RB first))))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (CD one) (NN day))
+     (NP (DT the) (JJ little) (NN girl))
+     (VP (VBD bought) (NP (DT a) (JJ new) (NN cat)))
+     (. .)))
+
+
+
+(S1 (S (CC and)
+     (NP (DT the) (NN cat))
+     (VP (AUX did)
+      (RB not)
+      (VP (PP (IN like) (NP (DT the) (NN dog)))))
+     (. .)))
+
+
+
+(S1 (S (INTJ (UH Meow) (, ,) (UH meow) (UH meow) (UH meow) (UH meow))
+     (, ,)
+     (SBAR (WHNP (WDT which)) (S (VP (VBZ means))))
+     (, ,)
+     (VP (VBP get) (PP (IN off) (NP (PRP$ my) (NN sofa))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB Then))
+     (NP (DT a) (NN block))
+     (VP (VP (VBD came))
+      (, ,)
+      (CC and)
+      (VP (RB then) (NP (DT another) (CD one))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (VBD made)
+      (NP (NP (NNS steps))
+       (PP (IN for)
+	(NP (DT the)
+	 (NN kitten)
+	 (S (VP (TO to) (VP (VB climb) (PRT (RP down)) (PP (IN on)))))))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (NN dog))
+     (VP (VBD followed) (NP (PRP her)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VBD wanted)
+      (S (VP (TO to) (VP (VB chase) (NP (DT the) (NN kitty))))))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (ADVP (RB then))
+     (NP (PRP they))
+     (VP (VP (VBD curled) (PRT (RP up)) (ADVP (RB together)))
+      (CC and)
+      (VP (VBD went) (S (VP (TO to) (VP (VB sleep))))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (NN girl))
+     (VP (VP (VBD sat) (PP (IN in) (NP (DT a) (NN chair))))
+      (CC and)
+      (VP (VBD watched) (NP (PRP them))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (NN ball))
+     (VP (VP (VBD bounced) (PP (IN under) (NP (DT the) (NN sofa))))
+      (CC and)
+      (VP (VBD bounced)
+       (PRT (RP up))
+       (PP (IN onto) (NP (DT the) (NN ceiling)))))
+     (. .)))
+
+
+
+(S1 (FRAG (ADVP (RB Then))
+     (NP (DT that) (NN kitty))
+     (, ,)
+     (ADVP (RB down))
+     (, ,)
+     (SBAR (ADVP (RB down))
+      (IN that)
+      (S (NP (PRP she))
+       (VP (MD could)
+	(VP (VB go) (PP (IN on) (NP (DT the) (NN sofa)))))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (NN dog))
+     (VP (MD could)
+      (VP (VB go) (PP (IN in) (NP (DT the) (NN chair)))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP he))
+     (VP (VBD went) (PP (TO to) (NP (DT the) (NN chair))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

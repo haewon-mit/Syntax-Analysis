@@ -1,0 +1,546 @@
+FILENAME:sr2-session4-p009-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+2	BIRD
+2	BUTTERFLY
+3	-RSB-
+5	DAY
+7	DRAGON
+9	FIRE
+12	TOP
+14	FRIEND
+19	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+1	I
+10	HE
+10	HIM
+16	ME
+16	YOU
+18	THEY
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+3	-RSB-
+5	ONE
+11	HIGHER
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+2	A BIRD
+2	A BUTTERFLY
+3	-RSB- -RSB-
+4	A DRAGON
+5	ONE DAY
+6	THE BIRD
+7	THE DRAGON
+12	THE TOP
+14	A FRIEND
+19	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+2	A BIRD
+2	A BUTTERFLY
+4	A DRAGON
+6	THE BIRD
+7	THE DRAGON
+12	THE TOP
+14	A FRIEND
+19	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+2	WAS A BUTTERFLY
+4	WAS A DRAGON
+6	SAID THE BIRD
+12	TO THE TOP
+14	SAID THE DRAGON
+14	WANT A FRIEND
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+
+SCORE:	0
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+5	A DRAGON
+13	THE DRAGON
+
+SCORE:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+SCORE:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+
+SCORE:	0
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+11	HIGHER
+
+SCORE:	1
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	THINK
+4	LOVED
+4	PLAY
+4	WAS
+5	CAME
+7	RUN
+8	FLEW
+9	BREATHED
+10	CAUGHT
+11	CLIMBED
+12	WENT
+13	TWISTED
+14	SAID
+14	WANT
+16	ARE
+16	EAT
+16	GONNA
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+5	BY
+12	TO
+13	AROUND
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+12	TO THE TOP
+
+SCORE:	1
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+2	 WAS
+4	 WAS
+16	 ARE
+
+SCORE:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+2	WAS
+4	WAS
+16	ARE
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+
+SCORE:	0
+
+
+###V8	Adverb###
+
+2	ONCE
+10	ALMOST
+15	REALLY
+16	NOT
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+
+SCORE:	0
+
+
+###V10	Third person singular present tense suffix###
+
+4	WAS
+
+SCORE:	1
+
+
+###V11	Past tense modal###
+
+
+SCORE:	0
+
+
+###V12	Regular past tense suffix###
+
+4	LOVED
+9	BREATHED
+11	CLIMBED
+13	TWISTED
+18	PLAYED
+
+SCORE:	2
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+2	WAS
+4	WAS
+
+SCORE:	1
+
+
+###V14	Medial adverb###
+
+10	ALMOST
+
+SCORE:	1
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+2	 WAS
+4	 WAS
+
+SCORE:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+15	REALLY
+
+SCORE:	1
+
+
+###Q1	Intonationally marked question###
+
+15	REALLY ?
+
+SCORE:	1
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+16	YOU ARE NOT GONNA EAT ME ?
+
+SCORE:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+16	ARE NOT GONNA EAT ME
+
+SCORE:	1
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+16	ARE NOT GONNA EAT ME
+
+SCORE:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	I THINK WAS ABOUT BUTTERFLY
+2	ONCE THERE WAS A BUTTERFLY AND A BIRD
+4	ONCE THERE WAS A DRAGON AND THEY LOVED TO PLAY
+5	ONE DAY A DRAGON CAME BY
+6	RUN SAID THE BIRD
+7	RUN SAID THE DRAGON
+8	HE FLEW HIGHER AND HIGHER
+9	BUT THE DRAGON BREATHED FIRE
+10	HE ALMOST CAUGHT HIM
+11	HE CLIMBED HIGHER AND HIGHER AND HIGHER AND HIGHER AND HIGHER
+12	HE ALMOST WENT TO THE TOP
+13	BUT THE DRAGON TWISTED AROUND AND AROUND AND AROUND
+14	I WANT A FRIEND SAID THE DRAGON
+16	YOU ARE NOT GONNA EAT ME
+17	YES SAID THE DRAGON
+18	SO THEY PLAYED AND PLAYED AND PLAYED
+19	THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+1	I THINK 
+4	THEY LOVED TO PLAY
+5	ONE DAY A DRAGON CAME BY
+8	HE FLEW HIGHER AND HIGHER
+11	HE CLIMBED 
+14	I WANT 
+16	YOU ARE NOT GONNA EAT 
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	THINK WAS ABOUT BUTTERFLY
+1	WAS ABOUT BUTTERFLY
+2	WAS A BUTTERFLY AND A BIRD
+4	WAS A DRAGON
+9	BREATHED FIRE
+10	CAUGHT HIM
+12	WENT TO THE TOP
+14	WANT A FRIEND
+16	ARE NOT GONNA EAT ME
+16	GONNA EAT ME
+17	SAID THE DRAGON
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+1	I THINK WAS ABOUT BUTTERFLY
+14	I WANT A FRIEND
+16	YOU ARE NOT GONNA EAT ME
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+9	BUT
+18	AND
+
+SCORE:	2
+
+
+###S6	Sentence with two VP's###
+
+4	ONCE THERE WAS A DRAGON AND THEY LOVED TO PLAY .
+6	RUN , SAID THE BIRD .
+7	RUN , SAID THE DRAGON .
+14	I WANT A FRIEND , SAID THE DRAGON .
+18	SO THEY PLAYED AND PLAYED AND PLAYED .
+
+SCORE:	2
+
+
+###S7	Conjoined phrases###
+
+8	HIGHER AND HIGHER
+11	HIGHER AND HIGHER
+13	AROUND AND AROUND AND AROUND
+18	PLAYED AND PLAYED
+
+SCORE:	2
+
+
+###S8	Infinitive without catenative, marked with to###
+
+4	LOVED TO PLAY
+
+SCORE:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+9	BUT
+
+SCORE:	1
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+4	ONCE THERE WAS A DRAGON AND THEY LOVED TO PLAY 
+
+SCORE:	1
+
+
+###S13	Wh-clause###
+
+
+SCORE:	0
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+4	ONCE THERE WAS A DRAGON AND THEY LOVED TO PLAY .
+18	SO THEY PLAYED AND PLAYED AND PLAYED .
+
+SCORE:	2
+
+
+###S16	Relative clause marked or unmarked###
+
+
+SCORE:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+16	YOU ARE NOT GONNA EAT ME ?
+
+SCORE:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-19
+NO OF UTTERANCES CONSIDERED: 19
+
+
+#########################
+NOUN SCORE: 15
+VERB SCORE: 20
+QUESTION SCORE: 4
+SENTENCE SCORE: 20
+IPSYN SCORE: 59
+##########################
+
+###Sentence Listing###
+
+1	I THINK WAS ABOUT BUTTERFLY .
+2	ONCE THERE WAS A BUTTERFLY AND A BIRD .
+3	-RSB- -RSB-
+4	ONCE THERE WAS A DRAGON AND THEY LOVED TO PLAY .
+5	ONE DAY A DRAGON CAME BY .
+6	RUN , SAID THE BIRD .
+7	RUN , SAID THE DRAGON .
+8	HE FLEW HIGHER AND HIGHER .
+9	BUT THE DRAGON BREATHED FIRE .
+10	HE ALMOST CAUGHT HIM .
+11	HE CLIMBED HIGHER AND HIGHER AND HIGHER AND HIGHER AND HIGHER .
+12	HE ALMOST WENT TO THE TOP .
+13	BUT THE DRAGON TWISTED AROUND AND AROUND AND AROUND .
+14	I WANT A FRIEND , SAID THE DRAGON .
+15	REALLY ?
+16	YOU ARE NOT GONNA EAT ME ?
+17	YES , SAID THE DRAGON .
+18	SO THEY PLAYED AND PLAYED AND PLAYED .
+19	THE END .

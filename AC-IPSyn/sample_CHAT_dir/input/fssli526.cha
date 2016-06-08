@@ -1,0 +1,70 @@
+@UTF8
+@Begin
+@Languages:	en
+@Participants:	INV Dee Investigator, CHI Target_Child
+@ID:	en|conti4|INV|||||Investigator||
+@ID:	en|conti4|CHI|13;5.29||||Target_Child||
+@Date:	13-NOV-2001
+@Coder:	Dee
+@Situation:	Participants in a quiet room at the child's home, using Frog
+	where are you? book for stimulus
+*INV:	www.
+%exp:	child and investigator talk briefly before narrative begins.
+*CHI:	one night there were [*] this boy.
+%err:	were = was
+*CHI:	and he had this frog what [*] he were [*] really happy about.
+%err:	what = that; were = was
+*CHI:	so he went to bed.
+*CHI:	but while he were [*] asleep his er  his er frog  frog
+	escaped.
+%err:	were = was
+*CHI:	and he were [*] very worried about it .
+%err:	were = was
+*CHI:	# so he looked all over his bedroom for it in the morning.
+*CHI:	and er looked under [*] his bed looked in his shoes.
+%err:	unders = under
+*CHI:	and his dog's head got stuck in the jar.
+*CHI:	so he looked outside shouted  shouted for the frog.
+*CHI:	and then his dog fell out of the window.
+*CHI:	and er  and er smashed the jar on er  on er the ground.
+*CHI:	so he  so the boy were [*] really angry with the dog, got it.
+%err:	were = was
+*CHI:	and then he started looking outside.
+*CHI:	a [/-] and er then he shouted in his forest what [*] were [*] right
+	near by his house and went in.
+%err:	what = that; were = was
+*CHI:	because he er shouted for his frog down er  down a hole.
+*CHI:	but it wasn't there.
+*CHI:	and er then he er looked inside a tree stump.
+*CHI:	but the frog wasn't there.
+*CHI:	and then he heard 0 [*] dog dropped [*].
+%err:	0 = subject; dropped = drop
+*CHI:	then his dog er pushed down some er honey [*].
+%err:	honey = hive
+*CHI:	and er a load of bees started chasing the dog.
+*CHI:	so he er  so he er ran off and came up to this big boulder,
+	stood on it and er looked.
+*CHI:	0 [*] looked all over the forest floor # for it  for his
+	frog.
+%err:	0 = subject
+*CHI:	but while he were looking, he got stuck on a reindeer because a
+	reindeer were [*] just behind the boulder.
+%err:	were = was
+*CHI:	and er the reindeer were [*] running off while he were stuck on it.
+%err:	were = was
+*CHI:	and then it stopped on er  stopped on er  on er  in
+	a little pond.
+*CHI:	and er the boy fell off with his dog.
+*CHI:	so when he got up, he got up fine.
+*CHI:	and then he could hear er something.
+*CHI:	so he er crept behind this tree stump.
+*CHI:	and then after three, cause he er quickly jumped over the 
+	the er the stump  tree stump.
+*CHI:	and  and there were [*] his frog with  er with this nother
+	frog.
+%err:	were = was
+*CHI:	and it had er some babies.
+*CHI:	and then  and then he er took his frog back home.
+*INV:	www.
+%exp:	investigator talks as disc is turned off.
+@End

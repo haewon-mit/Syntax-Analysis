@@ -1,0 +1,60 @@
+
+
+(S1 (S (S (NP (PRP I)) (VP (AUX 'm) (ADJP (JJ gonna)))) (VP (VBP tell) (NP (NP (DT a) (NN story)) (PP (IN about) (NP (DT a) (NN snowman))))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX were) (NP (CD two) (JJ penguin) (NNS sisters))) (. .)))
+
+
+
+
+
+(S1 (S (NP (CD One)) (VP (VBD lived) (PP (IN on) (NP (NP (DT the) (NN top)) (PP (IN of) (NP (DT the) (NN sister)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (NP (PRP one)) (VP (AUX had) (NP (NN power))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (ADVP (RB then) (NP (CD one) (NN day))) (NP (PRP they)) (VP (VBD made) (NP (DT a) (NN snowman)) (ADVP (RB together))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (ADVP (RB then)) (NP (DT the) (JJ big) (NN sister)) (VP (VBD turned) (NP (DT the) (JJ whole) (NN house)) (PP (IN into) (NP (NN wintertime)))) (. .)))
+
+
+
+
+
+(S1 (S (RB Then) (NP (PRP she)) (VP (VBD went) (ADVP (RB back)) (PP (IN into) (NP (PRP$ her) (NN room)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (DT the) (JJ little) (NN sister)) (VP (VBD played)) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP she)) (VP (VBD went) (ADVP (RB back) (PP (TO to) (NP (PRP$ her) (NN room))))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

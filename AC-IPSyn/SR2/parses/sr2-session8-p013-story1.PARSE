@@ -1,0 +1,120 @@
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (NP (CD two)) (, ,) (NP (NP (DT a) (NN brother)) (CC and) (NP (DT a) (NN sister))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP They)) (VP (VBD went) (PP (TO to) (S (VP (VBG picking) (NP (NNS flowers)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC but) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP pick) (NP (NNS flowers))))) (ADVP (RB sometimes)) (NP (PRP they)) (VP (VBP go) (ADVP (RB up) (PP (TO to) (NP (DT the) (NN flower) (NNS monsters) (NN house))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (PP (IN in) (NP (DT the) (NN night))) (NP (PRP he)) (VP (VBZ likes) (S (VP (TO to) (VP (VBP sneak) (CC and) (VB grab) (NP (JJ other) (NNS peoples) (NNS flowers)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC but) (NP (PRP they)) (VP (VBP want) (NP (NP (NN magic)) (, ,) (NP (DT the) (NN monster)) (CC and) (NP (DT the) (NN boy)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (DT the) (NN girl)) (VP (AUX does) (RB not) (VP (AUX have) (NP (DT the) (NN magic)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (NP (DT the) (JJ only) (NN way)) (SBAR (S (VP (TO to) (VP (VB get) (NP (DT the) (NN magic))))))) (VP (AUX is) (S (VP (TO to) (VP (VB get) (NP (NP (DT a) (NN flower)) (SBAR (WHNP (WDT that)) (S (VP (AUX has) (NP (NP (CD seven) (NNS colors)) (PP (IN on) (NP (DT the) (NNS petals)))))))))))) (. .)))
+
+
+
+
+
+(S1 (S (CC and) (NP (DT the) (NN monster)) (VP (AUX was) (RB not) (ADJP (JJ nice))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (SBAR (IN if) (S (NP (PRP he)) (VP (VBD got) (NP (NP (DT the) (NN flower)) (SBAR (WHNP (WDT that)) (S (VP (AUX has) (NP (CD seven) (NNS colors))))))))) (NP (PRP he)) (VP (MD would) (VP (AUX do) (NP (NP (DT all) (DT the) (JJ bad) (NNS things)) (SBAR (WHNP (IN that)) (S (NP (PRP he)) (VP (MD can) (VP (AUX do)))))))) (. .)))
+
+
+
+
+
+(S1 (FRAG (CC And) (RB then) (NP (NP (CD one) (NN day)) (SBAR (S (NP (PRP they)) (VP (VBD got) (NP (DT the) (NN flower)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (ADVP (RB then)) (NP (DT the) (NN monster)) (VP (VBD saw) (NP (IN that))) (. .)))
+
+
+
+
+
+(S1 (S (CC and) (RB then) (NP (PRP they)) (ADVP (NP (DT a) (NN flower)) (IN that)) (VP (AUX had) (NP (CD seven) (NNS colors))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (NP (PRP it)) (VP (AUX was) (ADVP (RB actually)) (NP (NP (DT a) (JJ poisonous) (NN one)) (PP (IN for) (NP (DT the) (NN monster)))) (SBAR (IN because) (S (NP (DT the) (NN monster)) (VP (AUX was) (ADJP (JJ bad)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC but) (PP (IN except) (PP (IN for) (S (VP (VBG eating) (NP (PRP it)))))) (NP (PRP he)) (VP (VBD got) (NP (DT the) (JJ poisonous) (NN power) (S (VP (TO to) (VP (VB get)))))) (. .)))
+
+
+
+
+
+(S1 (S (IN so) (NP (PRP they)) (VP (VBD ran) (ADVP (ADVP (RB as) (RB fast)) (SBAR (IN as) (S (NP (PRP they)) (VP (MD can)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (NP (DT the) (NN monster)) (VP (AUX had) (NP (NP (JJ such) (JJ slow) (NNS feet)) (SBAR (WHNP (IN that)) (S (NP (PRP he)) (VP (MD could) (ADVP (RB only)) (VP (VB walk) (SBAR (IN because) (S (NP (PRP$ his) (NNS legs)) (VP (AUX were) (RB not) (VP (VBG feeling) (ADVP (RB well)))))))))))) (. .)))
+
+
+
+
+
+(S1 (S (CC So) (NP (PRP he)) (VP (MD could) (ADVP (RB only)) (VP (VB walk))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (RB then) (NP (PRP$ his) (NNS legs)) (VP (VBD started) (S (VP (VBG breaking) (PRT (RP apart))))) (. .)))
+
+
+
+
+
+(S1 (S (S (CC and) (ADVP (RB then)) (NP (PRP he)) (VP (VBD died))) (CC but) (S (NP (PRP it)) (VP (AUX was) (ADVP (RB actually)) (ADJP (JJ good)) (SBAR (IN because) (S (NP (PRP he)) (VP (AUX 's) (ADVP (RB actually)) (ADJP (JJ bad))))))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

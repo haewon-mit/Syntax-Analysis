@@ -1,0 +1,550 @@
+FILENAME:sr2-session2-p010-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	TIME
+2	DAY
+8	CROC
+9	CASTLE
+10	TREE
+11	PRINCESS
+11	SAY
+12	BACK
+17	GIRL
+17	PRINCE
+18	CROCODILE
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+4	HE
+5	IT
+6	HERE
+11	YOU
+13	HIM
+13	THEY
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+2	ONE
+9	THAT
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A CASTLE
+1	A PRINCE
+1	A TIME
+2	A PRINCESS
+2	ONE DAY
+9	THE CASTLE
+10	THE TREE
+11	THE PRINCESS
+17	THE GIRL
+17	THE PRINCE
+18	THE CROCODILE
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+1	A CASTLE
+1	A PRINCE
+1	A TIME
+2	A PRINCESS
+9	THE CASTLE
+10	THE TREE
+11	THE PRINCESS
+17	THE GIRL
+17	THE PRINCE
+18	THE CROCODILE
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	IN A CASTLE
+1	UPON A TIME
+9	TO THE CASTLE
+10	IN THE TREE
+17	HELPED THE GIRL
+18	HELPED THE CROCODILE
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+
+SCORE:	0
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+1	A CASTLE
+1	A PRINCE
+2	A PRINCESS
+16	THE PRINCE
+
+SCORE:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+SCORE:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+9	THEN
+
+SCORE:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	GUARDED
+1	LIVED
+2	CAME
+4	SAID
+5	WAS
+9	WENT
+10	STUCK
+11	ARE
+17	GOT
+17	HELPED
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+1	BY
+1	IN
+1	UPON
+9	TO
+17	OUT
+20	AFTER
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	BY THE CROC
+1	IN A CASTLE
+1	UPON A TIME
+9	TO THE CASTLE
+10	IN THE TREE
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+5	 WAS
+9	 WAS
+10	 WAS
+11	 ARE
+
+SCORE:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+5	WAS
+9	WAS
+10	WAS
+11	ARE
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+9	HELPING
+
+SCORE:	1
+
+
+###V8	Adverb###
+
+1	ONCE
+6	DOWN
+6	HERE
+9	BACK
+9	NOT
+9	THEN
+13	OUT
+19	HOME
+20	EVER
+20	HAPPILY
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+
+SCORE:	0
+
+
+###V10	Third person singular present tense suffix###
+
+5	WAS
+
+SCORE:	1
+
+
+###V11	Past tense modal###
+
+
+SCORE:	0
+
+
+###V12	Regular past tense suffix###
+
+1	GUARDED
+1	LIVED
+17	HELPED
+
+SCORE:	2
+
+
+###V13	Past tense auxiliary###
+
+5	WAS
+9	WAS
+10	WAS
+
+SCORE:	1
+
+
+###V14	Medial adverb###
+
+6	DOWN
+9	BACK
+9	NOT
+9	THEN
+20	EVER
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+5	 WAS
+9	 WAS
+10	 WAS
+
+SCORE:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+20	HAPPILY
+
+SCORE:	1
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	1
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	1
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+9	AND THEN THEY WENT BACK TO THE CASTLE BECAUSE THAT WAS NOT HELPING .
+
+SCORE:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+SCORE:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+9	WAS NOT HELPING
+
+SCORE:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+11	THEN THE PRINCE AND THE PRINCESS SAY , ARE YOU STUCK ?
+
+SCORE:	1
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME A PRINCE LIVED IN A CASTLE GUARDED BY THE CROC
+2	ONE DAY A PRINCESS CAME
+3	AND THEN THEY
+4	AND HE SAID YES
+5	AND THEN IT WAS
+6	THEN THEY CAME DOWN HERE
+7	AND THEY WENT OUT
+8	CROC SAID
+9	AND THEN THEY WENT BACK TO THE CASTLE BECAUSE THAT WAS NOT HELPING
+10	CROC WAS STUCK IN THE TREE
+11	THEN THE PRINCE AND THE PRINCESS SAY ARE YOU STUCK
+12	AND THE PRINCESS BACK
+13	THEY GOT HIM OUT
+14	BUT THEY WENT BACK
+15	AND THEN THE PRINCESS AND THE CROC WENT BACK
+16	AND THEN THE PRINCE GOT STUCK
+17	BUT THEN THE PRINCE GOT OUT AND HELPED THE GIRL OUT
+18	AND THEN THEY HELPED THE CROCODILE OUT
+19	AND THEY WENT BACK HOME
+20	HAPPILY EVER AFTER
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+2	ONE DAY A PRINCESS CAME
+8	CROC SAID ,
+9	THAT WAS NOT HELPING
+10	CROC WAS STUCK 
+13	THEY GOT 
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	GUARDED BY THE CROC
+1	LIVED IN A CASTLE GUARDED BY THE CROC
+9	WENT BACK TO THE CASTLE BECAUSE THAT WAS NOT HELPING
+10	STUCK IN THE TREE
+10	WAS STUCK IN THE TREE
+13	GOT HIM OUT
+17	GOT OUT AND HELPED THE GIRL OUT
+18	HELPED THE CROCODILE OUT
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+10	CROC WAS STUCK IN THE TREE
+13	THEY GOT HIM OUT
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+9	BECAUSE
+14	BUT
+18	AND
+
+SCORE:	2
+
+
+###S6	Sentence with two VP's###
+
+1	ONCE UPON A TIME A PRINCE LIVED IN A CASTLE GUARDED BY THE CROC .
+16	AND THEN THE PRINCE GOT STUCK .
+17	BUT THEN THE PRINCE GOT OUT AND HELPED THE GIRL OUT .
+
+SCORE:	2
+
+
+###S7	Conjoined phrases###
+
+
+SCORE:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+SCORE:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+9	BECAUSE
+14	BUT
+
+SCORE:	2
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+
+SCORE:	0
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+SCORE:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+
+SCORE:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+9	AND THEN THEY WENT BACK TO THE CASTLE BECAUSE THAT WAS NOT HELPING .
+
+SCORE:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-20
+NO OF UTTERANCES CONSIDERED: 20
+
+
+#########################
+NOUN SCORE: 15
+VERB SCORE: 23
+QUESTION SCORE: 5
+SENTENCE SCORE: 15
+IPSYN SCORE: 58
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME A PRINCE LIVED IN A CASTLE GUARDED BY THE CROC .
+2	ONE DAY A PRINCESS CAME .
+3	AND THEN THEY .
+4	AND HE SAID , YES .
+5	AND THEN IT WAS .
+6	THEN THEY CAME DOWN HERE .
+7	AND THEY WENT OUT .
+8	CROC SAID , .
+9	AND THEN THEY WENT BACK TO THE CASTLE BECAUSE THAT WAS NOT HELPING .
+10	CROC WAS STUCK IN THE TREE .
+11	THEN THE PRINCE AND THE PRINCESS SAY , ARE YOU STUCK ?
+12	AND THE PRINCESS BACK .
+13	THEY GOT HIM OUT .
+14	BUT THEY WENT BACK .
+15	AND THEN THE PRINCESS AND THE CROC WENT BACK .
+16	AND THEN THE PRINCE GOT STUCK .
+17	BUT THEN THE PRINCE GOT OUT AND HELPED THE GIRL OUT .
+18	AND THEN THEY HELPED THE CROCODILE OUT .
+19	AND THEY WENT BACK HOME .
+20	HAPPILY EVER AFTER .

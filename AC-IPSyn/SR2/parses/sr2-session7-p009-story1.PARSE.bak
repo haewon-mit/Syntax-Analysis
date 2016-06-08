@@ -1,0 +1,66 @@
+
+(S1 (S (ADVP (RB Once))
+     (NP (EX there))
+     (VP (AUX was) (NP (DT a) (NNP dragon)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VBD flew)
+      (PP (IN in) (NP (DT the) (NN sky)))
+      (S (VP (VBG ha) (NP (QP (CD ha) (CD ha)) (NNS ha)))))
+     (. .)))
+
+
+
+(S1 (FRAG (ADVP (RB Then)) (NP (DT the) (NN birdie)) (. .)))
+
+
+
+(S1 (INTJ (JJ Rar) (. !)))
+
+
+
+(S1 (S (NP (DT The) (NNP dragon))
+     (VP (VBD scared) (NP (DT the) (NN birdie)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT the) (NN birdie))
+     (VP (VP (VBD flaped) (NP (PRP$ its) (NNS wings)))
+      (CC and)
+      (VP (VBD went) (ADVP (RB away))))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (DT the) (NNP dragon))
+     (ADVP (RB just))
+     (VP (VBD wanted)
+      (S (VP (TO to) (VP (AUX be) (NP (NNS friends))))))
+     (. .)))
+
+
+
+(S1 (S (RB So) (VP (VBD flew) (ADVP (RB away)) (PP (TO to))) (. .)))
+
+
+
+(S1 (S (RB Then)
+     (NP (DT the) (NN king))
+     (VP (VBZ says) (, ,) (INTJ (UH OK)))
+     (. .)))
+
+
+
+(S1 (NP (JJ Doo) (NN doo) (NN doo) (NN doo) (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

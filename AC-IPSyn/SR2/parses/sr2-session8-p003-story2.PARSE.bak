@@ -1,0 +1,18 @@
+
+(S1 (SQ (NNP Green)
+     (, ,)
+     (MD can)
+     (NP (PRP you))
+     (VP (VB tell) (NP (DT another) (NN story)))
+     (. ?)))
+
+
+
+(S1 (S (NP (NNP Green))
+     (VP (AUX does)
+      (RB not)
+      (ADVP (RB really))
+      (VP (VB go) (PP (TO to) (NP (NN school)))))
+     (. .)))
+
+

@@ -1,0 +1,202 @@
+
+(S1 (S (ADVP (RB once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was)
+      (NP (NP (CD two) (NNS friends))
+       (SBAR (WHNP (WDT that))
+	(S (VP (AUX had) (NP (DT a) (NN play) (NN date)))))))
+     (. .)))
+
+
+
+(S1 (S (CC and)
+     (NP (DT the) (NN friend))
+     (VP (VBD went)
+      (PP (TO to) (NP (PRP$ his) (NNS friends) (NN house))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then))
+     (NP (PRP he))
+     (VP (VBD grabed)
+      (S (NP (NP (CD one)) (PP (IN of) (NP (PRP$ his) (NNS games))))
+       (VP (TO to) (VP (VB play)))))
+     (. .)))
+
+
+
+(S1 (S (CC but)
+     (NP (NP (DT the) (NN friend))
+      (SBAR (WHNP (WDT that))
+       (S (VP (VBD came) (PP (TO to) (NP (PRP$ his) (NN house)))))))
+     (ADVP (RB accidentally))
+     (VP (VBD cheated))
+     (. .)))
+
+
+
+(S1 (S (CC and)
+     (NP (NP (DT the) (JJ other) (NN friend))
+      (SBAR (WHNP (WDT that))
+       (S (VP (VBD lived) (PP (IN at) (NP (DT that) (NN house)))))))
+     (VP (VBD said)
+      (SBAR (IN that)
+       (S (NP (DT the) (NNS instructions))
+	(VP (VBP say)
+	 (SBAR (IN if)
+	  (S (NP (PRP you))
+	   (VP (VBP cheat)
+	    (SBAR (S (NP (DT that))
+		   (VP (VBZ means)
+		    (SBAR (S (NP (PRP you))
+			   (VP (AUX are) (ADJP (JJ out)))))))))))))))
+     (. .)))
+
+
+
+(S1 (S (IN so)
+     (NP (PRP he))
+     (VP (VBD said) (, ,) (S (ADJP (RB not) (JJ nice))))
+     (. .)))
+
+
+
+(S1 (S (CC but)
+     (NP (NP (DT the) (NN one))
+      (SBAR (WHNP (WDT that))
+       (S (VP (VBD lived) (PP (IN at) (NP (DT that) (NN house)))))))
+     (VP (VBD said)
+      (, ,)
+      (S (ADVP (RB yes)) (NP (PRP it)) (VP (AUX is))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP I))
+     (VP (AUX 'm)
+      (RB not)
+      (VP (VBG making) (NP (PRP it)) (PRT (RP up))))
+     (. .)))
+
+
+
+(S1 (S (CC and)
+     (NP (PRP he))
+     (VP (VBD said)
+      (SBAR (IN that)
+       (S (NP (DT the) (NNS instructions))
+	(VP (VB say) (NP (DT that))))))
+     (. .)))
+
+
+
+(S1 (S (CC and)
+     (S (NP (DT the) (JJ other) (NN friend)) (VP (VBD said)))
+     (, ,)
+     (CC but)
+     (S (NP (PRP it)) (VP (AUX was) (NP (DT an) (NN accident))))
+     (. .)))
+
+
+
+(S1 (S (NP (NNS Instructions))
+     (ADVP (RB also))
+     (VP (VBP say)
+      (SBAR (S (SBAR (RB even)
+		(IN if)
+		(S (NP (PRP it))
+		 (VP (AUX 's) (NP (DT a) (NN accident)))))
+	     (NP (PRP you))
+	     (VP (MD should) (ADVP (RB still))))))
+     (. .)))
+
+
+
+(S1 (S (CC and)
+     (RB then)
+     (NP (PRP he))
+     (VP (VBD started)
+      (S (VP (TO to) (VP (VB tell) (NP (PRP$ his) (NN mom))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP$ his) (NN mom))
+     (VP (MD can) (VP (VB read) (ADVP (RB very) (RB well))))
+     (. .)))
+
+
+
+(S1 (S (IN so) (NP (PRP she)) (VP (VBD read) (NP (PRP it))) (. .)))
+
+
+
+(S1 (S (CC and)
+     (ADVP (RB then))
+     (NP (PRP he))
+     (VP (VBD asked)
+      (NP (PRP$ his) (NN mom))
+      (SBAR (IN if)
+       (S (NP (DT the) (NNS instructions)) (VP (VBD said))))
+      (, ,)
+      (SBAR (IN if)
+       (S (NP (PRP you))
+	(VP (VBP cheat)
+	 (SBAR (S (NP (PRP you)) (VP (AUX are) (ADJP (JJ out)))))))))
+     (. .)))
+
+
+
+(S1 (S (CC and)
+     (NP (PRP$ his) (NN mom))
+     (VP (VBD said) (INTJ (UH yes)))
+     (. .)))
+
+
+
+(S1 (S (CC and)
+     (RB then)
+     (NP (DT the) (NN friend))
+     (VP (VBD said)
+      (S (ADVP (RB maybe))
+       (NP (PRP we))
+       (VP (MD should)
+	(VP (VB play)
+	 (NP (DT another) (NN game))
+	 (SBAR (WHADVP (WRB where))
+	  (S (NP (PRP you)) (VP (VBP cheat))))))))
+     (. .)))
+
+
+
+(S1 (S (CC and)
+     (ADVP (RB then))
+     (PRN (S (NP (PRP he)) (VP (VBD said))) (, ,))
+     (NP (PRP we))
+     (VP (MD could) (VP (VB play) (NP (JJ tic) (JJ tac) (NN toe))))
+     (. .)))
+
+
+
+(S1 (S (IN so)
+     (NP (PRP they))
+     (VP (VBD played) (NP (JJ tic) (JJ tac) (NN toe)))
+     (. .)))
+
+
+
+(S1 (S (CC and)
+     (RB then)
+     (NP (PRP they))
+     (VP (VBD lived) (ADVP (RB happily)) (ADVP (RB ever) (IN after)))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

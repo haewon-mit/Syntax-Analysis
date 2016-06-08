@@ -1,0 +1,597 @@
+FILENAME:fssli589
+
+
+###N1	Proper Mass or Count Noun###
+
+3	FROG
+3	JAR
+8	DOG
+8	WINDOW
+9	SHOUTING
+9	WOODS
+10	BEEHIVE
+12	LOG
+12	SIDE
+12	TREE
+13	BABIES
+13	FAMILY
+13	UM
+14	BOY
+14	GOODBYE
+14	WAVE
+
+COUNTS:	16
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+1	I
+2	HE
+5	IT
+6	WHERE
+11	THERE
+14	THEM
+14	THEY
+
+COUNTS:	7
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	ER
+1	HIS
+1	PET
+12	OTHER
+13	'S
+13	LITTLE
+13	THEIR
+
+COUNTS:	7
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A BOY
+1	A JAR
+1	ER FROG
+1	HIS DOG
+3	THE JAR
+4	THE BOY
+6	THE FROG
+7	THE WINDOW
+8	THE DOG
+9	THE WOODS
+10	A BEEHIVE
+12	A LOG
+12	A TREE
+12	OTHER SIDE
+13	LITTLE BABIES
+
+COUNTS:	15
+
+
+###N5	Article used before a noun###
+
+1	A BOY
+1	A JAR
+3	THE JAR
+6	THE FROG
+7	THE WINDOW
+8	THE DOG
+9	THE WOODS
+10	A BEEHIVE
+12	A LOG
+12	A TREE
+14	THE BOY
+
+COUNTS:	11
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	'VE A BOY
+1	IN A JAR
+3	FROM THE JAR
+6	FOR THE FROG
+8	OUT THE WINDOW
+9	IN THE WOODS
+10	INTO A BEEHIVE
+
+COUNTS:	7
+
+
+###N7	Plural suffix###
+
+9	WOODS
+13	BABIES
+
+COUNTS:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+1	HIS DOG
+3	THE FROG
+8	THE DOG
+
+COUNTS:	3
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+1	PET ER FROG
+13	THE OTHER SIDE
+13	THEIR LITTLE BABIES
+
+COUNTS:	3
+
+
+###N10	Adverb modifying adjective or nominal###
+
+1	UM
+7	ER
+9	SO
+10	THEN
+
+COUNTS:	4
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	'VE
+1	HAD
+2	SLEEP
+4	SAW
+4	WAS
+4	WOKE
+5	ESCAPED
+6	SEE
+7	SHOUTED
+8	FELL
+9	ER
+9	SHOU
+9	WENT
+12	LOOKED
+13	UM
+
+COUNTS:	15
+
+
+###V2	Particle or preposition###
+
+1	IN
+3	FROM
+4	UP
+6	FOR
+8	OUT
+10	INTO
+12	OF
+12	OVER
+13	ON
+13	WITH
+14	TO
+
+COUNTS:	11
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	IN A JAR
+3	FROM THE JAR
+6	FOR THE FROG TO SEE WHERE
+7	OUT THE WINDOW
+8	OUT THE WINDOW
+9	IN THE WOODS
+10	INTO A BEEHIVE
+12	OF THE A LOG
+12	OVER THE OTHER SIDE
+13	ON THE OTHER SIDE
+14	TO THEM
+
+COUNTS:	5
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+4	 WAS
+11	 WAS
+13	 'S
+
+COUNTS:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	HAD
+4	WAS
+5	HAD
+11	WAS
+
+COUNTS:	2
+
+
+###V7	Progressive Suffix###
+
+6	LOOKING
+
+COUNTS:	1
+
+
+###V8	Adverb###
+
+1	UM
+5	ES
+6	OUT
+6	WHERE
+7	ER
+9	SO
+11	N'T
+11	THERE
+12	THEN
+
+COUNTS:	9
+
+
+###V9	Modal preceeding verb###
+
+
+COUNTS:	0
+
+
+###V10	Third person singular present tense suffix###
+
+4	WAS
+
+COUNTS:	1
+
+
+###V11	Past tense modal###
+
+
+COUNTS:	0
+
+
+###V12	Regular past tense suffix###
+
+3	ESCAPED
+7	SHOUTED
+10	SHOUTED
+12	LOOKED
+
+COUNTS:	3
+
+
+###V13	Past tense auxiliary###
+
+1	HAD
+4	WAS
+5	HAD
+11	WAS
+
+COUNTS:	2
+
+
+###V14	Medial adverb###
+
+5	ES
+6	OUT
+6	UM
+6	WHERE
+9	SO
+11	N'T
+12	THEN
+
+COUNTS:	7
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+4	 WAS
+11	 WAS
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+11	BUT THE FROG WAS N'T THERE .
+
+COUNTS:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+11	WAS N'T THERE
+
+COUNTS:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	UM I 'VE A BOY AND HIS DOG HAD A PET ER FROG IN A JAR
+2	AND HE WENT TO SLEEP
+3	AND THE FROG ESCAPED FROM THE JAR
+4	AND THEY AND THE BOY WOKE UP AND SAW IF IT WAS THERE
+5	AND IT HAD ES ESCAPED
+6	SO THEY WENT UM OUT LOOKING FOR THE FROG TO SEE WHERE IT WENT
+7	ER THEY SHOUTED OUT THE WINDOW
+8	AND THE DOG FELL OUT THE WINDOW
+9	AND SO THEY WENT TO ER LOOK IN THE WOODS AND SHOU SHOUTING
+10	AND THEN THEY LOOK SHOUTED INTO A BEEHIVE
+11	BUT THE FROG WAS N'T THERE
+12	THEY THEN LOOKED OVER THE OTHER SIDE OF THE A LOG A TREE LOG UM
+13	AND UM SAW IT 'S FAMILY ON THE OTHER SIDE WITH UM THEIR LITTLE BABIES
+14	AND THEN THEY THE BOY AND THE DOG WAVE GOODBYE TO THEM
+
+COUNTS:	8
+
+
+###S2	Subject verb sequence###
+
+1	HIS DOG HAD 
+4	IT WAS THERE
+6	IT WENT
+
+COUNTS:	2
+
+
+###S3	Verb object sequence###
+
+1	'VE A BOY
+3	ESCAPED FROM THE JAR
+4	WOKE UP AND SAW IF IT WAS THERE
+6	LOOKING FOR THE FROG TO SEE WHERE IT WENT
+6	WENT UM OUT LOOKING FOR THE FROG TO SEE WHERE IT WENT
+7	SHOUTED OUT THE WINDOW
+8	FELL OUT THE WINDOW
+9	LOOK IN THE WOODS AND SHOU SHOUTING
+9	SHOU SHOUTING
+9	TO ER LOOK IN THE WOODS AND SHOU SHOUTING
+9	WENT TO ER LOOK IN THE WOODS AND SHOU SHOUTING
+10	LOOK SHOUTED INTO A BEEHIVE
+10	SHOUTED INTO A BEEHIVE
+12	LOOKED OVER THE OTHER SIDE OF THE A LOG A TREE LOG UM
+13	SAW IT 'S FAMILY ON THE OTHER SIDE WITH UM THEIR LITTLE BABIES
+13	UM THEIR LITTLE BABIES
+14	THE BOY AND THE DOG WAVE GOODBYE TO THEM
+
+COUNTS:	8
+
+
+###S4	Subject Verb Object Sequence###
+
+1	HIS DOG HAD A PET ER FROG IN A JAR
+
+COUNTS:	1
+
+
+###S5	Conjunction (any)###
+
+4	IF
+6	SO
+9	AND
+11	BUT
+
+COUNTS:	4
+
+
+###S6	Sentence with two VP's###
+
+2	AND HE WENT TO SLEEP .
+4	AND THEY AND THE BOY WOKE UP AND SAW IF IT WAS THERE .
+6	SO THEY WENT UM OUT LOOKING FOR THE FROG TO SEE WHERE IT WENT .
+9	AND SO THEY WENT TO ER LOOK IN THE WOODS AND SHOU SHOUTING .
+10	AND THEN THEY LOOK SHOUTED INTO A BEEHIVE .
+
+COUNTS:	4
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+2	WENT TO SLEEP
+6	LOOKING FOR THE FROG TO SEE WHERE IT WENT
+9	WENT TO ER LOOK IN THE WOODS AND SHOU SHOUTING
+
+COUNTS:	2
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+4	IF
+6	SO
+11	BUT
+
+COUNTS:	3
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+1	UM I 'VE A BOY AND HIS DOG HAD A PET ER FROG IN A JAR 
+9	AND SO THEY WENT TO ER LOOK IN THE WOODS AND SHOU SHOUTING 
+
+COUNTS:	2
+
+
+###S13	Wh-clause###
+
+6	SO THEY WENT UM OUT LOOKING FOR THE FROG TO SEE WHERE IT WENT .
+
+COUNTS:	1
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+4	AND THEY AND THE BOY WOKE UP AND SAW IF IT WAS THERE .
+6	SO THEY WENT UM OUT LOOKING FOR THE FROG TO SEE WHERE IT WENT .
+9	AND SO THEY WENT TO ER LOOK IN THE WOODS AND SHOU SHOUTING .
+
+COUNTS:	3
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+6	SO THEY WENT UM OUT LOOKING FOR THE FROG TO SEE WHERE IT WENT .
+13	AND UM SAW IT 'S FAMILY ON THE OTHER SIDE WITH UM THEIR LITTLE BABIES .
+
+COUNTS:	2
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-100
+NO OF UTTERANCES CONSIDERED: 14
+
+
+#########################
+NOUN COUNTS: 75
+VERB COUNTS: 59
+QUESTION COUNTS: 2
+SENTENCE COUNTS: 40
+TOTAL NO OF STRUCTURES COUNTS: 176
+##########################
+
+###Sentence Listing###
+
+1	UM I 'VE A BOY AND HIS DOG HAD A PET ER FROG IN A JAR .
+2	AND HE WENT TO SLEEP .
+3	AND THE FROG ESCAPED FROM THE JAR .
+4	AND THEY AND THE BOY WOKE UP AND SAW IF IT WAS THERE .
+5	AND IT HAD ES ESCAPED .
+6	SO THEY WENT UM OUT LOOKING FOR THE FROG TO SEE WHERE IT WENT .
+7	ER THEY SHOUTED OUT THE WINDOW .
+8	AND THE DOG FELL OUT THE WINDOW .
+9	AND SO THEY WENT TO ER LOOK IN THE WOODS AND SHOU SHOUTING .
+10	AND THEN THEY LOOK SHOUTED INTO A BEEHIVE .
+11	BUT THE FROG WAS N'T THERE .
+12	THEY THEN LOOKED OVER THE OTHER SIDE OF THE A LOG A TREE LOG UM .
+13	AND UM SAW IT 'S FAMILY ON THE OTHER SIDE WITH UM THEIR LITTLE BABIES .
+14	AND THEN THEY THE BOY AND THE DOG WAVE GOODBYE TO THEM .

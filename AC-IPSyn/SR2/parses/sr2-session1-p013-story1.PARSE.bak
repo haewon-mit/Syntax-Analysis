@@ -1,0 +1,63 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was) (NP (DT a) (NN farm)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT the) (NN farmer))
+     (VP (VBD grew) (NP (NNS vegetables)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (CD one) (NN time))
+     (NP (PRP$ his) (NNS vegetables))
+     (VP (AUX were)
+      (ADJP (VBN gone))
+      (SBAR (IN because)
+       (S (NP (NP (NN alot)) (PP (IN of) (NP (NNS people))))
+	(VP (VBD came)
+	 (CC and)
+	 (VBD ate)
+	 (NP (NP (DT all)) (PP (IN of) (NP (PRP them))))))))
+     (. .)))
+
+
+
+(S1 (S (IN So)
+     (NP (PRP he))
+     (VP (VBD asked)
+      (S (NP (DT some) (NNS people))
+       (VP (TO to)
+	(VP (VB help)
+	 (S (NP (PRP him))
+	  (VP (VB grow)
+	   (NP (PRP them))
+	   (SBAR (IN since)
+	    (S (NP (PRP he)) (VP (AUX had) (NP (NN none)))))))))))
+     (. .)))
+
+
+
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP he)) (VP (VBD came)) (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then))
+     (NP (PRP he))
+     (VP (VBD let)
+      (S (NP (JJR more) (NNS people))
+       (VP (VB buy) (NP (DT the) (NNS vegetables)))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

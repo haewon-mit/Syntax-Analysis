@@ -1,0 +1,21 @@
+
+(S1 (FRAG (NP (PRP Me)) (ADVP (RB too)) (. .)))
+
+
+
+(S1 (FRAG (INTJ (UH Uh))
+     (ADVP (RB maybe))
+     (, ,)
+     (RB maybe)
+     (RB not)
+     (NP (NN today))
+     (. .)))
+
+
+
+(S1 (S (PP (IN After) (NP (NN while)))
+     (, ,)
+     (VP (VB crocodile))
+     (. .)))
+
+

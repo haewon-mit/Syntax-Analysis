@@ -1,0 +1,33 @@
+
+(S1 (S (NP (EX There))
+     (VP (MD will)
+      (VP (AUX be)
+       (NP (NP (JJR more) (NN ice))
+	(PP (IN in) (NP (DT the) (NN winter) (NN time))))))
+     (. .)))
+
+
+
+(S1 (S (VP (VB See)) (. .)))
+
+
+
+(S1 (FRAG (RB Here) (NP (PRP you)) (. .)))
+
+
+
+(S1 (S (VP (VB Thank) (NP (PRP you))) (. .)))
+
+
+
+(S1 (INTJ (JJ Sure) (. .)))
+
+
+
+(S1 (SBARQ (WHADVP (WRB where)) (SQ (AUX are) (NP (PRP you))) (. ?)))
+
+
+
+(S1 (S (VP (VB Yup)) (. .)))
+
+

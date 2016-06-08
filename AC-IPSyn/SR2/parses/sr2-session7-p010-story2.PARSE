@@ -1,0 +1,66 @@
+
+
+(S1 (S (ADVP (RB once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (ADVP (DT a) (CC and))) (. .)))
+
+
+
+
+
+(S1 (SINV (PP (IN On) (NP (DT the) (NN floor))) (VP (AUX was)) (NP (DT the) (NN girl)) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (DT the) (NN dog)) (VP (AUX had) (NP (NN a))) (. .)))
+
+
+
+
+
+(S1 (FRAG (NP (PRP He)) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (RB then) (NP (PRP he)) (VP (VBD got)) (. .)))
+
+
+
+
+
+(S1 (X (NNP treasure) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP she)) (VP (VBD got) (NP (NP (DT a) (JJ little) (NN treasure)) (PP (IN for) (NP (DT the) (NN cat))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (DT the) (JJ big)) (VP (AUX did) (RB not) (VP (AUX have) (NP (DT any) (NN treasure)))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (VP (MD should) (VP (VB learn) (S (RB not) (VP (TO to) (VP (VB steal)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (NP (DT the) (NN dog)) (PP (IN with) (NP (NP (PRP$ his) (NN treasure)) (PP (IN in) (NP (DT the) (NN water))) (PP (IN off) (NP (DT the) (NN boat)))))) (VP (CC and) (VP (VBD got) (NP (PRP$ his) (NN soaked)))) (. .)))
+
+
+
+
+
+(S1 (FRAG (CC And) (NP (DT the) (NN end)) (. .)))
+
+
+

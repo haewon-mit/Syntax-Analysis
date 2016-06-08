@@ -1,0 +1,450 @@
+FILENAME:sr2-session8-p001-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	KIDS
+1	TIME
+4	BOY
+5	GIRL
+9	BALL
+10	TURN
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+7	THEY
+
+SCORE:	1
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+9	MY
+10	YOUR
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A TIME
+2	A GIRL
+4	THE BOY
+5	THE GIRL
+9	MY BALL
+10	YOUR TURN
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+1	A TIME
+2	A GIRL
+4	THE BOY
+5	THE GIRL
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+2	WAS A GIRL
+3	IS A GIRL
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+1	KIDS
+
+SCORE:	1
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+3	A GIRL
+
+SCORE:	1
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+SCORE:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+
+SCORE:	0
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+2	WAS
+3	IS
+3	RUNNING
+7	WENT
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+1	UPON
+
+SCORE:	1
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+
+SCORE:	1
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+2	 WAS
+3	 IS
+
+SCORE:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+2	WAS
+3	IS
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+3	RUNNING
+
+SCORE:	1
+
+
+###V8	Adverb###
+
+1	ONCE
+3	AROUND
+6	THEN
+7	DOWN
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+
+SCORE:	0
+
+
+###V10	Third person singular present tense suffix###
+
+2	WAS
+3	IS
+
+SCORE:	2
+
+
+###V11	Past tense modal###
+
+
+SCORE:	0
+
+
+###V12	Regular past tense suffix###
+
+
+SCORE:	0
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+2	WAS
+
+SCORE:	1
+
+
+###V14	Medial adverb###
+
+8	DOWN
+
+SCORE:	1
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+2	 WAS
+
+SCORE:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+SCORE:	0
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+SCORE:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+SCORE:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+SCORE:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS KIDS
+2	ONCE THERE WAS A GIRL
+3	AND THERE IS A GIRL RUNNING AROUND
+4	THE BOY
+5	THE GIRL
+6	AND THEN
+7	THEY WENT DOWN DOWN DOWN
+8	DOWN DOWN DOWN DOWN DOWN
+9	MY BALL
+10	YOUR TURN
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+7	THEY WENT DOWN , DOWN DOWN
+
+SCORE:	1
+
+
+###S3	Verb object sequence###
+
+1	WAS KIDS
+2	WAS A GIRL
+3	IS A GIRL RUNNING AROUND
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+
+SCORE:	0
+
+
+###S5	Conjunction (any)###
+
+3	AND
+
+SCORE:	1
+
+
+###S6	Sentence with two VP's###
+
+
+SCORE:	0
+
+
+###S7	Conjoined phrases###
+
+
+SCORE:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+SCORE:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+SCORE:	0
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+
+SCORE:	0
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+SCORE:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+
+SCORE:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+3	AND THERE IS A GIRL RUNNING AROUND .
+
+SCORE:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-10
+NO OF UTTERANCES CONSIDERED: 10
+
+
+#########################
+NOUN SCORE: 13
+VERB SCORE: 18
+QUESTION SCORE: 0
+SENTENCE SCORE: 7
+IPSYN SCORE: 38
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS KIDS .
+2	ONCE THERE WAS A GIRL .
+3	AND THERE IS A GIRL RUNNING AROUND .
+4	THE BOY .
+5	THE GIRL .
+6	AND THEN .
+7	THEY WENT DOWN , DOWN DOWN .
+8	DOWN DOWN DOWN DOWN DOWN .
+9	MY BALL .
+10	YOUR TURN .

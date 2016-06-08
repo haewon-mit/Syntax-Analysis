@@ -1,0 +1,94 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX were) (NP (CD two) (NN dinosaur) (NNS friends)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (NP (CD one) (NN day)) (NP (DT a) (NNP T) (NNP Rex)))
+     (VP (VP (VBD came))
+      (CC and)
+      (VP (AUX was)
+       (VP (VBG drinking) (PP (IN from) (NP (DT a) (NNP pond))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They)) (VP (AUX were) (ADVP (RB nearby))) (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VBZ swum)
+      (NP (NP (PDT all) (DT the) (NN way))
+       (PP (TO to) (NP (DT the) (JJ other) (NN side))))
+      (PP (ADVP (RB right))
+       (IN in)
+       (NP (NP (NN front)) (PP (IN of)))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VP (VBD ran))
+      (CC and)
+      (VP (VBD ran))
+      (CC and)
+      (VP (VBD ran)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (AUX was) (VP (VBG vey) (ADVP (RB fast))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VBD went)
+      (PP (IN in) (NP (IN between)))
+      (PP (IN without) (NP (NNP Rex) (NN noticing))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB Then))
+     (NP (NNP Rex))
+     (VP (VBD saw) (NP (DT the) (JJ other) (NN friend)))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (DT the) (JJ other) (NN friend))
+     (VP (AUX is) (ADJP (JJ slow)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (PP (IN until) (NP (DT the) (JJ other) (NN friend)))
+     (VP (VBD saved) (NP (PRP himself)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB then)
+     (NP (DT the) (NNP T) (NNP Rex))
+     (VP (VP (VBD plunged) (PP (IN into) (NP (DT the) (NN river))))
+      (CC and)
+      (VP (AUX was)
+       (ADVP (RB never))
+       (VP (VBN heard) (PP (IN from) (ADVP (RB again))))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

@@ -1,0 +1,14 @@
+
+path=../DATA/
+lmpath=../DATALM/
+#utrn=/u/ec/ecdata/lm2/f0-20.unk10.txt
+#udev=/u/ec/ecdata/lm2/f21-22.unk10.txt
+utrn=/pro/dpg/ecdata/lm2/f0-20.unk10.txt
+udev=/pro/dpg/ecdata/lm2/f21-22.unk10.txt
+trn=/pro/dpg/ecdata/cp2/train.txt
+dev=/pro/dpg/ecdata/cp2/test.main
+
+#allScript $path $dev $trn
+allScriptLM $lmpath $udev $utrn
+
+

@@ -1,0 +1,567 @@
+FILENAME:sr2-session8-p007-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	TIME
+2	ONE
+2	PENGUINS
+4	HATS
+4	ICEBERG
+5	HEAD
+6	FISHY
+10	SNOWMANS
+12	CLOUDS
+14	-RSB-
+15	SNOW
+18	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+2	WHO
+8	IT
+14	WHAT
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+2	FISHY
+2	TWO
+3	ONE
+5	ITS
+6	HIS
+12	BIG
+14	-RSB-
+14	THIS
+15	FAST
+18	THAT
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A SNOWMAN
+1	A TIME
+2	TWO PENGUINS
+5	A HAT
+5	ITS HEAD
+5	ONE TIME
+6	HIS HEAD
+10	THE SNOWMANS
+12	BIG CLOUDS
+14	-RSB- -RSB-
+17	THE HAT
+18	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+1	A SNOWMAN
+1	A TIME
+5	A HAT
+10	THE SNOWMANS
+17	THE HAT
+18	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+1	WAS A SNOWMAN
+5	ONTO ITS HEAD
+6	ON HIS HEAD
+10	ON THE SNOWMANS
+18	WAS THE END
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+2	PENGUINS
+4	HATS
+10	SNOWMANS
+12	CLOUDS
+
+SCORE:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+5	A HAT
+12	BIG CLOUDS
+
+SCORE:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+14	THIS -RSB- -RSB-
+
+SCORE:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+12	THEN
+15	REALLY
+17	NN
+
+SCORE:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	STAYED
+2	LOVED
+2	PLAY
+2	WAS
+6	HAVE
+6	WANTED
+8	ROSE
+10	LANDED
+12	APPEARED
+13	STARTED
+14	HAPPENED
+16	STOPED
+17	FLEW
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+1	UPON
+5	ONTO
+6	ON
+7	UP
+14	TO
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+5	ONTO ITS HEAD
+6	ON HIS HEAD
+10	ON THE SNOWMANS HEAD
+14	TO THIS -RSB- -RSB-
+15	TO SNOW
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+2	 WAS
+3	 WAS
+18	 WAS
+
+SCORE:	1
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+2	WAS
+3	WAS
+6	HAVE
+18	WAS
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+
+SCORE:	0
+
+
+###V8	Adverb###
+
+1	ONCE
+5	SO
+8	UP
+9	THEN
+15	REALLY
+17	ALMOST
+17	DOWN
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+
+SCORE:	0
+
+
+###V10	Third person singular present tense suffix###
+
+3	WAS
+
+SCORE:	1
+
+
+###V11	Past tense modal###
+
+
+SCORE:	0
+
+
+###V12	Regular past tense suffix###
+
+1	STAYED
+2	LOVED
+4	LOVED
+6	WANTED
+10	LANDED
+12	APPEARED
+13	STARTED
+14	HAPPENED
+15	STARTED
+16	STOPED
+
+SCORE:	2
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+2	WAS
+3	WAS
+18	WAS
+
+SCORE:	1
+
+
+###V14	Medial adverb###
+
+8	UP
+11	THEN
+15	REALLY
+17	ALMOST
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+2	 WAS
+3	 WAS
+18	 WAS
+
+SCORE:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+15	REALLY
+
+SCORE:	1
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+SCORE:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+SCORE:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+SCORE:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS A SNOWMAN WHO STAYED
+2	TWO PENGUINS WHO LOVED TO PLAY ONE WAS FISHY
+3	ONE WAS ICEBERG
+4	ICEBERG LOVED HATS
+5	SO ONE TIME A HAT FLEW ONTO ITS HEAD
+6	THEN FISHY WANTED TO HAVE IT ON HIS HEAD
+7	THEN IT ROSE UP
+8	IT ROSE UP TO
+10	IT LANDED ON THE SNOWMANS HEAD
+11	BUT THEN IT ROSE
+12	THEN BIG CLOUDS APPEARED
+13	IT STARTED TO SNOW
+14	WHAT HAPPENED TO THIS -RSB- -RSB-
+15	THEN IT STARTED TO SNOW REALLY REALLY FAST
+16	THEN IT STOPED
+17	THEN THE HAT ALMOST FLEW DOWN
+18	BUT THAT WAS THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+2	TWO PENGUINS WHO LOVED TO PLAY ONE WAS 
+3	ONE WAS 
+4	ICEBERG LOVED 
+8	IT ROSE UP 
+10	IT LANDED 
+13	IT STARTED TO SNOW
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	WAS A SNOWMAN WHO STAYED
+2	LOVED TO PLAY ONE
+2	TO PLAY ONE
+3	WAS ICEBERG
+4	LOVED HATS
+5	FLEW ONTO ITS HEAD
+6	TO HAVE IT ON HIS HEAD
+6	WANTED TO HAVE IT ON HIS HEAD
+10	LANDED ON THE SNOWMANS HEAD
+14	HAPPENED TO THIS -RSB- -RSB-
+15	STARTED TO SNOW REALLY , REALLY FAST
+18	WAS THE END
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+2	TWO PENGUINS WHO LOVED TO PLAY ONE WAS FISHY
+3	ONE WAS ICEBERG
+4	ICEBERG LOVED HATS
+10	IT LANDED ON THE SNOWMANS HEAD
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+18	BUT
+
+SCORE:	1
+
+
+###S6	Sentence with two VP's###
+
+2	TWO PENGUINS WHO LOVED TO PLAY ONE WAS FISHY .
+
+SCORE:	1
+
+
+###S7	Conjoined phrases###
+
+
+SCORE:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+2	LOVED TO PLAY ONE
+6	WANTED TO HAVE IT ON HIS HEAD
+
+SCORE:	2
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+18	BUT
+
+SCORE:	1
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+1	ONCE UPON A TIME THERE WAS A SNOWMAN WHO STAYED .
+2	TWO PENGUINS WHO LOVED TO PLAY ONE WAS FISHY .
+14	WHAT HAPPENED TO THIS -RSB- -RSB- .
+
+SCORE:	2
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+2	TWO PENGUINS WHO LOVED TO PLAY ONE WAS FISHY .
+
+SCORE:	1
+
+
+###S16	Relative clause marked or unmarked###
+
+1	A SNOWMAN WHO STAYED
+2	TWO PENGUINS WHO LOVED TO PLAY ONE
+
+SCORE:	2
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+
+SCORE:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-18
+NO OF UTTERANCES CONSIDERED: 18
+
+
+#########################
+NOUN SCORE: 19
+VERB SCORE: 21
+QUESTION SCORE: 0
+SENTENCE SCORE: 18
+IPSYN SCORE: 58
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS A SNOWMAN WHO STAYED .
+2	TWO PENGUINS WHO LOVED TO PLAY ONE WAS FISHY .
+3	ONE WAS ICEBERG .
+4	ICEBERG LOVED HATS .
+5	SO ONE TIME A HAT FLEW ONTO ITS HEAD .
+6	THEN FISHY WANTED TO HAVE IT ON HIS HEAD .
+7	THEN IT ROSE UP .
+8	IT ROSE UP TO .
+9	THEN .
+10	IT LANDED ON THE SNOWMANS HEAD .
+11	BUT THEN IT ROSE .
+12	THEN BIG CLOUDS APPEARED .
+13	IT STARTED TO SNOW .
+14	WHAT HAPPENED TO THIS -RSB- -RSB- .
+15	THEN IT STARTED TO SNOW REALLY , REALLY FAST .
+16	THEN IT STOPED .
+17	THEN THE HAT ALMOST FLEW DOWN .
+18	BUT THAT WAS THE END .

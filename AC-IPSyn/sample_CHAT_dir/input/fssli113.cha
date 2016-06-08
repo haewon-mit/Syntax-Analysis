@@ -1,0 +1,76 @@
+@UTF8
+@Begin
+@Languages:	en
+@Participants:	INV Zoe Investigator, CHI Target_Child
+@ID:	en|conti4|INV|||||Investigator||
+@ID:	en|conti4|CHI|14;10.11||||Target_Child||
+@Date:	27-NOV-2002
+@Coder:	Dee
+@Situation:	Participants in a quiet room at the child's home, using Frog
+	where are you? book for stimulus
+*INV:	www.
+%exp:	child and investigator talk briefly before narrative begins.
+*INV:	tell me what happened?
+*CHI:	he was in his bedroom with his dog looking at  in the jar.
+*INV:	+< yes a(nd) +...
+*CHI:	and there was a frog inside.
+*INV:	yes and then what happened?
+*CHI:	then # he got on to his bed with his dog.
+*INV:	uh huh.
+*CHI:	frog hopped out onto another jar and hopped out again.
+*INV:	0.
+%exp:	laughs
+*CHI:	the boy put his jumper for a piece of wood or something.
+*INV:	yes.
+*CHI:	the dog got stuck in the fishbowl.
+*INV:	yes 0.
+%exp:	laughs
+*INV:	and then what happened?
+*CHI:	he looked out the window to try and find the frog.
+*INV:	yes.
+*CHI:	the boy and the dog jumped out.
+*INV:	yes.
+*CHI:	the boy was angry.
+*CHI:	when looking for him 0 [*] saw birds and loads of trees in the
+	forest.
+%exp:	0 = they
+*CHI:	he looked down a hole.
+*CHI:	and the dog found a beehive.
+*CHI:	and he found a squirrel or something.
+*CHI:	0 [*] dog looked at the beehives.
+%exp:	0 = the
+*CHI:	the boy looked in a hole in the tree.
+*CHI:	the [/-] and he found some  the dog found  found some
+	bees.
+*CHI:	0 [*] bees went after the dog.
+%exp:	0 = the
+*INV:	uh huh.
+*CHI:	0 [*] boy fell off the tree.
+%exp:	0 = the
+*CHI:	and this owl came out.
+*INV:	0.
+%exp:	laughs
+*CHI:	0 [*] owl went after the boy.
+*CHI:	but the boy went into a rock looking for the dog.
+%exp:	0 = the
+*CHI:	the boy got stuck on the reindeer.
+*INV:	yes.
+*CHI:	and the dog went after it.
+*INV:	yes.
+*CHI:	0 [*] reindeer # pushed him off.
+%exp:	0 = the
+*CHI:	and they both fell off a cliff.
+*CHI:	landed in the water.
+*CHI:	landed on top of each other.
+*CHI:	0 [*] went near a log and got over alright.
+%exp:	0 = they
+*CHI:	0 [*] found a  found the frogs.
+%exp:	0 = they
+*INV:	uh huh.
+*CHI:	0 [*] opposite side of the log.
+%exp:	0 = the
+*CHI:	0 [*] found a frog and went home.
+%exp:	0 = they
+*INV:	www.
+%exp:	investigator talks as disc is turned off.
+@End

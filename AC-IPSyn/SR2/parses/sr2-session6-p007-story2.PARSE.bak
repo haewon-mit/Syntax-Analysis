@@ -1,0 +1,59 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was))
+     (. .)))
+
+
+
+(S1 (S (NP (NNP Hey)) (VP (VB wait)) (. .)))
+
+
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was) (NP (DT a) (JJ big) (NN pig) (NN dinosaur)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He)) (VP (AUX was)) (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP$ her) (JJ little) (NN sister))
+     (VP (AUX was) (NP (DT a) (NN tyrannasaurus)))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (PRP she))
+     (VP (AUX did)
+      (RB not)
+      (VP (PP (IN like)
+	   (NP (NP (PRP$ their) (NN friend)) (NP (NNP Stegosaurus))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP he))
+     (VP (VBP swam) (PP (IN like) (NP (DT this))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then))
+     (NP (PRP he))
+     (VP (VBD ate) (NP (DT some) (NN grass)))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

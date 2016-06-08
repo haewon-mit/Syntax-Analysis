@@ -1,0 +1,507 @@
+FILENAME:sr2-session6-p004-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	DINOSAURS
+1	GONNA
+1	STORY
+2	FRIENDS
+2	TIME
+3	DAY
+3	FAMILY
+4	BABY
+4	KID
+7	WATER
+9	HOME
+9	WAY
+10	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+1	I
+3	THEY
+4	WHO
+5	HE
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+2	THREE
+3	ALL
+3	ONE
+4	BIG
+4	LITTLE
+6	HIGH
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A STORY
+2	A TIME
+2	THREE DINOSAUR
+3	ONE DAY
+4	BIG KID
+4	LITTLE BABY
+7	THE WATER
+9	THE WAY
+10	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+1	A STORY
+2	A TIME
+7	THE WATER
+9	THE WAY
+10	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	TELL A STORY
+2	UPON A TIME
+2	WAS THREE DINOSAUR
+7	IN THE WATER
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+1	DINOSAURS
+2	FRIENDS
+
+SCORE:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+
+SCORE:	0
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+4	A BIG KID
+4	A LITTLE BABY
+
+SCORE:	2
+
+
+###N10	Adverb modifying adjective or nominal###
+
+8	THEN
+
+SCORE:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	AM
+1	TELL
+2	WAS
+3	BECAME
+4	GREW
+4	HAD
+5	BE
+6	GROWED
+7	PLAYED
+7	SPLASHED
+8	PRACTICING
+9	WENT
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+1	ABOUT
+2	UPON
+5	UP
+6	TO
+7	IN
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	ABOUT DINOSAURS
+2	UPON A TIME
+6	TO OF HIGH
+7	IN THE WATER
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 AM
+2	 WAS
+3	 BECAME
+4	 BE
+5	 BE
+
+SCORE:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	AM
+2	WAS
+4	HAD
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+8	PRACTICING
+
+SCORE:	1
+
+
+###V8	Adverb###
+
+2	ONCE
+6	THEN
+9	ALL
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+
+SCORE:	0
+
+
+###V10	Third person singular present tense suffix###
+
+2	WAS
+
+SCORE:	1
+
+
+###V11	Past tense modal###
+
+
+SCORE:	0
+
+
+###V12	Regular past tense suffix###
+
+6	GROWED
+7	PLAYED
+7	SPLASHED
+
+SCORE:	2
+
+
+###V13	Past tense auxiliary###
+
+2	WAS
+4	HAD
+
+SCORE:	2
+
+
+###V14	Medial adverb###
+
+8	THEN
+9	ALL
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+2	 WAS
+3	 BECAME
+
+SCORE:	2
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+SCORE:	0
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+SCORE:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+SCORE:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+SCORE:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	I AM GONNA TELL A STORY ABOUT DINOSAURS
+2	ONCE UPON A TIME THERE WAS THREE DINOSAUR FRIENDS
+3	THEY ALL BECAME FAMILY ONE DAY
+4	THEN THEY HAD A LITTLE BABY WHO GREW UP TO BE A BIG KID
+5	THEN HE GREW UP TO BE A
+6	THEN HE GROWED UP TO OF HIGH
+7	SPLASHED AND PLAYED IN THE WATER
+8	AND THEN HE WENT PRACTICING
+9	AND HE WENT ALL THE WAY HOME
+10	THE END
+
+SCORE:	1
+
+
+###S2	Subject verb sequence###
+
+1	I AM 
+3	THEY ALL BECAME 
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	AM GONNA TELL A STORY ABOUT DINOSAURS
+1	TELL A STORY ABOUT DINOSAURS
+2	WAS THREE DINOSAUR FRIENDS
+3	BECAME FAMILY ONE DAY
+4	GREW UP TO BE A BIG KID
+4	HAD A LITTLE BABY WHO GREW UP TO BE A BIG KID
+6	GROWED UP TO OF HIGH
+7	SPLASHED AND PLAYED IN THE WATER
+9	WENT ALL THE WAY HOME
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+1	I AM GONNA TELL A STORY ABOUT DINOSAURS
+3	THEY ALL BECAME FAMILY ONE DAY
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+9	AND
+
+SCORE:	1
+
+
+###S6	Sentence with two VP's###
+
+7	SPLASHED AND PLAYED IN THE WATER .
+
+SCORE:	1
+
+
+###S7	Conjoined phrases###
+
+
+SCORE:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+4	GREW UP TO BE A BIG KID
+5	GREW UP TO BE A
+
+SCORE:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+SCORE:	0
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+4	THEN THEY HAD A LITTLE BABY WHO GREW UP TO BE A BIG KID .
+
+SCORE:	1
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+4	THEN THEY HAD A LITTLE BABY WHO GREW UP TO BE A BIG KID .
+
+SCORE:	1
+
+
+###S16	Relative clause marked or unmarked###
+
+1	GONNA TELL A STORY ABOUT DINOSAURS
+4	A LITTLE BABY WHO GREW UP TO BE A BIG KID
+
+SCORE:	1
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+8	AND THEN HE WENT PRACTICING .
+
+SCORE:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-10
+NO OF UTTERANCES CONSIDERED: 10
+
+
+#########################
+NOUN SCORE: 17
+VERB SCORE: 24
+QUESTION SCORE: 0
+SENTENCE SCORE: 14
+IPSYN SCORE: 55
+##########################
+
+###Sentence Listing###
+
+1	I AM GONNA TELL A STORY ABOUT DINOSAURS .
+2	ONCE UPON A TIME THERE WAS THREE DINOSAUR FRIENDS .
+3	THEY ALL BECAME FAMILY ONE DAY .
+4	THEN THEY HAD A LITTLE BABY WHO GREW UP TO BE A BIG KID .
+5	THEN HE GREW UP TO BE A .
+6	THEN HE GROWED UP TO OF HIGH .
+7	SPLASHED AND PLAYED IN THE WATER .
+8	AND THEN HE WENT PRACTICING .
+9	AND HE WENT ALL THE WAY HOME .
+10	THE END .

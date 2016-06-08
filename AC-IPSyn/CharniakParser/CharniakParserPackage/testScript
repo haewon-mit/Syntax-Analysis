@@ -1,0 +1,13 @@
+
+path=/pro/dpg/ecdata/cp2/
+#when changing path, change jobstorun also
+
+rm -f ${path}PStatInfo/pStat*
+
+#wwBCTest -T210 -o -l350 -n0/1 $path "/pro/dpg/ecdata/cp2/BrownR/br0f"
+nice wwBCTest -T210 -l300 -n0/1 -o $path "${path}test.final"
+cat ${path}PStatInfo/pStat* > ${path}PStats.txt
+echo "---------------------------------------------" > ${path}impres.txt
+date >> ${path}impres.txt
+cfinPTest -n1 $path >> ${path}impres.txt
+

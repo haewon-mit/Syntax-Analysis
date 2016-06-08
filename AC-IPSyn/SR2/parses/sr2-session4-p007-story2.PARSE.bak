@@ -1,0 +1,103 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (, ,)
+     (NP (EX there))
+     (VP (AUX was)
+      (NP (NP (DT a) (NNP dragon))
+       (SBAR (WHNP (WP who))
+	(S (VP (VBD flew)
+	    (PP (TO to)
+	     (NP (NP (PRP$ his) (JJ favorite) (NN butterfly))
+	      (, ,)
+	      (NP (PRP$ its) (JJ favorite) (NN spot))))
+	    (NP (DT the) (NN tree)))))))
+     (. .)))
+
+
+
+(S1 (S (VP (NN Clump)
+	(NP (NP (DT a) (NN clump))
+	 (PP (IN of)
+	  (NP (NP (DT a) (CC and) (DT a) (NN clump))
+	   (PP (IN of) (NP (NN grass))))))
+	(S (VP (TO to)
+	    (VP (VB play)
+	     (PP (IN with)
+	      (NP (NP (PRP$ his) (NN friend))
+	       (, ,)
+	       (NP (NN Butterfly))))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP It))
+     (VP (VBD fluttered) (PP (IN through) (NP (DT the) (NNS skys))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP it))
+     (VP (VBD hid)
+      (PP (IN behind) (NP (DT the) (NNP bush)))
+      (PP (IN from) (NP (DT the) (NNP dragon))))
+     (. .)))
+
+
+
+(S1 (FRAG (CC And) (ADVP (NP (DT a) (NN bird)) (RB out)) (. .)))
+
+
+
+(S1 (FRAG (CC And) (ADVP (NP (DT a) (NN butterfly)) (RB up)) (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB then)
+     (NP (DT the) (NNP dragon))
+     (VP (VBD flew) (PRT (RP up)))
+     (. .)))
+
+
+
+(S1 (S (RB Then)
+     (NP (DT the) (NN bird))
+     (VP (VP (VBD flew)
+	  (PP (IN over) (NP (NP (PRP them)) (NP (DT all)))))
+      (CC and)
+      (VP (ADVP (RB then))
+       (VBD landed)
+       (PP (IN on) (NP (DT the) (NNS dragons) (NN ear)))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (NN butterfly))
+     (ADVP (RB quickly) (RP up) (CC and))
+     (VP (VBD flew)
+      (ADVP (RB down))
+      (, ,)
+      (PP (IN with)
+       (S (NP (DT the) (NN bluejay))
+	(ADVP (RB quickly))
+	(VP (VBG bounding) (ADVP (RB behind))))))
+     (. .)))
+
+
+
+(S1 (S (RB Then)
+     (NP (DT the) (NNP dragon))
+     (VP (VP (VBD swooped)
+	  (PRT (RP up))
+	  (PP (TO to) (NP (PRP$ his) (JJ favorite) (NN tree))))
+      (CC and)
+      (VP (VBD took) (NP (DT a) (NN rest))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

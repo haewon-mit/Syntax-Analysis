@@ -1,0 +1,124 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was)
+      (NP (NP (DT a) (NN prince))
+       (SBAR (WHNP (WP who))
+	(S (VP (AUX had) (NP (DT a) (JJ pet) (NN crocodile)))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VP (AUX was)
+	  (NP (NNS friends))
+	  (PP (IN with) (NP (DT the) (NNP princess))))
+      (CC and)
+      (VP (VBD liked)
+       (S (VP (TO to)
+	   (VP (VB give)
+	    (NP (PRP$ her) (NNS rides))
+	    (PP (IN on) (NP (DT the) (NN crocodile))))))))
+     (. .)))
+
+
+
+(S1 (S (CC So)
+     (NP (PRP they))
+     (VP (VBD went)
+      (PP (IN for) (NP (DT a) (NN ride)))
+      (NP (NP (DT every) (NN day))
+       (SBAR (S (NP (PRP she)) (VP (VBD visited))))))
+     (. .)))
+
+
+
+(S1 (S (NP (CD One) (NN day))
+     (, ,)
+     (NP (DT the) (NNP Croc))
+     (VP (VBD said)
+      (, ,)
+      (S (NP (PRP I)) (VP (AUX am) (ADJP (JJ tired)))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP I))
+     (ADVP (NNP wanna))
+     (VP (VBP run) (ADVP (RB away)))
+     (. .)))
+
+
+
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD ran) (PRT (RP away))) (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (PRP we))
+     (VP (MD can)
+      (RB not)
+      (VP (AUX have) (NP (DT any) (JJR more) (NNS playdates))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT That)) (VP (AUX 's) (ADJP (JJ sad))) (. .)))
+
+
+
+(S1 (S (VP (VB Let)
+	(S (NP (PRP 's))
+	 (VP (VB go)
+	  (VP (VB talk) (PP (TO to) (NP (DT the) (FW croc)))))))
+     (. .)))
+
+
+
+(S1 (NP (FW La) (FW la) (FW la) (FW la) (. .)))
+
+
+
+(S1 (S (IN So)
+     (NP (PRP they))
+     (VP (VBD searched)
+      (CC and)
+      (VBD searched)
+      (PP (IN for) (NP (NNS days) (CC and) (NNS weeks))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (NP (CD one) (NN day)) (NP (DT the) (NN prince)))
+     (VP (VP (VBD found) (NP (PRP him)))
+      (CC and)
+      (VP (VBD said) (, ,) (ADVP (IN Over) (RB here))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB then)
+     (NP (PRP he))
+     (VP (VBD said)
+      (, ,)
+      (S (VP (VBP Come) (PRT (RP back)) (ADVP (RB here)))))
+     (. .)))
+
+
+
+(S1 (S (IN So)
+     (NP (PRP they))
+     (VP (VBD rode)
+      (PP (IN on)
+       (NP (NP (DT the) (FW croc) (PDT all) (DT the) (NN way))
+	(ADVP (RB back) (PP (TO to) (NP (DT the) (NN castle)))))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

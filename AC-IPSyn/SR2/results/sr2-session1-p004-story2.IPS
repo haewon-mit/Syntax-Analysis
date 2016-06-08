@@ -1,0 +1,626 @@
+FILENAME:sr2-session1-p004-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	KIDS
+1	PLAYGROUND
+1	STORY
+2	DAY
+2	SWINGS
+4	SLIDE
+7	FRIENDS
+9	THANKS
+12	GIRL
+15	BALLS
+22	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+1	I
+3	THEY
+5	HE
+7	WE
+8	MYSELF
+8	SHE
+17	THEM
+20	IT
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	SOME
+4	THEIR
+7	HIS
+9	NO
+10	MAD
+12	ANOTHER
+12	OTHER
+14	THOSE
+15	ONE
+21	OK
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A PLAYGROUND
+1	A STORY
+1	SOME KIDS
+2	ONE DAY
+2	THE SWINGS
+4	THE SLIDE
+4	THEIR FRIEND
+5	A BALL
+7	HIS FRIENDS
+9	NO THANKS
+11	THE BALL
+12	ANOTHER BALL
+12	OTHER GIRL
+14	THOSE BALLS
+22	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+1	A PLAYGROUND
+1	A STORY
+2	THE SWINGS
+4	THE SLIDE
+5	A BALL
+11	THE BALL
+22	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	ABOUT A PLAYGROUND
+1	TELL A STORY
+2	ON THE SWINGS
+4	ON THE SLIDE
+5	FOUND A BALL
+11	TOOK THE BALL
+12	FOUND ANOTHER BALL
+15	BRING THOSE BALLS
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+1	KIDS
+2	SWINGS
+7	FRIENDS
+9	THANKS
+14	BALLS
+
+SCORE:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+2	SOME KIDS
+4	THEIR FRIEND
+7	HIS FRIENDS
+12	OTHER GIRL
+
+SCORE:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+12	THE OTHER GIRL
+
+SCORE:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+12	THEN
+13	SO
+
+SCORE:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	TELL
+2	SWINGING
+2	WERE
+3	GOING
+4	WAS
+6	STARTED
+6	THROW
+7	CAME
+7	WANT
+8	'M
+8	PLAYING
+10	GOT
+12	FIND
+12	FOUND
+12	WORRIED
+13	TOOK
+14	BRING
+14	SAID
+16	WENT
+17	THREW
+19	COME
+20	'S
+20	MOVING
+21	WAIT
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+1	ABOUT
+4	ON
+8	BY
+13	AWAY
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	ABOUT A PLAYGROUND
+2	ON THE SWINGS
+4	ON THE SLIDE
+8	BY MYSELF
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+2	 WERE
+3	 WERE
+4	 WAS
+10	THEY GOT MAD
+20	 'S
+21	IT 'S OK
+
+SCORE:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+2	WERE
+3	WERE
+4	WAS
+8	'M
+20	'S
+21	'S
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+2	SWINGING
+3	GOING
+4	PLAYING
+8	PLAYING
+20	MOVING
+
+SCORE:	2
+
+
+###V8	Adverb###
+
+3	FORTH
+6	UP
+12	THEN
+13	SO
+13	TOO
+15	BACK
+17	DOWN
+20	NOT
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+1	'LL TELL A STORY
+12	MIGHT FIND IT
+
+SCORE:	2
+
+
+###V10	Third person singular present tense suffix###
+
+4	WAS
+
+SCORE:	1
+
+
+###V11	Past tense modal###
+
+1	'LL
+12	MIGHT
+
+SCORE:	2
+
+
+###V12	Regular past tense suffix###
+
+6	STARTED
+12	WORRIED
+
+SCORE:	2
+
+
+###V13	Past tense auxiliary###
+
+2	WERE
+3	WERE
+4	WAS
+
+SCORE:	2
+
+
+###V14	Medial adverb###
+
+3	BACK
+3	FORTH
+6	DOWN
+6	UP
+12	THEN
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+2	 WERE
+3	 WERE
+4	 WAS
+10	THEY GOT MAD
+
+SCORE:	2
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+SCORE:	0
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+9	NO THANKS .
+20	IT 'S NOT MOVING .
+
+SCORE:	2
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+20	'S NOT MOVING
+
+SCORE:	1
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+20	'S NOT MOVING
+
+SCORE:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	I 'LL TELL A STORY ABOUT A PLAYGROUND AND SOME KIDS
+2	ONE DAY SOME KIDS WERE SWINGING ON THE SWINGS
+3	THEY WERE GOING BACK AND FORTH AND BACK AND FORTH
+4	THEIR FRIEND WAS PLAYING ON THE SLIDE
+5	AND THEN HE FOUND A BALL
+6	HE STARTED TO THROW IT UP AND DOWN UP AND DOWN AND UP AND DOWN
+7	AND THEN HIS FRIENDS CAME AND SAID WE WANT TO PLAY
+8	AND THEN SHE I 'M PLAYING BY MYSELF
+9	NO THANKS
+10	AND THEN THEY GOT MAD
+11	AND THEY TOOK THE BALL
+12	BUT THEN THE OTHER GIRL FOUND ANOTHER BALL AND WORRIED THAT THE OTHER GIRL MIGHT FIND IT
+13	SO SHE TOOK IT AWAY TOO
+14	AND THEN SHE SAID BRING THOSE BALLS
+15	AND THEN THE OTHER ONE SAID BRING THOSE BALLS BACK
+16	AND THEY WENT OK
+17	AND THEY THREW THEM DOWN
+19	OH COME ON
+20	IT 'S NOT MOVING
+21	WAIT IT 'S OK
+22	THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+1	I 'LL TELL 
+2	SOME KIDS WERE SWINGING 
+3	THEY WERE GOING BACK AND FORTH AND BACK AND FORTH
+4	THEIR FRIEND WAS PLAYING 
+6	HE STARTED TO THROW 
+7	WE WANT TO PLAY
+12	THE OTHER GIRL MIGHT FIND 
+14	SHE SAID
+20	IT 'S NOT MOVING
+21	IT 'S 
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	'LL TELL A STORY ABOUT A PLAYGROUND AND SOME KIDS
+1	TELL A STORY ABOUT A PLAYGROUND AND SOME KIDS
+2	SWINGING ON THE SWINGS
+2	WERE SWINGING ON THE SWINGS
+4	PLAYING ON THE SLIDE
+4	WAS PLAYING ON THE SLIDE
+5	FOUND A BALL
+6	STARTED TO THROW IT UP AND DOWN , UP AND DOWN , AND UP AND DOWN
+6	TO THROW IT UP AND DOWN , UP AND DOWN , AND UP AND DOWN
+7	CAME AND SAID , WE WANT TO PLAY
+8	'M PLAYING BY MYSELF
+8	PLAYING BY MYSELF
+11	TOOK THE BALL
+12	FOUND ANOTHER BALL
+12	FOUND ANOTHER BALL AND WORRIED THAT THE OTHER GIRL MIGHT FIND IT
+13	TOOK IT AWAY , TOO
+15	BRING THOSE BALLS BACK
+15	SAID , BRING THOSE BALLS BACK
+17	THREW THEM DOWN
+21	'S OK
+21	WAIT IT 'S OK
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+1	I 'LL TELL A STORY ABOUT A PLAYGROUND AND SOME KIDS
+2	SOME KIDS WERE SWINGING ON THE SWINGS
+4	THEIR FRIEND WAS PLAYING ON THE SLIDE
+6	HE STARTED TO THROW IT UP AND DOWN , UP AND DOWN , AND UP AND DOWN
+12	THE OTHER GIRL MIGHT FIND IT
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+7	AND
+12	THAT
+
+SCORE:	2
+
+
+###S6	Sentence with two VP's###
+
+6	HE STARTED TO THROW IT UP AND DOWN , UP AND DOWN , AND UP AND DOWN .
+7	AND THEN , HIS FRIENDS CAME AND SAID , WE WANT TO PLAY .
+12	BUT THEN THE OTHER GIRL FOUND ANOTHER BALL AND WORRIED THAT THE OTHER GIRL MIGHT FIND IT .
+14	AND THEN , SHE SAID , BRING THOSE BALLS .
+15	AND THEN THE OTHER ONE SAID , BRING THOSE BALLS BACK .
+
+SCORE:	2
+
+
+###S7	Conjoined phrases###
+
+3	BACK AND FORTH
+6	UP AND DOWN
+7	CAME AND SAID
+
+SCORE:	2
+
+
+###S8	Infinitive without catenative, marked with to###
+
+6	STARTED TO THROW IT UP AND DOWN , UP AND DOWN , AND UP AND DOWN
+7	WANT TO PLAY
+
+SCORE:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+12	THAT
+
+SCORE:	1
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+
+SCORE:	0
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+7	AND THEN , HIS FRIENDS CAME AND SAID , WE WANT TO PLAY .
+12	BUT THEN THE OTHER GIRL FOUND ANOTHER BALL AND WORRIED THAT THE OTHER GIRL MIGHT FIND IT .
+
+SCORE:	2
+
+
+###S16	Relative clause marked or unmarked###
+
+
+SCORE:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+2	ONE DAY SOME KIDS WERE SWINGING ON THE SWINGS .
+3	THEY WERE GOING BACK AND FORTH AND BACK AND FORTH .
+4	THEIR FRIEND WAS PLAYING ON THE SLIDE .
+8	AND THEN SHE , I 'M PLAYING BY MYSELF .
+20	IT 'S NOT MOVING .
+
+SCORE:	2
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-22
+NO OF UTTERANCES CONSIDERED: 22
+
+
+#########################
+NOUN SCORE: 19
+VERB SCORE: 29
+QUESTION SCORE: 4
+SENTENCE SCORE: 20
+IPSYN SCORE: 72
+##########################
+
+###Sentence Listing###
+
+1	I 'LL TELL A STORY ABOUT A PLAYGROUND AND SOME KIDS .
+2	ONE DAY SOME KIDS WERE SWINGING ON THE SWINGS .
+3	THEY WERE GOING BACK AND FORTH AND BACK AND FORTH .
+4	THEIR FRIEND WAS PLAYING ON THE SLIDE .
+5	AND THEN HE FOUND A BALL .
+6	HE STARTED TO THROW IT UP AND DOWN , UP AND DOWN , AND UP AND DOWN .
+7	AND THEN , HIS FRIENDS CAME AND SAID , WE WANT TO PLAY .
+8	AND THEN SHE , I 'M PLAYING BY MYSELF .
+9	NO THANKS .
+10	AND THEN THEY GOT MAD .
+11	AND THEY TOOK THE BALL .
+12	BUT THEN THE OTHER GIRL FOUND ANOTHER BALL AND WORRIED THAT THE OTHER GIRL MIGHT FIND IT .
+13	SO SHE TOOK IT AWAY , TOO .
+14	AND THEN , SHE SAID , BRING THOSE BALLS .
+15	AND THEN THE OTHER ONE SAID , BRING THOSE BALLS BACK .
+16	AND THEY WENT , OK .
+17	AND THEY THREW THEM DOWN .
+18	WAIT .
+19	OH COME ON .
+20	IT 'S NOT MOVING .
+21	WAIT IT 'S OK .
+22	THE END .

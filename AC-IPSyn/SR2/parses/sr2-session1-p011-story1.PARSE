@@ -1,0 +1,30 @@
+
+
+(S1 (S (NP (CD One) (JJ sunny) (NN day)) (, ,) (NP (NP (NN snow)) (CC and) (NP (DT the) (NN penguin))) (VP (VBD gathered) (PRT (RP on))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP they)) (VP (VBD slid) (PRT (RP down)) (NP (PRP it))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (RB then) (NP (PRP$ his) (NN friend)) (VP (VBD wanted) (S (VP (TO to) (VP (AUX do) (NP (PRP it)) (ADVP (RB again)))))) (. .)))
+
+
+
+
+
+(S1 (FRAG (CC And) (SBAR (IN like) (S (NP (PRP they)) (VP (VP (VBD slid) (PRT (RP down)) (PP (TO to) (NP (DT this) (NN part)))) (CC and) (VP (ADVP (RB maybe)) (VBP find) (NP (NNS things)))))) (. .)))
+
+
+
+
+
+(S1 (FRAG (CC And) (NP (DT the) (NN end)) (. .)))
+
+
+

@@ -1,0 +1,558 @@
+FILENAME:sr2-session6-p010-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	STORY
+1	WANNA
+3	HEAD
+4	CANDYCANE
+4	COOKIE
+4	DINOSAUR
+4	LOLLIPOP
+4	TIME
+5	ONE
+9	POOL
+10	END
+16	CAT
+16	ISSAC
+18	BABY
+20	GREEN
+
+COUNTS:	15
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+9	THEY
+11	I
+15	IT
+
+COUNTS:	3
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+3	ANY
+7	ONE
+8	THIS
+9	ALL
+16	MY
+
+COUNTS:	5
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A STORY
+3	MY HEAD
+4	A DINOSAUR
+4	A TIME
+5	THIS ONE
+9	THE POOL
+10	THE END
+16	MY CAT
+
+COUNTS:	8
+
+
+###N5	Article used before a noun###
+
+1	A STORY
+4	A DINOSAUR
+4	A TIME
+9	THE POOL
+10	THE END
+
+COUNTS:	5
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	TELL A STORY
+3	IN MY HEAD
+4	UPON A TIME
+4	WAS A DINOSAUR
+9	IN THE POOL
+
+COUNTS:	5
+
+
+###N7	Plural suffix###
+
+
+COUNTS:	0
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+4	A DINOSAUR
+5	THIS ONE
+
+COUNTS:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+COUNTS:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+11	SOMETIMES
+16	NOW
+
+COUNTS:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	TELL
+2	LISTEN
+3	DO
+3	HAVE
+4	NAMED
+4	WAS
+5	BE
+6	CANDYCANE
+8	IS
+9	LIVED
+11	LIKE
+11	SAY
+15	'S
+15	GO
+15	HIDE
+15	SEEK
+
+COUNTS:	16
+
+
+###V2	Particle or preposition###
+
+3	IN
+4	UPON
+
+COUNTS:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+3	IN MY HEAD
+4	UPON A TIME
+9	IN THE POOL
+11	UPON A TIME
+
+COUNTS:	3
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+4	 WAS
+5	 BE
+7	 IS
+8	 IS
+15	 'S
+
+COUNTS:	4
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+1	WANNA
+
+COUNTS:	1
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	DO
+3	DO
+3	HAVE
+4	WAS
+7	IS
+8	IS
+15	'S
+
+COUNTS:	5
+
+
+###V7	Progressive Suffix###
+
+
+COUNTS:	0
+
+
+###V8	Adverb###
+
+2	RATHER
+3	NOT
+11	ONCE
+11	SOMETIMES
+12	EVER
+13	REALLY
+16	NOW
+
+COUNTS:	7
+
+
+###V9	Modal preceeding verb###
+
+5	WILL BE COOKIE
+
+COUNTS:	1
+
+
+###V10	Third person singular present tense suffix###
+
+4	WAS
+8	IS
+
+COUNTS:	2
+
+
+###V11	Past tense modal###
+
+
+COUNTS:	0
+
+
+###V12	Regular past tense suffix###
+
+4	NAMED
+7	NAMED
+8	NAMED
+9	LIVED
+
+COUNTS:	2
+
+
+###V13	Past tense auxiliary###
+
+4	WAS
+
+COUNTS:	1
+
+
+###V14	Medial adverb###
+
+2	RATHER
+11	ONCE
+
+COUNTS:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+4	 WAS
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+13	REALLY
+
+COUNTS:	1
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+1	I DO NOT WANNA TELL A STORY .
+3	I DO NOT HAVE ANY IN MY HEAD .
+13	NOT REALLY .
+
+COUNTS:	3
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+1	DO NOT WANNA TELL A STORY
+3	DO NOT HAVE ANY IN MY HEAD
+
+COUNTS:	2
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+1	DO NOT WANNA TELL A STORY
+3	DO NOT HAVE ANY IN MY HEAD
+
+COUNTS:	2
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	I DO NOT WANNA TELL A STORY
+2	I 'D RATHER LISTEN
+3	I DO NOT HAVE ANY IN MY HEAD
+4	ONCE UPON A TIME THERE WAS A DINOSAUR NAMED LOLLIPOP AND A DINOSAUR NAMED CANDYCANE AND A DINOSAUR NAMED COOKIE
+5	THIS ONE WILL BE COOKIE
+7	THIS ONE IS NAMED LOLLIPOP
+8	THIS ONE IS NAMED CANDYCANE
+9	AND THEY ALL LIVED IN THE POOL
+10	THE END
+11	SOMETIMES I LIKE TO SAY ONCE UPON A TIME
+13	NOT REALLY
+14	BUT I LIKE IT
+15	IT 'S HIDE AND GO SEEK
+16	NOW I MY CAT ISSAC
+18	BABY GREEN
+20	BABY GREEN
+
+COUNTS:	5
+
+
+###S2	Subject verb sequence###
+
+1	I DO NOT WANNA TELL 
+2	I 'D RATHER LISTEN
+3	I DO NOT HAVE 
+5	THIS ONE WILL BE 
+7	THIS ONE IS NAMED 
+8	THIS ONE IS NAMED 
+15	IT 'S HIDE AND GO 
+
+COUNTS:	5
+
+
+###S3	Verb object sequence###
+
+1	DO NOT WANNA TELL A STORY
+1	WANNA TELL A STORY
+3	DO NOT HAVE ANY IN MY HEAD
+3	HAVE ANY IN MY HEAD
+4	NAMED LOLLIPOP
+4	WAS A DINOSAUR NAMED LOLLIPOP AND A DINOSAUR NAMED CANDYCANE AND A DINOSAUR NAMED COOKIE
+5	BE COOKIE
+5	WILL BE COOKIE
+7	IS NAMED LOLLIPOP
+8	IS NAMED CANDYCANE
+9	LIVED IN THE POOL
+11	LIKE TO SAY ONCE UPON A TIME
+11	TO SAY ONCE UPON A TIME
+14	LIKE IT
+15	'S HIDE AND GO SEEK
+15	HIDE AND GO SEEK
+16	MY CAT ISSAC
+
+COUNTS:	1
+
+
+###S4	Subject Verb Object Sequence###
+
+1	I DO NOT WANNA TELL A STORY
+3	I DO NOT HAVE ANY IN MY HEAD
+5	THIS ONE WILL BE COOKIE
+7	THIS ONE IS NAMED LOLLIPOP
+8	THIS ONE IS NAMED CANDYCANE
+15	IT 'S HIDE AND GO SEEK
+
+COUNTS:	4
+
+
+###S5	Conjunction (any)###
+
+9	AND
+14	BUT
+
+COUNTS:	2
+
+
+###S6	Sentence with two VP's###
+
+4	ONCE UPON A TIME THERE WAS A DINOSAUR NAMED LOLLIPOP AND A DINOSAUR NAMED CANDYCANE AND A DINOSAUR NAMED COOKIE .
+11	SOMETIMES I LIKE TO SAY ONCE UPON A TIME .
+15	IT 'S HIDE AND GO SEEK .
+
+COUNTS:	1
+
+
+###S7	Conjoined phrases###
+
+15	HIDE AND GO
+
+COUNTS:	1
+
+
+###S8	Infinitive without catenative, marked with to###
+
+11	LIKE TO SAY ONCE UPON A TIME
+
+COUNTS:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+14	BUT
+
+COUNTS:	1
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+
+COUNTS:	0
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+4	ONCE UPON A TIME THERE WAS A DINOSAUR NAMED LOLLIPOP AND A DINOSAUR NAMED CANDYCANE AND A DINOSAUR NAMED COOKIE .
+15	IT 'S HIDE AND GO SEEK .
+
+COUNTS:	1
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+
+COUNTS:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-20
+NO OF UTTERANCES CONSIDERED: 20
+
+
+#########################
+NOUN COUNTS: 45
+VERB COUNTS: 48
+QUESTION COUNTS: 7
+SENTENCE COUNTS: 22
+TOTAL NO OF STRUCTURES COUNTS: 122
+##########################
+
+###Sentence Listing###
+
+1	I DO NOT WANNA TELL A STORY .
+2	I 'D RATHER LISTEN .
+3	I DO NOT HAVE ANY IN MY HEAD .
+4	ONCE UPON A TIME THERE WAS A DINOSAUR NAMED LOLLIPOP AND A DINOSAUR NAMED CANDYCANE AND A DINOSAUR NAMED COOKIE .
+5	THIS ONE WILL BE COOKIE .
+6	CANDYCANE .
+7	THIS ONE IS NAMED LOLLIPOP .
+8	THIS ONE IS NAMED CANDYCANE .
+9	AND THEY ALL LIVED IN THE POOL .
+10	THE END .
+11	SOMETIMES I LIKE TO SAY ONCE UPON A TIME .
+12	EVER .
+13	NOT REALLY .
+14	BUT I LIKE IT .
+15	IT 'S HIDE AND GO SEEK .
+16	NOW I MY CAT ISSAC .
+17	GREEN .
+18	BABY GREEN .
+19	YEAH .
+20	BABY GREEN .

@@ -1,0 +1,495 @@
+FILENAME:sr2-session6-p006-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	TIME
+2	CASTLE
+2	DAY
+4	CROCODILE
+5	QUEEN
+6	BUSH
+7	WANNA
+9	KING
+12	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+7	I
+10	THEY
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+2	ONE
+6	ANOTHER
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A KING
+1	A QUEEN
+1	A TIME
+2	A CROCODILE
+2	ONE DAY
+2	THE CASTLE
+3	THE QUEEN
+5	A BUSH
+6	ANOTHER BUSH
+6	THE KING
+7	THE CROCODILE
+12	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+1	A KING
+1	A QUEEN
+1	A TIME
+2	A CROCODILE
+2	THE CASTLE
+3	THE QUEEN
+5	A BUSH
+6	THE KING
+7	THE CROCODILE
+12	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+1	WAS A KING
+2	TO THE CASTLE
+3	SAID THE QUEEN
+4	FROM THE CROCODILE
+5	IN A BUSH
+6	IN ANOTHER BUSH
+7	SAID THE CROCODILE
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+
+SCORE:	0
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+2	A CROCODILE
+5	THE QUEEN
+6	THE KING
+
+SCORE:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+SCORE:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+7	JUST
+
+SCORE:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	WAS
+2	CAME
+4	RAN
+6	HID
+7	SAID
+8	COME
+10	PLAYED
+11	HAD
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+1	UPON
+2	TO
+4	FROM
+6	IN
+8	OUT
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+2	TO THE CASTLE
+4	FROM THE CROCODILE
+5	IN A BUSH
+6	IN ANOTHER BUSH
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+
+SCORE:	1
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+11	HAD
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+
+SCORE:	0
+
+
+###V8	Adverb###
+
+1	ONCE
+4	AWAY
+7	JUST
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+
+SCORE:	0
+
+
+###V10	Third person singular present tense suffix###
+
+1	WAS
+
+SCORE:	1
+
+
+###V11	Past tense modal###
+
+
+SCORE:	0
+
+
+###V12	Regular past tense suffix###
+
+10	PLAYED
+
+SCORE:	1
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+11	HAD
+
+SCORE:	2
+
+
+###V14	Medial adverb###
+
+4	AWAY
+7	JUST
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+
+SCORE:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+SCORE:	0
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+SCORE:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+SCORE:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+SCORE:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS A KING AND A QUEEN
+2	ONE DAY A CROCODILE CAME TO THE CASTLE
+3	HELLO SAID THE QUEEN
+4	SO THEY RAN AWAY FROM THE CROCODILE
+5	THE QUEEN HID IN A BUSH
+6	THE KING HID IN ANOTHER BUSH
+7	I JUST WANNA PLAY SAID THE CROCODILE
+8	COME OUT
+9	SO THE KING AND QUEEN CAME OUT
+10	AND THEY PLAYED
+11	AND THEY HAD PLAY TIME
+12	THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+2	ONE DAY A CROCODILE CAME 
+5	THE QUEEN HID 
+6	THE KING HID 
+7	I JUST WANNA PLAY
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	WAS A KING AND A QUEEN
+2	CAME TO THE CASTLE
+3	SAID THE QUEEN
+4	RAN AWAY FROM THE CROCODILE
+5	HID IN A BUSH
+6	HID IN ANOTHER BUSH
+11	HAD PLAY TIME
+11	PLAY TIME
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+2	ONE DAY A CROCODILE CAME TO THE CASTLE
+5	THE QUEEN HID IN A BUSH
+6	THE KING HID IN ANOTHER BUSH
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+11	AND
+
+SCORE:	1
+
+
+###S6	Sentence with two VP's###
+
+7	I JUST WANNA PLAY , SAID THE CROCODILE .
+
+SCORE:	1
+
+
+###S7	Conjoined phrases###
+
+
+SCORE:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+SCORE:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+SCORE:	0
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+
+SCORE:	0
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+SCORE:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+
+SCORE:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+
+SCORE:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-12
+NO OF UTTERANCES CONSIDERED: 12
+
+
+#########################
+NOUN SCORE: 15
+VERB SCORE: 20
+QUESTION SCORE: 0
+SENTENCE SCORE: 10
+IPSYN SCORE: 45
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS A KING AND A QUEEN .
+2	ONE DAY A CROCODILE CAME TO THE CASTLE .
+3	HELLO , SAID THE QUEEN .
+4	SO THEY RAN AWAY FROM THE CROCODILE .
+5	THE QUEEN HID IN A BUSH .
+6	THE KING HID IN ANOTHER BUSH .
+7	I JUST WANNA PLAY , SAID THE CROCODILE .
+8	COME OUT .
+9	SO THE KING AND QUEEN CAME OUT .
+10	AND THEY PLAYED .
+11	AND THEY HAD PLAY TIME .
+12	THE END .

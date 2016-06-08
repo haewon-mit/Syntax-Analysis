@@ -1,0 +1,209 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was)
+      (NP (NP (DT a) (NN baby) (NN penguin))
+       (CC and)
+       (NP (DT a) (JJ mommy) (NN penguin))))
+     (. .)))
+
+
+
+(S1 (S (NP (NP (CD One) (NN day)) (NP (PRP they)))
+     (VP (VBD went) (ADVP (RB outside)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT the) (JJ mommy) (NN penguin))
+     (VP (VBD said)
+      (, ,)
+      (S (VP (VB let)
+	  (S (NP (PRP 's))
+	   (VP (VP (VB build) (NP (DT a) (NN snowman)))
+	    (CC or)
+	    (VP (VB hide)
+	     (PP (IN in) (NP (DT the) (NN snow) (NNS mountains))))
+	    (CC and)
+	    (VP (VB seek)))))))
+     (. .)))
+
+
+
+(S1 (SINV (S (NP (VB Let) (POS 's))
+	   (VP (AUX do) (NP (DT that) (JJ first))))
+     (VP (VBD said))
+     (NP (NN mommy))
+     (. .)))
+
+
+
+(S1 (SINV (S (NP (PRP I))
+	   (VP (MD 'll)
+	    (VP (VB go)
+	     (S (VP (TO to)
+		 (VP (VB hide) (NP (PRP$ our) (NN snowman))))))))
+     (VP (VBD said))
+     (NP (DT the) (NN baby))
+     (. .)))
+
+
+
+(S1 (S (NP (QP (CD One) (CD two))
+	(NP (QP (CD three) (CD four)) (QP (CD five) (CD six)))
+	(QP (CD seven) (CD eight)))
+     (, ,)
+     (UCP (JJ ready) (CC or) (RB not) (ADVP (RB here)))
+     (NP (PRP I))
+     (VP (VBP come))
+     (. .)))
+
+
+
+(S1 (S (VP (VBD Found) (NP (PRP you))) (. .)))
+
+
+
+(S1 (S (ADVP (RB Now))
+     (VP (VB let)
+      (NP (PRP 's))
+      (VP (VB build) (NP (DT a) (NN snowman))))
+     (. .)))
+
+
+
+(S1 (S (NP (NNP Mommy))
+     (VP (VB build) (NP (DT a) (JJ big) (NN ball)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT the) (NN baby))
+     (VP (AUX did) (NP (CD two) (JJ little) (NNS balls)))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (PRP we))
+     (ADVP (RB just))
+     (VP (AUX need) (NP (DT a) (NN hat)))
+     (. .)))
+
+
+
+(S1 (SBARQ (RB Now)
+     (WHADVP (WRB where))
+     (SQ (AUX is)
+      (NP (DT a) (NN hat))
+      (, ,)
+      (VP (VBD said) (NP (NNP Mommy))))
+     (. .)))
+
+
+
+(S1 (INTJ (UH OK) (. .)))
+
+
+
+(S1 (S (NP (PRP She))
+     (VP (VBD took) (NP (PRP it)) (ADVP (RB off)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP It))
+     (VP (VBD fell)
+      (PP (IN on)
+       (NP (NP (NN top))
+	(PP (IN of) (NP (PRP he) (JJ snowman’s) (NN head))))))
+     (. .)))
+
+
+
+(S1 (S (NP (NNP Argh))
+     (VP (VBD argh)
+      (, ,)
+      (SQ (MD can)
+       (NP (PRP I))
+       (VP (VB play)
+	(VP (ADVP (RB too))
+	 (VBN said)
+	 (NP (DT a) (JJ little) (NN sea) (NN lion))))))
+     (. .)))
+
+
+
+(S1 (INTJ (UH Yeah) (JJ sure) (. .)))
+
+
+
+(S1 (FRAG (ADJP (JJ great)) (. .)))
+
+
+
+(S1 (S (CC So)
+     (NP (DT the) (NN sea) (NN lion))
+     (VP (VP (VBD went)) (CC and) (VP (VBD hid)))
+     (. .)))
+
+
+
+(S1 (SBARQ (INTJ (VB Hey))
+     (, ,)
+     (WHADVP (WRB where))
+     (SQ (AUX is) (NP (PRP she)))
+     (. ?)))
+
+
+
+(S1 (S (NP (PRP I)) (VP (AUX do) (RB not) (VP (VB know))) (. .)))
+
+
+
+(S1 (S (NP (PRP I))
+     (VP (AUX did)
+      (RB not)
+      (VP (VB see) (S (NP (PRP her)) (VP (VB hide)))))
+     (. .)))
+
+
+
+(S1 (FRAG (NP (NNP Hey))
+     (, ,)
+     (RB just)
+     (RB maybe)
+     (SBAR (S (NP (PRP she)) (VP (VB walk) (PRT (RP off)))))
+     (. .)))
+
+
+
+(S1 (FRAG (WRB Why) (. ?)))
+
+
+
+(S1 (S (IN Because)
+     (NP (DT that))
+     (VP (AUX 's) (NP (DT the) (NN sea) (NN lion)))
+     (. .)))
+
+
+
+(S1 (S (NP (NNP Argh)) (VP (VBD argh)) (. .)))
+
+
+
+(S1 (S (INTJ (UH Yeah))
+     (, ,)
+     (NP (PRP you))
+     (VP (VBD found) (NP (PRP him)))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

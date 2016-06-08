@@ -1,0 +1,85 @@
+@UTF8
+@Begin
+@Languages:	en
+@Participants:	INV Zoe Investigator, CHI Target_Child, HEL Helen Investigator
+@ID:	en|conti4|INV|||||Investigator||
+@ID:	en|conti4|CHI|14;8.11||||Target_Child||
+@ID:	en|conti4|HEL|||||Investigator||
+@Date:	27-NOV-2002
+@Coder:	Dee
+@Situation:	Participants in a quiet room at the child's home, using Frog
+	where are you? book for stimulus
+*INV:	www.
+%exp:	child and investigator talk briefly before narrative begins.
+*CHI:	yesterday this boy was sitting down with his dog looking at the
+	frog.
+*INV:	uh huh.
+*CHI:	yesterday um the boy went to bed with the dog.
+*CHI:	the frog came out an +...
+*CHI:	and then he woke up with the dog and frog was gone.
+*HEL:	0.
+%exp:	gasps.
+*CHI:	and then the dog put in the frog  um in the bowl.
+*CHI:	in  and the boy's getting dressed.
+*CHI:	the boy is shouting out the window with his dog with the bowl on
+	his head.
+*HEL:	0.
+%exp:	laughs.
+*INV:	and then what happened?
+*CHI:	and then the dog fall [*].
+%err:	fall = fell
+*CHI:	and then the bowl smashed.
+*CHI:	and the boy caught him.
+*HEL:	0.
+%exp:	gasps.
+*INV:	uh huh.
+*CHI:	the boy was shouting for the frog with the dog howling.
+*INV:	and then what happened?
+*CHI:	they disappear.
+*INV:	oh.
+*CHI:	the boy look [*] into the hole when the dog was ch 
+	looking at the bees' nest.
+%exp:	look = looked
+*CHI:	the boy covers his nose cause this animal sort of stink [*].
+%err:	stink = stinks
+*HEL:	0.
+%exp:	laughs.
+*CHI:	and the dog's trying to get the honey.
+*INV:	so then what happened yesterday?
+*CHI:	the um bees' nest fell down.
+*INV:	oh yes.
+*CHI:	and then the boy looked  climb [*] up a tree and then looked in
+	the hole.
+%exp:	climb = climbed
+*CHI:	and then this owl came and he fell over.
+*HEL:	0.
+%exp:	laughs.
+*CHI:	and then the dog started running.
+*CHI:	and then he was sheltering cause the owl was trying to get him.
+*CHI:	and then he climbed up some rocks.
+*CHI:	and then he shouted.
+*HEL:	he had a busy day yesterday!
+*CHI:	and he caught a  a deer on top of his head.
+*HEL:	0.
+%exp:	laughs.
+*CHI:	and then the deer was chasing the dog.
+*CHI:	and then the boy and dog fell over.
+*CHI:	and then they disappear [*].
+%err:	disappear = disappeared
+*CHI:	and then they fell into water and it looked like a lake.
+*CHI:	and then the dog climbed on the boy's hair.
+*CHI:	they found a log and the boy said +"/.
+*CHI:	+" shush.
+*CHI:	and then they climbed over the log.
+*CHI:	and then they find [*] the frog and an  another [*] frogs.
+%err:	find = found; another = other
+*CHI:	and then little babies came in.
+*HEL:	ahh!
+*CHI:	and then the boy got his frog and then waved goodbye.
+*CHI:	and the another [*] frogs were looking at it.
+%err:	another = other
+*INV:	www.
+%exp:	investigator talks as disc is turned off.
+*HEL:	www.
+%exp:	investigator talks as disc is turned off.
+@End

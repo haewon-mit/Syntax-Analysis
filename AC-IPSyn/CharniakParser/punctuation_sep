@@ -1,0 +1,37 @@
+#!/usr/bin/perl
+
+##This perl script separates the punctuation marks in the input file 
+##and prepares it for Brill's parser. 
+##
+##February 2nd.
+##
+
+while (<>) {
+     s/(\d+)\,(\s+)/$1 \,$2/g;
+     s/(\D)\,(\D)/$1 \,$2/g;
+         s/\:/ \:/g;
+         s/\:(\S+)/\: $1/g;
+         s/\;/ \;/g;
+         s/\;(\S+)/\; $1/g;
+         s/\!/ \!/g;
+         s/\?/ \?/g;
+         s/(\s+)\"/$1\" /g;
+         s/\"//g;
+         s/\(/\[ /g;
+         s/\)/ \]/g;
+         s/\'s/ \'s/g;
+         s/\'S / 'S /g;
+         s/\'(\s+)/ \'$1/g;
+         s/\.(\s*)\n/ \.$1\n/g;
+         s/\</ \</g;
+         s/\>/ \>/g;
+         s/\\/ \\/g;
+         s/\{/ \{/g;
+         s/\}/ \}/g;
+         s/\=/ \=/g;
+         s/\+/ \+/g;
+         s/^(\s+)//g;
+         s/(\S+)\.(\s*)\n/$1 \.\n/g;
+         print $_;
+}
+

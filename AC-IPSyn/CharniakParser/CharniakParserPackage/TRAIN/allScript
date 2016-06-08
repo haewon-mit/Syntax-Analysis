@@ -1,0 +1,92 @@
+
+path=$1
+tst=$2
+trn=$3
+
+make rCounts
+make selFeats
+make iScale
+make trainRs
+make pSgT
+make pTgNt
+make pUgT
+
+rm -f ${path}pSgT.txt 
+cat ${trn} | ${here}pSgT $path 
+rm -f ${path}pUgT.txt 
+cat ${trn} | ${here}pUgT $path 
+cat ${trn} | ${here}pTgNt $path 
+
+cat ${trn} | ${here}rCounts r $path 
+${here}selFeats r 50 $path 
+rm -f ${path}r.g
+${here}iScale r $path 
+cat ${tst} | ${here}trainRs r $path 
+rm -f ${path}r.ff 
+rm -f ${path}r.f
+
+cat ${trn} | ${here}rCounts m $path 
+${here}selFeats m 50 $path 
+rm -f ${path}m.g
+${here}iScale m $path 
+cat ${tst} | ${here}trainRs m $path 
+rm -f ${path}m.ff 
+rm -f ${path}m.f 
+
+cat ${trn} | ${here}rCounts l $path 
+${here}selFeats l 50 $path 
+rm -f ${path}l.g
+${here}iScale l $path 
+cat ${tst} | ${here}trainRs l $path 
+rm -f ${path}l.ff 
+rm -f ${path}l.f 
+
+cat ${trn} | ${here}rCounts u $path 
+${here}selFeats u 50 $path 
+rm -f ${path}u.g
+${here}iScale u $path 
+cat ${tst} | ${here}trainRs u $path 
+rm -f ${path}u.ff 
+rm -f ${path}u.f 
+
+cat ${trn} | ${here}rCounts h $path 
+${here}selFeats h 50 $path 
+rm -f ${path}h.g
+${here}iScale h $path 
+cat ${tst} | ${here}trainRs h $path 
+rm -f ${path}h.ff 
+rm -f ${path}h.f 
+
+cat ${trn} | ${here}rCounts lm $path 
+${here}selFeats lm 50 $path 
+rm -f ${path}lm.g
+${here}iScale lm $path 
+cat ${tst} | ${here}trainRs lm $path 
+rm -f ${path}lm.ff 
+rm -f ${path}lm.f 
+
+cat ${trn} | ${here}rCounts ru $path 
+${here}selFeats ru 98 $path 
+rm -f ${path}ru.g
+${here}iScale ru $path 
+cat ${tst} | ${here}trainRs ru $path 
+rm -f ${path}ru.ff 
+rm -f ${path}ru.f 
+
+cat ${trn} | ${here}rCounts rm $path 
+${here}selFeats rm 50 $path 
+rm -f ${path}rm.g
+${here}iScale rm $path 
+cat ${tst} | ${here}trainRs rm $path 
+rm -f ${path}rm.ff 
+rm -f ${path}rm.f 
+
+cat ${trn} | ${here}rCounts tt $path 
+${here}selFeats tt 100 $path 
+rm -f ${path}tt.g
+${here}iScale tt $path 
+cat ${tst} | ${here}trainRs tt $path 
+rm -f ${path}tt.ff 
+rm -f ${path}tt.f 
+
+

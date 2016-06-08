@@ -1,0 +1,72 @@
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (NP (DT a) (NN king)) (CC and) (NP (DT a) (NN queen)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NP (CD One) (NN day)) (NP (DT a) (NN crocodile))) (VP (VBD came) (PP (TO to) (NP (DT the) (NN castle)))) (. .)))
+
+
+
+
+
+(S1 (S (INTJ (UH Hello)) (, ,) (VP (VBD said) (NP (DT the) (NN queen))) (. .)))
+
+
+
+
+
+(S1 (S (IN So) (NP (PRP they)) (VP (VBD ran) (ADVP (RB away) (PP (IN from) (NP (DT the) (NN crocodile))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT The) (NN queen)) (VP (VBD hid) (PP (IN in) (NP (DT a) (NNP bush)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT The) (NN king)) (VP (VBD hid) (PP (IN in) (NP (DT another) (NNP bush)))) (. .)))
+
+
+
+
+
+(S1 (SINV (S (NP (NP (PRP I)) (ADVP (RB just) (NP (NNP wanna)))) (VP (VBP play))) (, ,) (VP (VBD said)) (NP (DT the) (NN crocodile)) (. .)))
+
+
+
+
+
+(S1 (S (VP (VB Come) (PRT (RP out))) (. .)))
+
+
+
+
+
+(S1 (S (IN So) (NP (DT the) (NN king) (CC and) (NN queen)) (VP (VBD came) (PRT (RP out))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP they)) (VP (VBD played)) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP they)) (VP (AUX had) (VP (VB play) (NP (NN time)))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

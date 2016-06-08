@@ -1,0 +1,34 @@
+
+(S1 (S (NP (PRP I))
+     (ADVP (NNP wanna))
+     (VP (VBP tell)
+      (NP (NP (DT a) (NN story)) (PP (IN about) (NP (NN nothing)))))
+     (. .)))
+
+
+
+(S1 (SQ (MD Can) (NP (PRP you)) (VP (AUX do) (NP (DT that))) (. ?)))
+
+
+
+(S1 (S (NP (PRP I))
+     (VP (AUX 've)
+      (ADVP (RB never))
+      (VP (VBN heard) (NP (PRP her)) (VP (AUX do) (NP (DT that)))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP She))
+     (VP (VBZ sounds) (PP (IN like) (NP (DT a) (NNP dragon))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP I))
+     (ADVP (NNP wanna))
+     (VP (VBP tell)
+      (NP (NP (DT a) (NN story)) (PP (IN about) (NP (NN nothing)))))
+     (. !)))
+
+

@@ -1,0 +1,552 @@
+FILENAME:sr2-session3-p006-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	GIRL
+1	SOFA
+1	TIME
+2	CAT
+2	CHAIR
+3	DOG
+4	CORNER
+5	DAY
+7	BOX
+8	BALL
+9	OOH
+10	DADDY
+10	MOMMY
+12	END
+
+COUNTS:	14
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+7	SHE
+10	I
+
+COUNTS:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	LITTLE
+5	ONE
+10	ANGRY
+
+COUNTS:	3
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A TIME
+1	LITTLE GIRL
+1	THE SOFA
+2	THE CAT
+2	THE CHAIR
+3	THE DOG
+4	THE CORNER
+5	ONE DAY
+6	A BOX
+7	THE BOX
+8	A BALL
+11	THE BALL
+12	THE END
+
+COUNTS:	13
+
+
+###N5	Article used before a noun###
+
+1	A TIME
+1	THE SOFA
+2	THE CAT
+2	THE CHAIR
+3	THE DOG
+4	THE CORNER
+6	A BOX
+7	THE BOX
+8	A BALL
+11	THE BALL
+12	THE END
+
+COUNTS:	11
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	ON THE SOFA
+1	UPON A TIME
+2	ON THE CHAIR
+3	NEAR A BALL
+4	IN THE CORNER
+5	BORED ONE DAY
+6	OPEN A BOX
+7	OPENED THE BOX
+8	WAS A BALL
+11	INTO THE BOX
+11	PUT THE BALL
+
+COUNTS:	8
+
+
+###N7	Plural suffix###
+
+
+COUNTS:	0
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+1	LITTLE GIRL
+2	THE CAT
+3	THE DOG
+
+COUNTS:	3
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+1	A LITTLE GIRL
+
+COUNTS:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+11	SO
+
+COUNTS:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	SITING
+4	BOXS
+4	HAD
+5	AM
+5	BORED
+5	SAID
+6	DECIDED
+6	OPEN
+8	WAS
+10	DO
+10	GET
+10	HOPE
+11	PUT
+
+COUNTS:	13
+
+
+###V2	Particle or preposition###
+
+1	UPON
+2	ON
+3	NEAR
+4	IN
+11	INTO
+
+COUNTS:	5
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	ON THE SOFA
+1	UPON A TIME
+2	ON THE CHAIR
+3	NEAR A BALL
+4	IN THE CORNER
+11	INTO THE BOX
+
+COUNTS:	5
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+2	 WAS
+3	 WAS
+5	 AM
+8	 WAS
+
+COUNTS:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+2	WAS
+3	WAS
+4	HAD
+5	AM
+8	WAS
+10	DO
+
+COUNTS:	4
+
+
+###V7	Progressive Suffix###
+
+1	SITING
+2	SITING
+
+COUNTS:	1
+
+
+###V8	Adverb###
+
+1	ONCE
+10	NOT
+11	SO
+
+COUNTS:	3
+
+
+###V9	Modal preceeding verb###
+
+
+COUNTS:	0
+
+
+###V10	Third person singular present tense suffix###
+
+3	WAS
+
+COUNTS:	1
+
+
+###V11	Past tense modal###
+
+
+COUNTS:	0
+
+
+###V12	Regular past tense suffix###
+
+5	BORED
+6	DECIDED
+7	OPENED
+
+COUNTS:	3
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+2	WAS
+3	WAS
+4	HAD
+8	WAS
+
+COUNTS:	2
+
+
+###V14	Medial adverb###
+
+
+COUNTS:	0
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+2	 WAS
+3	 WAS
+8	 WAS
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+10	OH , I HOPE MOMMY AND DADDY DO NOT GET ANGRY .
+
+COUNTS:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+10	DO NOT GET ANGRY
+
+COUNTS:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME A LITTLE GIRL WAS SITING ON THE SOFA
+2	THE CAT WAS SITING ON THE CHAIR
+3	AND THE DOG WAS NEAR A BALL
+4	SHE HAD BOXS IN THE CORNER
+5	SHE SAID I AM BORED ONE DAY
+6	I DECIDED TO OPEN A BOX
+7	SO SHE OPENED THE BOX
+8	AND THERE WAS A BALL
+9	OOH A BALL
+10	OH I HOPE MOMMY AND DADDY DO NOT GET ANGRY
+11	SO SHE PUT THE BALL INTO THE BOX
+12	THE END
+
+COUNTS:	6
+
+
+###S2	Subject verb sequence###
+
+2	THE CAT WAS SITING 
+4	SHE HAD BOXS 
+5	I AM BORED 
+5	SHE SAID , 
+6	I DECIDED TO OPEN 
+10	MOMMY AND DADDY DO NOT GET 
+
+COUNTS:	4
+
+
+###S3	Verb object sequence###
+
+1	SITING ON THE SOFA
+1	WAS SITING ON THE SOFA
+2	SITING ON THE CHAIR
+2	WAS SITING ON THE CHAIR
+3	WAS NEAR A BALL
+4	BOXS IN THE CORNER
+4	HAD BOXS IN THE CORNER
+5	AM BORED ONE DAY
+5	SAID , I AM BORED ONE DAY
+6	DECIDED TO OPEN A BOX
+6	TO OPEN A BOX
+7	OPENED THE BOX
+8	WAS A BALL
+10	DO NOT GET ANGRY
+10	HOPE MOMMY AND DADDY DO NOT GET ANGRY
+11	PUT THE BALL INTO THE BOX
+
+COUNTS:	9
+
+
+###S4	Subject Verb Object Sequence###
+
+2	THE CAT WAS SITING ON THE CHAIR
+4	SHE HAD BOXS IN THE CORNER
+5	I AM BORED ONE DAY
+5	SHE SAID , I AM BORED ONE DAY
+6	I DECIDED TO OPEN A BOX
+
+COUNTS:	4
+
+
+###S5	Conjunction (any)###
+
+3	AND
+
+COUNTS:	1
+
+
+###S6	Sentence with two VP's###
+
+5	SHE SAID , I AM BORED ONE DAY .
+6	I DECIDED TO OPEN A BOX .
+10	OH , I HOPE MOMMY AND DADDY DO NOT GET ANGRY .
+
+COUNTS:	2
+
+
+###S7	Conjoined phrases###
+
+10	MOMMY AND DADDY
+
+COUNTS:	1
+
+
+###S8	Infinitive without catenative, marked with to###
+
+6	DECIDED TO OPEN A BOX
+
+COUNTS:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+COUNTS:	0
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+
+COUNTS:	0
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+5	SHE SAID , I AM BORED ONE DAY .
+10	OH , I HOPE MOMMY AND DADDY DO NOT GET ANGRY .
+
+COUNTS:	2
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+1	ONCE UPON A TIME A LITTLE GIRL WAS SITING ON THE SOFA .
+2	THE CAT WAS SITING ON THE CHAIR .
+
+COUNTS:	2
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-12
+NO OF UTTERANCES CONSIDERED: 12
+
+
+#########################
+NOUN COUNTS: 56
+VERB COUNTS: 40
+QUESTION COUNTS: 2
+SENTENCE COUNTS: 32
+TOTAL NO OF STRUCTURES COUNTS: 130
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME A LITTLE GIRL WAS SITING ON THE SOFA .
+2	THE CAT WAS SITING ON THE CHAIR .
+3	AND THE DOG WAS NEAR A BALL .
+4	SHE HAD BOXS IN THE CORNER .
+5	SHE SAID , I AM BORED ONE DAY .
+6	I DECIDED TO OPEN A BOX .
+7	SO SHE OPENED THE BOX .
+8	AND THERE WAS A BALL .
+9	OOH , A BALL .
+10	OH , I HOPE MOMMY AND DADDY DO NOT GET ANGRY .
+11	SO SHE PUT THE BALL INTO THE BOX .
+12	THE END .

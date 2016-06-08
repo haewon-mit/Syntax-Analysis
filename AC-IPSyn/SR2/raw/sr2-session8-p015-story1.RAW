@@ -1,0 +1,446 @@
+FILENAME:sr2-session8-p015-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	JACK
+1	JOE
+1	PENGUINS
+1	TIME
+2	ICE
+4	ICEBERG
+5	HAT
+5	ONE
+7	END
+
+COUNTS:	9
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+2	THEY
+
+COUNTS:	1
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	TWO
+4	ALL
+5	BIG
+
+COUNTS:	3
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A TIME
+1	TWO PENGUINS
+4	THE ICEBERG
+5	BIG ONE
+5	THE HAT
+7	THE END
+
+COUNTS:	6
+
+
+###N5	Article used before a noun###
+
+1	A TIME
+4	THE ICEBERG
+5	THE HAT
+7	THE END
+
+COUNTS:	4
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+1	WAS TWO PENGUINS
+5	ON THE HAT
+
+COUNTS:	3
+
+
+###N7	Plural suffix###
+
+1	PENGUINS
+
+COUNTS:	1
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+
+COUNTS:	0
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+COUNTS:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+4	DOWN
+
+COUNTS:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	WAS
+2	HAVE
+4	SLID
+4	WENT
+
+COUNTS:	4
+
+
+###V2	Particle or preposition###
+
+1	UPON
+4	DOWN
+5	ON
+
+COUNTS:	3
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+5	ON THE HAT
+
+COUNTS:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+
+COUNTS:	1
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+2	HAVE
+
+COUNTS:	2
+
+
+###V7	Progressive Suffix###
+
+
+COUNTS:	0
+
+
+###V8	Adverb###
+
+1	ONCE
+2	ALSO
+4	DOWN
+
+COUNTS:	3
+
+
+###V9	Modal preceeding verb###
+
+
+COUNTS:	0
+
+
+###V10	Third person singular present tense suffix###
+
+1	WAS
+
+COUNTS:	1
+
+
+###V11	Past tense modal###
+
+
+COUNTS:	0
+
+
+###V12	Regular past tense suffix###
+
+
+COUNTS:	0
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+
+COUNTS:	1
+
+
+###V14	Medial adverb###
+
+2	ALSO
+4	DOWN
+
+COUNTS:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+COUNTS:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS TWO PENGUINS JOE AND JACK
+2	AND THEY ALSO HAVE ICE
+4	THEY ALL WENT DOWN THE ICEBERG SLID DOWN
+5	AND BIG ONE ON THE HAT
+6	OH NO
+7	THE END
+
+COUNTS:	3
+
+
+###S2	Subject verb sequence###
+
+4	THEY ALL WENT DOWN 
+
+COUNTS:	1
+
+
+###S3	Verb object sequence###
+
+1	WAS TWO PENGUINS JOE AND JACK
+2	HAVE ICE
+4	WENT DOWN THE ICEBERG
+4	WENT DOWN THE ICEBERG , SLID DOWN
+
+COUNTS:	3
+
+
+###S4	Subject Verb Object Sequence###
+
+4	THEY ALL WENT DOWN THE ICEBERG , SLID DOWN
+
+COUNTS:	1
+
+
+###S5	Conjunction (any)###
+
+3	AND
+
+COUNTS:	1
+
+
+###S6	Sentence with two VP's###
+
+4	THEY ALL WENT DOWN THE ICEBERG , SLID DOWN .
+
+COUNTS:	1
+
+
+###S7	Conjoined phrases###
+
+1	JOE AND JACK
+
+COUNTS:	1
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+COUNTS:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+COUNTS:	0
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+
+COUNTS:	0
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+COUNTS:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+
+COUNTS:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-7
+NO OF UTTERANCES CONSIDERED: 7
+
+
+#########################
+NOUN COUNTS: 28
+VERB COUNTS: 20
+QUESTION COUNTS: 0
+SENTENCE COUNTS: 11
+TOTAL NO OF STRUCTURES COUNTS: 59
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS TWO PENGUINS JOE AND JACK .
+2	AND THEY ALSO HAVE ICE .
+3	AND .
+4	THEY ALL WENT DOWN THE ICEBERG , SLID DOWN .
+5	AND BIG ONE ON THE HAT .
+6	OH NO .
+7	THE END .

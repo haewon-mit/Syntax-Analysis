@@ -1,0 +1,526 @@
+FILENAME:sr2-session5-p001-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	ANIMALS
+2	COOKIE
+2	DOUGH
+2	MAMA
+3	DAD
+5	DAUGHTER
+7	MOM
+8	SHIP
+14	MOMMY
+14	TOMORROW
+15	ALIENS
+15	STORY
+
+COUNTS:	12
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+4	HE
+6	SHE
+7	WHAT
+7	YOU
+8	THEY
+9	IT
+
+COUNTS:	6
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	THREE
+12	FIRST
+15	THAT
+
+COUNTS:	3
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	THREE ANIMALS
+2	A MAMA
+3	THE DAD
+5	THE DAUGHTER
+8	A SHIP
+15	THE STORY
+15	THREE ALIENS
+
+COUNTS:	7
+
+
+###N5	Article used before a noun###
+
+2	A MAMA
+3	THE DAD
+5	THE DAUGHTER
+8	A SHIP
+15	THE STORY
+
+COUNTS:	5
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	WAS THREE ANIMALS
+8	SAW A SHIP
+15	OF THREE ALIENS
+15	WAS THE STORY
+
+COUNTS:	4
+
+
+###N7	Plural suffix###
+
+1	ANIMALS
+15	ALIENS
+
+COUNTS:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+3	THE DAD
+
+COUNTS:	1
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+COUNTS:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+4	SO
+5	JUST
+8	THEN
+
+COUNTS:	3
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+2	MAKE
+2	WENT
+3	GO
+3	HAD
+3	WORK
+4	TOOK
+5	IS
+6	WALKED
+7	ARE
+8	SAW
+9	NOTICED
+9	SINKING
+15	WAS
+
+COUNTS:	13
+
+
+###V2	Particle or preposition###
+
+3	TO
+4	OFF
+15	OF
+
+COUNTS:	3
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+3	TO WORK
+15	OF THREE ALIENS
+
+COUNTS:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+5	 IS
+5	 WAS
+7	 ARE
+9	 WAS
+15	 WAS
+
+COUNTS:	3
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+3	HAD
+5	IS
+5	WAS
+7	ARE
+9	WAS
+15	WAS
+
+COUNTS:	4
+
+
+###V7	Progressive Suffix###
+
+7	MAKING
+9	SINKING
+
+COUNTS:	2
+
+
+###V8	Adverb###
+
+1	ONCE
+4	SO
+5	ALL
+5	JUST
+6	INSIDE
+8	THEN
+
+COUNTS:	6
+
+
+###V9	Modal preceeding verb###
+
+
+COUNTS:	0
+
+
+###V10	Third person singular present tense suffix###
+
+5	IS
+15	WAS
+
+COUNTS:	2
+
+
+###V11	Past tense modal###
+
+
+COUNTS:	0
+
+
+###V12	Regular past tense suffix###
+
+6	WALKED
+9	NOTICED
+
+COUNTS:	2
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+3	HAD
+5	WAS
+9	WAS
+15	WAS
+
+COUNTS:	2
+
+
+###V14	Medial adverb###
+
+2	INSIDE
+5	ALL
+5	JUST
+8	THEN
+
+COUNTS:	4
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+5	 WAS
+9	 WAS
+15	 WAS
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+7	MOM , WHAT ARE YOU MAKING ?
+
+COUNTS:	1
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+COUNTS:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+7	MOM , WHAT ARE YOU MAKING ?
+
+COUNTS:	1
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONCE THERE WAS THREE ANIMALS
+2	AND A MAMA ANIMAL WENT INSIDE TO MAKE COOKIE DOUGH
+3	AND THE DAD HAD TO GO TO WORK
+4	SO HE TOOK OFF
+5	AND ALL THERE WAS IS JUST THE DAUGHTER
+6	SHE WALKED INSIDE
+7	MOM WHAT ARE YOU MAKING
+8	AND THEN THEY SAW A SHIP
+9	AND THEY NOTICED THAT IT WAS SINKING
+11	AND THEY
+14	MOMMY THERE TOMORROW
+15	AND THAT WAS THE STORY OF THREE ALIENS
+
+COUNTS:	5
+
+
+###S2	Subject verb sequence###
+
+6	SHE WALKED INSIDE
+9	IT WAS SINKING
+
+COUNTS:	2
+
+
+###S3	Verb object sequence###
+
+1	WAS THREE ANIMALS
+2	TO MAKE COOKIE DOUGH
+2	WENT INSIDE TO MAKE COOKIE DOUGH
+3	HAD TO GO TO WORK
+3	TO GO TO WORK
+5	IS JUST THE DAUGHTER
+5	WAS IS JUST THE DAUGHTER
+8	SAW A SHIP
+9	NOTICED THAT IT WAS SINKING
+15	WAS THE STORY OF THREE ALIENS
+
+COUNTS:	8
+
+
+###S4	Subject Verb Object Sequence###
+
+
+COUNTS:	0
+
+
+###S5	Conjunction (any)###
+
+3	AND
+9	THAT
+
+COUNTS:	2
+
+
+###S6	Sentence with two VP's###
+
+2	AND A MAMA ANIMAL WENT INSIDE TO MAKE COOKIE DOUGH .
+3	AND THE DAD HAD TO GO TO WORK .
+
+COUNTS:	2
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+2	WENT INSIDE TO MAKE COOKIE DOUGH
+3	HAD TO GO TO WORK
+
+COUNTS:	2
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+9	THAT
+
+COUNTS:	1
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+
+COUNTS:	0
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+3	AND THE DAD HAD TO GO TO WORK .
+
+COUNTS:	1
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+7	MOM , WHAT ARE YOU MAKING ?
+9	AND THEY NOTICED THAT IT WAS SINKING .
+
+COUNTS:	2
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-15
+NO OF UTTERANCES CONSIDERED: 15
+
+
+#########################
+NOUN COUNTS: 43
+VERB COUNTS: 44
+QUESTION COUNTS: 2
+SENTENCE COUNTS: 25
+TOTAL NO OF STRUCTURES COUNTS: 114
+##########################
+
+###Sentence Listing###
+
+1	ONCE THERE WAS THREE ANIMALS .
+2	AND A MAMA ANIMAL WENT INSIDE TO MAKE COOKIE DOUGH .
+3	AND THE DAD HAD TO GO TO WORK .
+4	SO HE TOOK OFF .
+5	AND ALL THERE WAS IS JUST THE DAUGHTER .
+6	SHE WALKED INSIDE .
+7	MOM , WHAT ARE YOU MAKING ?
+8	AND THEN THEY SAW A SHIP .
+9	AND THEY NOTICED THAT IT WAS SINKING .
+10	AND .
+11	AND THEY .
+12	FIRST .
+13	AW .
+14	MOMMY , THERE TOMORROW ?
+15	AND THAT WAS THE STORY OF THREE ALIENS .

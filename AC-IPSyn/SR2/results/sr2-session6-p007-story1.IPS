@@ -1,0 +1,575 @@
+FILENAME:sr2-session6-p007-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	PRINCESS
+1	TIME
+3	TIANA
+4	PATH
+5	WAY
+6	CASTLE
+9	SIGHT
+12	CROCODILE
+12	PRINCE
+13	RIVER
+14	SIDE
+15	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+5	HE
+6	IT
+7	ME
+10	HIM
+12	SHE
+12	WHERE
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	LITTLE
+2	HER
+5	WRONG
+7	MY
+9	HIS
+14	OTHER
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A TIME
+1	LITTLE PRINCESS
+2	HER PRINCE
+2	HIS CASTLE
+5	WRONG WAY
+7	MY CASTLE
+8	THE RIVER
+9	THE PRINCE
+12	MY PRINCE
+13	THE CROCODILE
+14	OTHER SIDE
+15	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+1	A TIME
+8	THE RIVER
+9	THE PRINCE
+12	THE CROCODILE
+15	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+2	IN HIS CASTLE
+9	TO HIS CASTLE
+12	'S MY PRINCE
+13	INTO THE RIVER
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+
+SCORE:	0
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+1	LITTLE PRINCESS
+2	HER PRINCE
+4	THE PRINCE
+12	THE CROCODILE
+
+SCORE:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+1	A LITTLE PRINCESS
+5	THE WRONG WAY
+14	THE OTHER SIDE
+
+SCORE:	2
+
+
+###N10	Adverb modifying adjective or nominal###
+
+5	SO
+13	THEN
+
+SCORE:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	NAMED
+1	WAS
+2	LIVED
+4	DID
+4	KNOW
+4	TOOK
+6	CAME
+6	GUARDED
+6	HAD
+6	LOOK
+7	GIVE
+9	JUMPED
+12	'S
+12	SAID
+12	SAW
+13	DOVE
+14	MOVED
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+1	UPON
+2	IN
+8	INTO
+9	OF
+9	OUT
+14	TO
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+2	IN HIS CASTLE
+6	TO HIS CASTLE TO LOOK AND THE CROCODILE
+8	INTO THE RIVER
+9	OF SIGHT
+9	TO HIS CASTLE
+11	TO CASTLE
+13	INTO THE RIVER
+14	TO THE OTHER SIDE
+
+SCORE:	1
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+12	 'S
+
+SCORE:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+4	DID
+6	HAD
+12	'S
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+12	GUARDING
+
+SCORE:	1
+
+
+###V8	Adverb###
+
+1	ONCE
+3	AWAY
+4	NOT
+5	SO
+9	BACK
+9	HURRIEDLY
+9	IN
+9	THEN
+12	WHEN
+12	WHERE
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+
+SCORE:	0
+
+
+###V10	Third person singular present tense suffix###
+
+1	WAS
+
+SCORE:	1
+
+
+###V11	Past tense modal###
+
+
+SCORE:	0
+
+
+###V12	Regular past tense suffix###
+
+1	NAMED
+2	LIVED
+6	GUARDED
+9	JUMPED
+10	GUARDED
+11	MOVED
+14	MOVED
+
+SCORE:	2
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+4	DID
+6	HAD
+
+SCORE:	2
+
+
+###V14	Medial adverb###
+
+9	BACK
+9	HURRIEDLY
+9	IN
+9	THEN
+12	WHEN
+12	WHERE
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+
+SCORE:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+9	HURRIEDLY
+
+SCORE:	1
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+4	THE PRINCE DID NOT KNOW WHICH PATH SHE TOOK .
+
+SCORE:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+4	DID NOT KNOW WHICH PATH SHE TOOK
+
+SCORE:	1
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+12	AND WHEN SHE SAW THE CROCODILE GUARDING SHE SAID , WHERE 'S MY PRINCE ?
+
+SCORE:	1
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+4	DID NOT KNOW WHICH PATH SHE TOOK
+
+SCORE:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS A LITTLE PRINCESS NAMED TIANA
+2	AND HER PRINCE LIVED IN HIS CASTLE
+3	WHEN TIANA AWAY
+4	THE PRINCE DID NOT KNOW WHICH PATH SHE TOOK
+5	SO HE TOOK THE WRONG WAY
+6	AND THEN WHEN HE CAME BACK TO HIS CASTLE TO LOOK AND THE CROCODILE HAD GUARDED IT
+7	GIVE ME BACK MY CASTLE
+8	AND HE DOVE INTO THE RIVER
+9	AND THEN THE PRINCE HURRIEDLY JUMPED BACK IN OUT OF SIGHT TO HIS CASTLE
+10	THEN THE CROCODILE GUARDED HIM
+11	THEN TIANA MOVED BACK TO CASTLE
+12	AND WHEN SHE SAW THE CROCODILE GUARDING SHE SAID WHERE 'S MY PRINCE
+13	AND THEN THE CROCODILE DOVE INTO THE RIVER
+14	TIANA MOVED TO THE OTHER SIDE
+15	THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+4	SHE TOOK
+4	THE PRINCE DID NOT KNOW 
+6	HE CAME BACK 
+6	THE CROCODILE HAD GUARDED 
+12	SHE SAID
+12	SHE SAW 
+12	THE CROCODILE GUARDING 
+14	TIANA MOVED 
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	WAS A LITTLE PRINCESS NAMED TIANA
+2	LIVED IN HIS CASTLE
+4	DID NOT KNOW WHICH PATH SHE TOOK
+5	TOOK THE WRONG WAY
+6	CAME BACK TO HIS CASTLE TO LOOK AND THE CROCODILE HAD GUARDED IT
+6	GUARDED IT
+6	HAD GUARDED IT
+6	TO LOOK AND THE CROCODILE HAD GUARDED IT
+7	GIVE ME BACK MY CASTLE
+8	DOVE INTO THE RIVER
+9	JUMPED BACK IN OUT OF SIGHT TO HIS CASTLE
+10	GUARDED HIM
+11	MOVED BACK TO CASTLE
+12	SAW THE CROCODILE GUARDING SHE SAID
+13	DOVE INTO THE RIVER
+14	MOVED TO THE OTHER SIDE
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+4	THE PRINCE DID NOT KNOW WHICH PATH SHE TOOK
+6	HE CAME BACK TO HIS CASTLE TO LOOK AND THE CROCODILE HAD GUARDED IT
+6	THE CROCODILE HAD GUARDED IT
+12	SHE SAW THE CROCODILE GUARDING SHE SAID
+12	THE CROCODILE GUARDING SHE SAID
+14	TIANA MOVED TO THE OTHER SIDE
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+9	AND
+
+SCORE:	1
+
+
+###S6	Sentence with two VP's###
+
+4	THE PRINCE DID NOT KNOW WHICH PATH SHE TOOK .
+6	AND THEN , WHEN HE CAME BACK TO HIS CASTLE TO LOOK AND THE CROCODILE HAD GUARDED IT .
+12	AND WHEN SHE SAW THE CROCODILE GUARDING SHE SAID , WHERE 'S MY PRINCE ?
+
+SCORE:	2
+
+
+###S7	Conjoined phrases###
+
+
+SCORE:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+6	CAME BACK TO HIS CASTLE TO LOOK AND THE CROCODILE HAD GUARDED IT
+
+SCORE:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+SCORE:	0
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+4	THE PRINCE DID NOT KNOW WHICH PATH SHE TOOK .
+6	AND THEN , WHEN HE CAME BACK TO HIS CASTLE TO LOOK AND THE CROCODILE HAD GUARDED IT .
+12	AND WHEN SHE SAW THE CROCODILE GUARDING SHE SAID , WHERE 'S MY PRINCE ?
+
+SCORE:	2
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+4	THE PRINCE DID NOT KNOW WHICH PATH SHE TOOK .
+6	AND THEN , WHEN HE CAME BACK TO HIS CASTLE TO LOOK AND THE CROCODILE HAD GUARDED IT .
+12	AND WHEN SHE SAW THE CROCODILE GUARDING SHE SAID , WHERE 'S MY PRINCE ?
+
+SCORE:	2
+
+
+###S16	Relative clause marked or unmarked###
+
+
+SCORE:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+12	AND WHEN SHE SAW THE CROCODILE GUARDING SHE SAID , WHERE 'S MY PRINCE ?
+
+SCORE:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-15
+NO OF UTTERANCES CONSIDERED: 15
+
+
+#########################
+NOUN SCORE: 18
+VERB SCORE: 23
+QUESTION SCORE: 4
+SENTENCE SCORE: 17
+IPSYN SCORE: 62
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS A LITTLE PRINCESS NAMED TIANA .
+2	AND HER PRINCE LIVED IN HIS CASTLE .
+3	WHEN TIANA AWAY .
+4	THE PRINCE DID NOT KNOW WHICH PATH SHE TOOK .
+5	SO HE TOOK THE WRONG WAY .
+6	AND THEN , WHEN HE CAME BACK TO HIS CASTLE TO LOOK AND THE CROCODILE HAD GUARDED IT .
+7	GIVE ME BACK MY CASTLE .
+8	AND HE DOVE INTO THE RIVER .
+9	AND THEN THE PRINCE HURRIEDLY JUMPED BACK IN OUT OF SIGHT TO HIS CASTLE .
+10	THEN THE CROCODILE GUARDED HIM .
+11	THEN TIANA MOVED BACK TO CASTLE .
+12	AND WHEN SHE SAW THE CROCODILE GUARDING SHE SAID , WHERE 'S MY PRINCE ?
+13	AND THEN THE CROCODILE DOVE INTO THE RIVER .
+14	TIANA MOVED TO THE OTHER SIDE .
+15	THE END .

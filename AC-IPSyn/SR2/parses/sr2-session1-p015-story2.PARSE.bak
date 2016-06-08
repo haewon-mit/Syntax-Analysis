@@ -1,0 +1,230 @@
+
+(S1 (S (NP (PRP I))
+     (VP (AUX 'm)
+      (VP (VBD stuck)
+       (PP (IN on) (NP (DT the) (CD two) (NNS girls)))
+       (SBAR (IN that)
+	(S (NP (PRP they)) (VP (VBD used) (PP (IN for)))))))
+     (. .)))
+
+
+
+(S1 (NP (NNP Micah) (CC and) (NNP Julia) (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (AUX were)
+      (VP (VBN supposed)
+       (S (VP (TO to)
+	   (VP (VB swing) (PP (IN on) (NP (DT the) (NNS swings))))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (AUX did)
+      (NP (NP (IN that) (DT every) (NN time))
+       (SBAR (S (NP (PRP they))
+	      (VP (AUX were)
+	       (PP (IN out) (PP (IN of) (NP (NN school)))))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (VBD loved) (S (VP (TO to) (VP (VB eat)))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then))
+     (NP (PRP they))
+     (VP (AUX were) (PP (IN on) (NP (DT the) (NNS swings))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB soon))
+     (NP (PRP they))
+     (VP (AUX were) (ADJP (JJ tired)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (VBD wanted)
+      (S (VP (TO to)
+	  (VP (VB get) (PP (IN off) (PP (IN of) (NP (PRP them))))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (VBD wanted) (S (VP (TO to) (VP (VB go) (PRT (RP down))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then))
+     (NP (NP (PRP$ their) (NN friend)) (NP (NNP Mike)))
+     (VP (VBD came) (PRT (RP over)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They)) (VP (AUX had) (ADVP (RB just))) (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (VBD went) (ADVP (RB back)) (ADVP (RB home)))
+     (. .)))
+
+
+
+(S1 (S (NP (JJ Toot) (JJ toot) (NN toot))
+     (VP (VBD toot) (NP (JJ toot) (NN toot)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (VBP bring) (NP (PRP$ their) (NNS balls)))
+     (. .)))
+
+
+
+(S1 (S (NP (NNP Micah))
+     (VP (VB forget)
+      (NP (PRP$ her) (NN ball))
+      (SBAR (IN because)
+       (S (NP (DT that))
+	(VP (AUX was)
+	 (ADVP (RB up))
+	 (ADJP (JJ high))
+	 (PP (IN in) (NP (DT a) (NN tree)))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP I))
+     (VP (MD can) (RB not) (VP (VB get) (ADVP (RB either))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (NNP Micah))
+     (VP (AUX was)
+      (ADJP (JJ happy))
+      (SBAR (ADVP (RB again))
+       (IN because)
+       (S (NP (PRP she))
+	(VP (VBD got) (NP (PRP$ her) (NN ball)) (ADVP (RB back))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP I))
+     (VP (MD can)
+      (RB not)
+      (VP (VB get)
+       (NP (DT the) (NN ball) (S (VP (TO to) (VP (VB move)))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP$ their) (NN friend))
+     (VP (VP (VBP throw)
+	  (NP (PRP it))
+	  (PRT (RP down))
+	  (ADVP (RB too)))
+      (CC and)
+      (VP (VBP let)
+       (S (NP (PRP them)) (VP (VB fall) (ADVP (RP down))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP$ their) (NNS ages))
+     (VP (AUX were) (ADVP (CC and)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP She)) (VP (AUX 's)) (. .)))
+
+
+
+(S1 (S (NP (PRP He)) (VP (AUX 's)) (. .)))
+
+
+
+(S1 (S (CC And) (NP (PRP she)) (VP (AUX 's)) (. .)))
+
+
+
+(S1 (S (CC And) (NP (PRP she)) (VP (AUX 's)) (. .)))
+
+
+
+(S1 (S (NP (NP (PRP They)) (NP (DT all)))
+     (VP (VBD went)
+      (ADVP (NN home))
+      (PP (IN for) (NP (NN math)))
+      (PP (IN from) (NP (JJ high) (NN school))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (VBP live)
+      (PP (IN in) (NP (PRP$ their) (NN ball)))
+      (SBAR (RB because) (IN if) (S (NP (PRP they)) (VP (AUX was)))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (AUX did)
+      (RB not)
+      (VP (VB remember) (SBAR (S (NP (PRP they)) (VP (AUX were))))))
+     (. .)))
+
+
+
+(S1 (S (IN So)
+     (NP (DT the) (NN brother))
+     (VP (VBD came) (ADVP (RB down)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (VBD went) (ADVP (RB back) (RB down)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP It))
+     (VP (AUX was) (NP (NP (NN school) (NN time)) (ADVP (RB again))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

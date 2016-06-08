@@ -1,0 +1,132 @@
+
+
+(S1 (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB tell) (NP (NP (DT a) (NN story)) (PP (IN about) (NP (PRP me) (, ,) (NNP Blue) (, ,) (CC and) (NNP Green)))))))) (. .)))
+
+
+
+
+
+(S1 (INTJ (UH Yeah) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (MD can) (VP (VB hear) (S (NP (PRP it)) (ADJP (JJ right))))) (. ?)))
+
+
+
+
+
+(S1 (SBARQ (WHADVP (WRB How)) (SQ (MD can) (NP (PRP You)) (VP (AUX have) (S (VP (TO to) (VP (VB move) (NP (DT those))))))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Here)) (NP (PRP I)) (VP (VBP push)) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX were) (NP (CD two) (JJ little) (NNS penguins))) (. .)))
+
+
+
+
+
+(S1 (S (NP (CD One)) (VP (AUX was) (VP (VBN named) (S (NP (NNP Heather))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (CD one)) (VP (AUX was) (VP (VBN named) (S (NP (NNP Jason))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NP (PRP They)) (NP (DT both))) (VP (VBD lived) (PRT (RP together)) (PP (IN on) (NP (NP (DT the) (NN top)) (PP (IN of) (NP (NP (NN Iceberg)) (NP (NNP Canyon))))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (CD One) (NN day)) (, ,) (NP (PRP$ their) (NN friend)) (ADVP (RB Sealy)) (VP (VBD came) (PRT (RP over)) (S (VP (TO to) (VP (VB play))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP She)) (VP (AUX was) (ADJP (JJ afraid) (S (VP (TO to) (VP (VB slide) (PRT (RP down)) (NP (NP (DT the) (NN mountain)) (PP (IN like) (NP (DT those) (CD two) (NNS penguins))))))))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Sometimes)) (NP (DT the) (NN sun)) (VP (VBD grew) (ADJP (ADJP (JJR bigger) (CC and) (JJR bigger)) (CC and) (ADJP (ADJP (JJR hotter) (CC and) (JJR hotter)) (PP (IN in) (NP (DT the) (NNS days)))))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB So)) (, ,) (NP (DT the) (NN ice)) (VP (VBD melted)) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP they)) (VP (MD could) (VP (VB play) (PP (IN in) (NP (DT the) (JJ soft) (, ,) (JJ green) (NN snow))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NP (CD One) (NN day)) (, ,) (NP (NP (NNP Heather)) (, ,) (SBAR (WHNP (WP who)) (S (VP (AUX was) (NP (DT the) (JJR bigger) (NN penguin)))))) (, ,)) (VP (VBD liked) (S (VP (TO to) (VP (VB slide) (PRT (RP down)) (NP (DT a) (JJ big) (NN ice) (NN pole)))))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Then)) (NP (PRP it)) (VP (AUX was) (NP (NNP Heathers) (NN turn))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP She)) (VP (VBD slid) (ADVP (RB down)) (, ,) (S (VP (NN head) (ADVP (RB first))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (RB then) (NP (NP (NNP Sealy)) (, ,) (NP (DT the) (NN seal)) (, ,)) (VP (VP (VBD slid) (PRT (RP down))) (CC and) (VP (VBD landed) (PP (IN on) (NP (PRP$ their) (NNS heads))))) (. .)))
+
+
+
+
+
+(S1 (S (RB Then) (NP (PRP she)) (VP (VBD went) (ADVP (NN home))) (. .)))
+
+
+
+
+
+(S1 (S (RB Then) (NP (DT the) (CD two) (NNS penguins)) (VP (VBD went) (ADVP (NN home)) (ADVP (RB together))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP they)) (VP (VBD lived) (PP (IN behind) (NP (DT a) (NNP bush)))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

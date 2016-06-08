@@ -1,0 +1,77 @@
+
+(S1 (S (RB So)
+     (NP (NNP Ella))
+     (VP (AUX had)
+      (S (VP (TO to)
+	  (VP (VB go)
+	   (PP (TO to) (NP (PRP$ her) (JJ doctory) (NN dad)))
+	   (S (VP (VB go)))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (NN dad))
+     (VP (AUX had)
+      (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (VB work)))))))
+     (. .)))
+
+
+
+(S1 (S (IN So)
+     (NP (PRP I))
+     (VP (VBD brought) (NP (PRP him)) (PP (TO to) (NP (VB work))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP he))
+     (VP (VBD went) (PP (TO to) (NP (VB work))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB Then))
+     (NP (NNP Ella))
+     (VP (AUX was) (PP (IN at) (NP (DT the) (NN door))))
+     (. .)))
+
+
+
+(S1 (FRAG (CC And) (NP (NNP School)) (. .)))
+
+
+
+(S1 (S (ADVP (RB Then))
+     (NP (DT the) (NN dad))
+     (VP (AUX 's) (ADJP (JJ spaceshuttle)))
+     (. .)))
+
+
+
+(S1 (FRAG (CC And) (ADVP (RB then)) (. .)))
+
+
+
+(S1 (S (NP (NNP Hey) (, ,) (NNP Ella))
+     (VP (VBD come) (ADVP (RB here)))
+     (. .)))
+
+
+
+(S1 (SQ (CC And) (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT that))
+     (VP (VBZ 't)
+      (NP (NP (DT the) (NN end)) (PP (IN of) (NP (PRP it)))))
+     (. .)))
+
+
+
+(S1 (S (VP (NN birthday) (NP (NN party))) (. .)))
+
+

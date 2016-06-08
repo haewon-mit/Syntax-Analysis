@@ -1,0 +1,530 @@
+FILENAME:sr2-session8-p009-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	PLAY
+1	STRUCTURE
+4	ROLL
+5	DAY
+7	SUN
+8	GIRL
+9	BOY
+13	BALL
+14	END
+
+COUNTS:	9
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+5	HE
+7	IT
+8	WE
+8	WHAT
+9	I
+10	YOU
+12	THEM
+13	THEY
+
+COUNTS:	8
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+5	ONE
+6	HIGH
+8	LITTLE
+13	ALL
+
+COUNTS:	4
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	THE PLAY
+5	A BALL
+5	ONE DAY
+7	THE SUN
+8	LITTLE GIRL
+9	THE BOY
+14	THE END
+
+COUNTS:	7
+
+
+###N5	Article used before a noun###
+
+1	THE PLAY
+5	A BALL
+7	THE SUN
+9	THE BOY
+14	THE END
+
+COUNTS:	5
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	AT THE PLAY
+5	FOUND A BALL
+5	WAS ONE DAY
+7	BY THE SUN
+9	SAID THE BOY
+
+COUNTS:	5
+
+
+###N7	Plural suffix###
+
+10	BALLS
+
+COUNTS:	1
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+11	A BALL
+
+COUNTS:	1
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+8	THE LITTLE GIRL
+
+COUNTS:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+5	ON
+6	AS
+12	THEN
+
+COUNTS:	3
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	WAS
+4	ROLL
+5	FOUND
+6	KICKED
+7	BURNED
+7	GOT
+8	ARE
+8	DO
+9	KNOW
+9	SAID
+10	COME
+11	CAME
+13	PLAYED
+
+COUNTS:	13
+
+
+###V2	Particle or preposition###
+
+1	AT
+2	DOWN
+5	FROM
+6	UP
+7	BY
+10	BACK
+
+COUNTS:	6
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	AT THE PLAY STRUCTURE
+5	FROM THEN ON
+7	BY THE SUN
+
+COUNTS:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+5	 WAS
+8	 ARE
+
+COUNTS:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+8	GONNA
+
+COUNTS:	1
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+5	WAS
+8	ARE
+8	DO
+
+COUNTS:	3
+
+
+###V7	Progressive Suffix###
+
+
+COUNTS:	0
+
+
+###V8	Adverb###
+
+4	DOWN
+5	ON
+6	AS
+8	GONNA
+11	BACK
+12	THEN
+
+COUNTS:	6
+
+
+###V9	Modal preceeding verb###
+
+
+COUNTS:	0
+
+
+###V10	Third person singular present tense suffix###
+
+5	WAS
+
+COUNTS:	1
+
+
+###V11	Past tense modal###
+
+6	COULD
+
+COUNTS:	1
+
+
+###V12	Regular past tense suffix###
+
+6	KICKED
+7	BURNED
+13	PLAYED
+
+COUNTS:	3
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+5	WAS
+
+COUNTS:	1
+
+
+###V14	Medial adverb###
+
+4	DOWN
+5	ON
+6	AS
+8	GONNA
+12	THEN
+
+COUNTS:	5
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+5	 WAS
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+COUNTS:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	THERE WAS AT THE PLAY STRUCTURE
+2	ROLL DOWN
+3	ROLL DOWN
+4	ROLL DOWN ROLL DOWN ROLL DOWN ROLL DOWN
+5	FROM THEN ON HE WAS ONE DAY THEY FOUND A BALL
+6	THEY KICKED IT UP AS HIGH AS THEY COULD
+7	IT GOT BURNED BY THE SUN
+8	OH NO WHAT ARE WE GONNA DO SAID THE LITTLE GIRL
+9	I KNOW SAID THE BOY
+10	COME BACK YOU BALLS
+11	A BALL CAME BACK
+12	AND THEN THEM
+13	AND THEY ALL PLAYED BALL
+14	THE END
+
+COUNTS:	5
+
+
+###S2	Subject verb sequence###
+
+1	THERE WAS 
+5	THEY FOUND 
+6	THEY COULD
+6	THEY KICKED 
+7	IT GOT BURNED 
+9	I KNOW
+11	A BALL CAME BACK
+
+COUNTS:	3
+
+
+###S3	Verb object sequence###
+
+1	WAS AT THE PLAY STRUCTURE
+4	ROLL DOWN , ROLL DOWN ROLL DOWN ROLL DOWN
+5	FOUND A BALL
+5	WAS ONE DAY THEY FOUND A BALL
+6	KICKED IT UP AS HIGH AS THEY COULD
+7	BURNED BY THE SUN
+7	GOT BURNED BY THE SUN
+8	ARE WE GONNA DO SAID THE LITTLE GIRL
+8	DO SAID THE LITTLE GIRL
+10	COME BACK YOU BALLS
+13	PLAYED BALL
+
+COUNTS:	8
+
+
+###S4	Subject Verb Object Sequence###
+
+1	THERE WAS AT THE PLAY STRUCTURE
+5	THEY FOUND A BALL
+6	THEY KICKED IT UP AS HIGH AS THEY COULD
+7	IT GOT BURNED BY THE SUN
+
+COUNTS:	3
+
+
+###S5	Conjunction (any)###
+
+6	AS
+13	AND
+
+COUNTS:	2
+
+
+###S6	Sentence with two VP's###
+
+4	ROLL DOWN , ROLL DOWN ROLL DOWN ROLL DOWN .
+7	IT GOT BURNED BY THE SUN .
+9	I KNOW SAID THE BOY .
+
+COUNTS:	2
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+COUNTS:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+6	AS
+
+COUNTS:	1
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+8	OH NO , WHAT ARE WE GONNA DO SAID THE LITTLE GIRL .
+
+COUNTS:	1
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+4	ROLL DOWN , ROLL DOWN ROLL DOWN ROLL DOWN .
+8	OH NO , WHAT ARE WE GONNA DO SAID THE LITTLE GIRL .
+
+COUNTS:	2
+
+
+###S16	Relative clause marked or unmarked###
+
+5	ONE DAY THEY FOUND A BALL
+
+COUNTS:	1
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+
+COUNTS:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-14
+NO OF UTTERANCES CONSIDERED: 14
+
+
+#########################
+NOUN COUNTS: 44
+VERB COUNTS: 45
+QUESTION COUNTS: 0
+SENTENCE COUNTS: 28
+TOTAL NO OF STRUCTURES COUNTS: 117
+##########################
+
+###Sentence Listing###
+
+1	THERE WAS AT THE PLAY STRUCTURE .
+2	ROLL DOWN .
+3	ROLL DOWN .
+4	ROLL DOWN , ROLL DOWN ROLL DOWN ROLL DOWN .
+5	FROM THEN ON HE WAS ONE DAY THEY FOUND A BALL .
+6	THEY KICKED IT UP AS HIGH AS THEY COULD .
+7	IT GOT BURNED BY THE SUN .
+8	OH NO , WHAT ARE WE GONNA DO SAID THE LITTLE GIRL .
+9	I KNOW SAID THE BOY .
+10	COME BACK YOU BALLS .
+11	A BALL CAME BACK .
+12	AND THEN THEM .
+13	AND THEY ALL PLAYED BALL .
+14	THE END .

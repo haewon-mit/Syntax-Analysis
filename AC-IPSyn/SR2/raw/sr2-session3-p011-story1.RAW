@@ -1,0 +1,469 @@
+FILENAME:sr2-session3-p011-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	BALL
+1	DAY
+1	DOG
+2	CAT
+3	KID
+4	SOFA
+4	TV
+6	BLOCKS
+7	END
+
+COUNTS:	9
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+1	HE
+2	HIM
+6	THEY
+
+COUNTS:	3
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	ONE
+6	SOME
+
+COUNTS:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A DOG
+1	ONE DAY
+2	THE CAT
+3	THE KID
+4	SOME TV
+4	THE SOFA
+6	SOME BLOCKS
+7	THE END
+
+COUNTS:	8
+
+
+###N5	Article used before a noun###
+
+1	A DOG
+2	THE CAT
+3	THE KID
+4	THE SOFA
+7	THE END
+
+COUNTS:	5
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+4	ON THE SOFA
+4	WATCHED SOME TV
+6	WITH SOME BLOCKS
+
+COUNTS:	3
+
+
+###N7	Plural suffix###
+
+
+COUNTS:	0
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+1	A DOG
+2	THE CAT
+3	THE KID
+
+COUNTS:	3
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+COUNTS:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+6	THEN
+
+COUNTS:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	PLAY
+1	WANTED
+4	WATCHED
+5	SAT
+6	WORKED
+
+COUNTS:	5
+
+
+###V2	Particle or preposition###
+
+1	OUT
+2	WITH
+5	ON
+
+COUNTS:	3
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+2	WITH HIM
+3	WITH HIM
+4	ON THE SOFA
+6	WITH SOME BLOCKS
+
+COUNTS:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+
+COUNTS:	0
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+
+COUNTS:	0
+
+
+###V7	Progressive Suffix###
+
+
+COUNTS:	0
+
+
+###V8	Adverb###
+
+1	SO
+6	THEN
+
+COUNTS:	2
+
+
+###V9	Modal preceeding verb###
+
+
+COUNTS:	0
+
+
+###V10	Third person singular present tense suffix###
+
+
+COUNTS:	0
+
+
+###V11	Past tense modal###
+
+
+COUNTS:	0
+
+
+###V12	Regular past tense suffix###
+
+1	WANTED
+2	WANTED
+3	WANTED
+4	WATCHED
+6	WORKED
+
+COUNTS:	3
+
+
+###V13	Past tense auxiliary###
+
+
+COUNTS:	0
+
+
+###V14	Medial adverb###
+
+1	SO
+6	THEN
+
+COUNTS:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+
+COUNTS:	0
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+COUNTS:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONE DAY A DOG SAT OUT SO THAT HE WANTED TO PLAY BALL
+2	AND THEN THE CAT WANTED TO PLAY WITH HIM
+3	AND THE KID WANTED TO PLAY WITH HIM
+4	AND THEN THEY SAT ON THE SOFA AND WATCHED SOME TV
+5	AND THEY SAT ON
+6	AND THEN THEY WORKED WITH SOME BLOCKS
+7	THE END
+
+COUNTS:	3
+
+
+###S2	Subject verb sequence###
+
+1	HE WANTED TO PLAY 
+1	ONE DAY A DOG SAT OUT 
+
+COUNTS:	2
+
+
+###S3	Verb object sequence###
+
+1	SAT OUT SO THAT HE WANTED TO PLAY BALL
+1	WANTED TO PLAY BALL
+2	TO PLAY WITH HIM
+2	WANTED TO PLAY WITH HIM
+3	TO PLAY WITH HIM
+3	WANTED TO PLAY WITH HIM
+4	SAT ON THE SOFA
+4	SAT ON THE SOFA AND WATCHED SOME TV
+6	WORKED WITH SOME BLOCKS
+
+COUNTS:	4
+
+
+###S4	Subject Verb Object Sequence###
+
+1	HE WANTED TO PLAY BALL
+1	ONE DAY A DOG SAT OUT SO THAT HE WANTED TO PLAY BALL
+
+COUNTS:	2
+
+
+###S5	Conjunction (any)###
+
+1	THAT
+3	AND
+
+COUNTS:	2
+
+
+###S6	Sentence with two VP's###
+
+1	ONE DAY A DOG SAT OUT SO THAT HE WANTED TO PLAY BALL .
+2	AND THEN THE CAT WANTED TO PLAY WITH HIM .
+3	AND THE KID WANTED TO PLAY WITH HIM .
+4	AND THEN THEY SAT ON THE SOFA AND WATCHED SOME TV .
+
+COUNTS:	3
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+1	WANTED TO PLAY BALL
+2	WANTED TO PLAY WITH HIM
+3	WANTED TO PLAY WITH HIM
+
+COUNTS:	2
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+1	THAT
+
+COUNTS:	1
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+
+COUNTS:	0
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+1	ONE DAY A DOG SAT OUT SO THAT HE WANTED TO PLAY BALL .
+
+COUNTS:	1
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+
+COUNTS:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-7
+NO OF UTTERANCES CONSIDERED: 7
+
+
+#########################
+NOUN COUNTS: 34
+VERB COUNTS: 17
+QUESTION COUNTS: 0
+SENTENCE COUNTS: 20
+TOTAL NO OF STRUCTURES COUNTS: 71
+##########################
+
+###Sentence Listing###
+
+1	ONE DAY A DOG SAT OUT SO THAT HE WANTED TO PLAY BALL .
+2	AND THEN THE CAT WANTED TO PLAY WITH HIM .
+3	AND THE KID WANTED TO PLAY WITH HIM .
+4	AND THEN THEY SAT ON THE SOFA AND WATCHED SOME TV .
+5	AND THEY SAT ON .
+6	AND THEN THEY WORKED WITH SOME BLOCKS .
+7	THE END .

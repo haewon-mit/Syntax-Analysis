@@ -1,0 +1,20 @@
+
+# Set these paths appropriately
+
+BIN=/home/khairunnisa/TreeTagger/bin
+CMD=/home/khairunnisa/TreeTagger/cmd
+LIB=/home/khairunnisa/TreeTagger/lib
+
+OPTIONS="-token -lemma -sgml"
+
+TOKENIZER=${CMD}/tokenize.pl
+MWL=${CMD}/mwl-lookup-greek.perl
+TAGGER=${BIN}/tree-tagger
+PARFILE=${LIB}/greek.par
+
+$TOKENIZER $* |
+# recognition of MWLs
+$MWL |
+# tagging
+$TAGGER $OPTIONS $PARFILE
+

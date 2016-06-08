@@ -1,0 +1,653 @@
+FILENAME:sr2-session5-p007-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	SQUIRREL
+5	HA
+6	ANIMALS
+6	NONE
+7	BUNNY
+10	HOP
+12	TREES
+13	RABBIT
+15	T
+18	TIME
+19	TURN
+19	TURTLES
+20	BUSH
+24	END
+
+COUNTS:	14
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+2	SHE
+6	HE
+6	IT
+11	WHERE
+15	THEY
+16	THEM
+
+COUNTS:	6
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	LITTLE
+5	HA
+8	SLOW
+17	MORE
+17	SOME
+18	THIS
+21	TWENTY
+
+COUNTS:	7
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A TIME
+1	LITTLE SQUIRREL
+3	A TURTLE
+4	A RABBIT
+6	THE ANIMALS
+7	THE BUNNY
+12	THE TREES
+18	THIS TIME
+20	A BUSH
+24	THE END
+
+COUNTS:	10
+
+
+###N5	Article used before a noun###
+
+1	A TIME
+3	A TURTLE
+4	A RABBIT
+6	THE ANIMALS
+7	THE BUNNY
+12	THE TREES
+20	A BUSH
+24	THE END
+
+COUNTS:	8
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+3	WAS A TURTLE
+4	WAS A RABBIT
+6	OF THE ANIMALS
+12	IN THE TREES
+20	BEHIND A BUSH
+
+COUNTS:	5
+
+
+###N7	Plural suffix###
+
+2	TREES
+6	ANIMALS
+18	RABBITS
+19	TURTLES
+
+COUNTS:	4
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+6	THE ANIMALS
+7	THE BUNNY
+
+COUNTS:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+1	A LITTLE SQUIRREL
+
+COUNTS:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+7	SO
+13	THEN
+
+COUNTS:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+2	LIKED
+4	WAS
+5	HA
+6	TREATED
+7	PLAYED
+7	SEEK
+8	SLOW
+9	T
+10	SQUIRREL
+11	BE
+11	HID
+11	KNEW
+12	HOPING
+14	LOOKED
+17	WENT
+19	HIDE
+20	COUNTED
+21	GOT
+22	CLIMBED
+22	FOUND
+22	SLID
+23	JUMPED
+
+COUNTS:	22
+
+
+###V2	Particle or preposition###
+
+1	UPON
+6	OF
+10	TO
+12	IN
+14	FOR
+20	BEHIND
+22	DOWN
+22	UP
+23	OUT
+
+COUNTS:	9
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+6	OF THE ANIMALS
+9	FOR TURTLE
+10	TO HOP
+12	IN THE TREES
+14	FOR SQUIRREL
+15	FOR T
+20	BEHIND A BUSH
+21	TO TWENTY
+
+COUNTS:	9
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+3	 WAS
+4	 WAS
+8	TURTLE WENT SLOW
+10	 WAS
+11	 BE
+18	 WAS
+19	 WAS
+
+COUNTS:	1
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+3	WAS
+4	WAS
+10	WAS
+18	WAS
+19	WAS
+
+COUNTS:	1
+
+
+###V7	Progressive Suffix###
+
+2	CLIMBING
+12	HOPING
+
+COUNTS:	2
+
+
+###V8	Adverb###
+
+1	ONCE
+6	WELL
+7	SO
+11	NOT
+11	WHERE
+13	THEN
+16	INSTEAD
+21	FINALLY
+
+COUNTS:	8
+
+
+###V9	Modal preceeding verb###
+
+11	WOULD NOT BE FOUND
+
+COUNTS:	1
+
+
+###V10	Third person singular present tense suffix###
+
+4	WAS
+
+COUNTS:	1
+
+
+###V11	Past tense modal###
+
+6	COULD
+11	WOULD
+
+COUNTS:	2
+
+
+###V12	Regular past tense suffix###
+
+2	LIKED
+6	TREATED
+7	PLAYED
+14	LOOKED
+15	LOOKED
+20	COUNTED
+22	CLIMBED
+23	JUMPED
+
+COUNTS:	7
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+3	WAS
+4	WAS
+10	WAS
+18	WAS
+19	WAS
+
+COUNTS:	1
+
+
+###V14	Medial adverb###
+
+6	SO
+6	WELL
+11	NOT
+11	WHERE
+
+COUNTS:	4
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+3	 WAS
+4	 WAS
+8	TURTLE WENT SLOW
+10	 WAS
+18	 WAS
+19	 WAS
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+21	FINALLY
+
+COUNTS:	1
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+11	SO THEY HID WHERE THEY KNEW THEY WOULD NOT BE FOUND .
+
+COUNTS:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+11	WOULD NOT BE FOUND
+
+COUNTS:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS A LITTLE SQUIRREL
+2	SHE LIKED CLIMBING TREES
+3	THERE WAS A TURTLE SO SLOW
+4	THE HE WAS A RABBIT
+5	HA HA HA
+6	THEN HE TREATED IT SO WELL NONE OF THE ANIMALS COULD
+7	SO THE BUNNY PLAYED HIDE AND SEEK WITH
+8	TURTLE WENT SLOW SLOW SLOW
+9	AND T FOR TURTLE
+10	AND T SQUIRREL BECAUSE IT WAS T AND TURN TO HOP
+11	SO THEY HID WHERE THEY KNEW THEY WOULD NOT BE FOUND
+12	TURTLE HID IN THE TREES HOPING
+13	THEN RABBIT FOUND TURTLE
+14	THEY LOOKED FOR SQUIRREL
+15	THEN THEY LOOKED FOR T
+16	T FOUND THEM INSTEAD
+17	THEN THEY WENT TO HIDE SOME MORE
+18	THIS TIME IT WAS RABBITS TURN TO HIDE
+19	IT WAS TURTLES TURN TO HIDE
+20	AND SQUIRREL HID BEHIND A BUSH AND COUNTED
+21	FINALLY HE GOT TO TWENTY
+22	HE CLIMBED UP SLID DOWN AND FOUND RABBIT
+23	THEN THEY JUMPED OUT AND FOUND TURTLE
+24	THE END
+
+COUNTS:	9
+
+
+###S2	Subject verb sequence###
+
+2	SHE LIKED CLIMBING 
+3	THERE WAS 
+4	THE HE WAS 
+5	HA HA 
+6	HE TREATED 
+8	TURTLE WENT 
+10	IT WAS 
+11	THEY KNEW 
+11	THEY WOULD NOT BE FOUND
+12	TURTLE HID 
+14	THEY LOOKED 
+16	T FOUND 
+19	IT WAS 
+22	HE CLIMBED UP , SLID DOWN AND FOUND 
+
+COUNTS:	8
+
+
+###S3	Verb object sequence###
+
+1	WAS A LITTLE SQUIRREL
+2	CLIMBING TREES
+2	LIKED CLIMBING TREES
+3	WAS A TURTLE , SO SLOW
+4	WAS A RABBIT
+5	HA HA
+6	TREATED IT SO WELL
+7	PLAYED HIDE AND SEEK WITH
+9	T FOR TURTLE
+10	SQUIRREL BECAUSE IT WAS T AND TURN TO HOP
+10	WAS T AND TURN TO HOP
+11	HID WHERE THEY KNEW THEY WOULD NOT BE FOUND
+12	HID IN THE TREES , HOPING
+13	FOUND TURTLE
+14	LOOKED FOR SQUIRREL
+15	LOOKED FOR T
+16	FOUND THEM INSTEAD
+17	TO HIDE SOME MORE
+17	WENT TO HIDE SOME MORE
+18	WAS RABBITS TURN TO HIDE
+19	WAS TURTLES TURN TO HIDE
+20	HID BEHIND A BUSH AND COUNTED
+21	GOT TO TWENTY
+22	CLIMBED UP , SLID DOWN AND FOUND RABBIT
+23	JUMPED OUT AND FOUND TURTLE
+
+COUNTS:	12
+
+
+###S4	Subject Verb Object Sequence###
+
+2	SHE LIKED CLIMBING TREES
+3	THERE WAS A TURTLE , SO SLOW
+4	THE HE WAS A RABBIT
+5	HA HA HA
+6	HE TREATED IT SO WELL
+10	IT WAS T AND TURN TO HOP
+11	THEY KNEW THEY WOULD NOT BE FOUND
+12	TURTLE HID IN THE TREES , HOPING
+14	THEY LOOKED FOR SQUIRREL
+16	T FOUND THEM INSTEAD
+19	IT WAS TURTLES TURN TO HIDE
+22	HE CLIMBED UP , SLID DOWN AND FOUND RABBIT
+
+COUNTS:	6
+
+
+###S5	Conjunction (any)###
+
+9	AND
+
+COUNTS:	1
+
+
+###S6	Sentence with two VP's###
+
+7	SO THE BUNNY PLAYED HIDE AND SEEK WITH .
+8	TURTLE WENT SLOW , SLOW SLOW .
+11	SO THEY HID WHERE THEY KNEW THEY WOULD NOT BE FOUND .
+17	THEN THEY WENT TO HIDE SOME MORE .
+20	AND SQUIRREL HID BEHIND A BUSH AND COUNTED .
+22	HE CLIMBED UP , SLID DOWN AND FOUND RABBIT .
+23	THEN THEY JUMPED OUT AND FOUND TURTLE .
+
+COUNTS:	5
+
+
+###S7	Conjoined phrases###
+
+7	HIDE AND SEEK
+10	T AND TURN
+
+COUNTS:	2
+
+
+###S8	Infinitive without catenative, marked with to###
+
+17	WENT TO HIDE SOME MORE
+18	WAS RABBITS TURN TO HIDE
+19	WAS TURTLES TURN TO HIDE
+
+COUNTS:	2
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+COUNTS:	0
+
+
+###S11	Propositional Complement###
+
+11	
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+11	SO THEY HID WHERE THEY KNEW THEY WOULD NOT BE FOUND .
+
+COUNTS:	1
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+7	SO THE BUNNY PLAYED HIDE AND SEEK WITH .
+11	SO THEY HID WHERE THEY KNEW THEY WOULD NOT BE FOUND .
+22	HE CLIMBED UP , SLID DOWN AND FOUND RABBIT .
+
+COUNTS:	3
+
+
+###S16	Relative clause marked or unmarked###
+
+18	RABBITS TURN TO HIDE
+19	TURTLES TURN TO HIDE
+
+COUNTS:	1
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+2	SHE LIKED CLIMBING TREES .
+12	TURTLE HID IN THE TREES , HOPING .
+
+COUNTS:	2
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-24
+NO OF UTTERANCES CONSIDERED: 24
+
+
+#########################
+NOUN COUNTS: 59
+VERB COUNTS: 70
+QUESTION COUNTS: 2
+SENTENCE COUNTS: 52
+TOTAL NO OF STRUCTURES COUNTS: 183
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS A LITTLE SQUIRREL .
+2	SHE LIKED CLIMBING TREES .
+3	THERE WAS A TURTLE , SO SLOW .
+4	THE HE WAS A RABBIT .
+5	HA HA HA .
+6	THEN HE TREATED IT SO WELL , NONE OF THE ANIMALS COULD .
+7	SO THE BUNNY PLAYED HIDE AND SEEK WITH .
+8	TURTLE WENT SLOW , SLOW SLOW .
+9	AND T FOR TURTLE .
+10	AND T SQUIRREL BECAUSE IT WAS T AND TURN TO HOP .
+11	SO THEY HID WHERE THEY KNEW THEY WOULD NOT BE FOUND .
+12	TURTLE HID IN THE TREES , HOPING .
+13	THEN RABBIT FOUND TURTLE .
+14	THEY LOOKED FOR SQUIRREL .
+15	THEN THEY LOOKED FOR T .
+16	T FOUND THEM INSTEAD .
+17	THEN THEY WENT TO HIDE SOME MORE .
+18	THIS TIME IT WAS RABBITS TURN TO HIDE .
+19	IT WAS TURTLES TURN TO HIDE .
+20	AND SQUIRREL HID BEHIND A BUSH AND COUNTED .
+21	FINALLY , HE GOT TO TWENTY .
+22	HE CLIMBED UP , SLID DOWN AND FOUND RABBIT .
+23	THEN THEY JUMPED OUT AND FOUND TURTLE .
+24	THE END .

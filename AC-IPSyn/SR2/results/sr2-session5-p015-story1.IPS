@@ -1,0 +1,537 @@
+FILENAME:sr2-session5-p015-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	TIME
+2	BIRTHDAY
+3	BABY
+3	DAD
+3	MOM
+5	HOME
+6	CAKE
+6	SCHOOL
+8	GIRL
+10	FRIENDS
+10	LOTS
+10	PRESENTS
+14	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+6	HE
+7	SHE
+8	IT
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+2	HIS
+8	BIG
+11	EXCITED
+12	HER
+13	THAT
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A DAD
+1	A TIME
+2	HIS BIRTHDAY
+3	A BABY
+3	A MOM
+3	THE MOM
+5	THE DAD
+6	A CAKE
+8	BIG GIRL
+12	HER BIRTHDAY
+14	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+1	A DAD
+1	A TIME
+3	A BABY
+3	A MOM
+3	THE MOM
+5	THE DAD
+6	A CAKE
+14	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+2	WAS HIS BIRTHDAY
+3	WAS A DAD
+6	MAKING A CAKE
+12	'S HER BIRTHDAY
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+10	FRIENDS
+10	PRESENTS
+
+SCORE:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+5	THE DAD
+
+SCORE:	1
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+8	A BIG GIRL
+
+SCORE:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+5	THEN
+11	SO
+
+SCORE:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+4	WAS
+5	COME
+6	MAKING
+7	CAME
+10	SAW
+12	'S
+13	KNEW
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+1	UPON
+6	AT
+10	OF
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+6	AT SCHOOL
+10	OF PRESENTS AND FRIENDS
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+2	 WAS
+3	 WAS
+4	 WAS
+6	 WAS
+8	 WAS
+11	SHE WAS SO EXCITED
+12	 'S
+
+SCORE:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+2	WAS
+3	WAS
+4	WAS
+6	WAS
+8	WAS
+11	WAS
+12	'S
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+6	MAKING
+
+SCORE:	1
+
+
+###V8	Adverb###
+
+3	ONCE
+6	WHEN
+7	HOME
+7	THEN
+8	ACTUALLY
+9	BACK
+11	SO
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+
+SCORE:	0
+
+
+###V10	Third person singular present tense suffix###
+
+4	WAS
+
+SCORE:	1
+
+
+###V11	Past tense modal###
+
+
+SCORE:	0
+
+
+###V12	Regular past tense suffix###
+
+
+SCORE:	0
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+2	WAS
+3	WAS
+4	WAS
+6	WAS
+8	WAS
+11	WAS
+
+SCORE:	1
+
+
+###V14	Medial adverb###
+
+3	ONCE
+6	WHEN
+7	THEN
+9	BACK
+11	SO
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+2	 WAS
+3	 WAS
+4	 WAS
+6	 WAS
+8	 WAS
+11	 WAS
+
+SCORE:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+8	ACTUALLY
+
+SCORE:	1
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+SCORE:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+SCORE:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+SCORE:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS A DAD
+2	AND IT WAS HIS BIRTHDAY
+3	AND THE MOM ONCE UPON A TIME THERE WAS A DAD A MOM AND A BABY
+4	AND THERE WAS BABYS BIRTHDAY
+5	AND THEN THE DAD COME HOME
+6	HE WAS MAKING A CAKE WHEN SHE WAS AT SCHOOL
+7	AND THEN SHE CAME BACK HOME
+8	ACTUALLY IT WAS A BIG GIRL
+9	AND SHE CAME BACK HOME
+10	AND SHE SAW LOTS OF PRESENTS AND FRIENDS
+11	SHE WAS SO EXCITED
+12	IT 'S HER BIRTHDAY
+13	AND SHE KNEW THAT
+14	THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+6	HE WAS MAKING 
+6	SHE WAS 
+11	SHE WAS 
+12	IT 'S 
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	WAS A DAD
+2	WAS HIS BIRTHDAY
+3	WAS A DAD , A MOM AND A BABY
+4	WAS BABYS BIRTHDAY
+5	COME HOME
+6	MAKING A CAKE WHEN SHE WAS AT SCHOOL
+6	WAS AT SCHOOL
+6	WAS MAKING A CAKE WHEN SHE WAS AT SCHOOL
+8	WAS A BIG GIRL
+10	SAW LOTS OF PRESENTS AND FRIENDS
+12	'S HER BIRTHDAY
+13	KNEW THAT
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+6	HE WAS MAKING A CAKE WHEN SHE WAS AT SCHOOL
+6	SHE WAS AT SCHOOL
+12	IT 'S HER BIRTHDAY
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+9	AND
+
+SCORE:	1
+
+
+###S6	Sentence with two VP's###
+
+
+SCORE:	0
+
+
+###S7	Conjoined phrases###
+
+10	PRESENTS AND FRIENDS
+
+SCORE:	1
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+SCORE:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+SCORE:	0
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+6	HE WAS MAKING A CAKE WHEN SHE WAS AT SCHOOL .
+
+SCORE:	1
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+SCORE:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+6	A CAKE WHEN SHE WAS AT SCHOOL
+
+SCORE:	1
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+6	HE WAS MAKING A CAKE WHEN SHE WAS AT SCHOOL .
+
+SCORE:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-14
+NO OF UTTERANCES CONSIDERED: 14
+
+
+#########################
+NOUN SCORE: 18
+VERB SCORE: 21
+QUESTION SCORE: 0
+SENTENCE SCORE: 13
+IPSYN SCORE: 52
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS A DAD .
+2	AND IT WAS HIS BIRTHDAY .
+3	AND THE MOM ONCE UPON A TIME THERE WAS A DAD , A MOM AND A BABY .
+4	AND THERE WAS BABYS BIRTHDAY .
+5	AND THEN THE DAD COME HOME .
+6	HE WAS MAKING A CAKE WHEN SHE WAS AT SCHOOL .
+7	AND THEN SHE CAME BACK HOME .
+8	ACTUALLY , IT WAS A BIG GIRL .
+9	AND SHE CAME BACK HOME .
+10	AND SHE SAW LOTS OF PRESENTS AND FRIENDS .
+11	SHE WAS SO EXCITED .
+12	IT 'S HER BIRTHDAY .
+13	AND SHE KNEW THAT .
+14	THE END .

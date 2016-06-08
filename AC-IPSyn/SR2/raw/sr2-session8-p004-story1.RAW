@@ -1,0 +1,507 @@
+FILENAME:sr2-session8-p004-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	STORY
+2	TIME
+3	SISTER
+3	TOP
+4	POWER
+5	DAY
+5	SNOWMAN
+6	HOUSE
+6	WINTERTIME
+7	ROOM
+10	END
+
+COUNTS:	11
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+1	I
+4	ONE
+5	THEY
+9	SHE
+
+COUNTS:	4
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	GONNA
+2	PENGUIN
+2	TWO
+3	ONE
+6	BIG
+6	WHOLE
+7	HER
+8	LITTLE
+
+COUNTS:	8
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A STORY
+2	A TIME
+2	PENGUIN SISTERS
+3	THE SISTER
+3	THE TOP
+5	A SNOWMAN
+5	ONE DAY
+6	BIG SISTER
+6	WHOLE HOUSE
+7	HER ROOM
+8	LITTLE SISTER
+10	THE END
+
+COUNTS:	12
+
+
+###N5	Article used before a noun###
+
+1	A STORY
+2	A TIME
+3	THE SISTER
+3	THE TOP
+5	A SNOWMAN
+10	THE END
+
+COUNTS:	6
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	ABOUT A SNOWMAN
+1	TELL A STORY
+2	UPON A TIME
+3	OF THE SISTER
+3	ON THE TOP
+5	MADE A SNOWMAN
+7	INTO HER ROOM
+9	TO HER ROOM
+
+COUNTS:	6
+
+
+###N7	Plural suffix###
+
+2	SISTERS
+
+COUNTS:	1
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+6	BIG SISTER
+8	LITTLE SISTER
+
+COUNTS:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+2	TWO PENGUIN SISTERS
+6	THE BIG SISTER
+6	THE WHOLE HOUSE
+8	THE LITTLE SISTER
+
+COUNTS:	3
+
+
+###N10	Adverb modifying adjective or nominal###
+
+5	THEN
+
+COUNTS:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	'M
+1	TELL
+2	WERE
+3	LIVED
+4	HAD
+5	MADE
+6	TURNED
+8	PLAYED
+9	WENT
+
+COUNTS:	9
+
+
+###V2	Particle or preposition###
+
+1	ABOUT
+2	UPON
+3	OF
+3	ON
+6	INTO
+9	TO
+
+COUNTS:	6
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	ABOUT A SNOWMAN
+2	UPON A TIME
+3	OF THE SISTER
+3	ON THE TOP
+6	INTO WINTERTIME
+7	INTO HER ROOM
+9	TO HER ROOM
+
+COUNTS:	5
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	I 'M GONNA
+2	 WERE
+
+COUNTS:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	'M
+2	WERE
+4	HAD
+
+COUNTS:	3
+
+
+###V7	Progressive Suffix###
+
+
+COUNTS:	0
+
+
+###V8	Adverb###
+
+2	ONCE
+5	TOGETHER
+9	BACK
+9	THEN
+
+COUNTS:	4
+
+
+###V9	Modal preceeding verb###
+
+
+COUNTS:	0
+
+
+###V10	Third person singular present tense suffix###
+
+
+COUNTS:	0
+
+
+###V11	Past tense modal###
+
+
+COUNTS:	0
+
+
+###V12	Regular past tense suffix###
+
+3	LIVED
+6	TURNED
+8	PLAYED
+
+COUNTS:	3
+
+
+###V13	Past tense auxiliary###
+
+2	WERE
+4	HAD
+
+COUNTS:	2
+
+
+###V14	Medial adverb###
+
+5	THEN
+7	BACK
+
+COUNTS:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+2	 WERE
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+COUNTS:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	I 'M GONNA TELL A STORY ABOUT A SNOWMAN
+2	ONCE UPON A TIME THERE WERE TWO PENGUIN SISTERS
+3	ONE LIVED ON THE TOP OF THE SISTER
+4	BUT ONE HAD POWER
+5	AND THEN ONE DAY THEY MADE A SNOWMAN TOGETHER
+6	AND THEN THE BIG SISTER TURNED THE WHOLE HOUSE INTO WINTERTIME
+7	THEN SHE WENT BACK INTO HER ROOM
+8	AND THE LITTLE SISTER PLAYED
+9	AND THEN SHE WENT BACK TO HER ROOM
+10	THE END
+
+COUNTS:	6
+
+
+###S2	Subject verb sequence###
+
+1	I 'M 
+3	ONE LIVED 
+
+COUNTS:	2
+
+
+###S3	Verb object sequence###
+
+1	'M GONNA
+2	WERE TWO PENGUIN SISTERS
+3	LIVED ON THE TOP OF THE SISTER
+4	HAD POWER
+5	MADE A SNOWMAN TOGETHER
+6	TURNED THE WHOLE HOUSE INTO WINTERTIME
+7	WENT BACK INTO HER ROOM
+9	WENT BACK TO HER ROOM
+
+COUNTS:	3
+
+
+###S4	Subject Verb Object Sequence###
+
+1	I 'M GONNA
+3	ONE LIVED ON THE TOP OF THE SISTER
+
+COUNTS:	1
+
+
+###S5	Conjunction (any)###
+
+4	BUT
+9	AND
+
+COUNTS:	2
+
+
+###S6	Sentence with two VP's###
+
+
+COUNTS:	0
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+COUNTS:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+4	BUT
+
+COUNTS:	1
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+
+COUNTS:	0
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+COUNTS:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+
+COUNTS:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-10
+NO OF UTTERANCES CONSIDERED: 10
+
+
+#########################
+NOUN COUNTS: 54
+VERB COUNTS: 37
+QUESTION COUNTS: 0
+SENTENCE COUNTS: 15
+TOTAL NO OF STRUCTURES COUNTS: 106
+##########################
+
+###Sentence Listing###
+
+1	I 'M GONNA TELL A STORY ABOUT A SNOWMAN .
+2	ONCE UPON A TIME THERE WERE TWO PENGUIN SISTERS .
+3	ONE LIVED ON THE TOP OF THE SISTER .
+4	BUT ONE HAD POWER .
+5	AND THEN ONE DAY THEY MADE A SNOWMAN TOGETHER .
+6	AND THEN THE BIG SISTER TURNED THE WHOLE HOUSE INTO WINTERTIME .
+7	THEN SHE WENT BACK INTO HER ROOM .
+8	AND THE LITTLE SISTER PLAYED .
+9	AND THEN SHE WENT BACK TO HER ROOM .
+10	THE END .

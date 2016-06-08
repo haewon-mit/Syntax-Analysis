@@ -1,0 +1,51 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was) (NP (DT some) (NNS people)))
+     (. .)))
+
+
+
+(S1 (FRAG (CC And) (NP (PRP they)) (. .)))
+
+
+
+(S1 (SQ (CC And) (. .)))
+
+
+
+(S1 (S (NP (PRP They)) (VP (VBD played) (NP (NN hopscotch))) (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (VBD went) (PP (IN on) (NP (DT the) (NNS swings))))
+     (. .)))
+
+
+
+(S1 (S (VP (VP (VBD Went)
+	    (PP (IN on)
+	     (NP (NP (NN top))
+	      (PP (IN of) (NP (DT the) (NN play) (NN structure))))))
+	(CC and)
+	(VP (VBD slid) (PRT (RP down)) (NP (DT the) (NN slide))))
+     (. .)))
+
+
+
+(S1 (FRAG (CC And) (RB then) (NP (PRP they)) (. .)))
+
+
+
+(S1 (S (NP (PRP They)) (VP (VBD played) (NP (NN ball))) (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (VBD lived) (ADVP (RB happily)) (ADVP (RB ever) (IN after)))
+     (. .)))
+
+

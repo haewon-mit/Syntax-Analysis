@@ -1,0 +1,57 @@
+
+(S1 (S (NP (EX There)) (VP (AUX 's) (NP (DT a) (NN butterfly))) (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (AUX were)
+      (VP (VBG playing) (NP (VB hide) (CC and) (VB seek))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (NN butterfly))
+     (VP (VBD hid) (PRT (RP up)) (PP (IN in) (NP (DT the) (NN tree))))
+     (. .)))
+
+
+
+(S1 (S (NP (NP (DT The) (NN bird) (NN hid))
+	(PP (IN with) (NP (DT The) (NNP dragon))))
+     (VP (AUX was)
+      (VP (VBG looking)
+       (CC and)
+       (VBG looking)
+       (CC and)
+       (VBG looking)
+       (CC and)
+       (VBG looking)
+       (CC and)
+       (VBG looking)
+       (CC and)
+       (VBG looking)))
+     (. .)))
+
+
+
+(S1 (S (PP (RB Instead) (IN of) (NP (DT a) (NN birthday)))
+     (, ,)
+     (NP (PRP you))
+     (VP (MD can)
+      (VP (VB get) (NP (PRP me) (NP (DT a) (NN butterfly)))))
+     (. .)))
+
+
+
+(S1 (INTJ (UH Oh) (. .)))
+
+
+
+(S1 (FRAG (CC And) (NP (DT the) (NN butterly)) (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

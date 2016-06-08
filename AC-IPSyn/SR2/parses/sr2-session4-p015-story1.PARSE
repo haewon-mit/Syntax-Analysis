@@ -1,0 +1,186 @@
+
+
+(S1 (S (ADVP (RB once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (NP (DT a) (NN dinosaur)) (VP (VBN named) (S (NP (NNP No)))))) (. .)))
+
+
+
+
+
+(S1 (SQ (MD Should) (NP (PRP I)) (VP (VB say) (NP (NNP Elsa) (CC or) (NNP Sky))) (. ?)))
+
+
+
+
+
+(S1 (S (VP (VB Pick)) (. .)))
+
+
+
+
+
+(S1 (INTJ (UH OK) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Now)) (NP (DT this)) (VP (AUX is) (NP (DT the) (JJ middle) (CD one))) (. .)))
+
+
+
+
+
+(S1 (SQ (MD Should) (NP (PRP I)) (VP (VB pick) (NP (NNP Zoe) (CC or) (NNP Sophie))) (. ?)))
+
+
+
+
+
+(S1 (INTJ (UH OK) (. .)))
+
+
+
+
+
+(S1 (SBARQ (RB So) (SQ (MD should) (NP (PRP I)) (VP (VB pick) (SBAR (S (NP (DT This)) (VP (AUX is) (NP (DT the) (JJ last) (CD one))))))) (. .)))
+
+
+
+
+
+(S1 (SQ (MD should) (NP (PRP I)) (VP (VB pick) (NP (NP (NNP Zoe) (NNP W) (NN name)) (CC or) (NP (NNP Nicholas)))) (. ?)))
+
+
+
+
+
+(S1 (FRAG (INTJ (UH OK)) (, ,) (ADVP (RB so)) (NP (NNP Elsa) (NNP Sophie) (NNP Nicholas)) (. .)))
+
+
+
+
+
+(S1 (INTJ (UH OK) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX were) (NP (NP (CD four)) (, ,) (NP (NNP Elsa) (, ,) (NNP Zoe) (, ,) (NNP S) (NN name)) (, ,) (CC and) (NP (NNP Nicholas)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP$ her) (NNS parents)) (VP (VBD loved) (S (VP (TO to) (VP (VB feed) (NP (PRP her)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP she)) (VP (VBD went) (NP (PDT all) (DT the) (NN time))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP$ her) (NN mommy)) (VP (MD would) (VP (VB come) (ADVP (RB too)))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (NP (JJS most) (NNS times)) (NP (PRP they)) (VP (MD would) (VP (VB play) (NP (VB hide) (CC and) (VB seek)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP She)) (VP (MD would) (VP (AUX be) (NP (DT the) (NN counter)))) (. .)))
+
+
+
+
+
+(S1 (S (UCP (NP (CD One)) (, ,) (NP (NP (CD two) (CD three) (, ,) (CD four) (, ,) (CD five) (, ,) (CD six)) (ADJP (JJ ready))) (CC or) (ADVP (RB not) (RB here))) (NP (PRP I)) (VP (VBP come)) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (VBP see) (NP (PRP you)) (, ,) (INTJ (UH Daddy))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (VBP see) (NP (PRP you))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (VBP see) (NP (PRP you)) (, ,) (S (NP (NNP Mommy)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NP (PRP They)) (NP (DT all))) (VP (VBD got) (PRT (RP out))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP it)) (VP (AUX was) (NP (PRP$ her) (NNS dads) (NN turn))) (. .)))
+
+
+
+
+
+(S1 (S (CC Or) (NP (NNPS Moms)) (VP (VBP turn)) (. .)))
+
+
+
+
+
+(S1 (S (NP (CD One) (, ,) (CD two) (, ,) (CD three) (CC And) (RB then) (NNP Dad)) (VP (MD could) (RB not) (VP (VB find) (NP (PRP them)) (ADVP (RB anywhere)))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (VP (VB feel)) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP They)) (VP (VBD went) (ADVP (RB back)) (ADVP (RB home)) (PP (TO to) (NP (DT the)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (ADVP (RB then)) (NP (PRP they)) (VP (VBD shouted) (, ,) (S (ADJP (JJ boo)))) (. !)))
+
+
+
+
+
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VBP got) (PRT (RP out))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP They)) (VP (MD can) (RB not) (VP (VB get) (NP (DT the) (NN da-da)) (PRT (RP out)))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

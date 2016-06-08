@@ -1,0 +1,589 @@
+FILENAME:sr2-session5-p004-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	STORY
+2	TIME
+3	FRIEND
+5	DAY
+5	HOUSE
+5	RABBITS
+5	SQUIRREL
+6	COOKIES
+7	TURTLE
+8	TICK
+8	TOCK
+10	DOOR
+12	SUNDOWN
+15	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+1	I
+1	WHO
+6	HE
+10	IT
+12	THEM
+13	THEY
+14	US
+14	YOU
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+4	EACH
+4	OTHER
+5	ONE
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A RABBIT
+1	A SQUIRREL
+1	A STORY
+2	A TIME
+3	A FRIEND
+5	ONE DAY
+5	THE RABBITS
+7	A TURTLE
+10	THE DOOR
+15	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+1	A RABBIT
+1	A SQUIRREL
+1	A STORY
+2	A TIME
+3	A FRIEND
+5	THE RABBITS
+7	A TURTLE
+10	THE DOOR
+15	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	ABOUT A RABBIT
+1	TELL A STORY
+2	UPON A TIME
+2	WAS A RABBIT
+3	HAD A FRIEND
+3	WAS A SQUIRREL
+5	TO THE RABBITS
+7	SAW A TURTLE
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+1	FRIENDS
+5	RABBITS
+6	COOKIES
+
+SCORE:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+
+SCORE:	0
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+SCORE:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+13	THEN
+
+SCORE:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	TELL
+1	WANT
+1	WERE
+2	WAS
+3	HAD
+4	LIKED
+5	CAME
+6	BAKING
+7	SAW
+8	PLAY
+10	KNOCKED
+10	OPENED
+11	LOOKING
+11	WENT
+12	FIND
+13	POPED
+14	COUD
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+1	ABOUT
+2	UPON
+5	OVER
+5	TO
+10	DOWN
+11	FOR
+12	UNTIL
+13	OUT
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	ABOUT A RABBIT
+2	UPON A TIME
+5	TO THE RABBITS HOUSE
+11	FOR THEM
+12	UNTIL SUNDOWN
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WERE
+2	 WAS
+3	 WAS
+6	 WAS
+
+SCORE:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WERE
+2	WAS
+3	HAD
+3	WAS
+6	WAS
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+6	BAKING
+11	LOOKING
+
+SCORE:	2
+
+
+###V8	Adverb###
+
+2	ONCE
+4	MUCH
+4	VERY
+11	INSIDE
+12	ANYWHERE
+13	THEN
+14	NOT
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+12	COULD NOT FIND THEM
+
+SCORE:	1
+
+
+###V10	Third person singular present tense suffix###
+
+6	WAS
+
+SCORE:	1
+
+
+###V11	Past tense modal###
+
+12	COULD
+
+SCORE:	1
+
+
+###V12	Regular past tense suffix###
+
+4	LIKED
+8	LIKED
+10	KNOCKED
+10	OPENED
+13	POPED
+
+SCORE:	2
+
+
+###V13	Past tense auxiliary###
+
+1	WERE
+2	WAS
+3	HAD
+3	WAS
+6	WAS
+
+SCORE:	2
+
+
+###V14	Medial adverb###
+
+4	VERY
+11	INSIDE
+12	ANYWHERE
+12	NOT
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+1	 WERE
+2	 WAS
+3	 WAS
+6	 WAS
+
+SCORE:	2
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+SCORE:	0
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+12	HE COULD NOT FIND THEM ANYWHERE UNTIL SUNDOWN .
+14	YOU COUD NOT FIND US !
+
+SCORE:	2
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+12	COULD NOT FIND THEM ANYWHERE UNTIL SUNDOWN
+
+SCORE:	1
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+12	COULD NOT FIND THEM ANYWHERE UNTIL SUNDOWN
+
+SCORE:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	I WANT TO TELL A STORY ABOUT A RABBIT AND A SQUIRREL WHO WERE FRIENDS
+2	ONCE UPON A TIME THERE WAS A RABBIT
+3	HE HAD A FRIEND THAT WAS A SQUIRREL
+4	THEY LIKED EACH OTHER VERY MUCH
+5	ONE DAY SQUIRREL CAME OVER TO THE RABBITS HOUSE
+6	HE WAS BAKING COOKIES
+7	THEN THEY SAW A TURTLE
+8	THEY LIKED TO PLAY TICK TOCK
+9	THEY BOTH
+10	THEN THEY KNOCKED DOWN THE DOOR AND OPENED IT
+11	HE WENT INSIDE LOOKING FOR THEM
+12	HE COULD NOT FIND THEM ANYWHERE UNTIL SUNDOWN
+13	THEN THEY POPED OUT
+14	YOU COUD NOT FIND US
+15	THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+1	I WANT TO TELL 
+3	HE HAD 
+4	THEY LIKED 
+5	ONE DAY SQUIRREL CAME OVER 
+6	HE WAS BAKING 
+8	THEY LIKED TO PLAY 
+9	THEY BOTH
+11	HE WENT INSIDE LOOKING 
+12	HE COULD NOT FIND 
+14	YOU COUD NOT FIND 
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	TO TELL A STORY ABOUT A RABBIT AND A SQUIRREL WHO WERE FRIENDS
+1	WANT TO TELL A STORY ABOUT A RABBIT AND A SQUIRREL WHO WERE FRIENDS
+1	WERE FRIENDS
+2	WAS A RABBIT
+3	HAD A FRIEND THAT WAS A SQUIRREL
+3	WAS A SQUIRREL
+4	LIKED EACH OTHER VERY MUCH
+5	CAME OVER TO THE RABBITS HOUSE
+6	BAKING COOKIES
+6	WAS BAKING COOKIES
+7	SAW A TURTLE
+8	LIKED TO PLAY TICK TOCK
+8	TO PLAY TICK TOCK
+10	KNOCKED DOWN THE DOOR
+10	KNOCKED DOWN THE DOOR AND OPENED IT
+11	LOOKING FOR THEM
+11	WENT INSIDE LOOKING FOR THEM
+12	COULD NOT FIND THEM ANYWHERE UNTIL SUNDOWN
+12	FIND THEM ANYWHERE UNTIL SUNDOWN
+14	COUD NOT FIND US
+14	FIND US
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+1	I WANT TO TELL A STORY ABOUT A RABBIT AND A SQUIRREL WHO WERE FRIENDS
+3	HE HAD A FRIEND THAT WAS A SQUIRREL
+4	THEY LIKED EACH OTHER VERY MUCH
+5	ONE DAY SQUIRREL CAME OVER TO THE RABBITS HOUSE
+6	HE WAS BAKING COOKIES
+8	THEY LIKED TO PLAY TICK TOCK
+11	HE WENT INSIDE LOOKING FOR THEM
+12	HE COULD NOT FIND THEM ANYWHERE UNTIL SUNDOWN
+14	YOU COUD NOT FIND US
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+10	AND
+
+SCORE:	1
+
+
+###S6	Sentence with two VP's###
+
+1	I WANT TO TELL A STORY ABOUT A RABBIT AND A SQUIRREL WHO WERE FRIENDS .
+8	THEY LIKED TO PLAY TICK TOCK .
+10	THEN THEY KNOCKED DOWN THE DOOR AND OPENED IT .
+14	YOU COUD NOT FIND US !
+
+SCORE:	2
+
+
+###S7	Conjoined phrases###
+
+
+SCORE:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+1	WANT TO TELL A STORY ABOUT A RABBIT AND A SQUIRREL WHO WERE FRIENDS
+8	LIKED TO PLAY TICK TOCK
+
+SCORE:	2
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+SCORE:	0
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+1	I WANT TO TELL A STORY ABOUT A RABBIT AND A SQUIRREL WHO WERE FRIENDS .
+3	HE HAD A FRIEND THAT WAS A SQUIRREL .
+
+SCORE:	2
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+1	I WANT TO TELL A STORY ABOUT A RABBIT AND A SQUIRREL WHO WERE FRIENDS .
+
+SCORE:	1
+
+
+###S16	Relative clause marked or unmarked###
+
+1	A SQUIRREL WHO WERE FRIENDS
+3	A FRIEND THAT WAS A SQUIRREL
+
+SCORE:	2
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+6	HE WAS BAKING COOKIES .
+11	HE WENT INSIDE LOOKING FOR THEM .
+
+SCORE:	2
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-15
+NO OF UTTERANCES CONSIDERED: 15
+
+
+#########################
+NOUN SCORE: 15
+VERB SCORE: 27
+QUESTION SCORE: 4
+SENTENCE SCORE: 20
+IPSYN SCORE: 66
+##########################
+
+###Sentence Listing###
+
+1	I WANT TO TELL A STORY ABOUT A RABBIT AND A SQUIRREL WHO WERE FRIENDS .
+2	ONCE UPON A TIME THERE WAS A RABBIT .
+3	HE HAD A FRIEND THAT WAS A SQUIRREL .
+4	THEY LIKED EACH OTHER VERY MUCH .
+5	ONE DAY SQUIRREL CAME OVER TO THE RABBITS HOUSE .
+6	HE WAS BAKING COOKIES .
+7	THEN THEY SAW A TURTLE .
+8	THEY LIKED TO PLAY TICK TOCK .
+9	THEY BOTH .
+10	THEN THEY KNOCKED DOWN THE DOOR AND OPENED IT .
+11	HE WENT INSIDE LOOKING FOR THEM .
+12	HE COULD NOT FIND THEM ANYWHERE UNTIL SUNDOWN .
+13	THEN THEY POPED OUT .
+14	YOU COUD NOT FIND US !
+15	THE END .

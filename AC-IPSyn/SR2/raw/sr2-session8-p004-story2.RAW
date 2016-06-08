@@ -1,0 +1,526 @@
+FILENAME:sr2-session8-p004-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	PLAYGROUND
+1	STORY
+2	KIDS
+2	TIME
+5	HOPSCOTCH
+7	SWINGS
+8	BALL
+10	PLAY
+10	STUFF
+10	TOP
+11	END
+
+COUNTS:	11
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+1	I
+3	THEY
+9	SHE
+
+COUNTS:	3
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	GONNA
+2	THREE
+3	ALL
+4	BOTH
+5	ANOTHER
+6	JEALOUS
+7	THEIR
+8	ONE
+
+COUNTS:	8
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A STORY
+1	THE PLAYGROUND
+2	A TIME
+2	THREE KIDS
+5	ANOTHER BALL
+7	THE SWINGS
+7	THEIR BALLS
+8	A BALL
+8	ONE BALL
+10	THE TOP
+11	THE END
+
+COUNTS:	11
+
+
+###N5	Article used before a noun###
+
+1	A STORY
+1	THE PLAYGROUND
+2	A TIME
+7	THE SWINGS
+8	A BALL
+10	THE TOP
+11	THE END
+
+COUNTS:	7
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	ABOUT THE PLAYGROUND
+1	TELL A STORY
+2	UPON A TIME
+2	WERE THREE KIDS
+3	ON THE PLAYGROUND
+5	GOT ANOTHER BALL
+7	LEAVING THEIR BALLS
+8	CAUGHT A BALL
+10	TO THE TOP
+
+COUNTS:	8
+
+
+###N7	Plural suffix###
+
+2	KIDS
+4	BALLS
+7	SWINGS
+
+COUNTS:	3
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+
+COUNTS:	0
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+8	THE ONE BALL
+
+COUNTS:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+7	DOWN
+9	THEN
+
+COUNTS:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	'M
+1	TELL
+3	WERE
+4	HAD
+5	GOT
+5	PLAYED
+7	LEAVING
+7	WENT
+8	CAUGHT
+9	COMES
+10	CLIMBED
+
+COUNTS:	11
+
+
+###V2	Particle or preposition###
+
+1	ABOUT
+2	UPON
+3	ON
+10	OF
+10	TO
+
+COUNTS:	5
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	ABOUT THE PLAYGROUND
+2	UPON A TIME
+3	ON THE PLAYGROUND
+10	OF PLAY STUFF
+10	TO THE TOP
+
+COUNTS:	4
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	I 'M GONNA
+2	 WERE
+3	 WERE
+6	THEY WERE JEALOUS
+
+COUNTS:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	'M
+2	WERE
+3	WERE
+4	HAD
+6	WERE
+
+COUNTS:	3
+
+
+###V7	Progressive Suffix###
+
+7	LEAVING
+
+COUNTS:	1
+
+
+###V8	Adverb###
+
+2	ONCE
+7	BEHIND
+7	DOWN
+7	INSTEAD
+9	BACK
+9	THEN
+
+COUNTS:	6
+
+
+###V9	Modal preceeding verb###
+
+
+COUNTS:	0
+
+
+###V10	Third person singular present tense suffix###
+
+9	COMES
+
+COUNTS:	1
+
+
+###V11	Past tense modal###
+
+
+COUNTS:	0
+
+
+###V12	Regular past tense suffix###
+
+5	PLAYED
+10	CLIMBED
+
+COUNTS:	2
+
+
+###V13	Past tense auxiliary###
+
+2	WERE
+3	WERE
+4	HAD
+6	WERE
+
+COUNTS:	2
+
+
+###V14	Medial adverb###
+
+4	THEN
+7	DOWN
+7	INSTEAD
+
+COUNTS:	3
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+2	 WERE
+3	 WERE
+6	 WERE
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+COUNTS:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	I 'M GONNA TELL A STORY ABOUT THE PLAYGROUND
+2	ONCE UPON A TIME THERE WERE THREE KIDS
+3	THEY WERE ALL ON THE PLAYGROUND
+4	AND THEN THEY BOTH HAD BALLS
+5	THEY GOT ANOTHER BALL AND PLAYED HOPSCOTCH
+6	THEY WERE JEALOUS
+7	THEY WENT DOWN THE SWINGS INSTEAD LEAVING THEIR BALLS BEHIND
+8	THEN THE ONE BALL AND CAUGHT A BALL
+9	THEN SHE COMES BACK
+10	AND THEN SHE CLIMBED TO THE TOP OF PLAY STUFF
+11	THE END
+
+COUNTS:	6
+
+
+###S2	Subject verb sequence###
+
+1	I 'M 
+3	THEY WERE ALL 
+5	THEY GOT 
+6	THEY WERE 
+7	THEY WENT DOWN 
+
+COUNTS:	5
+
+
+###S3	Verb object sequence###
+
+1	'M GONNA
+2	WERE THREE KIDS
+3	WERE ALL ON THE PLAYGROUND
+4	HAD BALLS
+5	GOT ANOTHER BALL
+5	GOT ANOTHER BALL AND PLAYED HOPSCOTCH
+7	LEAVING THEIR BALLS BEHIND
+7	WENT DOWN THE SWINGS INSTEAD , LEAVING THEIR BALLS BEHIND
+8	AND CAUGHT A BALL
+8	CAUGHT A BALL
+10	CLIMBED TO THE TOP OF PLAY STUFF
+
+COUNTS:	7
+
+
+###S4	Subject Verb Object Sequence###
+
+1	I 'M GONNA
+3	THEY WERE ALL ON THE PLAYGROUND
+5	THEY GOT ANOTHER BALL AND PLAYED HOPSCOTCH
+7	THEY WENT DOWN THE SWINGS INSTEAD , LEAVING THEIR BALLS BEHIND
+
+COUNTS:	1
+
+
+###S5	Conjunction (any)###
+
+10	AND
+
+COUNTS:	1
+
+
+###S6	Sentence with two VP's###
+
+5	THEY GOT ANOTHER BALL AND PLAYED HOPSCOTCH .
+
+COUNTS:	1
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+COUNTS:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+COUNTS:	0
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+
+COUNTS:	0
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+COUNTS:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+7	THEY WENT DOWN THE SWINGS INSTEAD , LEAVING THEIR BALLS BEHIND .
+
+COUNTS:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-11
+NO OF UTTERANCES CONSIDERED: 11
+
+
+#########################
+NOUN COUNTS: 54
+VERB COUNTS: 41
+QUESTION COUNTS: 0
+SENTENCE COUNTS: 22
+TOTAL NO OF STRUCTURES COUNTS: 117
+##########################
+
+###Sentence Listing###
+
+1	I 'M GONNA TELL A STORY ABOUT THE PLAYGROUND .
+2	ONCE UPON A TIME THERE WERE THREE KIDS .
+3	THEY WERE ALL ON THE PLAYGROUND .
+4	AND THEN THEY BOTH HAD BALLS .
+5	THEY GOT ANOTHER BALL AND PLAYED HOPSCOTCH .
+6	THEY WERE JEALOUS .
+7	THEY WENT DOWN THE SWINGS INSTEAD , LEAVING THEIR BALLS BEHIND .
+8	THEN , THE ONE BALL AND CAUGHT A BALL .
+9	THEN SHE COMES BACK .
+10	AND THEN SHE CLIMBED TO THE TOP OF PLAY STUFF .
+11	THE END .

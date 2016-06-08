@@ -1,0 +1,54 @@
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (NP (DT a) (NN village)) (PP (IN with) (NP (NP (NP (NNS lots)) (PP (IN of) (NP (NP (NNS people)) (CC and) (NP (CD one) (JJ bad) (NN guy))))) (CC and) (NP (CD two) (NNS superheros)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (NP (CD one) (NN day)) (NP (DT the) (JJ bad) (NN guy))) (VP (VBD got) (NP (DT a) (JJ new) (NN friend))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (ADVP (RB now)) (NP (EX there)) (VP (AUX was) (NP (CD two) (JJ bad) (NNS guys))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (ADVP (RB once)) (NP (CD one) (NN person)) (VP (VBD saw) (NP (PRP them)) (SBAR (S (NP (PRP they)) (VP (AUX were) (VP (VBD chased) (PRT (RP around))))))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (SBAR (WHADVP (ADVP (RB then)) (WRB when)) (S (NP (DT the) (NNS superheros)) (VP (VBD saw) (NP (PRP them))))) (NP (PRP they)) (VP (VBD tryed) (S (VP (TO to) (VP (VB help))))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (NP (PRP they)) (VP (MD could) (RB not) (VP (VB run) (ADVP (ADVP (RB as) (RB fast)) (SBAR (IN so) (S (NP (PRP they)) (VP (VBD used) (NP (PRP$ their) (NN power)) (S (VP (TO to) (VP (VB fly)))))))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBD got) (NP (PRP them))))) (NP (PRP they)) (VP (VBD put) (NP (PRP them)) (PP (IN in) (NP (DT the) (NN garbage) (NN can)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (ADVP (RB then)) (NP (DT the) (NN village)) (VP (MD could) (VP (VB live) (ADVP (RB happily)) (ADVP (RB ever) (IN after)))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

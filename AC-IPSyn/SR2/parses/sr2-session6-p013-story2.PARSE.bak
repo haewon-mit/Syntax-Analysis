@@ -1,0 +1,243 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was)
+      (NP (NP (DT a) (NN village))
+       (PP (IN with)
+	(NP (NP (NNS fairys))
+	 (CC and)
+	 (NP (NN princesss) (CC and) (NNS kings))
+	 (CC and)
+	 (NP (NNP queens) (CC and) (CD one) (JJ ugly) (NN witch))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT the) (NN witch))
+     (VP (AUX had)
+      (NP (DT a)
+       (JJ green)
+       (NN face)
+       (CC and)
+       (NP (NP (DT a) (JJ long) (NN pointy) (NN nose))
+	(CC and)
+	(NP (DT some) (JJ poisonous) (NN stew)))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP she))
+     (VP (VBD liked)
+      (S (VP (TO to)
+	  (VP (VB kill)
+	   (NP (DT the)
+	    (ADJP (RBS most) (JJ magical))
+	    (NX (NX (NNP princess) (CC and) (NN king))
+	     (CC and)
+	     (NX (NN queen))))))))
+     (. .)))
+
+
+
+(S1 (S (PP (IN So) (NP (CD one) (NN day)))
+     (NP (PRP they))
+     (VP (VBD got) (PRT (RP out)) (PP (IN for) (NP (DT a) (NN walk))))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (PRP they))
+     (VP (VBD made) (NP (DT a) (JJ little) (NN mistake)))
+     (. .)))
+
+
+
+(S1 (S (NP (EX There))
+     (VP (AUX was)
+      (NP (NP (CD two) (NNS paths)) (PP (IN in) (NP (DT this)))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT the) (NN witch))
+     (VP (VBD made)
+      (S (NP (PRP them))
+       (VP (VB go) (PP (TO to) (NP (PRP$ her) (NN house))))))
+     (. .)))
+
+
+
+(S1 (S (IN So)
+     (NP (PRP they))
+     (VP (VBD chose)
+      (S (VP (TO to) (VP (VB follow) (NP (DT the) (NN sign))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (AUX did) (RB not) (VP (VB know)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then)
+      (SBAR (WHADVP (WRB when))
+       (S (NP (PRP they)) (VP (VBD got) (ADVP (RB there))))))
+     (NP (PRP they))
+     (VP (VBD saw) (NP (DT the) (JJ witchs) (NN house)))
+     (. .)))
+
+
+
+(S1 (S (CC And) (NP (PRP they)) (VP (VBD came) (PRT (RP in))) (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (PRP they))
+     (ADVP (RB actually))
+     (VP (AUX did)
+      (RB not)
+      (VP (VB know)
+       (SBAR (S (NP (PRP it))
+	      (VP (AUX was)
+	       (NP (DT the)
+		(JJ witchs)
+		(NN house)
+		(SBAR (IN since)
+		 (S (NP (DT the) (NN witch))
+		  (VP (AUX had) (NP (DT a) (JJ new) (NN house)))))))))))
+     (. .)))
+
+
+
+(S1 (S (CC So)
+     (NP (PRP they))
+     (ADVP (RB just))
+     (VP (VBD went) (ADVP (RB there)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then))
+     (NP (PRP they))
+     (VP (VBD saw) (NP (DT the) (NN witch)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT the) (NN witch))
+     (VP (AUX was)
+      (RB not)
+      (VP (VBG smiling)
+       (CC and)
+       (VBG telling)
+       (NP (PRP them))
+       (S (VP (TO to)
+	   (VP (VB drink) (NP (DT the) (JJ poisonous) (NN stew)))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then))
+     (NP (PRP they))
+     (VP (NN drunk) (NP (PRP it)))
+     (. .)))
+
+
+
+(S1 (S (S (CC And)
+	(ADVP (RB then))
+	(NP (DT the) (NN king))
+	(VP (AUX had)
+	 (S (VP (TO to)
+	     (VP (VB try)
+	      (S (VP (TO to)
+		  (VP (VB stop) (NP (DT the) (NNP princess))))))))))
+     (CC and)
+     (S (NP (DT the) (NNP queens))
+      (VP (AUX had)
+       (NP (DT a) (NN try) (S (VP (TO to) (VP (VB kill)))))))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (DT the) (NNP princess))
+     (VP (AUX had)
+      (ADVP (RB already))
+      (VP (JJ drunk) (NP (DT the) (JJ poisonous) (NN stew))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB then)
+     (NP (PRP she))
+     (VP (VBD fell) (PP (TO to) (NP (DT the) (NN ground))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then))
+     (SBAR (WHADVP (WRB when))
+      (S (NP (PRP they))
+       (VP (VBD brought)
+	(NP (PRP her))
+	(ADVP (RB back) (PP (TO to) (NP (DT the) (NN village)))))))
+     (, ,)
+     (NP (PRP they))
+     (VP (VBD brought)
+      (NP (PRP her))
+      (PP (TO to) (NP (DT a) (JJ magical) (NN king))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP he))
+     (VP (VBD said)
+      (, ,)
+      (S (NP (PRP I))
+       (VP (VBP know)
+	(SBAR (S (NP (PRP I))
+	       (VP (MD can) (VP (AUX do) (NP (DT this)))))))))
+     (. .)))
+
+
+
+(S1 (S (IN So) (NP (PRP he)) (VP (VBD kissed) (NP (PRP her))) (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then))
+     (NP (PRP she))
+     (VP (VBD came) (ADVP (RB back)) (ADJP (JJ alive)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB then)
+     (NP (PRP they))
+     (VP (VBD lived) (ADVP (RB happily)) (ADVP (RB ever) (IN after)))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

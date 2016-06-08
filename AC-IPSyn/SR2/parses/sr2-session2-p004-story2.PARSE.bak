@@ -1,0 +1,113 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (, ,)
+     (NP (EX there))
+     (VP (AUX was) (NP (DT a) (NN prince)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT a) (NNP princess))
+     (VP (VBD wanted)
+      (S (VP (TO to) (VP (VB get) (PP (TO to) (NP (PRP him)))))))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (PRP he))
+     (VP (AUX was)
+      (PP (IN on)
+       (NP (NP (DT the) (JJ other) (NN side))
+	(PP (IN of) (NP (DT a) (NN moat))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT the) (NN drawbridge))
+     (VP (AUX was)
+      (NP (NP (DT the) (JJ only) (NN thing))
+       (SBAR (S (VP (TO to)
+		 (VP (VB get) (PP (IN across) (NP (DT the) (NN moat)))))))))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (DT the) (NNP princess))
+     (VP (AUX was)
+      (ADJP (JJ afraid)
+       (SBAR (IN that)
+	(S (NP (PRP she))
+	 (VP (MD would)
+	  (VP (VB fall) (PP (IN into) (NP (DT the) (NN water)))))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (NNS people))
+     (VP (VBD said)
+      (SBAR (IN that)
+       (S (NP (EX there))
+	(VP (AUX were)
+	 (NP (NP (NNS crocodiles))
+	  (PP (IN in) (NP (DT the) (NN water))))))))
+     (. .)))
+
+
+
+(S1 (S (RB So)
+     (NP (PRP she))
+     (VP (AUX was) (ADJP (RB too) (JJ scared)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB then)
+     (NP (DT the) (NN prince))
+     (VP (VBD knew)
+      (SBAR (IN that)
+       (S (NP (DT the) (NNP princess))
+	(VP (VBD wanted)
+	 (S (VP (TO to)
+	     (VP (AUX have)
+	      (NP (NN fun))
+	      (PP (IN with) (NP (PRP him))))))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT the) (NNP princess))
+     (VP (VBD walked)
+      (PRT (RP forward))
+      (NP (DT a) (JJ little) (NN bit)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB then)
+     (NP (DT the) (NN prince))
+     (VP (VBD walked)
+      (PP (IN across) (NP (DT the) (NN moat)))
+      (ADVP (RB very) (RB carefully)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (VBD lived) (ADVP (RB happily)) (ADVP (RB ever) (IN after)))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

@@ -1,0 +1,42 @@
+
+
+(S1 (S (ADVP (UH OK)) (NP (EX there)) (VP (AUX 's) (NP (DT a) (NN dinosaur))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (DT the) (CD three) (NNS dinosaurs)) (VP (AUX were) (ADJP (JJ good))) (. .)))
+
+
+
+
+
+(S1 (S (CC and) (VP (VB like) (S (VP (TO to) (VP (VB eat) (NP (NN meat)) (PP (RB just) (IN like) (NP (DT the) (NN dinosaur))))))) (. .)))
+
+
+
+
+
+(S1 (S (CC and) (NP (DT the)) (VP (VBN played) (ADVP (RB together))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP they)) (VP (VBP swam) (PP (IN in) (NP (DT the) (NNP pond)))) (. .)))
+
+
+
+
+
+(S1 (FRAG (CC And) (ADVP (PRP they) (CC and)) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

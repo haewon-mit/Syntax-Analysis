@@ -1,0 +1,545 @@
+FILENAME:sr2-session2-p010-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	WANNA
+2	HOURS
+3	RABBIT
+4	SQUIRREL
+7	HIDING
+7	PLACE
+11	TURTLE
+12	HOME
+12	TREE
+13	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+1	I
+3	YOU
+6	IT
+9	THEY
+10	HE
+10	WHERE
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+7	HIS
+
+SCORE:	1
+
+
+###N4	Two word NP preceded by article or modifier###
+
+3	THE RABBIT
+7	HIS HIDING
+11	THE TURTLE
+12	HIS HOME
+12	HIS TREE
+13	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+3	THE RABBIT
+11	THE TURTLE
+13	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+3	TO THE RABBIT
+7	SHOWED HIS HIDING
+11	GOT THE TURTLE
+12	TO HIS HOME
+12	TO HIS TREE
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+2	HOURS
+
+SCORE:	1
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+
+SCORE:	0
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+SCORE:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+5	THEN
+7	SO
+
+SCORE:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	LISTEN
+2	'VE
+2	HIDE
+2	SEARCHED
+2	SEEK
+3	COMES
+3	FOUND
+3	SAYS
+4	FIND
+5	BUMPED
+5	PLAYING
+5	STARTED
+6	'S
+6	GETING
+7	HAD
+7	SHOWED
+9	LIVED
+11	GOT
+12	WENT
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+2	FOR
+5	INTO
+8	UP
+10	TO
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+2	FOR HOURS
+3	TO THE RABBIT
+12	TO HIS HOME
+12	TO HIS TREE
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+6	 'S
+
+SCORE:	1
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+1	WANNA
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+6	'S
+7	HAD
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+5	PLAYING
+6	GETING
+
+SCORE:	2
+
+
+###V8	Adverb###
+
+1	JUST
+4	STILL
+6	LATE
+6	OUT
+7	NOT
+7	SO
+9	THEN
+10	WHERE
+12	UP
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+2	'LL PLAY HIDE AND SEEK
+4	COULD NOT FIND SQUIRREL
+
+SCORE:	2
+
+
+###V10	Third person singular present tense suffix###
+
+3	COMES
+3	SAYS
+
+SCORE:	2
+
+
+###V11	Past tense modal###
+
+2	'LL
+4	COULD
+
+SCORE:	2
+
+
+###V12	Regular past tense suffix###
+
+2	SEARCHED
+5	BUMPED
+5	STARTED
+7	SHOWED
+9	LIVED
+10	LIVED
+
+SCORE:	2
+
+
+###V13	Past tense auxiliary###
+
+7	HAD
+
+SCORE:	1
+
+
+###V14	Medial adverb###
+
+1	JUST
+3	THEN
+4	NOT
+4	STILL
+6	LATE
+9	WHERE
+12	UP
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+
+SCORE:	0
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+SCORE:	0
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+4	BUT HE STILL COULD NOT FIND SQUIRREL .
+7	SO SQUIRREL HAD NOT SHOWED HIS HIDING PLACE .
+
+SCORE:	2
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+SCORE:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+4	COULD NOT FIND SQUIRREL
+7	HAD NOT SHOWED HIS HIDING PLACE
+
+SCORE:	2
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	I JUST WANNA LISTEN
+2	THEY 'LL PLAY HIDE AND SEEK UNTIL THEY 'VE SEARCHED FOR HOURS
+3	THEN HE COMES UP TO THE RABBIT THEN SAYS FOUND YOU
+4	BUT HE STILL COULD NOT FIND SQUIRREL
+5	THEN HE BUMPED INTO AND STARTED PLAYING
+6	AND IT 'S GETING LATE OUT
+7	SO SQUIRREL HAD NOT SHOWED HIS HIDING PLACE
+8	BUT HE WENT UP
+9	THEN HE WENT HOME WHERE THEY LIVED
+10	TURTLE WENT HOME TO WHERE HE LIVED
+11	GOT THE TURTLE OUT
+12	SQUIRREL WENT UP TO HIS TREE BUT WENT TO HIS HOME
+13	AND THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+2	THEY 'LL PLAY 
+2	THEY 'VE SEARCHED 
+9	THEY LIVED
+10	HE LIVED
+10	TURTLE WENT HOME 
+12	SQUIRREL WENT UP 
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+2	'LL PLAY HIDE AND SEEK UNTIL THEY 'VE SEARCHED FOR HOURS
+2	'VE SEARCHED FOR HOURS
+2	PLAY HIDE AND SEEK UNTIL THEY 'VE SEARCHED FOR HOURS
+3	COMES UP TO THE RABBIT THEN SAYS , FOUND YOU
+3	SAYS , FOUND YOU
+4	COULD NOT FIND SQUIRREL
+4	FIND SQUIRREL
+7	HAD NOT SHOWED HIS HIDING PLACE
+7	SHOWED HIS HIDING PLACE
+9	WENT HOME WHERE THEY LIVED
+10	WENT HOME TO WHERE HE LIVED
+11	GOT THE TURTLE OUT
+12	WENT UP TO HIS TREE
+12	WENT UP TO HIS TREE BUT WENT TO HIS HOME
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+2	THEY 'LL PLAY HIDE AND SEEK UNTIL THEY 'VE SEARCHED FOR HOURS
+2	THEY 'VE SEARCHED FOR HOURS
+10	TURTLE WENT HOME TO WHERE HE LIVED
+12	SQUIRREL WENT UP TO HIS TREE BUT WENT TO HIS HOME
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+2	UNTIL
+6	AND
+8	BUT
+
+SCORE:	2
+
+
+###S6	Sentence with two VP's###
+
+2	THEY 'LL PLAY HIDE AND SEEK UNTIL THEY 'VE SEARCHED FOR HOURS .
+3	THEN HE COMES UP TO THE RABBIT THEN SAYS , FOUND YOU .
+5	THEN HE BUMPED INTO AND STARTED PLAYING .
+9	THEN HE WENT HOME WHERE THEY LIVED .
+10	TURTLE WENT HOME TO WHERE HE LIVED .
+12	SQUIRREL WENT UP TO HIS TREE BUT WENT TO HIS HOME .
+
+SCORE:	2
+
+
+###S7	Conjoined phrases###
+
+2	HIDE AND SEEK
+
+SCORE:	1
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+SCORE:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+2	UNTIL
+8	BUT
+
+SCORE:	2
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+9	THEN HE WENT HOME WHERE THEY LIVED .
+10	TURTLE WENT HOME TO WHERE HE LIVED .
+
+SCORE:	2
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+2	THEY 'LL PLAY HIDE AND SEEK UNTIL THEY 'VE SEARCHED FOR HOURS .
+3	THEN HE COMES UP TO THE RABBIT THEN SAYS , FOUND YOU .
+
+SCORE:	2
+
+
+###S16	Relative clause marked or unmarked###
+
+3	THE RABBIT THEN SAYS , FOUND YOU
+
+SCORE:	1
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+5	THEN HE BUMPED INTO AND STARTED PLAYING .
+6	AND IT 'S GETING LATE OUT .
+
+SCORE:	2
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-13
+NO OF UTTERANCES CONSIDERED: 13
+
+
+#########################
+NOUN SCORE: 14
+VERB SCORE: 26
+QUESTION SCORE: 4
+SENTENCE SCORE: 22
+IPSYN SCORE: 66
+##########################
+
+###Sentence Listing###
+
+1	I JUST WANNA LISTEN .
+2	THEY 'LL PLAY HIDE AND SEEK UNTIL THEY 'VE SEARCHED FOR HOURS .
+3	THEN HE COMES UP TO THE RABBIT THEN SAYS , FOUND YOU .
+4	BUT HE STILL COULD NOT FIND SQUIRREL .
+5	THEN HE BUMPED INTO AND STARTED PLAYING .
+6	AND IT 'S GETING LATE OUT .
+7	SO SQUIRREL HAD NOT SHOWED HIS HIDING PLACE .
+8	BUT HE WENT UP .
+9	THEN HE WENT HOME WHERE THEY LIVED .
+10	TURTLE WENT HOME TO WHERE HE LIVED .
+11	GOT THE TURTLE OUT .
+12	SQUIRREL WENT UP TO HIS TREE BUT WENT TO HIS HOME .
+13	AND THE END .

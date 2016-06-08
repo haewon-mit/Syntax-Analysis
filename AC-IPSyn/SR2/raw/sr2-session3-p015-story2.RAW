@@ -1,0 +1,635 @@
+FILENAME:sr2-session3-p015-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	ALIEN
+1	FATHER
+1	TIME
+5	BABY
+6	ROCKETSHIP
+7	DAD
+10	MAMA
+15	PAPA
+17	EEE
+17	OOH
+19	PLACE
+24	HOME
+27	DRESSS
+27	LOTS
+27	STUFF
+28	END
+
+COUNTS:	16
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+7	HIM
+8	IT
+9	EVERYWHERE
+11	I
+11	YOU
+14	THERE
+17	ME
+18	THEY
+
+COUNTS:	8
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+4	-RSB-
+11	WORRIED
+19	ALL
+20	TIRED
+24	THAT
+24	THEIR
+25	ANOTHER
+26	NICE
+27	FANCY
+27	SOME
+
+COUNTS:	10
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A TIME
+2	A FATHER
+5	A BABY
+5	A MAMA
+5	THE FATHER
+6	THE BABY
+7	THE MAMA
+13	THE ROCKETSHIP
+19	THE PLACE
+24	THEIR HOME
+25	ANOTHER PLACE
+27	FANCY STUFF
+27	SOME DRESSS
+28	THE END
+
+COUNTS:	14
+
+
+###N5	Article used before a noun###
+
+1	A TIME
+2	A FATHER
+5	A BABY
+5	A MAMA
+5	THE FATHER
+6	THE BABY
+7	THE MAMA
+13	THE ROCKETSHIP
+19	THE PLACE
+28	THE END
+
+COUNTS:	10
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+1	WAS A FATHER
+5	WAS THE FATHER
+6	IN THE ROCKETSHIP
+24	WAS THEIR HOME
+25	FOUND ANOTHER PLACE
+27	BOUGHT SOME DRESSS
+27	OF FANCY STUFF
+
+COUNTS:	7
+
+
+###N7	Plural suffix###
+
+
+COUNTS:	0
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+22	THE ROCKETSHIP
+
+COUNTS:	1
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+COUNTS:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+1	UPON
+20	THEN
+21	FINALLY
+26	SO
+26	VERY
+
+COUNTS:	5
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+7	FIND
+9	LOOKED
+10	SAID
+12	KNOW
+13	GET
+13	PLEASE
+15	ZOOM
+17	DO
+18	WALKED
+19	WENT
+21	WERE
+22	BROKEN
+23	SHRIEKING
+23	START
+24	WAS
+25	FOUND
+25	LIVE
+26	HAD
+27	BOUGHT
+
+COUNTS:	19
+
+
+###V2	Particle or preposition###
+
+1	UPON
+11	ABOUT
+13	IN
+16	OFF
+27	OF
+
+COUNTS:	5
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+6	IN THE ROCKETSHIP
+11	ABOUT YOU
+13	IN THE ROCKETSHIP
+21	IN THE ROCKETSHIP
+27	OF FANCY STUFF
+
+COUNTS:	4
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+2	 WAS
+5	 WAS
+11	 WAS
+20	THEY WAS SO TIRED
+21	 WERE
+22	 WAS
+24	 WAS
+26	THEY HAD A VERY NICE
+
+COUNTS:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+2	WAS
+5	WAS
+11	WAS
+17	DO
+20	WAS
+21	WERE
+22	WAS
+24	WAS
+26	HAD
+
+COUNTS:	4
+
+
+###V7	Progressive Suffix###
+
+23	SHRIEKING
+
+COUNTS:	1
+
+
+###V8	Adverb###
+
+1	ONCE
+1	UPON
+7	ANYWHERE
+8	NOT
+8	STILL
+9	EVERYWHERE
+14	THERE
+20	THEN
+21	FINALLY
+22	SND
+26	SO
+26	VERY
+
+COUNTS:	12
+
+
+###V9	Modal preceeding verb###
+
+7	COULD NOT FIND HIM
+8	COULD NOT FIND IT
+
+COUNTS:	1
+
+
+###V10	Third person singular present tense suffix###
+
+2	WAS
+
+COUNTS:	1
+
+
+###V11	Past tense modal###
+
+8	COULD
+
+COUNTS:	1
+
+
+###V12	Regular past tense suffix###
+
+9	LOOKED
+16	WALKED
+18	WALKED
+
+COUNTS:	2
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+2	WAS
+5	WAS
+11	WAS
+20	WAS
+21	WERE
+22	WAS
+24	WAS
+26	HAD
+
+COUNTS:	3
+
+
+###V14	Medial adverb###
+
+1	ONCE
+1	UPON
+8	NOT
+8	STILL
+16	THEN
+20	SO
+26	VERY
+
+COUNTS:	7
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+2	 WAS
+5	 WAS
+11	 WAS
+20	 WAS
+21	 WERE
+22	 WAS
+24	 WAS
+
+COUNTS:	2
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+21	FINALLY
+
+COUNTS:	1
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+7	AND THE MAMA AND DAD COULD NOT FIND HIM ANYWHERE .
+8	BUT THEY STILL COULD NOT FIND IT .
+
+COUNTS:	2
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+7	COULD NOT FIND HIM ANYWHERE
+8	COULD NOT FIND IT
+
+COUNTS:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A ONCE UPON A TIME THERE WAS A FATHER ALIEN
+2	THERE WAS A FATHER ALIEN
+5	AND THERE WAS THE FATHER ALIEN A MAMA ALIEN AND A BABY ALIEN
+6	THE BABY ALIEN WENT IN THE ROCKETSHIP
+7	AND THE MAMA AND DAD COULD NOT FIND HIM ANYWHERE
+8	BUT THEY STILL COULD NOT FIND IT
+9	THEY LOOKED EVERYWHERE
+10	MAMA SAID
+11	I WAS SO WORRIED ABOUT YOU
+12	I KNOW
+13	GET IN THE ROCKETSHIP PLEASE
+15	THEN PAPA ZOOM
+16	AND THEN THEY WALKED OFF
+17	OOH EEE DO DE ME ME ME ME
+18	THEY WALKED EVERYWHERE
+19	AND THEY WENT ALL OVER THE PLACE
+20	THEN THEY WAS SO TIRED
+21	FINALLY THEY WERE IN THE ROCKETSHIP
+22	SND THEN THE ROCKETSHIP WAS BROKEN
+23	AND THEY ALL START SHRIEKING
+24	AND THAT WAS THEIR HOME
+25	BUT THEY FOUND ANOTHER PLACE TO LIVE
+26	SO THEY HAD A VERY NICE
+27	AND THEY BOUGHT SOME DRESSS AND LOTS OF FANCY STUFF
+28	THE END
+
+COUNTS:	5
+
+
+###S2	Subject verb sequence###
+
+2	THERE WAS 
+6	THE BABY ALIEN WENT 
+9	THEY LOOKED EVERYWHERE
+10	, MAMA SAID
+11	I WAS 
+12	I KNOW
+17	OOH EEE DO DE ME ME ME 
+18	THEY WALKED EVERYWHERE
+
+COUNTS:	4
+
+
+###S3	Verb object sequence###
+
+1	WAS A FATHER ALIEN
+2	WAS A FATHER ALIEN
+5	WAS THE FATHER ALIEN , A MAMA ALIEN , AND A BABY ALIEN
+6	WENT IN THE ROCKETSHIP
+7	COULD NOT FIND HIM ANYWHERE
+7	FIND HIM ANYWHERE
+8	COULD NOT FIND IT
+8	FIND IT
+11	WAS SO WORRIED ABOUT YOU
+13	GET IN THE ROCKETSHIP , PLEASE
+17	DO DE ME ME ME ME
+19	WENT ALL OVER THE PLACE
+21	WERE IN THE ROCKETSHIP
+24	WAS THEIR HOME
+25	FOUND ANOTHER PLACE TO LIVE
+27	BOUGHT SOME DRESSS AND LOTS OF FANCY STUFF
+
+COUNTS:	1
+
+
+###S4	Subject Verb Object Sequence###
+
+2	THERE WAS A FATHER ALIEN
+6	THE BABY ALIEN WENT IN THE ROCKETSHIP
+11	I WAS SO WORRIED ABOUT YOU
+17	OOH EEE DO DE ME ME ME ME
+
+COUNTS:	4
+
+
+###S5	Conjunction (any)###
+
+8	BUT
+27	AND
+
+COUNTS:	2
+
+
+###S6	Sentence with two VP's###
+
+13	GET IN THE ROCKETSHIP , PLEASE .
+25	BUT THEY FOUND ANOTHER PLACE TO LIVE .
+
+COUNTS:	2
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+25	FOUND ANOTHER PLACE TO LIVE
+
+COUNTS:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+8	BUT
+
+COUNTS:	1
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+
+COUNTS:	0
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+COUNTS:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+25	ANOTHER PLACE TO LIVE
+
+COUNTS:	1
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+23	AND THEY ALL START SHRIEKING .
+
+COUNTS:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-28
+NO OF UTTERANCES CONSIDERED: 28
+
+
+#########################
+NOUN COUNTS: 71
+VERB COUNTS: 65
+QUESTION COUNTS: 3
+SENTENCE COUNTS: 22
+TOTAL NO OF STRUCTURES COUNTS: 161
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A ONCE UPON A TIME THERE WAS A FATHER ALIEN .
+2	THERE WAS A FATHER ALIEN .
+3	-RSB- .
+4	-RSB- .
+5	AND THERE WAS THE FATHER ALIEN , A MAMA ALIEN , AND A BABY ALIEN .
+6	THE BABY ALIEN WENT IN THE ROCKETSHIP .
+7	AND THE MAMA AND DAD COULD NOT FIND HIM ANYWHERE .
+8	BUT THEY STILL COULD NOT FIND IT .
+9	THEY LOOKED EVERYWHERE .
+10	, MAMA SAID .
+11	I WAS SO WORRIED ABOUT YOU .
+12	I KNOW .
+13	GET IN THE ROCKETSHIP , PLEASE .
+14	THERE .
+15	THEN PAPA ZOOM .
+16	AND THEN THEY WALKED OFF .
+17	OOH EEE DO DE ME ME ME ME .
+18	THEY WALKED EVERYWHERE .
+19	AND THEY WENT ALL OVER THE PLACE .
+20	THEN THEY WAS SO TIRED .
+21	FINALLY THEY WERE IN THE ROCKETSHIP .
+22	SND THEN THE ROCKETSHIP WAS BROKEN .
+23	AND THEY ALL START SHRIEKING .
+24	AND THAT WAS THEIR HOME .
+25	BUT THEY FOUND ANOTHER PLACE TO LIVE .
+26	SO THEY HAD A VERY NICE .
+27	AND THEY BOUGHT SOME DRESSS AND LOTS OF FANCY STUFF .
+28	THE END .

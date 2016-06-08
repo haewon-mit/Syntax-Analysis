@@ -1,0 +1,108 @@
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (NP (DT a) (NN snowman)) (SBAR (WHNP (WP who)) (S (VP (VBD stayed)))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NP (CD Two) (NNS penguins)) (SBAR (WHNP (WP who)) (S (VP (VBD loved) (S (VP (TO to) (VP (VB play) (NP (NN One))))))))) (VP (AUX was) (ADJP (JJ Fishy))) (. .)))
+
+
+
+
+
+(S1 (S (NP (CD One)) (VP (AUX was) (NP (NN Iceberg))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NN Iceberg)) (VP (VBD loved) (NP (NNS hats))) (. .)))
+
+
+
+
+
+(S1 (S (RB So) (NP (NP (CD one) (NN time)) (NP (DT a) (NN hat))) (VP (VBD flew) (PP (IN onto) (NP (PRP$ its) (NN head)))) (. .)))
+
+
+
+
+
+(S1 (S (RB Then) (NP (NNP Fishy)) (VP (VBD wanted) (S (VP (TO to) (VP (AUX have) (NP (PRP it)) (PP (IN on) (NP (PRP$ his) (NN head))))))) (. .)))
+
+
+
+
+
+(S1 (S (RB Then) (NP (PRP it)) (VP (VBD rose) (PRT (RP up))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP It)) (VP (VBD rose) (ADVP (RB up)) (PP (TO to))) (. .)))
+
+
+
+
+
+(S1 (FRAG (ADVP (RB Then)) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP It)) (VP (VBD landed) (PP (IN on) (NP (DT the) (NNS snowmans) (NN head)))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (RB then) (NP (PRP it)) (VP (VBD rose)) (. .)))
+
+
+
+
+
+(S1 (S (RB then) (NP (JJ big) (NNS clouds)) (VP (VBD appeared)) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP It)) (VP (VBD started) (S (VP (TO to) (VP (NN snow))))) (. .)))
+
+
+
+
+
+(S1 (SBAR (WHNP (WP what)) (S (VP (VBD happened) (PP (TO to) (NP (DT this) (JJ -RSB-) (NN -RSB-))))) (. .)))
+
+
+
+
+
+(S1 (S (RB Then) (NP (PRP it)) (VP (VBD started) (PP (TO to) (NP (NP (NN snow)) (ADJP (RB really) (, ,) (RB really) (JJ fast))))) (. .)))
+
+
+
+
+
+(S1 (S (RB Then) (NP (PRP It)) (VP (VBD stoped)) (. .)))
+
+
+
+
+
+(S1 (S (RB Then) (NP (DT the) (NN hat) (RB almost)) (VP (VBD flew) (ADVP (RB down))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (NP (DT that)) (VP (AUX was) (NP (DT the) (NN end))) (. .)))
+
+
+

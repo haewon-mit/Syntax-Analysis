@@ -1,0 +1,54 @@
+
+
+(S1 (S (ADVP (RB Once) (RB upon)) (NP (PRP I)) (VP (AUX do) (RB not) (VP (VB tell) (NP (DT a) (NN story)))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (NP (DT a) (NN mom)) (, ,) (CC and) (NP (NP (DT a) (NN baby)) (CC and) (NP (DT a) (NN daddy))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT The) (NN daddy)) (VP (VBD went) (PRT (RP off)) (S (VP (TO to) (VP (VB work))))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (NP (PRP it)) (VP (AUX was) (NP (PRP$ his) (NN birthday))) (. .)))
+
+
+
+
+
+(S1 (S (IN Off) (NP (PRP he)) (VP (VBD went)) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT The) (NN mommy) (CC and) (NN baby)) (VP (JJ baked) (NP (DT a) (NN cake))) (. .)))
+
+
+
+
+
+(S1 (SBARQ (CC And) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD got) (ADVP (RB back))))) (PRN (, ,) (S (NP (PRP he)) (VP (VBD said))) (, ,)) (SQ (AUX did) (NP (PRP you)) (VP (VB make) (NP (DT a) (NN cake)) (PP (IN for) (NP (PRP me))))) (. ?)))
+
+
+
+
+
+(S1 (S (ADVP (RB Yes)) (NP (PRP we)) (VP (AUX did)) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

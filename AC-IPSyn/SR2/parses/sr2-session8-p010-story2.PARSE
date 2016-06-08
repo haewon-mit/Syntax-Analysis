@@ -1,0 +1,138 @@
+
+
+(S1 (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (NP (DT a) (NN story)) (PP (IN about) (NP (NNS aliens)))) (SBAR (CC and))))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (AUX do) (RB not) (VP (NNP wanna) (VP (VB tell) (NP (DT a) (NN story)) (NP (NNP Green))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (AUX do) (RB not) (VP (AUX have) (NP (NP (DT a) (NN story)) (PP (IN in) (NP (PRP$ my) (NN head)))) (ADVP (RB right) (RB now)))) (. .)))
+
+
+
+
+
+(S1 (INTJ (UH OK) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (MD 'll) (VP (VB tell) (NP (DT a) (NN story)))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (NP (NP (DT a) (NN girl)) (VP (VBN named) (NP (NNP Daisy)))) (CC and) (NP (NP (NP (DT a) (NN girl)) (VP (VBN named) (NP (NNP Snowflake)))) (CC and) (NP (NP (DT a) (NN boy)) (VP (VBN named)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP they)) (VP (VBD played) (NP (NN ball)) (PP (IN with) (NP (DT a) (JJ blue) (NN ball)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (NP (DT all)) (PP (IN of) (NP (PRP them)))) (VP (AUX were) (VP (VBG tossing) (NP (PRP it)))) (. .)))
+
+
+
+
+
+(S1 (FRAG (ADVP (DT All) (IN at) (RB once)) (, ,) (NP (DT the) (NNP Olaf)) (. .)))
+
+
+
+
+
+(S1 (SQ (CC And) (. .)))
+
+
+
+
+
+(S1 (FRAG (NP (NNP Daisy)) (. !)))
+
+
+
+
+
+(S1 (X (NNP Uhoh) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (AUX was) (ADJP (RB just) (VBN scared))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Then)) (NP (NNP King) (NNP Ferdinand)) (VP (VBZ says) (, ,) (S (NP (NNP Let) (POS 's)) (VP (VB swing)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (NNP Daisy) (NNP Snowflake)) (VP (VBZ swings)) (. .)))
+
+
+
+
+
+(S1 (X (NNP Olaf) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBZ likes) (S (VP (VBG sliding) (PP (IN down) (NP (DT the)))))) (. .)))
+
+
+
+
+
+(S1 (FRAG (INTJ (UH whee) (UH whee) (UH whee) (UH whee) (UH whee)) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP They)) (VP (VBD wanted) (S (VP (TO to) (VP (AUX do) (NP (PRP it)) (ADVP (RB too)))))) (. .)))
+
+
+
+
+
+(S1 (FRAG (INTJ (UH whee) (UH whee) (UH whee) (UH whee) (UH whee)) (. .)))
+
+
+
+
+
+(S1 (S (NP (NNP Daisy)) (VP (VBD wanted) (S (VP (TO to) (VP (, ,) (ADVP (RB too)))))) (. .)))
+
+
+
+
+
+(S1 (FRAG (X (FW whee) (FW whee) (FW whee) (FW whee) (FW whee) (FW whee) (FW whee) (FW whee)) (INTJ (UH whee)) (. .)))
+
+
+
+
+
+(S1 (FRAG (CC And) (NP (DT the) (NN end)) (. .)))
+
+
+

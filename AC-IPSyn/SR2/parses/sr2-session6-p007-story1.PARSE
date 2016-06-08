@@ -1,0 +1,90 @@
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (NP (DT a) (JJ little) (NNP princess)) (VP (VBN named) (S (NP (NNP Tiana)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP$ her) (NN prince)) (VP (VBN lived) (PP (IN in) (NP (PRP$ his) (NN castle)))) (. .)))
+
+
+
+
+
+(S1 (FRAG (WHADVP (WRB When)) (NP (NNP Tiana)) (ADVP (RB away)) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT The) (NN prince)) (VP (AUX did) (RB not) (VP (VB know) (SBAR (WHNP (WDT which) (NN path)) (S (NP (PRP she)) (VP (VBD took)))))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB So)) (NP (PRP he)) (VP (VBD took) (NP (DT the) (JJ wrong) (NN way))) (. .)))
+
+
+
+
+
+(S1 (FRAG (CC And) (ADVP (RB then)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBD came) (ADVP (RB back) (PP (TO to) (NP (PRP$ his) (NN castle) (S (VP (TO to) (VP (VB look) (SBAR (CC and) (S (NP (DT the) (NN crocodile)) (VP (AUX had) (VP (VBN guarded) (NP (PRP it))))))))))))))) (. .)))
+
+
+
+
+
+(S1 (S (VP (VB Give) (NP (NP (PRP me)) (ADVP (RB back))) (NP (PRP$ my) (NN castle))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP he)) (VP (VBD dove) (PP (IN into) (NP (DT the) (NN river)))) (. .)))
+
+
+
+
+
+(S1 (S (CC and) (RB then) (NP (DT the) (NN prince)) (ADVP (RB hurriedly)) (VP (VBD jumped) (ADVP (RB back) (RB in)) (PP (IN out) (PP (IN of) (NP (NP (NN sight)) (PP (TO to) (NP (PRP$ his) (NN castle))))))) (. .)))
+
+
+
+
+
+(S1 (S (RB Then) (NP (DT the) (NN crocodile)) (VP (VBN guarded) (NP (PRP him))) (. .)))
+
+
+
+
+
+(S1 (S (RB Then) (NP (NNP Tiana)) (VP (VBD moved) (ADVP (RB back) (PP (TO to) (NP (NN castle))))) (. .)))
+
+
+
+
+
+(S1 (SBARQ (CC And) (SBAR (WHADVP (WRB when)) (S (NP (PRP she)) (VP (VBD saw) (S (NP (DT the) (NN crocodile)) (VP (VBG guarding) (SBAR (S (NP (PRP she)) (VP (VBD said))))))))) (, ,) (WHADVP (WRB where)) (SQ (VP (AUX 's) (NP (PRP$ my) (NN prince)))) (. ?)))
+
+
+
+
+
+(S1 (S (CC And) (ADVP (RB then)) (NP (DT the) (NN crocodile)) (VP (VBD dove) (PP (IN into) (NP (DT the) (NN river)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NNP Tiana)) (VP (VBD moved) (PP (TO to) (NP (DT the) (JJ other) (NN side)))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

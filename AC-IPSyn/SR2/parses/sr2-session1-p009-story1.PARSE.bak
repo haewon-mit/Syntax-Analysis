@@ -1,0 +1,138 @@
+
+(S1 (S (NP (EX There))
+     (VP (AUX was)
+      (NP (NP (DT a) (JJ little) (NN penguin))
+       (SBAR (WHNP (WP who))
+	(S (VP (VBD lived)
+	    (PP (IN on)
+	     (NP (NP (NN top)) (PP (IN of) (NP (DT a) (NN iceberg))))))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VBD loved) (S (VP (TO to) (VP (VB dance)))))
+     (. .)))
+
+
+
+(S1 (S (NP (CD One) (NN day)) (VP (SYM a)) (. .)))
+
+
+
+(S1 (S (NP (PRP You))
+     (VP (VBP make) (S (NP (NNS things)) (ADJP (RB together))))
+     (. .)))
+
+
+
+(S1 (NP (NN Da) (NN da) (NN da) (. .)))
+
+
+
+(S1 (FRAG (CC And) (NP (DT these)) (. .)))
+
+
+
+(S1 (S (RB Then)
+     (NP (NP (PRP they)) (NP (DT all)))
+     (VP (VBD went)
+      (S (VP (TO to)
+	  (VP (VB ski)
+	   (UCP (PP (IN in) (NP (DT the) (NN iceberg)))
+	    (, ,)
+	    (VP (VBN jumped) (PP (IN over) (NP (NNS snowmens))))
+	    (, ,)
+	    (CC and))))))
+     (. .)))
+
+
+
+(S1 (X (NNP Ooo) (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (VBD landed)
+      (PP (IN on)
+       (NP (NP (NN top)) (PP (IN of) (NP (DT each) (JJ other)))))
+      (SBAR (IN before)
+       (S (NP (PRP they))
+	(VP (VBD slid) (PP (IN off) (NP (DT the) (NN screen)))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (VBD went)
+      (NP (PDT all) (DT the) (NN way))
+      (ADVP (NN home))
+      (PP (IN with)
+       (S (NP (DT the) (NN seal)) (VP (VBG moving) (ADVP (RB away))))))
+     (. .)))
+
+
+
+(S1 (INTJ (UH Whee) (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (ADVP (RB right)) (VBP back) (PRT (RP up)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT the) (NN visitor))
+     (VP (VBD saved)
+      (NP (PRP$ their) (NN supper) (CC and) (NN lunch))
+      (NP (DT the) (JJ next) (NN day)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP he))
+     (VP (VBD stayed) (PP (IN for) (NP (NNS days))))
+     (. .)))
+
+
+
+(S1 (SBARQ (CC And)
+     (WHNP (WP What))
+     (SQ (VP (VB make) (NP (DT that) (NN hat))))
+     (. ?)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (AUX had)
+      (NP (DT a) (NN dance) (NN party))
+      (SBAR (IN before) (S (NP (PRP they)) (VP (VBD went)))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (CD two))
+     (VP (NN dancing) (NP (NNS penguins)))
+     (. !)))
+
+
+
+(S1 (S (NP (DT That)) (VP (AUX is) (NP (DT the) (NN end))) (. .)))
+
+
+
+(S1 (S (NP (NNP Bye)) (VP (VBD bye)) (. .)))
+
+
+
+(S1 (S (VP (VB Hide)) (. ?)))
+
+
+
+(S1 (INTJ (UH No) (. .)))
+
+

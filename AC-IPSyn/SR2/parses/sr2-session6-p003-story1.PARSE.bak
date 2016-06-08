@@ -1,0 +1,16 @@
+
+(S1 (S (NP (PRP I))
+     (VP (AUX do)
+      (RB not)
+      (VP (NNP wanna) (VP (AUX do) (NP (DT a) (NN story)))))
+     (. .)))
+
+
+
+(S1 (SBARQ (S (ADJP (JJ Green)))
+     (, ,)
+     (WHADVP (WRB why))
+     (SQ (AUX do) (RB not) (NP (PRP you)) (NP (DT another) (NN story)))
+     (. ?)))
+
+

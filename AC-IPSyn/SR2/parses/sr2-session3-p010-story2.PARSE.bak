@@ -1,0 +1,100 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX were)
+      (NP (NP (NNS aliens))
+       (SBAR (WHNP (WDT that))
+	(S (VP (AUX were)
+	    (VP (VBG flying) (PP (IN in) (NP (NN outerspace)))))))))
+     (. .)))
+
+
+
+(S1 (S (NP (NNP Mama))
+     (VP (VBD said)
+      (, ,)
+      (S (VP (VB Let)
+	  (S (VP (POS 's) (VP (VB go) (ADVP (NN home))))))))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (DT the))
+     (VP (MD would) (RB not) (VP (VB listen)))
+     (. .)))
+
+
+
+(S1 (S (NP (WP What)) (, ,) (NP (PRP he)) (VP (VBD said)) (. .)))
+
+
+
+(S1 (FRAG (PP (IN That) (NP (DT the) (JJ other))) (. .)))
+
+
+
+(S1 (S (ADVP (RB Then))
+     (NP (DT the) (NN meteor))
+     (VP (MD would)
+      (VP (VB come)
+       (PP (TO to)
+	(NP (NP (RB somewhere))
+	 (SBAR (WHNP (WDT that)) (S (VP (AUX was))))))))
+     (. .)))
+
+
+
+(S1 (FRAG (NP (NNP Cootie)) (. !)))
+
+
+
+(S1 (SBARQ (RB Cootie)
+     (, ,)
+     (WHADVP (WRB where))
+     (SQ (AUX are) (NP (PRP you)))
+     (. ?)))
+
+
+
+(S1 (FRAG (NP (NNP Cootie)) (. ?)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP she))
+     (VP (VP (VBZ flys)) (CC and) (VP (VBP go) (ADVP (RB fast))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP she))
+     (VP (VBD found) (NP (DT the) (NN rock)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP It)) (VP (AUX 's) (ADVP (RB right) (RB there))) (. .)))
+
+
+
+(S1 (S (RB Then) (NP (PRP they)) (VP (VB blast) (PRT (RP off))) (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (AUX have) (NP (DT a) (NN rocketship)))
+     (. .)))
+
+
+
+(S1 (S (VP (VB Blast) (PRT (RP off))) (. !)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

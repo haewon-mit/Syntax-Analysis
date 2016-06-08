@@ -1,0 +1,525 @@
+FILENAME:sr2-session2-p004-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	RABBIT
+1	TIME
+2	FRIENDS
+6	EYES
+7	TREE
+8	BUSH
+10	SQUIRREL
+11	TURTLE
+12	DARK
+13	END
+
+COUNTS:	10
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+2	HE
+3	THEM
+4	THEY
+6	SHE
+12	IT
+
+COUNTS:	5
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	LITTLE
+6	HER
+9	LONG
+12	ALL
+12	ASLEEP
+
+COUNTS:	5
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A TIME
+1	LITTLE RABBIT
+6	HER EYES
+7	A TREE
+8	A BUSH
+9	LONG TIME
+13	THE END
+
+COUNTS:	7
+
+
+###N5	Article used before a noun###
+
+1	A TIME
+7	A TREE
+8	A BUSH
+13	THE END
+
+COUNTS:	4
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+6	HID HER EYES
+7	BEHIND A TREE
+
+COUNTS:	3
+
+
+###N7	Plural suffix###
+
+2	FRIENDS
+6	EYES
+
+COUNTS:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+
+COUNTS:	0
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+1	A LITTLE RABBIT
+
+COUNTS:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+9	VERY
+
+COUNTS:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	WAS
+2	HAD
+2	WERE
+3	PASSED
+3	WALKED
+4	HIDE
+4	PLAYED
+4	SEEK
+5	COUNTED
+7	HID
+9	LOOKED
+10	FOUND
+12	FELL
+12	GETING
+
+COUNTS:	14
+
+
+###V2	Particle or preposition###
+
+1	UPON
+3	DOWN
+3	TO
+7	BEHIND
+9	FOR
+12	OUT
+
+COUNTS:	6
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+3	TO THEM
+7	BEHIND A TREE
+9	FOR A VERY LONG TIME
+
+COUNTS:	1
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+2	 WERE
+12	 WAS
+
+COUNTS:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+2	HAD
+2	WERE
+12	WAS
+
+COUNTS:	3
+
+
+###V7	Progressive Suffix###
+
+12	GETING
+
+COUNTS:	1
+
+
+###V8	Adverb###
+
+1	ONCE
+5	FIRST
+9	VERY
+10	EVENTUALLY
+12	THEN
+
+COUNTS:	5
+
+
+###V9	Modal preceeding verb###
+
+
+COUNTS:	0
+
+
+###V10	Third person singular present tense suffix###
+
+12	WAS
+
+COUNTS:	1
+
+
+###V11	Past tense modal###
+
+
+COUNTS:	0
+
+
+###V12	Regular past tense suffix###
+
+3	PASSED
+3	WALKED
+4	PLAYED
+5	COUNTED
+9	LOOKED
+
+COUNTS:	5
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+2	HAD
+2	WERE
+12	WAS
+
+COUNTS:	3
+
+
+###V14	Medial adverb###
+
+9	VERY
+11	THEN
+
+COUNTS:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+2	 WERE
+12	 WAS
+
+COUNTS:	2
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+10	EVENTUALLY
+
+COUNTS:	1
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+COUNTS:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS A LITTLE RABBIT
+2	AND HE HAD FRIENDS THAT WERE TURTLE AND SQUIRREL
+3	AND HE WALKED DOWN AND PASSED TO THEM
+4	AND THEY PLAYED HIDE AND SEEK
+5	FIRST RABBIT COUNTED
+6	SHE HID HER EYES
+7	TURTLE HID BEHIND A TREE
+8	AND SQUIRREL HID BEHIND A BUSH
+9	RABBIT LOOKED FOR A VERY LONG TIME
+10	EVENTUALLY SHE FOUND SQUIRREL
+11	AND THEN SHE FOUND TURTLE
+12	AND THEN THEY ALL FELL ASLEEP BECAUSE IT WAS GETING DARK OUT
+13	THE END
+
+COUNTS:	9
+
+
+###S2	Subject verb sequence###
+
+6	SHE HID 
+7	TURTLE HID 
+9	RABBIT LOOKED 
+12	IT WAS GETING 
+
+COUNTS:	4
+
+
+###S3	Verb object sequence###
+
+1	WAS A LITTLE RABBIT
+2	HAD FRIENDS THAT WERE TURTLE AND SQUIRREL
+2	WERE TURTLE AND SQUIRREL
+3	WALKED DOWN AND PASSED TO THEM
+4	PLAYED HIDE AND SEEK
+6	HID HER EYES
+7	HID BEHIND A TREE
+8	HID BEHIND A BUSH
+9	LOOKED FOR A VERY LONG TIME
+10	FOUND SQUIRREL
+11	FOUND TURTLE
+12	FELL ASLEEP BECAUSE IT WAS GETING DARK OUT
+12	WAS GETING DARK OUT
+
+COUNTS:	6
+
+
+###S4	Subject Verb Object Sequence###
+
+6	SHE HID HER EYES
+7	TURTLE HID BEHIND A TREE
+9	RABBIT LOOKED FOR A VERY LONG TIME
+12	IT WAS GETING DARK OUT
+
+COUNTS:	3
+
+
+###S5	Conjunction (any)###
+
+3	AND
+12	BECAUSE
+
+COUNTS:	2
+
+
+###S6	Sentence with two VP's###
+
+3	AND HE WALKED DOWN AND PASSED TO THEM .
+4	AND THEY PLAYED HIDE AND SEEK .
+
+COUNTS:	1
+
+
+###S7	Conjoined phrases###
+
+2	TURTLE AND SQUIRREL
+4	HIDE AND SEEK
+
+COUNTS:	2
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+COUNTS:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+12	BECAUSE
+
+COUNTS:	1
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+2	AND HE HAD FRIENDS THAT WERE TURTLE AND SQUIRREL .
+
+COUNTS:	1
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+4	AND THEY PLAYED HIDE AND SEEK .
+
+COUNTS:	1
+
+
+###S16	Relative clause marked or unmarked###
+
+2	FRIENDS THAT WERE TURTLE AND SQUIRREL
+
+COUNTS:	1
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+12	AND THEN THEY ALL FELL ASLEEP BECAUSE IT WAS GETING DARK OUT .
+
+COUNTS:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-13
+NO OF UTTERANCES CONSIDERED: 13
+
+
+#########################
+NOUN COUNTS: 38
+VERB COUNTS: 46
+QUESTION COUNTS: 0
+SENTENCE COUNTS: 32
+TOTAL NO OF STRUCTURES COUNTS: 116
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS A LITTLE RABBIT .
+2	AND HE HAD FRIENDS THAT WERE TURTLE AND SQUIRREL .
+3	AND HE WALKED DOWN AND PASSED TO THEM .
+4	AND THEY PLAYED HIDE AND SEEK .
+5	FIRST , RABBIT COUNTED .
+6	SHE HID HER EYES .
+7	TURTLE HID BEHIND A TREE .
+8	AND SQUIRREL HID BEHIND A BUSH .
+9	RABBIT LOOKED FOR A VERY LONG TIME .
+10	EVENTUALLY , SHE FOUND SQUIRREL .
+11	AND THEN , SHE FOUND TURTLE .
+12	AND THEN THEY ALL FELL ASLEEP BECAUSE IT WAS GETING DARK OUT .
+13	THE END .

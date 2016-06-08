@@ -1,0 +1,531 @@
+FILENAME:sr2-session1-p009-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	DAY
+4	SWINGS
+5	LEGS
+7	BALL
+7	BOY
+9	GIRL
+11	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+4	IT
+4	THERE
+6	HER
+7	I
+8	SHE
+9	WHO
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	LITTLE
+1	ONE
+2	ANOTHER
+5	ABLE
+5	HER
+9	THAT
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	LITTLE GIRL
+1	ONE DAY
+2	ANOTHER GIRL
+4	THE SWINGS
+5	HER LEGS
+7	A BOY
+7	THE BALL
+9	THE GIRL
+11	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+4	THE SWINGS
+7	A BOY
+7	THE BALL
+9	THE GIRL
+11	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	IN THE SWING
+4	AT THE SWINGS
+4	TOOK THE BALL
+5	MADE HER LEGS
+7	ON THE BALL
+8	ON THE SWING
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+4	SWINGS
+5	LEGS
+
+SCORE:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+2	ANOTHER GIRL
+7	A BOY
+
+SCORE:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+1	A LITTLE GIRL
+
+SCORE:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+2	THEN
+4	SO
+5	NNS
+
+SCORE:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	'S
+1	SWINGING
+4	HID
+4	TOOK
+5	BE
+5	MADE
+5	REACH
+6	FALL
+7	SAID
+8	WENT
+9	FORGOT
+9	PLAY
+9	WANTED
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+1	IN
+4	AT
+6	OFF
+7	ON
+10	WITH
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	IN THE SWING
+4	AT THE SWINGS
+7	ON THE BALL
+8	ON THE SWING
+10	WITH THE BOY
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 'S
+5	 BE
+
+SCORE:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	1
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	'S
+
+SCORE:	1
+
+
+###V7	Progressive Suffix###
+
+1	SWINGING
+
+SCORE:	1
+
+
+###V8	Adverb###
+
+2	THEN
+4	AWAY
+4	THERE
+5	NOT
+8	BACK
+8	SO
+9	ALL
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+
+SCORE:	0
+
+
+###V10	Third person singular present tense suffix###
+
+
+SCORE:	0
+
+
+###V11	Past tense modal###
+
+
+SCORE:	0
+
+
+###V12	Regular past tense suffix###
+
+2	WANTED
+3	WANTED
+9	WANTED
+10	PLAYED
+
+SCORE:	2
+
+
+###V13	Past tense auxiliary###
+
+
+SCORE:	0
+
+
+###V14	Medial adverb###
+
+4	AWAY
+4	THERE
+8	BACK
+8	SO
+9	ALL
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+
+SCORE:	0
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+SCORE:	0
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+5	AND SHE MADE HER LEGS NOT BE ABLE TO REACH .
+
+SCORE:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+SCORE:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+SCORE:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	ONE DAY THERE 'S A LITTLE GIRL WHO 'S SWINGING IN THE SWING
+2	THEN ANOTHER GIRL WANTED TO PLAY BALL
+3	BUT SHE WANTED TO SWING
+4	SO SHE TOOK THE BALL AWAY AND HID IT THERE AT THE SWINGS
+5	AND SHE MADE HER LEGS NOT BE ABLE TO REACH
+6	AND HER FALL OFF THE SWING
+7	AND A BOY SAID I WANT TO PLAY ON THE BALL
+8	AND SO SHE WENT BACK ON THE SWING
+9	AND THE GIRL WHO WANTED TO PLAY BALL FORGOT ALL ABOUT THAT
+10	HER PLAYED BALL WITH THE BOY AND
+11	THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+1	ONE DAY THERE 'S 
+7	I WANT TO PLAY 
+10	HER PLAYED 
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	'S A LITTLE GIRL WHO 'S SWINGING IN THE SWING
+1	'S SWINGING IN THE SWING
+2	TO PLAY BALL
+2	WANTED TO PLAY BALL
+4	TOOK THE BALL AWAY
+4	TOOK THE BALL AWAY AND HID IT THERE , AT THE SWINGS
+5	BE ABLE TO REACH
+5	MADE HER LEGS NOT BE ABLE TO REACH
+6	FALL OFF THE SWING
+7	SAID , I WANT TO PLAY ON THE BALL
+7	WANT TO PLAY ON THE BALL
+8	WENT BACK ON THE SWING
+9	TO PLAY BALL
+9	WANTED TO PLAY BALL
+10	PLAYED BALL WITH THE BOY AND
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+1	ONE DAY THERE 'S A LITTLE GIRL WHO 'S SWINGING IN THE SWING
+7	I WANT TO PLAY ON THE BALL
+10	HER PLAYED BALL WITH THE BOY AND
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+3	BUT
+9	AND
+
+SCORE:	2
+
+
+###S6	Sentence with two VP's###
+
+2	THEN ANOTHER GIRL WANTED TO PLAY BALL .
+3	BUT SHE WANTED TO SWING .
+4	SO SHE TOOK THE BALL AWAY AND HID IT THERE , AT THE SWINGS .
+5	AND SHE MADE HER LEGS NOT BE ABLE TO REACH .
+7	AND A BOY SAID , I WANT TO PLAY ON THE BALL .
+9	AND THE GIRL , WHO WANTED TO PLAY BALL , FORGOT ALL ABOUT THAT .
+
+SCORE:	2
+
+
+###S7	Conjoined phrases###
+
+
+SCORE:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+2	WANTED TO PLAY BALL
+3	WANTED TO SWING
+5	BE ABLE TO REACH
+7	WANT TO PLAY ON THE BALL
+9	WANTED TO PLAY BALL
+
+SCORE:	2
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+3	BUT
+
+SCORE:	1
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+1	ONE DAY THERE 'S A LITTLE GIRL WHO 'S SWINGING IN THE SWING .
+9	AND THE GIRL , WHO WANTED TO PLAY BALL , FORGOT ALL ABOUT THAT .
+
+SCORE:	2
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+5	AND SHE MADE HER LEGS NOT BE ABLE TO REACH .
+7	AND A BOY SAID , I WANT TO PLAY ON THE BALL .
+9	AND THE GIRL , WHO WANTED TO PLAY BALL , FORGOT ALL ABOUT THAT .
+
+SCORE:	2
+
+
+###S16	Relative clause marked or unmarked###
+
+1	A LITTLE GIRL WHO 'S SWINGING IN THE SWING
+
+SCORE:	1
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+1	ONE DAY THERE 'S A LITTLE GIRL WHO 'S SWINGING IN THE SWING .
+
+SCORE:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-11
+NO OF UTTERANCES CONSIDERED: 11
+
+
+#########################
+NOUN SCORE: 19
+VERB SCORE: 17
+QUESTION SCORE: 1
+SENTENCE SCORE: 21
+IPSYN SCORE: 58
+##########################
+
+###Sentence Listing###
+
+1	ONE DAY THERE 'S A LITTLE GIRL WHO 'S SWINGING IN THE SWING .
+2	THEN ANOTHER GIRL WANTED TO PLAY BALL .
+3	BUT SHE WANTED TO SWING .
+4	SO SHE TOOK THE BALL AWAY AND HID IT THERE , AT THE SWINGS .
+5	AND SHE MADE HER LEGS NOT BE ABLE TO REACH .
+6	AND HER FALL OFF THE SWING .
+7	AND A BOY SAID , I WANT TO PLAY ON THE BALL .
+8	AND SO SHE WENT BACK ON THE SWING .
+9	AND THE GIRL , WHO WANTED TO PLAY BALL , FORGOT ALL ABOUT THAT .
+10	HER PLAYED BALL WITH THE BOY AND .
+11	THE END .

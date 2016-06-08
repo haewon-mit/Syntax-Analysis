@@ -1,0 +1,59 @@
+
+(S1 (SQ (MD Would) (NP (PRP you)) (VP (VB like)) (. ?)))
+
+
+
+(S1 (INTJ (JJ Sure) (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (PRP it))
+     (VP (AUX 's) (NP (DT a) (NNP dragon)))
+     (. .)))
+
+
+
+(S1 (S (NP (NN Butterfly)) (VP (VB hide)) (. .)))
+
+
+
+(S1 (S (VP (VBD Found) (NP (PRP you))) (. .)))
+
+
+
+(S1 (S (NP (PRP I))
+     (VP (AUX 'm)
+      (RB gonna)
+      (VP (VB eat) (NP (PRP you)) (PRT (RP up))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP I))
+     (VP (AUX 'm)
+      (RB gonna)
+      (VP (VB eat) (NP (PRP you)) (PRT (RP up))))
+     (. .)))
+
+
+
+(S1 (INTJ (UH No) (. .)))
+
+
+
+(S1 (S (NP (PRP I))
+     (ADVP (RB just))
+     (VP (VBD wanted)
+      (S (VP (TO to) (VP (AUX be) (NP (NNS friends))))))
+     (. .)))
+
+
+
+(S1 (INTJ (INTJ (UH Aw)) (, ,) (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

@@ -1,0 +1,108 @@
+
+(S1 (NP (CD +) (NN CHILD)))
+
+
+
+(S1 (NP (JJ +) (NN ID) (: :)))
+
+
+
+(S1 (NP (JJ +) (NN Session) (: :)))
+
+
+
+(S1 (NP (NP (CD +) (NN Context)) (: :) (NP (NNP NAR))))
+
+
+
+(S1 (X (: -) (NP (CD 0)) (: :) (VP (VBN 00))))
+
+
+
+(S1 (S (X (SYM C))
+     (NP (PRP She))
+     (VP (VBZ wants) (NP (DT the) (NN ball)))
+     (. .)))
+
+
+
+(S1 (S (NP (NNP C) (CC And) (PRP she)) (VP (MD 'll)) (. .)))
+
+
+
+(S1 (S (NP (NNP C) (CC And) (PRP he))
+     (VP (VBD said) (, ,) (NP (EX There)))
+     (. .)))
+
+
+
+(S1 (S (NP (SYM C))
+     (CC And)
+     (RB then)
+     (NP (PRP they))
+     (VP (VBP see) (NP (DT another) (NN ball)))
+     (. .)))
+
+
+
+(S1 (S (X (SYM C))
+     (RB Then)
+     (NP (PRP she))
+     (VP (VBD got) (NP (DT the)))
+     (. .)))
+
+
+
+(S1 (S (NP (SYM C)) (ADVP (RB Then)) (VP (VBP pop)) (. .)))
+
+
+
+(S1 (FRAG (X (SYM C)) (NP (NNP Whee)) (. .)))
+
+
+
+(S1 (S (X (SYM C))
+     (NP (PRP$ His) (NN ball))
+     (VP (AUX is) (PP (IN on) (NP (DT the) (JJ sled))))
+     (. .)))
+
+
+
+(S1 (S (NP (NNP C) (CC And) (PRP she))
+     (VP (VBZ goes) (PP (IN up) (NP (DT the) (NN ledge))))
+     (. .)))
+
+
+
+(S1 (FRAG (X (SYM C)) (NP (RB Up)) (. .)))
+
+
+
+(S1 (X (X (SYM C)) (. pkoo)))
+
+
+
+(S1 (S (X (SYM C))
+     (NP (PRP They))
+     (VP (AUX were)
+      (VP (VBG going) (S (VP (TO to) (VP (VB swing))))))
+     (. .)))
+
+
+
+(S1 (FRAG (X (SYM C)) (VP (CC And) (NP (PRP$ your) (NN turn))) (. !)))
+
+
+
+(S1 (X (SYM C)))
+
+
+
+(S1 (S (NP (NNP C) (NNP Lookit))
+     (, ,)
+     (NP (PRP he))
+     (VP (AUX 's)
+      (PP (IN on) (NP (NP (DT the) (NN top)) (PP (IN of)))))
+     (. .)))
+
+

@@ -1,0 +1,101 @@
+
+(S1 (S (ADVP (RB Once))
+     (NP (EX there))
+     (VP (AUX was) (NP (CD three) (NNS animals)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT a) (NN mama) (NN animal))
+     (VP (VBD went)
+      (ADVP (RB inside))
+      (S (VP (TO to) (VP (VB make) (NP (NN cookie) (NN dough))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT the) (NN dad))
+     (VP (AUX had)
+      (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (VB work)))))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB So))
+     (NP (PRP he))
+     (VP (VBD took) (PRT (RP off)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PDT all) (EX there))
+     (VP (AUX was)
+      (SBAR (S (VP (AUX is) (NP (RB just) (DT the) (NN daughter))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP She)) (VP (VBD walked) (ADVP (RB inside))) (. .)))
+
+
+
+(S1 (SBARQ (S (NP (NN Mom)))
+     (, ,)
+     (WHNP (WP what))
+     (SQ (AUX are) (NP (PRP you)) (VP (VBG making)))
+     (. ?)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then))
+     (NP (PRP they))
+     (VP (VBD saw) (NP (DT a) (NN ship)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (VBD noticed)
+      (SBAR (IN that)
+       (S (NP (PRP it)) (VP (AUX was) (VP (VBG sinking))))))
+     (. .)))
+
+
+
+(S1 (SQ (CC And) (. .)))
+
+
+
+(S1 (FRAG (CC And) (NP (PRP they)) (. .)))
+
+
+
+(S1 (FRAG (ADJP (JJ first)) (. .)))
+
+
+
+(S1 (INTJ (UH Aw) (. .)))
+
+
+
+(S1 (S (NP (NNP Mommy))
+     (, ,)
+     (NP (EX there))
+     (VP (NN tomorrow))
+     (. ?)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT that))
+     (VP (AUX was)
+      (NP (NP (DT the) (NN story))
+       (PP (IN of) (NP (CD three) (NNS aliens)))))
+     (. .)))
+
+

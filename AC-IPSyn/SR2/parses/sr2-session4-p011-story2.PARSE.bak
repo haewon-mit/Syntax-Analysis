@@ -1,0 +1,108 @@
+
+(S1 (S (ADVP (RB once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (DT the) (NNS animals))
+     (VP (AUX were) (ADJP (JJ happy)))
+     (. .)))
+
+
+
+(S1 (S (CC and) (NP (PRP they)) (VP (VBP live) (NP (NN tree))) (. .)))
+
+
+
+(S1 (S (CC and)
+     (NP (NP (PRP they)) (NP (DT all)))
+     (VP (VBP play) (ADVP (RB together)))
+     (. .)))
+
+
+
+(S1 (S (CC and)
+     (NP (PRP they))
+     (VP (VBD played) (SBAR (S (VP (VB seek)))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (CD one))
+     (VP (VBD hid) (PP (IN behind) (NP (DT the) (NN back))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (CD one))
+     (VP (VBD hid) (NP (DT the) (NNP bush)))
+     (. .)))
+
+
+
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VBP live)) (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then))
+     (NP (DT a) (NN butterfly))
+     (VP (VBD counted))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP he))
+     (VP (VBD said)
+      (, ,)
+      (S (NP (CD one)
+	  (, ,)
+	  (CD two)
+	  (, ,)
+	  (CD three)
+	  (, ,)
+	  (CD four)
+	  (, ,)
+	  (CD five)
+	  (, ,)
+	  (CD six)
+	  (, ,)
+	  (CD seven)
+	  (, ,)
+	  (CD eight)
+	  (, ,)
+	  (CD nine)
+	  (, ,)
+	  (CD ten)
+	  (, ,)
+	  (CD eleven)
+	  (, ,)
+	  (CD twelve))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP he))
+     (VP (VBD said)
+      (PRN (, ,) (ADVP (JJ ready) (CC or) (RB not)) (, ,))
+      (SBAR (RB here) (S (NP (PRP I)) (VP (VBP come)))))
+     (. .)))
+
+
+
+(S1 (S (CC and)
+     (RB then)
+     (NP (PRP he))
+     (VP (VP (VBD said))
+      (, ,)
+      (VP (VBD found) (NP (PRP you)))
+      (, ,)
+      (VP (VBD found) (NP (PRP you))))
+     (. !)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

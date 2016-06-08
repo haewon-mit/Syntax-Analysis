@@ -1,0 +1,646 @@
+FILENAME:sr2-session4-p015-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	COOCOO-CACA
+1	DRAGON
+7	SOPHIE
+11	GAME
+13	ZOE
+14	NAME
+14	W
+15	SKY
+16	NICHOLAS
+16	ZACHARY
+17	ZACH
+18	BATHROOM
+20	PEOPLE
+21	SUMMER
+22	WANNA
+23	ALRIGHT
+25	FALL
+29	CHLOE
+29	TIME
+30	BIRDIE
+30	BUTTERFLY
+30	FRIENDS
+31	DAY
+32	END
+
+COUNTS:	24
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+3	WHAT
+4	I
+9	IT
+9	YOU
+17	ME
+22	WHO
+24	WE
+30	SHE
+31	THEY
+
+COUNTS:	9
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+11	FIRST
+18	THAT
+20	TWO
+21	THIS
+23	FOUR
+23	THREE
+25	FIVE
+27	YOUNG
+28	OK
+29	'S
+31	ALL
+31	EVERY
+
+COUNTS:	12
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A DRAGON
+4	TWO NAMES
+9	FIRST NAME
+11	FIRST GAME
+17	THE NAME
+18	THE BATHROOM
+21	THIS SUMMER
+29	A TIME
+31	EVERY DAY
+32	THE END
+
+COUNTS:	10
+
+
+###N5	Article used before a noun###
+
+1	A DRAGON
+17	THE NAME
+18	THE BATHROOM
+29	A TIME
+32	THE END
+
+COUNTS:	5
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+1	WAS A DRAGON
+18	TO THE BATHROOM
+20	AT A TIME
+
+COUNTS:	3
+
+
+###N7	Plural suffix###
+
+4	NAMES
+30	FRIENDS
+
+COUNTS:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+3	FIRST NAME
+29	A DRAGON
+
+COUNTS:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+9	THE FIRST NAME
+11	THE FIRST GAME
+
+COUNTS:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+14	SO
+
+COUNTS:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	NAMED
+1	WAS
+4	TELL
+9	DID
+9	SAID
+12	S
+18	GO
+18	IS
+18	NEED
+22	CHOOSE
+24	'M
+24	BRING
+25	BE
+27	'S
+28	MM
+30	HAD
+31	PLAYED
+
+COUNTS:	17
+
+
+###V2	Particle or preposition###
+
+1	UPON
+18	TO
+20	AT
+20	WITH
+25	IN
+31	TOGETHER
+
+COUNTS:	6
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+18	TO THE BATHROOM
+20	AT A TIME
+20	WITH YOU
+25	IN FALL
+29	UPON A TIME
+
+COUNTS:	4
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+3	 BE
+7	 WAS
+18	 IS
+24	 BE
+25	 BE
+27	THAT 'S YOUNG
+29	 'S
+
+COUNTS:	3
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+24	GONNA
+25	GONNA
+
+COUNTS:	1
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+7	WAS
+9	DID
+18	IS
+24	'M
+25	'M
+27	'S
+30	HAD
+
+COUNTS:	6
+
+
+###V7	Progressive Suffix###
+
+
+COUNTS:	0
+
+
+###V8	Adverb###
+
+1	ONCE
+7	ALWAYS
+8	ALREADY
+17	SO
+18	CHOOSED
+18	REALLY
+23	HOW
+24	GONNA
+
+COUNTS:	8
+
+
+###V9	Modal preceeding verb###
+
+3	SHOULD THE FIRST NAME BE
+4	'LL TELL YOU
+22	'LL CHOOSE WHO
+24	CAN WE BRING FIVE
+
+COUNTS:	4
+
+
+###V10	Third person singular present tense suffix###
+
+7	WAS
+12	S
+18	IS
+
+COUNTS:	3
+
+
+###V11	Past tense modal###
+
+3	SHOULD
+4	'LL
+
+COUNTS:	2
+
+
+###V12	Regular past tense suffix###
+
+1	NAMED
+29	NAMED
+30	NAMED
+31	PLAYED
+
+COUNTS:	2
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+7	WAS
+9	DID
+30	HAD
+
+COUNTS:	3
+
+
+###V14	Medial adverb###
+
+17	SO
+18	CHOOSED
+18	REALLY
+23	HOW
+24	GONNA
+
+COUNTS:	5
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+7	 WAS
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+18	REALLY
+
+COUNTS:	1
+
+
+###Q1	Intonationally marked question###
+
+5	SOPHIE OR CHLOE ?
+14	SO ZOE W NAME OR SKY ?
+16	SO NICHOLAS OR ZACHARY ?
+23	ALRIGHT HOW ABOUT THREE OR FOUR ?
+
+COUNTS:	2
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+3	WHAT SHOULD THE FIRST NAME BE ?
+
+COUNTS:	1
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+COUNTS:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+3	WHAT SHOULD THE FIRST NAME BE ?
+
+COUNTS:	1
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+3	WHAT SHOULD THE FIRST NAME BE ?
+
+COUNTS:	1
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS A DRAGON NAMED COOCOO-CACA
+3	WHAT SHOULD THE FIRST NAME BE
+4	SO I 'LL TELL YOU TWO NAMES
+5	SOPHIE OR CHLOE
+7	SOPHIE WAS ALWAYS
+8	YOU SAID THAT ALREADY
+9	BUT YOU SAID IT THE FIRST NAME I DID
+10	NO NO NO NO NO
+11	THE FIRST GAME
+12	ZOE S NAME
+13	ZOE OK
+14	SO ZOE W NAME OR SKY
+15	OK SKY
+16	SO NICHOLAS OR ZACHARY
+17	ZACH SO TELL ME THE NAME
+18	CHLOE ZOE IS THAT WHAT YOU CHOOSED REALLY NEED TO GO TO THE BATHROOM
+20	TWO PEOPLE AT A TIME WITH YOU
+21	THIS SUMMER
+22	I 'LL CHOOSE WHO I WANNA PLAY
+23	ALRIGHT HOW ABOUT THREE OR FOUR
+24	CAN WE BRING FIVE BECAUSE I 'M GONNA BE FIVE
+25	I 'M GONNA BE FIVE IN FALL
+27	BECAUSE THAT 'S YOUNG
+28	MM OK
+29	ONCE UPON A TIME THERE 'S A DRAGON NAMED CHLOE ZOE ZACHARY
+30	AND SHE HAD FRIENDS NAMED BUTTERFLY AND BIRDIE
+31	THEY ALL PLAYED TOGETHER EVERY DAY
+32	THE END
+
+COUNTS:	6
+
+
+###S2	Subject verb sequence###
+
+7	SOPHIE WAS ALWAYS
+8	YOU SAID 
+9	I DID
+12	ZOE S 
+18	CHLOE ZOE IS 
+20	TWO PEOPLE 
+22	I 'LL CHOOSE 
+24	I 'M GONNA BE 
+25	I 'M GONNA BE 
+31	THEY ALL PLAYED TOGETHER 
+
+COUNTS:	5
+
+
+###S3	Verb object sequence###
+
+1	WAS A DRAGON NAMED COOCOO-CACA
+4	'LL TELL YOU TWO NAMES
+4	TELL YOU TWO NAMES
+9	SAID IT THE FIRST NAME I DID
+12	S NAME
+17	TELL ME THE NAME
+18	IS THAT WHAT YOU CHOOSED REALLY NEED TO GO TO THE BATHROOM
+18	NEED TO GO TO THE BATHROOM
+20	PEOPLE AT A TIME WITH YOU
+22	'LL CHOOSE WHO I WANNA PLAY
+24	'M GONNA BE FIVE
+24	BRING FIVE BECAUSE I 'M GONNA BE FIVE
+25	'M GONNA BE FIVE IN FALL
+25	BE FIVE IN FALL
+29	'S A DRAGON NAMED CHLOE ZOE ZACHARY
+30	HAD FRIENDS NAMED BUTTERFLY AND BIRDIE
+30	NAMED BUTTERFLY AND BIRDIE
+31	PLAYED TOGETHER EVERY DAY
+
+COUNTS:	8
+
+
+###S4	Subject Verb Object Sequence###
+
+12	ZOE S NAME
+18	CHLOE ZOE IS THAT WHAT YOU CHOOSED REALLY NEED TO GO TO THE BATHROOM
+20	TWO PEOPLE AT A TIME WITH YOU
+22	I 'LL CHOOSE WHO I WANNA PLAY
+24	I 'M GONNA BE FIVE
+25	I 'M GONNA BE FIVE IN FALL
+31	THEY ALL PLAYED TOGETHER EVERY DAY
+
+COUNTS:	5
+
+
+###S5	Conjunction (any)###
+
+9	BUT
+23	OR
+24	BECAUSE
+30	AND
+
+COUNTS:	4
+
+
+###S6	Sentence with two VP's###
+
+22	I 'LL CHOOSE WHO I WANNA PLAY .
+
+COUNTS:	1
+
+
+###S7	Conjoined phrases###
+
+5	SOPHIE OR CHLOE
+16	NICHOLAS OR ZACHARY
+
+COUNTS:	2
+
+
+###S8	Infinitive without catenative, marked with to###
+
+18	NEED TO GO TO THE BATHROOM
+
+COUNTS:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+9	BUT
+24	BECAUSE
+
+COUNTS:	2
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+3	WHAT SHOULD THE FIRST NAME BE ?
+18	CHLOE ZOE IS THAT WHAT YOU CHOOSED REALLY NEED TO GO TO THE BATHROOM .
+22	I 'LL CHOOSE WHO I WANNA PLAY .
+
+COUNTS:	2
+
+
+###S14	Bitransitive predicate###
+
+4	TELL YOU TWO NAMES
+9	SAID IT THE FIRST NAME I DID
+
+COUNTS:	1
+
+
+###S15	Sentence with three or more VPs###
+
+18	CHLOE ZOE IS THAT WHAT YOU CHOOSED REALLY NEED TO GO TO THE BATHROOM .
+24	CAN WE BRING FIVE BECAUSE I 'M GONNA BE FIVE .
+
+COUNTS:	2
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+
+COUNTS:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-32
+NO OF UTTERANCES CONSIDERED: 32
+
+
+#########################
+NOUN COUNTS: 69
+VERB COUNTS: 66
+QUESTION COUNTS: 5
+SENTENCE COUNTS: 39
+TOTAL NO OF STRUCTURES COUNTS: 179
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS A DRAGON NAMED COOCOO-CACA .
+2	NO .
+3	WHAT SHOULD THE FIRST NAME BE ?
+4	SO I 'LL TELL YOU TWO NAMES .
+5	SOPHIE OR CHLOE ?
+6	OK .
+7	SOPHIE WAS ALWAYS .
+8	YOU SAID THAT ALREADY !
+9	BUT YOU SAID IT THE FIRST NAME I DID .
+10	NO NO NO NO NO !
+11	THE FIRST GAME .
+12	ZOE S NAME .
+13	ZOE , OK .
+14	SO ZOE W NAME OR SKY ?
+15	OK , SKY .
+16	SO NICHOLAS OR ZACHARY ?
+17	ZACH , SO TELL ME THE NAME .
+18	CHLOE ZOE IS THAT WHAT YOU CHOOSED REALLY NEED TO GO TO THE BATHROOM .
+19	YES .
+20	TWO PEOPLE AT A TIME WITH YOU .
+21	THIS SUMMER .
+22	I 'LL CHOOSE WHO I WANNA PLAY .
+23	ALRIGHT HOW ABOUT THREE OR FOUR ?
+24	CAN WE BRING FIVE BECAUSE I 'M GONNA BE FIVE .
+25	I 'M GONNA BE FIVE IN FALL .
+26	NO .
+27	BECAUSE THAT 'S YOUNG .
+28	MM OK .
+29	ONCE UPON A TIME THERE 'S A DRAGON NAMED CHLOE ZOE ZACHARY .
+30	AND SHE HAD FRIENDS NAMED BUTTERFLY AND BIRDIE .
+31	THEY ALL PLAYED TOGETHER EVERY DAY .
+32	THE END .

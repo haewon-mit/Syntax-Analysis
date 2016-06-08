@@ -1,0 +1,72 @@
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (NP (NP (DT a) (NN squirrel)) (VP (VBN named))) (, ,) (NP (NNP Squirrel)) (, ,) (NP (NP (DT a) (NN turtle)) (VP (VBN named) (S (NP (NNP Turtle))))) (CC and) (NP (NP (DT a) (NN rabbit)) (VP (VBN named) (S (NP (NN Rabbit))))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NP (DT That) (JJ particular) (NN day)) (SBAR (S (NP (PRP They)) (VP (VBD played))))) (VP (VB hide) (CC and) (VB seek)) (. .)))
+
+
+
+
+
+(S1 (S (NP (NNP Squirrel)) (VP (VBD hid) (PP (IN in) (NP (DT the) (NN mud)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NN Turtle)) (VP (VBD hid) (PP (IN in) (NP (DT the) (NNS trees))) (SBAR (IN while) (S (NP (NN bunny)) (VP (VBN counted))))) (. .)))
+
+
+
+
+
+(S1 (NP (NP (CD One)) (, ,) (NP (CD two)) (, ,) (NP (CD three)) (, ,) (NP (CD four)) (. .)))
+
+
+
+
+
+(S1 (S (VP (VBN Found) (NP (PRP you))) (. !)))
+
+
+
+
+
+(S1 (S (VP (VP (VBD Found) (NP (PRP you))) (, ,) (NP (NNP Turtle))) (. .)))
+
+
+
+
+
+(S1 (FRAG (NP (PRP$ My) (NN turn)) (. .)))
+
+
+
+
+
+(S1 (FRAG (PP (IN behind) (NP (DT a) (NN tree))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NNP Squirrel)) (VP (VBD found) (NP (NNP Turtle))) (. .)))
+
+
+
+
+
+(S1 (S (CC and) (RB then) (NP (PRP they)) (VP (VBD played) (ADVP (RB again) (CC and) (RB again))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

@@ -1,0 +1,120 @@
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (DT a) (NN butterfly)) (VP (VBD named) (NP (NNP Lady) (NNP Gaga))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (NP (DT a) (NN butterfly)) (VP (VBN named) (S (NP (NNP Lady) (NNP Gaga)))))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX 's) (NP (NP (DT a) (NN butterfly)) (VP (VBN named) (S (NP (NNP Lady) (NNP Gaga)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP she)) (VP (AUX had) (NP (NP (DT a) (NN friend)) (VP (VBN named) (NP (NNP Zoe))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP she)) (VP (AUX had) (NP (NP (DT another) (NN friend)) (VP (VBN named) (NP (NNP Chloe) (NNP Zoe) (NNP Rose))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP They)) (VP (VBD played) (ADVP (RB nicely)) (ADVP (RB all) (RB together))) (. .)))
+
+
+
+
+
+(S1 (FRAG (CC And) (NP (NP (PDT all) (DT the) (NNS times)) (, ,) (ADVP (RB really) (RB well))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NN Butterfly)) (VP (AUX did) (ADVP (RB really)) (ADVP (RB well))) (. .)))
+
+
+
+
+
+(S1 (S (CC and) (NP (NNP Dragon)) (, ,) (S (NP (NP (DT every) (NN time)) (SBAR (S (NP (PRP he)) (VP (VBZ plays) (NP (VB hide) (CC and) (VB seek)) (PP (IN with) (NP (PRP them)))))))) (, ,) (NP (PRP he)) (VP (MD can) (RB not) (ADVP (RB even)) (VP (VB find) (NP (NP (DT any)) (PP (IN of) (NP (PRP them)))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBZ walks) (NP (PDT all) (DT the) (NN way)) (PRT (RP across))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (NP (PRP he)) (VP (VBZ walks) (PRT (RP across)) (NP (PRP them))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP he)) (VP (AUX does) (RB not) (ADVP (RB even)) (VP (VB see) (NP (PRP them)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP he)) (VP (VBZ sees) (SBAR (IN because) (S (NP (PRP he)) (VP (AUX does) (RB not) (VP (VB see) (NP (DT the) (NN butterfly))))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (NNS flaps) (NP (PRP$ his) (NNS wings))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP he)) (VP (AUX does) (RB not) (ADVP (RB even)) (VP (VB see) (NP (DT a) (NN butterfly)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP she)) (VP (AUX does) (RB not) (VP (VB see) (NP (DT a) (NN butterfly)))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (NP (PRP she)) (VP (MD could) (RB not) (VP (VB find))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP She)) (VP (AUX was) (ADVP (RB right) (RB there))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (NP (PRP they)) (NP (DT all))) (VP (VBD lived) (ADVP (RB happily)) (ADVP (RB ever) (IN after))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

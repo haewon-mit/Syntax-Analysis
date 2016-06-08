@@ -1,0 +1,72 @@
+
+(S1 (S (ADVP (RB Once))
+     (NP (EX there))
+     (VP (AUX was) (NP (DT a) (JJ tiny) (NN alien)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP It))
+     (VP (AUX had)
+      (NP (NP (DT a) (NN mother)) (, ,) (NP (DT a) (NN father))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (NN father))
+     (VP (AUX was) (NP (DT the) (JJS tiniest)))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (JJS biggest) (NN one))
+     (VP (AUX was) (NP (DT the) (NN baby)))
+     (. .)))
+
+
+
+(S1 (S (NP (DT The) (NN mommy))
+     (VP (AUX was) (ADJP (RB even) (JJR smaller)))
+     (. .)))
+
+
+
+(S1 (S (NP (NP (NP (CD One) (NN day)) (, ,) (NP (DT the) (NN dad)))
+	(NP (DT the) (NNP dada)))
+     (VP (VBD went)
+      (PP (TO to)
+       (NP (NP (NN work) (NN work))
+	(PP (IN in) (NP (DT a) (NN rocket))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP It))
+     (VP (AUX was) (NP (PRP$ his) (NN birthday)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (VP (VB zoom)
+      (PRT (RP up))
+      (SBAR (IN ooh)
+       (S (NP (PRP he))
+	(VP (VBD went)
+	 (PP (ADVP (RB high)) (IN above) (NP (DT the) (NN sun)))))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB Then))
+     (NP (PRP he))
+     (VP (VP (VBD hit) (NP (DT the) (NN sun)))
+      (CC and)
+      (VP (VBD died)))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

@@ -1,0 +1,87 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was)
+      (NP (NP (DT a) (JJ little) (NN girl))
+       (SBAR (WHNP (WP who))
+	(S (VP (AUX was)
+	    (VP (VBG siting) (PP (IN in) (NP (DT a) (NN chair)))))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT a) (NN cat))
+     (VP (VBD sitted) (PP (IN on) (NP (DT a) (NN chair))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT a) (NN dog))
+     (VP (VBD sitted) (PP (IN on) (NP (DT the) (NN couch))))
+     (. .)))
+
+
+
+(S1 (NP (NNP Ding) (NNP dong) (. .)))
+
+
+
+(S1 (S (NP (DT The) (JJ little) (NN girl))
+     (VP (VBD went) (PP (TO to) (NP (DT the) (NN door))))
+     (. .)))
+
+
+
+(S1 (INTJ (UH Hi) (. .)))
+
+
+
+(S1 (S (NP (PRP She))
+     (VP (VBD said)
+      (S (VP (VBG hi)
+	  (PP (TO to)
+	   (NP (NP (DT the) (JJ little) (NN man))
+	    (SBAR (WHNP (WP who))
+	     (S (VP (VBD got) (NP (CD two) (JJ big) (NNS boxs))))))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP I))
+     (VP (VBP wonder)
+      (SBAR (WHNP (WP what))
+       (S (VP (AUX 's) (PP (IN in) (NP (DT this) (CD one)))))))
+     (. ?)))
+
+
+
+(S1 (NP (NP (NNP Ooh)) (, ,) (NP (DT a) (JJ blue) (NN ball)) (. .)))
+
+
+
+(S1 (S (NP (PRP She))
+     (VP (VBD tucked)
+      (NP (PRP it))
+      (PP (IN in) (NP (DT the) (NN corner))))
+     (. .)))
+
+
+
+(S1 (SINV (CC And)
+     (PP (IN in) (NP (DT the) (JJ other) (NN box)))
+     (VP (AUX was))
+     (NP (DT another) (NN kitty))
+     (. .)))
+
+
+
+(S1 (NP (NP (NNP Ooh)) (, ,) (NP (DT a) (NN kitty)) (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

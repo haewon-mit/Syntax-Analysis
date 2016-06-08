@@ -1,0 +1,59 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was) (NP (NNS kids)))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB Once))
+     (NP (EX there))
+     (VP (AUX was) (NP (DT a) (NN girl)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (EX there))
+     (VP (AUX is)
+      (NP (NP (DT a) (NN girl)) (VP (VBG running) (ADVP (RB around)))))
+     (. .)))
+
+
+
+(S1 (NP (DT the) (NN boy) (. .)))
+
+
+
+(S1 (NP (DT The) (NN girl) (. .)))
+
+
+
+(S1 (FRAG (CC And) (ADVP (RB then)) (. .)))
+
+
+
+(S1 (S (NP (PRP They))
+     (VP (VBD went)
+      (ADVP (RB down))
+      (, ,)
+      (ADVP (RB down) (ADVP (RB down))))
+     (. .)))
+
+
+
+(S1 (FRAG (ADVP (RB down) (RB down))
+     (ADVP (RB down) (RB down))
+     (RB down)
+     (. .)))
+
+
+
+(S1 (FRAG (NP (PRP$ my) (NN ball)) (. .)))
+
+
+
+(S1 (FRAG (NP (PRP$ Your) (NN turn)) (. .)))
+
+

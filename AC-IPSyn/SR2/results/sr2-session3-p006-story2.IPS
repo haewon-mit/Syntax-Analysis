@@ -1,0 +1,568 @@
+FILENAME:sr2-session3-p006-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	TIME
+2	BABY
+3	MOMMY
+4	DAY
+6	ENEMY
+7	SPACESHIP
+10	ALIEN
+14	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+6	'S
+11	I
+11	YOU
+12	HE
+13	IT
+13	THEY
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	TWO
+3	ONE
+6	OUR
+6	THIS
+10	PURPLE
+11	LIKE
+12	SURE
+13	HIS
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A TIME
+1	TWO ALIENS
+2	THE BABY
+3	THE MOMMY
+4	ONE DAY
+5	A SPACESHIP
+6	OUR ENEMY
+7	THE SPACESHIP
+10	PURPLE ALIEN
+13	HIS SPACESHIP
+14	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+1	A TIME
+2	THE BABY
+3	THE MOMMY
+5	A SPACESHIP
+7	THE SPACESHIP
+14	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+1	WAS TWO ALIENS
+2	WAS THE BABY
+3	WAS THE MOMMY
+5	FOUND A SPACESHIP
+6	FROM OUR ENEMY
+7	INTO THE SPACESHIP
+9	OF THE SPACESHIP
+13	INTO HIS SPACESHIP
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+1	ALIENS
+
+SCORE:	1
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+6	THE MOMMY
+10	PURPLE ALIEN
+
+SCORE:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+10	A PURPLE ALIEN
+
+SCORE:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+13	THEN
+
+SCORE:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+2	WAS
+4	WALKING
+4	WERE
+5	FOUND
+6	GET
+6	GO
+6	LET
+6	SAID
+6	USE
+7	WENT
+8	LANDED
+10	CAME
+11	PLAY
+13	GOT
+13	TOOK
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+1	UPON
+6	FROM
+7	INTO
+9	OF
+9	OUT
+11	WITH
+13	OFF
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+6	FROM OUR ENEMY
+7	INTO THE SPACESHIP
+9	OF THE SPACESHIP
+11	WITH YOU
+13	INTO HIS SPACESHIP
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+2	 WAS
+3	 WAS
+4	 WERE
+6	 'S
+11	 WAS
+12	 WAS
+13	 WAS
+
+SCORE:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+2	WAS
+3	WAS
+4	WERE
+11	WAS
+12	WAS
+13	WAS
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+4	WALKING
+
+SCORE:	1
+
+
+###V8	Adverb###
+
+1	ONCE
+6	AWAY
+13	SO
+13	THEN
+13	VERY
+13	WHEN
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+
+SCORE:	0
+
+
+###V10	Third person singular present tense suffix###
+
+2	WAS
+
+SCORE:	1
+
+
+###V11	Past tense modal###
+
+
+SCORE:	0
+
+
+###V12	Regular past tense suffix###
+
+8	LANDED
+
+SCORE:	1
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+2	WAS
+3	WAS
+4	WERE
+11	WAS
+12	WAS
+13	WAS
+
+SCORE:	2
+
+
+###V14	Medial adverb###
+
+6	AWAY
+13	THEN
+13	VERY
+13	WHEN
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+2	 WAS
+3	 WAS
+4	 WERE
+11	 WAS
+12	 WAS
+13	 WAS
+
+SCORE:	2
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+SCORE:	0
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	1
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	1
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+SCORE:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+SCORE:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+SCORE:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+11	AND HE WAS LIKE , CAN I PLAY WITH YOU ?
+
+SCORE:	1
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS TWO ALIENS
+2	ONE WAS THE BABY
+3	ONE WAS THE MOMMY
+4	THEY WERE WALKING ALONG ONE DAY
+5	AND THEY FOUND A SPACESHIP
+6	AND THE MOMMY SAID LET 'S GO USE THIS TO GET AWAY FROM OUR ENEMY
+7	SO THEY WENT INTO THE SPACESHIP
+8	AND THEY LANDED
+9	THEY GOT OUT OF THE SPACESHIP
+10	EXCEPT A PURPLE ALIEN CAME
+11	AND HE WAS LIKE CAN I PLAY WITH YOU
+12	AND HE WAS LIKE SURE
+13	SO WHEN HE GOT INTO HIS SPACESHIP IT WAS VERY AND THEN THEY TOOK OFF
+14	THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+2	ONE WAS 
+3	ONE WAS 
+4	THEY WERE WALKING ALONG 
+6	'S GO USE 
+9	THEY GOT 
+11	HE WAS LIKE
+13	HE GOT 
+13	IT WAS VERY AND THEN
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	WAS TWO ALIENS
+2	WAS THE BABY
+3	WAS THE MOMMY
+4	WALKING ALONG ONE DAY
+4	WERE WALKING ALONG ONE DAY
+5	FOUND A SPACESHIP
+6	GO USE THIS TO GET AWAY FROM OUR ENEMY
+6	LET 'S GO USE THIS TO GET AWAY FROM OUR ENEMY
+6	SAID , LET 'S GO USE THIS TO GET AWAY FROM OUR ENEMY
+6	TO GET AWAY FROM OUR ENEMY
+6	USE THIS TO GET AWAY FROM OUR ENEMY
+7	WENT INTO THE SPACESHIP
+9	GOT OUT OF THE SPACESHIP
+13	GOT INTO HIS SPACESHIP IT WAS VERY AND THEN
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+2	ONE WAS THE BABY
+3	ONE WAS THE MOMMY
+4	THEY WERE WALKING ALONG ONE DAY
+6	'S GO USE THIS TO GET AWAY FROM OUR ENEMY
+9	THEY GOT OUT OF THE SPACESHIP
+13	HE GOT INTO HIS SPACESHIP IT WAS VERY AND THEN
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+7	SO
+12	AND
+
+SCORE:	2
+
+
+###S6	Sentence with two VP's###
+
+6	AND THE MOMMY SAID , LET 'S GO USE THIS TO GET AWAY FROM OUR ENEMY .
+13	SO WHEN HE GOT INTO HIS SPACESHIP IT WAS VERY AND THEN THEY TOOK OFF .
+
+SCORE:	2
+
+
+###S7	Conjoined phrases###
+
+13	VERY AND THEN
+
+SCORE:	1
+
+
+###S8	Infinitive without catenative, marked with to###
+
+6	USE THIS TO GET AWAY FROM OUR ENEMY
+
+SCORE:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+7	SO
+
+SCORE:	1
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+
+SCORE:	0
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+6	AND THE MOMMY SAID , LET 'S GO USE THIS TO GET AWAY FROM OUR ENEMY .
+13	SO WHEN HE GOT INTO HIS SPACESHIP IT WAS VERY AND THEN THEY TOOK OFF .
+
+SCORE:	2
+
+
+###S16	Relative clause marked or unmarked###
+
+
+SCORE:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+4	THEY WERE WALKING ALONG ONE DAY .
+
+SCORE:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+11	HE WAS LIKE
+13	IT WAS VERY AND THEN
+
+SCORE:	2
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-14
+NO OF UTTERANCES CONSIDERED: 14
+
+
+#########################
+NOUN SCORE: 17
+VERB SCORE: 23
+QUESTION SCORE: 3
+SENTENCE SCORE: 20
+IPSYN SCORE: 63
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS TWO ALIENS .
+2	ONE WAS THE BABY .
+3	ONE WAS THE MOMMY .
+4	THEY WERE WALKING ALONG ONE DAY .
+5	AND THEY FOUND A SPACESHIP .
+6	AND THE MOMMY SAID , LET 'S GO USE THIS TO GET AWAY FROM OUR ENEMY .
+7	SO THEY WENT INTO THE SPACESHIP .
+8	AND THEY LANDED .
+9	THEY GOT OUT OF THE SPACESHIP .
+10	EXCEPT A PURPLE ALIEN CAME .
+11	AND HE WAS LIKE , CAN I PLAY WITH YOU ?
+12	AND HE WAS LIKE , SURE .
+13	SO WHEN HE GOT INTO HIS SPACESHIP IT WAS VERY AND THEN THEY TOOK OFF .
+14	THE END .

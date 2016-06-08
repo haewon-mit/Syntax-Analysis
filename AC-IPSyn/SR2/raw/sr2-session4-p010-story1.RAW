@@ -1,0 +1,466 @@
+FILENAME:sr2-session4-p010-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	TIME
+4	BABY
+5	BIRTHDAY
+6	TURTLE
+7	POOL
+8	BAILEY
+9	GUYS
+10	END
+
+COUNTS:	8
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+1	IT
+2	SHE
+
+COUNTS:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+4	HIS
+4	LITTLE
+5	HER
+
+COUNTS:	3
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A TIME
+4	LITTLE BABY
+5	HER BIRTHDAY
+6	A TURTLE
+10	THE END
+
+COUNTS:	5
+
+
+###N5	Article used before a noun###
+
+1	A TIME
+6	A TURTLE
+10	THE END
+
+COUNTS:	3
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+5	'S HER BIRTHDAY
+
+COUNTS:	2
+
+
+###N7	Plural suffix###
+
+5	BABYS
+9	GUYS
+
+COUNTS:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+6	A TURTLE
+
+COUNTS:	1
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+4	HER LITTLE BABY
+5	THE LITTLE BABYS
+
+COUNTS:	2
+
+
+###N10	Adverb modifying adjective or nominal###
+
+
+COUNTS:	0
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+4	WAS
+5	'S
+6	STANDING
+7	SWIMMING
+8	COME
+8	SAID
+9	LOOK
+
+COUNTS:	7
+
+
+###V2	Particle or preposition###
+
+1	UPON
+6	UP
+8	ON
+
+COUNTS:	3
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+8	ON BABY
+
+COUNTS:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+4	 WAS
+5	 'S
+6	 WAS
+
+COUNTS:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+4	WAS
+5	'S
+6	WAS
+
+COUNTS:	2
+
+
+###V7	Progressive Suffix###
+
+6	STANDING
+
+COUNTS:	1
+
+
+###V8	Adverb###
+
+1	ONCE
+9	HOW
+
+COUNTS:	2
+
+
+###V9	Modal preceeding verb###
+
+
+COUNTS:	0
+
+
+###V10	Third person singular present tense suffix###
+
+6	WAS
+
+COUNTS:	1
+
+
+###V11	Past tense modal###
+
+
+COUNTS:	0
+
+
+###V12	Regular past tense suffix###
+
+
+COUNTS:	0
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+4	WAS
+6	WAS
+
+COUNTS:	1
+
+
+###V14	Medial adverb###
+
+
+COUNTS:	0
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+4	 WAS
+6	 WAS
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+COUNTS:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME IT WAS BAILEYS BIRTHDAY
+4	WELL HIS WAS HER LITTLE BABY
+5	IT 'S HER BIRTHDAY THE LITTLE BABYS BIRTHDAY
+6	A TURTLE WAS STANDING UP
+7	SWIMMING POOL
+8	BAILEY SAID COME ON BABY
+9	OH AND GUYS LOOK HOW
+10	THE END
+
+COUNTS:	5
+
+
+###S2	Subject verb sequence###
+
+5	IT 'S 
+6	A TURTLE WAS STANDING UP
+8	BAILEY SAID , COME 
+
+COUNTS:	2
+
+
+###S3	Verb object sequence###
+
+1	WAS BAILEYS BIRTHDAY
+4	WAS HER LITTLE BABY
+5	'S HER BIRTHDAY , THE LITTLE BABYS BIRTHDAY
+8	COME ON BABY
+8	SAID , COME ON BABY
+
+COUNTS:	1
+
+
+###S4	Subject Verb Object Sequence###
+
+5	IT 'S HER BIRTHDAY , THE LITTLE BABYS BIRTHDAY
+8	BAILEY SAID , COME ON BABY
+
+COUNTS:	2
+
+
+###S5	Conjunction (any)###
+
+9	AND
+
+COUNTS:	1
+
+
+###S6	Sentence with two VP's###
+
+8	BAILEY SAID , COME ON BABY .
+
+COUNTS:	1
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+COUNTS:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+COUNTS:	0
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+
+COUNTS:	0
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+COUNTS:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+6	A TURTLE WAS STANDING UP .
+7	SWIMMING POOL .
+
+COUNTS:	2
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-10
+NO OF UTTERANCES CONSIDERED: 10
+
+
+#########################
+NOUN COUNTS: 28
+VERB COUNTS: 22
+QUESTION COUNTS: 0
+SENTENCE COUNTS: 14
+TOTAL NO OF STRUCTURES COUNTS: 64
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME IT WAS BAILEYS BIRTHDAY .
+2	SHE .
+3	SHE .
+4	WELL , HIS WAS HER LITTLE BABY .
+5	IT 'S HER BIRTHDAY , THE LITTLE BABYS BIRTHDAY .
+6	A TURTLE WAS STANDING UP .
+7	SWIMMING POOL .
+8	BAILEY SAID , COME ON BABY .
+9	OH AND GUYS , LOOK HOW .
+10	THE END .

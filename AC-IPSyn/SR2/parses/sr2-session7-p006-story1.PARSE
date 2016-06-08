@@ -1,0 +1,42 @@
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (EX there)) (VP (AUX was) (NP (NP (DT a) (NN butterfly)) (SBAR (WHNP (WP who)) (S (VP (VBD lived) (PP (IN in) (NP (NP (DT a) (NN forest)) (CC and) (NP (NP (DT a) (NN bluejay)) (SBAR (WHNP (WP who)) (S (VP (VBD lived) (PP (IN in) (NP (NP (DT a) (NN tree)) (CC and) (NP (NP (DT a) (NNP dragon)) (SBAR (WHNP (WP who)) (S (VP (VBD lived) (PP (IN on) (NP (DT the) (NN ground)))))))))))))))))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NP (CD One) (NN day)) (SBAR (S (NP (PRP they)) (VP (VBD played))))) (VP (VB hide) (CC and) (VB seek)) (. .)))
+
+
+
+
+
+(S1 (S (NP (NN Butterfly)) (VP (AUX was) (ADJP (JJ sick))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (DT the) (NN butterfly)) (VP (VBD felt) (ADJP (JJR better)) (SBAR (IN after) (S (NP (PRP she)) (VP (AUX was) (ADJP (JJ sick)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP she)) (VP (NNS flowers)) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP they)) (VP (AUX had) (NP (DT a) (JJ good) (NN time))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

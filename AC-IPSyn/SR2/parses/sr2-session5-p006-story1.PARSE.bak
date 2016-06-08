@@ -1,0 +1,102 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX were) (NP (CD three) (NNS elfs)))
+     (. .)))
+
+
+
+(S1 (S (NP (DT A) (NN baby)) (VP (VBD named) (NP (NNP Emma))) (. .)))
+
+
+
+(S1 (S (NP (DT A) (NN mother))
+     (VP (VBD named) (NP (NNP Selina)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT the) (NN daddy))
+     (VP (VBD named)
+      (NP (NNP Daddy))
+      (, ,)
+      (S (NP (PRP I)) (VP (VBP guess))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP I))
+     (VP (AUX have)
+      (S (VP (TO to)
+	  (VP (VB go) (PP (TO to) (NP (VB work))) (NP (NNP Selina))))))
+     (. .)))
+
+
+
+(S1 (X (NNP Bye) (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VP (VBD went) (PP (TO to) (NP (DT the) (NN spaceship))))
+      (CC and)
+      (VP (VBD drove) (PRT (RP off))))
+     (. .)))
+
+
+
+(S1 (SINV (S (VP (VB Let)
+	      (S (NP (PRP 's))
+	       (VP (VB make)
+		(NP (NP (DT a) (NN pie))
+		 (PP (IN for) (NP (PRP$ his) (NN birthday))))))))
+     (, ,)
+     (VP (VBD said))
+     (NP (NNP Emma))
+     (. .)))
+
+
+
+(S1 (SINV (FRAG (NP (NP (JJ Good) (NN idea)) (NP (NNP Emma))))
+     (, ,)
+     (VP (VBD said))
+     (NP (NNP Selina))
+     (. .)))
+
+
+
+(S1 (S (IN So)
+     (NP (PRP they))
+     (VP (VP (JJ baked) (NP (DT a) (NN cake)))
+      (CC and)
+      (VP (VBD put)
+       (NP (PRP it))
+       (PP (IN in) (NP (DT the) (NN oven)))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP I)) (VP (VBP see) (NP (NNP Daddy))) (. !)))
+
+
+
+(S1 (S (NP (DT The) (NN spaceship)) (VP (VBD landed)) (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (NP (PRP they)) (NP (DT all)))
+     (VP (VBN gathered)
+      (PP (IN around)
+       (NP (DT the)
+	(NN table)
+	(S (VP (TO to) (VP (VB sing) (NP (JJ Happy) (NN Birthday))))))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

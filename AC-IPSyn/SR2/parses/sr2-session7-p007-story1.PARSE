@@ -1,0 +1,72 @@
+
+
+(S1 (SINV (ADVP (RB Once)) (PP (IN upon) (NP (NP (DT a) (NN time)) (SBAR (S (NP (EX there)) (VP (AUX was) (NP (DT a) (NNP dragon))))))) (VP (VBD named)) (NP (NP (NNP Jelly)) (, ,) (NP (NP (NP (DT a) (NN butterfly)) (VP (VBN named))) (CC and) (NP (NP (DT a) (NN bird)) (VP (VBN named) (S (NP (NN Bird))))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (CD One) (NN day)) (, ,) (VP (VP (VBD flittered) (PRT (RP down)) (PP (TO to) (NP (NNP Birdie)))) (CC and) (VP (VBD landed) (PP (IN on) (NP (PRP$ his) (NN head))))) (. .)))
+
+
+
+
+
+(S1 (S (RB Then) (NP (DT the) (NNP dragon)) (VP (VP (VBD swooped) (PRT (RP up))) (CC and) (VP (VBD stabed) (NP (NNP Butterflys) (NN head)))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB Then)) (NP (PRP they)) (VP (VP (VBP flitter) (NP (JJ flat) (NN tip) (NN tip))) (CC and) (VP (VBD played) (SBAR (S (VP (VB hide) (CC and) (VB seek)))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT The) (NN butterfly)) (VP (AUX was) (NP (PRP it))) (. .)))
+
+
+
+
+
+(S1 (FRAG (NP (CD One) (CD two)) (NP (QP (CD three) (CD four)) (QP (CD five) (CD six)) (QP (CD seven) (CD eight)) (QP (CD nine) (CD ten))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (JJ Ready) (CC or) (RB not)) (, ,) (ADVP (RB here)) (NP (PRP I)) (VP (VBP come)) (. !)))
+
+
+
+
+
+(S1 (S (NP (PRP She)) (VP (VP (ADVP (JJR flitter)) (VBD flatted)) (CC and) (VP (VBD found) (NP (NNP Birdie)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP She)) (VP (VP (ADVP (JJR flitter)) (VBD flated)) (CC and) (VP (VBD helped) (S (NP (PRP her)) (VP (VB find) (NP (NNP Dragon)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (NN flitter)) (ADVP (RB flat)) (VP (VBD found) (NP (NNP dragon))) (. .)))
+
+
+
+
+
+(S1 (S (RB Then) (NP (PRP they)) (VP (VBD played) (PP (IN with) (NP (PRP$ her) (NN fire)))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

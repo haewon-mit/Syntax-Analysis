@@ -1,0 +1,650 @@
+FILENAME:sr2-session1-p007-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	BLUE
+1	GREEN
+1	STORY
+6	PENGUINS
+6	TIME
+7	HEATHER
+8	JASON
+9	CANYON
+9	ICEBERG
+9	TOP
+10	FRIEND
+11	MOUNTAIN
+12	DAYS
+12	SUN
+14	SNOW
+15	ICE
+15	POLE
+16	TURN
+18	HEADS
+18	SEAL
+18	SEALY
+20	HOME
+21	BUSH
+22	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+1	I
+1	ME
+3	HE
+3	IT
+4	YOU
+5	HERE
+15	WHO
+17	SHE
+21	THEY
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+3	RIGHT
+6	LITTLE
+7	ONE
+9	BOTH
+10	THEIR
+11	AFRAID
+11	THOSE
+12	HOTTER
+14	GREEN
+14	SOFT
+15	BIG
+15	BIGGER
+20	TWO
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A STORY
+6	A TIME
+6	LITTLE PENGUINS
+9	THE TOP
+10	THEIR FRIEND
+11	THE MOUNTAIN
+11	TWO PENGUINS
+12	THE DAYS
+12	THE SUN
+13	THE ICE
+14	GREEN SNOW
+15	BIG ICE
+15	BIGGER PENGUIN
+15	ONE DAY
+18	THE SEAL
+18	THEIR HEADS
+21	A BUSH
+22	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+1	A STORY
+6	A TIME
+9	THE TOP
+11	THE MOUNTAIN
+12	THE DAYS
+12	THE SUN
+13	THE ICE
+18	THE SEAL
+21	A BUSH
+22	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	TELL A STORY
+6	UPON A TIME
+9	ON THE TOP
+12	IN THE DAYS
+18	ON THEIR HEADS
+21	BEHIND A BUSH
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+6	PENGUINS
+12	DAYS
+18	HEADS
+
+SCORE:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+12	THE SUN
+13	THE ICE
+20	TWO PENGUINS
+
+SCORE:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+6	TWO LITTLE PENGUINS
+11	THOSE TWO PENGUINS
+15	A BIG ICE
+15	THE BIGGER PENGUIN
+20	THE TWO PENGUINS
+
+SCORE:	2
+
+
+###N10	Adverb modifying adjective or nominal###
+
+5	HERE
+12	SOMETIMES
+16	THEN
+
+SCORE:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+12	HOTTER
+15	BIGGER
+
+SCORE:	2
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	TELL
+1	WANT
+3	HEAR
+4	HAVE
+4	MOVE
+5	PUSH
+6	WERE
+8	NAMED
+9	LIVED
+10	CAME
+12	GREW
+13	MELTED
+14	PLAY
+15	LIKED
+15	SLIDE
+15	WAS
+18	LANDED
+18	SLID
+19	WENT
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+1	ABOUT
+6	UPON
+9	OF
+9	ON
+9	TOGETHER
+10	OVER
+11	DOWN
+11	LIKE
+12	IN
+21	BEHIND
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	ABOUT ME
+6	UPON A TIME
+9	OF ICEBERG
+9	ON THE TOP
+11	LIKE THOSE TWO PENGUINS
+12	IN THE DAYS
+14	IN THE SOFT
+18	ON THEIR HEADS
+21	BEHIND A BUSH
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+6	 WERE
+7	 WAS
+8	 WAS
+11	 WAS
+15	 WAS
+16	 WAS
+
+SCORE:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+4	HAVE
+6	WERE
+7	WAS
+8	WAS
+11	WAS
+15	WAS
+16	WAS
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+
+SCORE:	0
+
+
+###V8	Adverb###
+
+4	HOW
+5	HERE
+6	ONCE
+10	SEALY
+12	SOMETIMES
+13	SO
+17	DOWN
+17	FIRST
+20	THEN
+20	TOGETHER
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+3	CAN HEAR IT
+4	CAN YOU HAVE TO MOVE THOSE
+
+SCORE:	2
+
+
+###V10	Third person singular present tense suffix###
+
+7	WAS
+
+SCORE:	1
+
+
+###V11	Past tense modal###
+
+14	COULD
+
+SCORE:	1
+
+
+###V12	Regular past tense suffix###
+
+7	NAMED
+8	NAMED
+9	LIVED
+13	MELTED
+15	LIKED
+18	LANDED
+21	LIVED
+
+SCORE:	2
+
+
+###V13	Past tense auxiliary###
+
+6	WERE
+7	WAS
+8	WAS
+11	WAS
+15	WAS
+16	WAS
+
+SCORE:	2
+
+
+###V14	Medial adverb###
+
+10	SEALY
+17	DOWN
+18	THEN
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+6	 WERE
+7	 WAS
+8	 WAS
+11	 WAS
+15	 WAS
+16	 WAS
+
+SCORE:	2
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+10	SEALY
+
+SCORE:	1
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+SCORE:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+SCORE:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+SCORE:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	I WANT TO TELL A STORY ABOUT ME BLUE AND GREEN
+3	HE CAN HEAR IT RIGHT
+4	HOW CAN YOU HAVE TO MOVE THOSE
+5	HERE I PUSH
+6	ONCE UPON A TIME THERE WERE TWO LITTLE PENGUINS
+7	ONE WAS NAMED HEATHER
+8	AND ONE WAS NAMED JASON
+9	THEY BOTH LIVED TOGETHER ON THE TOP OF ICEBERG CANYON
+10	ONE DAY THEIR FRIEND SEALY CAME OVER TO PLAY
+11	SHE WAS AFRAID TO SLIDE DOWN THE MOUNTAIN LIKE THOSE TWO PENGUINS
+12	SOMETIMES THE SUN GREW BIGGER AND BIGGER AND HOTTER AND HOTTER IN THE DAYS
+13	SO THE ICE MELTED
+14	AND THEY COULD PLAY IN THE SOFT GREEN SNOW
+15	ONE DAY HEATHER WHO WAS THE BIGGER PENGUIN LIKED TO SLIDE DOWN A BIG ICE POLE
+16	THEN IT WAS HEATHERS TURN
+17	SHE SLID DOWN HEAD FIRST
+18	AND THEN SEALY THE SEAL SLID DOWN AND LANDED ON THEIR HEADS
+19	THEN SHE WENT HOME
+20	THEN THE TWO PENGUINS WENT HOME TOGETHER
+21	AND THEY LIVED BEHIND A BUSH
+22	THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+1	I WANT TO TELL 
+3	HE CAN HEAR 
+7	ONE WAS NAMED 
+9	THEY BOTH LIVED TOGETHER 
+11	SHE WAS 
+15	ONE DAY , HEATHER , WHO WAS THE BIGGER PENGUIN , LIKED TO SLIDE DOWN 
+17	SHE SLID DOWN , HEAD FIRST
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	TO TELL A STORY ABOUT ME , BLUE , AND GREEN
+1	WANT TO TELL A STORY ABOUT ME , BLUE , AND GREEN
+3	CAN HEAR IT RIGHT
+3	HEAR IT RIGHT
+4	HAVE TO MOVE THOSE
+4	TO MOVE THOSE
+6	WERE TWO LITTLE PENGUINS
+7	WAS NAMED HEATHER
+8	WAS NAMED JASON
+9	LIVED TOGETHER ON THE TOP OF ICEBERG CANYON
+11	TO SLIDE DOWN THE MOUNTAIN LIKE THOSE TWO PENGUINS
+11	WAS AFRAID TO SLIDE DOWN THE MOUNTAIN LIKE THOSE TWO PENGUINS
+12	GREW BIGGER AND BIGGER AND HOTTER AND HOTTER IN THE DAYS
+14	COULD PLAY IN THE SOFT , GREEN SNOW
+14	PLAY IN THE SOFT , GREEN SNOW
+15	WAS THE BIGGER PENGUIN
+16	WAS HEATHERS TURN
+18	SLID DOWN AND LANDED ON THEIR HEADS
+21	LIVED BEHIND A BUSH
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+1	I WANT TO TELL A STORY ABOUT ME , BLUE , AND GREEN
+3	HE CAN HEAR IT RIGHT
+7	ONE WAS NAMED HEATHER
+9	THEY BOTH LIVED TOGETHER ON THE TOP OF ICEBERG CANYON
+11	SHE WAS AFRAID TO SLIDE DOWN THE MOUNTAIN LIKE THOSE TWO PENGUINS
+15	ONE DAY , HEATHER , WHO WAS THE BIGGER PENGUIN , LIKED TO SLIDE DOWN A BIG ICE POLE
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+18	AND
+
+SCORE:	1
+
+
+###S6	Sentence with two VP's###
+
+1	I WANT TO TELL A STORY ABOUT ME , BLUE , AND GREEN .
+10	ONE DAY , THEIR FRIEND SEALY CAME OVER TO PLAY .
+15	ONE DAY , HEATHER , WHO WAS THE BIGGER PENGUIN , LIKED TO SLIDE DOWN A BIG ICE POLE .
+18	AND THEN SEALY , THE SEAL , SLID DOWN AND LANDED ON THEIR HEADS .
+
+SCORE:	2
+
+
+###S7	Conjoined phrases###
+
+12	BIGGER AND BIGGER
+
+SCORE:	1
+
+
+###S8	Infinitive without catenative, marked with to###
+
+1	WANT TO TELL A STORY ABOUT ME , BLUE , AND GREEN
+4	HAVE TO MOVE THOSE
+10	CAME OVER TO PLAY
+11	WAS AFRAID TO SLIDE DOWN THE MOUNTAIN LIKE THOSE TWO PENGUINS
+15	LIKED TO SLIDE DOWN A BIG ICE POLE
+
+SCORE:	2
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+SCORE:	0
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+4	HOW CAN YOU HAVE TO MOVE THOSE .
+15	ONE DAY , HEATHER , WHO WAS THE BIGGER PENGUIN , LIKED TO SLIDE DOWN A BIG ICE POLE .
+
+SCORE:	2
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+15	ONE DAY , HEATHER , WHO WAS THE BIGGER PENGUIN , LIKED TO SLIDE DOWN A BIG ICE POLE .
+
+SCORE:	1
+
+
+###S16	Relative clause marked or unmarked###
+
+15	HEATHER , WHO WAS THE BIGGER PENGUIN
+
+SCORE:	1
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+
+SCORE:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-22
+NO OF UTTERANCES CONSIDERED: 22
+
+
+#########################
+NOUN SCORE: 22
+VERB SCORE: 27
+QUESTION SCORE: 0
+SENTENCE SCORE: 18
+IPSYN SCORE: 67
+##########################
+
+###Sentence Listing###
+
+1	I WANT TO TELL A STORY ABOUT ME , BLUE , AND GREEN .
+2	YEAH .
+3	HE CAN HEAR IT RIGHT ?
+4	HOW CAN YOU HAVE TO MOVE THOSE .
+5	HERE I PUSH .
+6	ONCE UPON A TIME THERE WERE TWO LITTLE PENGUINS .
+7	ONE WAS NAMED HEATHER .
+8	AND ONE WAS NAMED JASON .
+9	THEY BOTH LIVED TOGETHER ON THE TOP OF ICEBERG CANYON .
+10	ONE DAY , THEIR FRIEND SEALY CAME OVER TO PLAY .
+11	SHE WAS AFRAID TO SLIDE DOWN THE MOUNTAIN LIKE THOSE TWO PENGUINS .
+12	SOMETIMES THE SUN GREW BIGGER AND BIGGER AND HOTTER AND HOTTER IN THE DAYS .
+13	SO , THE ICE MELTED .
+14	AND THEY COULD PLAY IN THE SOFT , GREEN SNOW .
+15	ONE DAY , HEATHER , WHO WAS THE BIGGER PENGUIN , LIKED TO SLIDE DOWN A BIG ICE POLE .
+16	THEN IT WAS HEATHERS TURN .
+17	SHE SLID DOWN , HEAD FIRST .
+18	AND THEN SEALY , THE SEAL , SLID DOWN AND LANDED ON THEIR HEADS .
+19	THEN SHE WENT HOME .
+20	THEN THE TWO PENGUINS WENT HOME TOGETHER .
+21	AND THEY LIVED BEHIND A BUSH .
+22	THE END .

@@ -1,0 +1,198 @@
+
+
+(S1 (S (NP (NP (NN girl)) (CC and) (NP (DT a) (NN boy))) (VP (VBD named)) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (NP (PRP they)) (NP (DT all))) (VP (VBD loved) (S (VP (TO to) (VP (VB play) (NP (NN ball)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (NNP Zoey)) (VP (VBD said) (, ,) (S (VP (AUX do) (RB not) (VP (VB talk) (PP (TO to) (NP (NNP Addy) (CC and) (NNP Micah))))))) (. .)))
+
+
+
+
+
+(S1 (X (NNP Zoey) (. .)))
+
+
+
+
+
+(S1 (FRAG (CC And) (NP (DT the) (JJ other)) (. .)))
+
+
+
+
+
+(S1 (S (NP (NP (PRP They)) (NP (DT all))) (VP (MD would) (VP (AUX have) (NP (DT a) (NN ball)) (SBAR (IN except) (S (NP (NNP Zoey)) (VP (MD will) (RB not)))))) (. .)))
+
+
+
+
+
+(S1 (S (SBAR (NNP ball)) (, ,) (NP (PRP I)) (VP (VBP want) (NP (PRP you))) (. .)))
+
+
+
+
+
+(S1 (FRAG (INTJ (UH Oh)) (, ,) (NP (NN ball)) (, ,) (NP (NN ball)) (, ,) (NNS balls) (, ,) (NNS balls) (. .)))
+
+
+
+
+
+(S1 (FRAG (NP (NN Something)) (. .)))
+
+
+
+
+
+(S1 (S (VP (VB Let) (S (NP (PRP 's)) (VP (VB play) (ADJP (VB hide) (CC and) (VB seek))))) (. .)))
+
+
+
+
+
+(S1 (FRAG (ADVP (RB out)) (. .)))
+
+
+
+
+
+(S1 (FRAG (WHNP (WP What)) (. ?)))
+
+
+
+
+
+(S1 (S (INTJ (UH Oh)) (, ,) (NP (PRP I)) (VP (MD 'll) (VP (VB play))) (. .)))
+
+
+
+
+
+(S1 (NP (NNS Thanks) (. .)))
+
+
+
+
+
+(S1 (SQ (CC And) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP It)) (VP (VBD happened) (ADVP (RB again))) (. .)))
+
+
+
+
+
+(S1 (SQ (AUX Is) (NP (DT that)) (NP (DT a) (JJ kindle) (NN fire)) (. ?)))
+
+
+
+
+
+(S1 (INTJ (UH OK) (. .)))
+
+
+
+
+
+(S1 (FRAG (NP (DT The) (NNP Ooh)) (CC and) (RB then) (CC and) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (MD can) (RB not) (VP (VB get) (NP (NNP Zoey)) (PRT (RP out)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (MD can) (RB not) (VP (VB get))) (. .)))
+
+
+
+
+
+(S1 (FRAG (WHNP (WP What)) (. ?)))
+
+
+
+
+
+(S1 (FRAG (WHNP (WP What)) (. ?)))
+
+
+
+
+
+(S1 (INTJ (UH Oh) (. .)))
+
+
+
+
+
+(S1 (S (S (VP (VBD Mm))) (, ,) (CC and) (RB then) (S (NP (PRP they)) (VP (VBD wanted) (S (VP (TO to) (VP (AUX do) (ADJP (JJ hopscotch))))))) (. .)))
+
+
+
+
+
+(S1 (SQ (AUX was) (NP (NN gonna)) (VP (VB go) (ADVP (RB first))) (. .)))
+
+
+
+
+
+(S1 (FRAG (ADVP (RB Then)) (. .)))
+
+
+
+
+
+(S1 (FRAG (RB Then) (INTJ (UH Oh)) (, ,) (INTJ (UH oh)) (, ,) (INTJ (UH oh)) (, ,) (INTJ (UH oh)) (. .)))
+
+
+
+
+
+(S1 (S (INTJ (UH Oh)) (, ,) (NP (PRP I)) (VP (MD can) (RB not) (VP (VB get) (S (NP (PRP her)) (VP (TO to) (VP (VB get) (PP (IN in) (NP (NP (DT the) (NN back)) (PP (IN of) (NP (DT the) (NN line))))) (ADVP (RB again))))))) (. .)))
+
+
+
+
+
+(S1 (FRAG (WHNP (WP What)) (. ?)))
+
+
+
+
+
+(S1 (S (NP (DT All)) (VP (AUX done)) (. .)))
+
+
+
+
+
+(S1 (FRAG (NP (PRP$ Your) (NN turn)) (. .)))
+
+
+

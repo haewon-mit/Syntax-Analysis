@@ -1,0 +1,581 @@
+FILENAME:sr2-session5-p013-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	ASTRONAUTS
+1	FAMILY
+1	TIME
+3	PARK
+4	GUY
+5	ALIENS
+6	WAY
+8	BABY
+8	SOLUTION
+10	PLAYGROUNDS
+13	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+3	THEY
+5	IT
+5	THEM
+9	HE
+9	I
+9	WE
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+3	BEST
+3	ONE
+3	THEIR
+4	BAD
+6	THAT
+9	ANOTHER
+10	SOME
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A FAMILY
+1	A TIME
+3	BEST PARK
+3	ONE PARK
+4	BAD GUY
+6	A WAY
+8	A SOLUTION
+8	THE BABY
+9	ANOTHER PLAYGROUND
+10	SOME PLAYGROUNDS
+13	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+1	A FAMILY
+1	A TIME
+6	A WAY
+8	A SOLUTION
+8	THE BABY
+13	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+1	WAS A FAMILY
+6	OUTED A WAY
+8	GOT A SOLUTION
+9	FIND ANOTHER PLAYGROUND
+10	AT SOME PLAYGROUNDS
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+1	ASTRONAUTS
+2	PARKS
+5	ALIENS
+10	PLAYGROUNDS
+
+SCORE:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+3	ONE PARK
+8	THE BABY
+
+SCORE:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+3	THEIR BEST PARK
+4	A BAD GUY
+
+SCORE:	2
+
+
+###N10	Adverb modifying adjective or nominal###
+
+6	SO
+8	THEN
+9	MAYBE
+
+SCORE:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+2	LOVED
+3	PLAY
+4	LIVED
+4	WAS
+5	BAKE
+5	EAT
+6	FIGURE
+6	OUTED
+8	GOT
+9	DO
+9	FIND
+9	HAVE
+9	LIKE
+9	SAID
+10	CHECKED
+11	FOUND
+12	STARTED
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+1	OF
+1	UPON
+3	IN
+4	NEAR
+8	TO
+10	AT
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	OF ASTRONAUTS
+1	UPON A TIME
+2	IN PARKS
+4	NEAR IT
+8	TO THAT
+9	IN THAT ONE
+10	AT SOME PLAYGROUNDS
+12	IN IT
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+3	 WAS
+4	 WAS
+
+SCORE:	1
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+3	WAS
+4	WAS
+6	DO
+9	DO
+9	HAVE
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+12	PLAYING
+
+SCORE:	1
+
+
+###V8	Adverb###
+
+1	ONCE
+6	SO
+7	NOT
+9	MAYBE
+12	THEN
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+9	COULD FIND ANOTHER PLAYGROUND THAT I
+9	WOULD LIKE TO PLAY IN
+
+SCORE:	2
+
+
+###V10	Third person singular present tense suffix###
+
+4	WAS
+
+SCORE:	1
+
+
+###V11	Past tense modal###
+
+9	COULD
+9	WOULD
+
+SCORE:	2
+
+
+###V12	Regular past tense suffix###
+
+2	LOVED
+3	LOVED
+4	LIVED
+5	LIKED
+6	OUTED
+10	CHECKED
+12	STARTED
+
+SCORE:	2
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+3	WAS
+4	WAS
+
+SCORE:	1
+
+
+###V14	Medial adverb###
+
+9	MAYBE
+9	NOT
+12	THEN
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+3	 WAS
+4	 WAS
+
+SCORE:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+SCORE:	0
+
+
+###Q1	Intonationally marked question###
+
+
+SCORE:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+7	BUT THEY COULD NOT .
+9	AND HE SAID , MAYBE WE COULD FIND ANOTHER PLAYGROUND THAT I WOULD LIKE TO PLAY IN , SO WE DO NOT HAVE TO PLAY IN THAT ONE .
+
+SCORE:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+SCORE:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+7	COULD NOT
+9	DO NOT HAVE TO PLAY IN THAT ONE
+
+SCORE:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS A FAMILY OF ASTRONAUTS
+2	AND THEY LOVED TO PLAY IN PARKS
+3	BUT ONE PARK WAS THEIR BEST PARK THAT THEY LOVED TO PLAY IN
+4	BUT THERE WAS A BAD GUY THAT LIVED NEAR IT
+5	AND IT LIKED TO BAKE ALIENS AND THEN EAT THEM
+6	SO THEY FIGURE OUTED A WAY TO DO THAT
+7	BUT THEY COULD NOT
+8	BUT THEN THE BABY GOT A SOLUTION TO THAT
+9	AND HE SAID MAYBE WE COULD FIND ANOTHER PLAYGROUND THAT I WOULD LIKE TO PLAY IN SO WE DO NOT HAVE TO PLAY IN THAT ONE
+10	SO THEY CHECKED AT SOME PLAYGROUNDS
+11	AND THEN THEY FOUND ONE
+12	AND THEN THEY STARTED PLAYING IN IT
+13	THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+3	THEY LOVED TO PLAY 
+9	I WOULD LIKE TO PLAY 
+9	WE DO NOT HAVE TO PLAY 
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	WAS A FAMILY OF ASTRONAUTS
+2	LOVED TO PLAY IN PARKS
+2	TO PLAY IN PARKS
+3	WAS THEIR BEST PARK THAT THEY LOVED TO PLAY IN
+4	LIVED NEAR IT
+4	WAS A BAD GUY THAT LIVED NEAR IT
+5	LIKED TO BAKE ALIENS AND THEN EAT THEM
+5	THEN EAT THEM
+5	TO BAKE ALIENS AND THEN EAT THEM
+6	FIGURE OUTED A WAY TO DO THAT
+6	OUTED A WAY TO DO THAT
+6	TO DO THAT
+8	GOT A SOLUTION TO THAT
+9	COULD FIND ANOTHER PLAYGROUND THAT I WOULD LIKE TO PLAY IN , SO WE DO NOT HAVE TO PLAY IN THAT ONE
+9	SAID , MAYBE WE COULD FIND ANOTHER PLAYGROUND THAT I WOULD LIKE TO PLAY IN , SO WE DO NOT HAVE TO PLAY IN THAT ONE
+9	WOULD LIKE TO PLAY IN , SO WE DO NOT HAVE TO PLAY IN THAT ONE
+10	CHECKED AT SOME PLAYGROUNDS
+11	FOUND ONE
+12	PLAYING IN IT
+12	STARTED PLAYING IN IT
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+9	I WOULD LIKE TO PLAY IN , SO WE DO NOT HAVE TO PLAY IN THAT ONE
+9	WE DO NOT HAVE TO PLAY IN THAT ONE
+
+SCORE:	1
+
+
+###S5	Conjunction (any)###
+
+3	THAT
+8	BUT
+9	SO
+12	AND
+
+SCORE:	2
+
+
+###S6	Sentence with two VP's###
+
+2	AND THEY LOVED TO PLAY IN PARKS .
+3	BUT ONE PARK WAS THEIR BEST PARK THAT THEY LOVED TO PLAY IN .
+5	AND IT LIKED TO BAKE ALIENS AND THEN EAT THEM .
+6	SO THEY FIGURE OUTED A WAY TO DO THAT .
+9	AND HE SAID , MAYBE WE COULD FIND ANOTHER PLAYGROUND THAT I WOULD LIKE TO PLAY IN , SO WE DO NOT HAVE TO PLAY IN THAT ONE .
+
+SCORE:	2
+
+
+###S7	Conjoined phrases###
+
+
+SCORE:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+2	LOVED TO PLAY IN PARKS
+3	LOVED TO PLAY IN
+5	LIKED TO BAKE ALIENS AND THEN EAT THEM
+6	OUTED A WAY TO DO THAT
+9	HAVE TO PLAY IN THAT ONE
+
+SCORE:	2
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+3	THAT
+7	BUT
+9	SO
+
+SCORE:	2
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+4	BUT THERE WAS A BAD GUY THAT LIVED NEAR IT .
+
+SCORE:	1
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+3	BUT ONE PARK WAS THEIR BEST PARK THAT THEY LOVED TO PLAY IN .
+5	AND IT LIKED TO BAKE ALIENS AND THEN EAT THEM .
+6	SO THEY FIGURE OUTED A WAY TO DO THAT .
+9	AND HE SAID , MAYBE WE COULD FIND ANOTHER PLAYGROUND THAT I WOULD LIKE TO PLAY IN , SO WE DO NOT HAVE TO PLAY IN THAT ONE .
+
+SCORE:	1
+
+
+###S16	Relative clause marked or unmarked###
+
+4	A BAD GUY THAT LIVED NEAR IT
+6	A WAY TO DO THAT
+
+SCORE:	1
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+12	AND THEN THEY STARTED PLAYING IN IT .
+
+SCORE:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-13
+NO OF UTTERANCES CONSIDERED: 13
+
+
+#########################
+NOUN SCORE: 20
+VERB SCORE: 25
+QUESTION SCORE: 2
+SENTENCE SCORE: 19
+IPSYN SCORE: 66
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS A FAMILY OF ASTRONAUTS .
+2	AND THEY LOVED TO PLAY IN PARKS .
+3	BUT ONE PARK WAS THEIR BEST PARK THAT THEY LOVED TO PLAY IN .
+4	BUT THERE WAS A BAD GUY THAT LIVED NEAR IT .
+5	AND IT LIKED TO BAKE ALIENS AND THEN EAT THEM .
+6	SO THEY FIGURE OUTED A WAY TO DO THAT .
+7	BUT THEY COULD NOT .
+8	BUT THEN THE BABY GOT A SOLUTION TO THAT .
+9	AND HE SAID , MAYBE WE COULD FIND ANOTHER PLAYGROUND THAT I WOULD LIKE TO PLAY IN , SO WE DO NOT HAVE TO PLAY IN THAT ONE .
+10	SO THEY CHECKED AT SOME PLAYGROUNDS .
+11	AND THEN THEY FOUND ONE .
+12	AND THEN THEY STARTED PLAYING IN IT .
+13	THE END .

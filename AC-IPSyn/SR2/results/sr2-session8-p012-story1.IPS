@@ -1,0 +1,589 @@
+FILENAME:sr2-session8-p012-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+2	HICCUP
+7	PIECE
+7	TAPE
+8	ALOT
+17	WHOA
+18	A
+25	GIRL
+26	BOY
+29	ELSA
+29	HAIR
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+3	HE
+7	YOU
+9	WHERE
+19	I
+26	SHE
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+2	THAT
+7	ANOTHER
+13	OK
+14	RED
+16	EIGHT
+16	FIVE
+16	FOUR
+16	NINE
+16	ONE
+16	SEVEN
+16	SIX
+16	TEN
+16	THREE
+16	TWO
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+2	A HICCUP
+7	ANOTHER PIECE
+9	THE TAPE
+25	A GIRL
+26	A BOY
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+2	A HICCUP
+9	THE TAPE
+26	A BOY
+28	A GIRL
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+2	'S A HICCUP
+7	HAVE ANOTHER PIECE
+9	'S THE TAPE
+26	'S A BOY
+28	'S A GIRL
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+8	PIECES
+
+SCORE:	1
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+
+SCORE:	0
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+SCORE:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+28	MAYBE
+
+SCORE:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+2	'S
+3	DID
+3	HICDEDUP
+4	HICCUP
+7	HAVE
+8	DO
+11	WHOA
+12	ARE
+13	AM
+14	PLEASE
+17	CH
+18	WAS
+19	FOUND
+23	'M
+23	DONE
+26	IS
+27	KNOW
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+8	OF
+28	BECAUSE
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+7	OF TAPE
+8	OF PIECES
+8	OF TAPE
+28	BECAUSE GIRL
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 IS
+2	 'S
+9	 'S
+12	 ARE
+13	I AM OK
+15	 'S
+18	 WAS
+25	 IS
+26	 'S
+26	 IS
+28	 'S
+
+SCORE:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	IS
+2	'S
+3	DID
+4	DO
+7	DO
+7	HAVE
+8	DO
+8	HAVE
+9	'S
+12	ARE
+13	AM
+15	'S
+18	WAS
+23	'M
+23	DO
+25	IS
+26	'S
+26	IS
+27	DO
+28	'S
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+
+SCORE:	0
+
+
+###V8	Adverb###
+
+4	EVER
+6	WHY
+9	WHERE
+23	EVEN
+27	NOT
+28	MAYBE
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+
+SCORE:	0
+
+
+###V10	Third person singular present tense suffix###
+
+1	IS
+18	WAS
+
+SCORE:	2
+
+
+###V11	Past tense modal###
+
+
+SCORE:	0
+
+
+###V12	Regular past tense suffix###
+
+
+SCORE:	0
+
+
+###V13	Past tense auxiliary###
+
+3	DID
+18	WAS
+
+SCORE:	2
+
+
+###V14	Medial adverb###
+
+4	EVER
+23	EVEN
+23	NOT
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+18	 WAS
+
+SCORE:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+SCORE:	0
+
+
+###Q1	Intonationally marked question###
+
+6	WHY ?
+
+SCORE:	2
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	2
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+4	I DO NOT EVER HICCUP ?
+23	I 'M NOT EVEN DONE .
+27	I DO NOT KNOW .
+
+SCORE:	2
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+27	DO NOT KNOW
+
+SCORE:	1
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+1	WHY IS HE ?
+3	WHY DID HE HICDEDUP ?
+7	WHY DO YOU HAVE ANOTHER PIECE OF TAPE ?
+8	WHY DO YOU HAVE ALOT OF PIECES OF TAPE ?
+9	WHERE 'S THE TAPE ?
+
+SCORE:	2
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+4	DO NOT EVER HICCUP
+23	'M NOT EVEN DONE
+27	DO NOT KNOW
+
+SCORE:	2
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+12	ARE YOU OK ?
+25	IS SHE A GIRL ?
+26	OR IS SHE 'S A BOY ?
+
+SCORE:	2
+
+
+###Q9	Why, When, Which, Whose###
+
+1	WHY IS HE ?
+3	WHY DID HE HICDEDUP ?
+6	WHY ?
+7	WHY DO YOU HAVE ANOTHER PIECE OF TAPE ?
+8	WHY DO YOU HAVE ALOT OF PIECES OF TAPE ?
+
+SCORE:	1
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	WHY IS HE
+2	AND THAT 'S A HICCUP
+3	WHY DID HE HICDEDUP
+4	I DO NOT EVER HICCUP
+7	WHY DO YOU HAVE ANOTHER PIECE OF TAPE
+8	WHY DO YOU HAVE ALOT OF PIECES OF TAPE
+9	WHERE 'S THE TAPE
+11	WHOA THAT
+12	ARE YOU OK
+13	YES I AM OK
+14	BUT PLEASE YOU RED
+15	SHE 'S
+16	ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE TEN
+17	WHEE WHOA CH
+18	THAT WAS A
+19	I FOUND
+23	I 'M NOT EVEN DONE
+25	IS SHE A GIRL
+26	OR IS SHE 'S A BOY
+27	I DO NOT KNOW
+28	MAYBE SHE 'S A GIRL BECAUSE GIRL
+29	I ELSA HAIR
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+4	I DO NOT EVER HICCUP
+15	SHE 'S
+18	THAT WAS 
+19	I FOUND
+23	I 'M NOT EVEN DONE
+27	I DO NOT KNOW
+29	I ELSA 
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+2	'S A HICCUP
+7	HAVE ANOTHER PIECE OF TAPE
+8	HAVE ALOT OF PIECES OF TAPE
+11	WHOA THAT
+14	PLEASE YOU RED
+18	WAS A
+26	'S A BOY
+28	'S A GIRL BECAUSE GIRL
+29	ELSA HAIR
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+18	THAT WAS A
+29	I ELSA HAIR
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+2	AND
+14	BUT
+26	OR
+
+SCORE:	2
+
+
+###S6	Sentence with two VP's###
+
+
+SCORE:	0
+
+
+###S7	Conjoined phrases###
+
+
+SCORE:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+
+SCORE:	0
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+14	BUT
+
+SCORE:	1
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+1	WHY IS HE ?
+3	WHY DID HE HICDEDUP ?
+7	WHY DO YOU HAVE ANOTHER PIECE OF TAPE ?
+8	WHY DO YOU HAVE ALOT OF PIECES OF TAPE ?
+9	WHERE 'S THE TAPE ?
+
+SCORE:	2
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+SCORE:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+
+SCORE:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+
+SCORE:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+SCORE:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-30
+NO OF UTTERANCES CONSIDERED: 30
+
+
+#########################
+NOUN SCORE: 14
+VERB SCORE: 21
+QUESTION SCORE: 14
+SENTENCE SCORE: 13
+IPSYN SCORE: 62
+##########################
+
+###Sentence Listing###
+
+1	WHY IS HE ?
+2	AND THAT 'S A HICCUP .
+3	WHY DID HE HICDEDUP ?
+4	I DO NOT EVER HICCUP ?
+5	NO .
+6	WHY ?
+7	WHY DO YOU HAVE ANOTHER PIECE OF TAPE ?
+8	WHY DO YOU HAVE ALOT OF PIECES OF TAPE ?
+9	WHERE 'S THE TAPE ?
+10	OH .
+11	WHOA THAT .
+12	ARE YOU OK ?
+13	YES , I AM OK .
+14	BUT PLEASE YOU RED .
+15	SHE 'S .
+16	ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE TEN .
+17	WHEE , WHOA CH .
+18	THAT WAS A .
+19	I FOUND .
+20	OH .
+21	OH .
+22	I .
+23	I 'M NOT EVEN DONE .
+24	NO .
+25	IS SHE A GIRL ?
+26	OR IS SHE 'S A BOY ?
+27	I DO NOT KNOW .
+28	MAYBE SHE 'S A GIRL BECAUSE GIRL .
+29	I ELSA HAIR ?
+30	YES .

@@ -1,0 +1,73 @@
+
+(S1 (SQ (CC But) (. .)))
+
+
+
+(S1 (S (NP (PRP They)) (VP (VBD got) (VP (VBN married))) (. .)))
+
+
+
+(S1 (S (ADVP (RB Then))
+     (NP (DT a) (NN crocodile))
+     (VP (VBD came))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VBD said)
+      (, ,)
+      (SQ (AUX are)
+       (NP (PRP you))
+       (ADVP (FW gonna))
+       (VP (VB eat) (NP (PRP$ your) (NN pie)))
+       (. ?)))))
+
+
+
+(S1 (S (RB Then)
+     (NP (PRP he))
+     (VP (VP (VBD ran) (PRT (RP away)))
+      (CC and)
+      (VP (ADVP (RB never)) (VBD came) (ADVP (RB back))))
+     (. .)))
+
+
+
+(S1 (FRAG (NP (JJ huge) (NNS eyes)) (. .)))
+
+
+
+(S1 (SBARQ (WHADVP (WRB Where))
+     (SQ (MD 'd)
+      (NP (PRP he))
+      (VP (VB get) (NP (DT those) (JJ huge) (NNS eyes))))
+     (. ?)))
+
+
+
+(S1 (INTJ (UH Yeah) (. .)))
+
+
+
+(S1 (S (NP (DT That))
+     (VP (AUX was) (ADJP (RB really) (JJ funny)))
+     (. .)))
+
+
+
+(S1 (S (S (NP (PRP You)) (VP (VBP know)))
+     (, ,)
+     (NP (JJS most) (NNS people))
+     (VP (AUX do) (RB not) (VP (AUX have) (NP (JJ black) (NNS faces))))
+     (. .)))
+
+
+
+(S1 (S (VP (VB Like) (NP (PRP him))) (. .)))
+
+
+
+(S1 (FRAG (NP (JJ big) (NNS eyes)) (. .)))
+
+

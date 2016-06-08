@@ -1,0 +1,114 @@
+
+
+(S1 (S (ADVP (RB Once)) (PP (IN upon) (NP (DT a) (NN time))) (NP (DT a) (JJ little) (NN girl)) (VP (AUX was) (NP (DT all) (NN day)) (ADVP (RB long))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP she)) (VP (AUX had) (NP (DT a) (NN puppy))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP she)) (VP (AUX had) (NP (DT a) (NN cat))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT the) (NN puppy)) (VP (VBD chased) (NP (DT the) (NN cat)) (NP (PDT all) (DT the) (NN time))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP she)) (VP (AUX had) (NP (DT a) (NN ball)) (NP (PDT all) (DT the) (NN time))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP she)) (VP (AUX had) (VP (VBN boxs))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT The) (NN boxs)) (VP (VBD stayed) (SBAR (WHADVP (WRB where)) (S (NP (PRP they)) (VP (AUX were) (NP (PDT all) (DT the) (NN time)))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (CD One) (NN day)) (NP (DT the) (NN dog)) (VP (VBD hid) (PP (IN under) (NP (DT a) (NN chair)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (AUX was) (VP (VBG hoping) (S (VP (TO to) (VP (VP (VB pounce) (PRT (RP up))) (CC and) (VP (VB get) (NP (DT the) (NN cat)))))))) (. .)))
+
+
+
+
+
+(S1 (S (PP (IN for) (NP (DT the) (JJ first) (NN time))) (NP (PRP she)) (VP (VBD climbed) (PRT (RP up)) (PP (IN on) (NP (DT the) (NN couch)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP he)) (VP (VBD triped) (PP (IN on) (NP (DT a) (NN ball)))) (. .)))
+
+
+
+
+
+(S1 (S (RB then) (NP (DT the) (NN cat)) (VP (VP (VBD jumped) (PP (IN out) (IN of) (NP (DT the) (NN window)))) (CC and) (VP (AUX was) (ADVP (RB never)) (VP (VBN seen) (ADVP (RB again))))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+
+
+
+(S1 (S (IN So) (NP (DT the) (NN dog)) (VP (IN because) (NP (PRP$ his))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (NP (PRP he)) (VP (VBD jumped) (PP (IN out) (IN of) (NP (DT the) (NN window)))) (. .)))
+
+
+
+
+
+(S1 (S (RB so) (NP (PRP he)) (VP (AUX was) (ADVP (RB never)) (VP (VBN seen) (ADVP (RB again)))) (. .)))
+
+
+
+
+
+(S1 (FRAG (CC and) (NP (NP (DT the) (NN girl) (NN rest)) (PP (IN of) (NP (PRP$ her) (NN life)))) (SBAR (IN like) (S (NP (PRP she)) (VP (VBD promised) (NP (PRP herself))))) (. .)))
+
+
+
+
+
+(S1 (FRAG (NP (PRP$ Your) (NN turn)) (. ?)))
+
+
+
+
+
+(S1 (X (NNP Mhm) (. .)))
+
+
+

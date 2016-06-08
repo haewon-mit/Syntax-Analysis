@@ -1,0 +1,73 @@
+
+(S1 (S (NP (PRP I))
+     (VP (VBP want)
+      (S (NP (PRP it))
+       (VP (TO to) (VP (AUX be) (NP (RB about) (DT a) (NN snowman))))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (, ,)
+     (NP (EX there))
+     (VP (AUX was) (NP (DT a) (NN snowman)))
+     (. .)))
+
+
+
+(S1 (S (CC And) (NP (PRP he)) (VP (AUX was) (ADJP (JJ alive))) (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VBD lived) (PP (IN in) (NP (DT the) (NNP North) (NNP Pole))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (NP (CD one) (NN day)) (NP (PRP he)))
+     (VP (VBD went) (PP (IN for) (NP (DT a) (NN walk))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP$ His) (NN hat)) (VP (VBD fell) (PRT (RP off))) (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (VBD put) (NP (PRP it)) (ADVP (RB back)) (PP (IN on)))
+     (. .)))
+
+
+
+(S1 (S (RB Then)
+     (NP (PRP he))
+     (VP (VBD met) (NP (DT a) (NN penguin)))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP He))
+     (VP (AUX was)
+      (VP (VBG talking)
+       (PP (IN with)
+	(NP (NP (PRP$ his) (JJ other) (NN friend))
+	 (, ,)
+	 (NP (DT a) (NN penguin))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP they))
+     (VP (AUX had) (NP (DT a) (NN walk)) (ADVP (RB together)))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

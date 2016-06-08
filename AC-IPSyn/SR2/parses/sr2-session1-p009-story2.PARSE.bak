@@ -1,0 +1,99 @@
+
+(S1 (S (NP (CD One) (NN day) (EX there))
+     (VP (AUX 's)
+      (NP (NP (DT a) (JJ little) (NN girl))
+       (SBAR (WHNP (WP who))
+	(S (VP (AUX 's)
+	    (VP (VBG swinging) (PP (IN in) (NP (DT the) (NN swing)))))))))
+     (. .)))
+
+
+
+(S1 (S (RB Then)
+     (NP (DT another) (NN girl))
+     (VP (VBD wanted) (S (VP (TO to) (VP (VB play) (NP (NN ball))))))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (NP (PRP she))
+     (VP (VBD wanted) (S (VP (TO to) (VP (VB swing)))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB So))
+     (NP (PRP she))
+     (VP (VP (VBD took) (NP (DT the) (NN ball)) (ADVP (RB away)))
+      (CC and)
+      (VP (VBD hid)
+       (NP (PRP it))
+       (ADVP (RB there))
+       (, ,)
+       (PP (IN at) (NP (DT the) (NNS swings)))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP she))
+     (VP (VBD made)
+      (NP (PRP$ her) (NNS legs) (RB not))
+      (VP (AUX be) (ADJP (JJ able) (S (VP (TO to) (VP (VB reach)))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP her))
+     (VP (VB fall) (PRT (RP off)) (NP (DT the) (NN swing)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (DT a) (NN boy))
+     (VP (VBD said)
+      (, ,)
+      (S (NP (PRP I))
+       (VP (VBP want)
+	(S (VP (TO to)
+	    (VP (VB play) (PP (IN on) (NP (DT the) (NN ball)))))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB so)
+     (NP (PRP she))
+     (VP (VBD went)
+      (ADVP (RB back))
+      (PP (IN on) (NP (DT the) (NN swing))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (NP (DT the) (NN girl))
+      (, ,)
+      (SBAR (WHNP (WP who))
+       (S (VP (VBD wanted)
+	   (S (VP (TO to) (VP (VB play) (NP (NN ball))))))))
+      (, ,))
+     (VP (VBN forgot) (PP (RB all) (IN about) (NP (DT that))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP Her))
+     (VP (VBD played)
+      (NP (NN ball))
+      (PP (IN with) (NP (DT the) (NX (NX (NN boy)) (CC and)))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

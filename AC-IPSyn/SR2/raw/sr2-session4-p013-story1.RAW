@@ -1,0 +1,581 @@
+FILENAME:sr2-session4-p013-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	CAT
+1	GIRL
+1	TIME
+2	DOLLS
+3	STUFF
+4	DAY
+5	DOG
+5	PLACE
+6	PURPOSE
+7	BED
+10	MOM
+12	END
+
+COUNTS:	12
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+3	THEY
+5	WHERE
+7	SHE
+8	IT
+10	WHAT
+
+COUNTS:	5
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	LITTLE
+1	SOME
+2	HER
+4	ASLEEP
+4	ONE
+7	ANGRY
+10	BOTH
+11	SORRY
+
+COUNTS:	8
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A DOG
+1	A TIME
+1	SOME DOLLS
+2	THE CAT
+4	LITTLE GIRL
+4	ONE DAY
+7	HER DOG
+10	HER MOM
+10	THE GIRL
+11	THE DOG
+12	THE END
+
+COUNTS:	11
+
+
+###N5	Article used before a noun###
+
+1	A DOG
+1	A TIME
+2	THE CAT
+10	THE GIRL
+11	THE DOG
+12	THE END
+
+COUNTS:	6
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	HAD SOME DOLLS
+1	UPON A TIME
+5	TAKED HER DOG
+7	AT HER DOG
+10	TOLD HER MOM
+
+COUNTS:	4
+
+
+###N7	Plural suffix###
+
+2	DOLLS
+
+COUNTS:	1
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+4	LITTLE GIRL
+5	THE CAT
+9	HER MOM
+10	THE GIRL
+
+COUNTS:	4
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+1	A LITTLE GIRL
+4	THE LITTLE GIRL
+
+COUNTS:	1
+
+
+###N10	Adverb modifying adjective or nominal###
+
+3	SOMETIMES
+7	VERY
+11	REALLY
+
+COUNTS:	3
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	HAD
+2	LIKED
+4	WAS
+5	FIT
+5	HIDDING
+5	PLAY
+5	SNUCK
+5	TAKED
+6	SCRATCHED
+7	WOKE
+8	FIX
+8	TRYED
+9	CAME
+10	DID
+10	TOLD
+11	WERE
+
+COUNTS:	16
+
+
+###V2	Particle or preposition###
+
+1	UPON
+2	WITH
+5	INTO
+6	ON
+7	AT
+7	FROM
+7	UP
+
+COUNTS:	7
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+2	WITH DOLLS
+5	INTO A HIDDING PLACE
+5	WITH IT
+6	ON PURPOSE
+7	AT HER DOG AND CAT
+7	FROM BED
+
+COUNTS:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+4	 WAS
+7	 WAS
+11	 WERE
+
+COUNTS:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	HAD
+1	WAS
+4	WAS
+7	WAS
+10	DID
+11	WERE
+
+COUNTS:	4
+
+
+###V7	Progressive Suffix###
+
+
+COUNTS:	0
+
+
+###V8	Adverb###
+
+1	ONCE
+3	ACCIDENTALLY
+3	SOMETIMES
+5	WHERE
+7	DOWN
+7	VERY
+7	WHEN
+9	THEN
+10	SO
+11	REALLY
+
+COUNTS:	10
+
+
+###V9	Modal preceeding verb###
+
+5	COULD FIT INTO SO THEY
+5	COULD PLAY WITH IT
+
+COUNTS:	2
+
+
+###V10	Third person singular present tense suffix###
+
+7	WAS
+
+COUNTS:	1
+
+
+###V11	Past tense modal###
+
+5	COULD
+
+COUNTS:	1
+
+
+###V12	Regular past tense suffix###
+
+2	LIKED
+3	SCRATCHED
+6	SCRATCHED
+8	TRYED
+10	FIXED
+
+COUNTS:	4
+
+
+###V13	Past tense auxiliary###
+
+1	HAD
+1	WAS
+4	WAS
+7	WAS
+10	DID
+11	WERE
+
+COUNTS:	4
+
+
+###V14	Medial adverb###
+
+3	ACCIDENTALLY
+3	SOMETIMES
+5	WHERE
+7	DOWN
+7	VERY
+7	WHEN
+9	THEN
+10	SO
+11	REALLY
+
+COUNTS:	9
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+4	 WAS
+7	 WAS
+11	 WERE
+
+COUNTS:	2
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+3	ACCIDENTALLY
+11	REALLY
+
+COUNTS:	2
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+COUNTS:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS A LITTLE GIRL THAT HAD SOME DOLLS A DOG AND CAT
+2	AND THE HER DOG AND THE CAT LIKED TO PLAY WITH DOLLS
+3	BUT BUT SOMETIMES THEY ACCIDENTALLY SCRATCHED STUFF
+4	BUT ONE DAY THE LITTLE GIRL WAS ASLEEP
+5	THE DOG AND THE CAT SNUCK AND TAKED HER DOG INTO A HIDDING PLACE WHERE THEY COULD FIT INTO SO THEY COULD PLAY WITH IT
+6	BUT ON PURPOSE THEY SCRATCHED IT
+7	AND WHEN THE GIRL WOKE UP AND CAME DOWN FROM BED SHE WAS VERY ANGRY AT HER DOG AND CAT
+8	SO SHE TRYED TO FIX IT
+9	BUT THEN HER MOM CAME
+10	AND THE GIRL TOLD HER MOM WHAT HER DOG AND CAT DID SO THEY BOTH FIXED IT
+11	AND THE DOG AND CAT WERE REALLY SORRY
+12	THE END
+
+COUNTS:	4
+
+
+###S2	Subject verb sequence###
+
+5	THE DOG AND THE CAT SNUCK AND TAKED 
+5	THEY COULD FIT 
+7	THE GIRL WOKE UP AND CAME DOWN 
+10	HER DOG AND CAT DID SO 
+
+COUNTS:	2
+
+
+###S3	Verb object sequence###
+
+1	HAD SOME DOLLS , A DOG AND CAT
+1	WAS A LITTLE GIRL THAT HAD SOME DOLLS , A DOG AND CAT
+2	LIKED TO PLAY WITH DOLLS
+2	TO PLAY WITH DOLLS
+3	SCRATCHED STUFF
+5	COULD FIT INTO SO THEY COULD PLAY WITH IT
+5	SNUCK AND TAKED HER DOG INTO A HIDDING PLACE WHERE THEY COULD FIT INTO SO THEY COULD PLAY WITH IT
+6	SCRATCHED IT
+7	WOKE UP AND CAME DOWN FROM BED
+8	TO FIX IT
+8	TRYED TO FIX IT
+10	DID SO THEY BOTH FIXED IT
+10	TOLD HER MOM WHAT HER DOG AND CAT DID SO THEY BOTH FIXED IT
+
+COUNTS:	5
+
+
+###S4	Subject Verb Object Sequence###
+
+5	THE DOG AND THE CAT SNUCK AND TAKED HER DOG INTO A HIDDING PLACE WHERE THEY COULD FIT INTO SO THEY COULD PLAY WITH IT
+5	THEY COULD FIT INTO SO THEY COULD PLAY WITH IT
+7	THE GIRL WOKE UP AND CAME DOWN FROM BED
+10	HER DOG AND CAT DID SO THEY BOTH FIXED IT
+
+COUNTS:	3
+
+
+###S5	Conjunction (any)###
+
+4	BUT
+5	SO
+7	AND
+
+COUNTS:	3
+
+
+###S6	Sentence with two VP's###
+
+2	AND THE HER DOG AND THE CAT LIKED TO PLAY WITH DOLLS .
+5	THE DOG AND THE CAT SNUCK AND TAKED HER DOG INTO A HIDDING PLACE WHERE THEY COULD FIT INTO SO THEY COULD PLAY WITH IT .
+7	AND WHEN THE GIRL WOKE UP AND CAME DOWN FROM BED SHE WAS VERY ANGRY AT HER DOG AND CAT .
+8	SO SHE TRYED TO FIX IT .
+10	AND THE GIRL TOLD HER MOM WHAT HER DOG AND CAT DID SO THEY BOTH FIXED IT .
+
+COUNTS:	4
+
+
+###S7	Conjoined phrases###
+
+5	SNUCK AND TAKED
+
+COUNTS:	1
+
+
+###S8	Infinitive without catenative, marked with to###
+
+2	LIKED TO PLAY WITH DOLLS
+8	TRYED TO FIX IT
+
+COUNTS:	2
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+5	SO
+9	BUT
+
+COUNTS:	2
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+1	ONCE UPON A TIME THERE WAS A LITTLE GIRL THAT HAD SOME DOLLS , A DOG AND CAT .
+5	THE DOG AND THE CAT SNUCK AND TAKED HER DOG INTO A HIDDING PLACE WHERE THEY COULD FIT INTO SO THEY COULD PLAY WITH IT .
+7	AND WHEN THE GIRL WOKE UP AND CAME DOWN FROM BED SHE WAS VERY ANGRY AT HER DOG AND CAT .
+10	AND THE GIRL TOLD HER MOM WHAT HER DOG AND CAT DID SO THEY BOTH FIXED IT .
+
+COUNTS:	4
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+5	THE DOG AND THE CAT SNUCK AND TAKED HER DOG INTO A HIDDING PLACE WHERE THEY COULD FIT INTO SO THEY COULD PLAY WITH IT .
+7	AND WHEN THE GIRL WOKE UP AND CAME DOWN FROM BED SHE WAS VERY ANGRY AT HER DOG AND CAT .
+10	AND THE GIRL TOLD HER MOM WHAT HER DOG AND CAT DID SO THEY BOTH FIXED IT .
+
+COUNTS:	3
+
+
+###S16	Relative clause marked or unmarked###
+
+1	A LITTLE GIRL THAT HAD SOME DOLLS , A DOG AND CAT
+5	A HIDDING PLACE WHERE THEY COULD FIT INTO SO THEY COULD PLAY WITH IT
+
+COUNTS:	2
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+5	THE DOG AND THE CAT SNUCK AND TAKED HER DOG INTO A HIDDING PLACE WHERE THEY COULD FIT INTO SO THEY COULD PLAY WITH IT .
+
+COUNTS:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-12
+NO OF UTTERANCES CONSIDERED: 12
+
+
+#########################
+NOUN COUNTS: 55
+VERB COUNTS: 66
+QUESTION COUNTS: 0
+SENTENCE COUNTS: 36
+TOTAL NO OF STRUCTURES COUNTS: 157
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS A LITTLE GIRL THAT HAD SOME DOLLS , A DOG AND CAT .
+2	AND THE HER DOG AND THE CAT LIKED TO PLAY WITH DOLLS .
+3	BUT BUT SOMETIMES THEY ACCIDENTALLY SCRATCHED STUFF .
+4	BUT ONE DAY THE LITTLE GIRL WAS ASLEEP .
+5	THE DOG AND THE CAT SNUCK AND TAKED HER DOG INTO A HIDDING PLACE WHERE THEY COULD FIT INTO SO THEY COULD PLAY WITH IT .
+6	BUT ON PURPOSE THEY SCRATCHED IT .
+7	AND WHEN THE GIRL WOKE UP AND CAME DOWN FROM BED SHE WAS VERY ANGRY AT HER DOG AND CAT .
+8	SO SHE TRYED TO FIX IT .
+9	BUT THEN HER MOM CAME .
+10	AND THE GIRL TOLD HER MOM WHAT HER DOG AND CAT DID SO THEY BOTH FIXED IT .
+11	AND THE DOG AND CAT WERE REALLY SORRY .
+12	THE END .

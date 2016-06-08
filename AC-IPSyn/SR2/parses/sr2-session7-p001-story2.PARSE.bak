@@ -1,0 +1,78 @@
+
+(S1 (FRAG (NP (NN dog)) (. .)))
+
+
+
+(S1 (FRAG (NP (NN dog)) (. .)))
+
+
+
+(S1 (FRAG (NP (NN baby)) (. .)))
+
+
+
+(S1 (X (NNP ball) (. .)))
+
+
+
+(S1 (S (NP (DT the) (NN ball)) (VP (VBP back)) (. .)))
+
+
+
+(S1 (S (CC And)
+     (VP (VBD went)
+      (S (VP (TO to)
+	  (VP (VB take) (NP (DT a) (NN nap)) (PP (IN with))))))
+     (. .)))
+
+
+
+(S1 (SQ (CC And) (. .)))
+
+
+
+(S1 (S (RB then)
+     (NP (PRP she))
+     (VP (VBD sat) (PP (IN on) (NP (DT the) (NN couch))))
+     (. .)))
+
+
+
+(S1 (S (NP (NN Dog))
+     (VP (VBD sat) (PP (IN on) (NP (DT the) (NN couch))))
+     (. .)))
+
+
+
+(S1 (S (RB Then)
+     (NP (DT the) (NN cat))
+     (VP (VBD sat) (PP (IN on) (NP (DT the) (NN couch))))
+     (. .)))
+
+
+
+(S1 (FRAG (CC And) (RB then) (ADVP (DT the)) (. .)))
+
+
+
+(S1 (FRAG (CC And) (ADVP (RB then)) (. .)))
+
+
+
+(S1 (S (NP (PRP I)) (VP (VBP wonder)) (. .)))
+
+
+
+(S1 (FRAG (ADVP (RB Maybe)) (. .)))
+
+
+
+(S1 (SBARQ (WHADVP (WRB Where))
+     (SQ (VP (AUX 's) (NP (PRP$ your) (NN tail))))
+     (. ?)))
+
+
+
+(S1 (X (NNP Teddy) (. .)))
+
+

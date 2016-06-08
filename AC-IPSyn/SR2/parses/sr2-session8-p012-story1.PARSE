@@ -1,0 +1,180 @@
+
+
+(S1 (SBARQ (WHADVP (WRB why)) (SQ (AUX is) (NP (PRP he))) (. ?)))
+
+
+
+
+
+(S1 (S (CC And) (NP (DT that)) (VP (AUX 's) (NP (DT a) (NN hiccup))) (. .)))
+
+
+
+
+
+(S1 (SBARQ (WHADVP (WRB Why)) (SQ (AUX did) (NP (PRP he)) (VP (VB hicdedup))) (. ?)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (AUX do) (RB not) (ADVP (RB ever)) (VP (VB hiccup))) (. ?)))
+
+
+
+
+
+(S1 (INTJ (UH No) (. .)))
+
+
+
+
+
+(S1 (FRAG (WRB Why) (. ?)))
+
+
+
+
+
+(S1 (SBARQ (WHADVP (WRB Why)) (SQ (AUX do) (NP (PRP you)) (VP (AUX have) (NP (NP (DT another) (NN piece)) (PP (IN of) (NP (NN tape)))))) (. ?)))
+
+
+
+
+
+(S1 (SBARQ (WHADVP (WRB Why)) (SQ (AUX do) (NP (PRP you)) (VP (AUX have) (NP (NP (NN alot)) (PP (IN of) (NP (NP (NNS pieces)) (PP (IN of) (NP (NN tape)))))))) (. ?)))
+
+
+
+
+
+(S1 (SBARQ (WHADVP (WRB Where)) (SQ (AUX 's) (NP (DT the) (NN tape))) (. ?)))
+
+
+
+
+
+(S1 (INTJ (UH Oh) (. .)))
+
+
+
+
+
+(S1 (S (VP (VB Whoa) (NP (DT that))) (. .)))
+
+
+
+
+
+(S1 (SQ (AUX Are) (NP (PRP you)) (ADJP (JJ OK)) (. ?)))
+
+
+
+
+
+(S1 (S (INTJ (UH Yes)) (, ,) (NP (PRP I)) (VP (AUX am) (ADJP (JJ OK))) (. .)))
+
+
+
+
+
+(S1 (S (CC But) (VP (VB please) (S (NP (PRP you)) (ADJP (JJ red)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP She)) (VP (AUX 's)) (. .)))
+
+
+
+
+
+(S1 (FRAG (NP (CD One) (CD two)) (NP (QP (CD three) (CD four)) (QP (CD five) (CD six)) (QP (CD seven) (CD eight)) (QP (CD nine) (CD ten))) (. .)))
+
+
+
+
+
+(S1 (S (INTJ (UH Whee)) (, ,) (NP (NN whoa)) (VP (VBD ch)) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT That)) (VP (AUX was) (NP (NNP a))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (VBD found)) (. .)))
+
+
+
+
+
+(S1 (INTJ (UH Oh) (. .)))
+
+
+
+
+
+(S1 (INTJ (UH Oh) (. .)))
+
+
+
+
+
+(S1 (NP (FW I) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (AUX 'm) (RB not) (ADVP (RB even)) (VP (AUX done))) (. .)))
+
+
+
+
+
+(S1 (INTJ (UH No) (. .)))
+
+
+
+
+
+(S1 (SQ (AUX is) (NP (PRP she)) (NP (DT a) (NN girl)) (. ?)))
+
+
+
+
+
+(S1 (SQ (CC Or) (AUX is) (NP (PRP she)) (VP (AUX 's) (NP (DT a) (NN boy))) (. ?)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (AUX do) (RB not) (VP (VB know))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (RB maybe)) (NP (PRP she)) (VP (AUX 's) (NP (NP (DT a) (NN girl)) (PP (IN because) (NP (NN girl))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP I)) (VP (NNP Elsa) (NP (NN hair))) (. ?)))
+
+
+
+
+
+(S1 (INTJ (UH Yes) (. .)))
+
+
+

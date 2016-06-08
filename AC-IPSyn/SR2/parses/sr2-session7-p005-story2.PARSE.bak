@@ -1,0 +1,24 @@
+
+(S1 (S (NP (DT That)) (VP (AUX was)) (. .)))
+
+
+
+(S1 (FRAG (NP (CD One)) (. .)))
+
+
+
+(S1 (NP (NP (NNP Whoa)) (, ,) (NP (CD whoa)) (. .)))
+
+
+
+(S1 (S (ADVP (RB There))
+     (, ,)
+     (NP (PRP we))
+     (VP (VBD got) (NP (PRP them)))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

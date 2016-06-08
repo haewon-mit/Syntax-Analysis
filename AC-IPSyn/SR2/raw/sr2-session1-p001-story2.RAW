@@ -1,0 +1,464 @@
+FILENAME:sr2-session1-p001-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+8	BALL
+9	LEDGE
+11	PKOO
+13	TURN
+
+COUNTS:	4
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+1	SHE
+3	HE
+12	THEY
+
+COUNTS:	3
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+4	ANOTHER
+8	HIS
+8	SLED
+13	YOUR
+
+COUNTS:	4
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	THE BALL
+4	ANOTHER BALL
+8	HIS BALL
+9	THE LEDGE
+13	YOUR TURN
+
+COUNTS:	5
+
+
+###N5	Article used before a noun###
+
+1	THE BALL
+9	THE LEDGE
+
+COUNTS:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	WANTS THE BALL
+4	SEE ANOTHER BALL
+9	UP THE LEDGE
+
+COUNTS:	3
+
+
+###N7	Plural suffix###
+
+
+COUNTS:	0
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+8	HIS BALL
+
+COUNTS:	1
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+
+COUNTS:	0
+
+
+###N10	Adverb modifying adjective or nominal###
+
+5	THEN
+
+COUNTS:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	WANTS
+3	SAID
+4	SEE
+5	GOT
+6	POP
+8	IS
+9	GOES
+12	GOING
+12	SWING
+12	WERE
+
+COUNTS:	10
+
+
+###V2	Particle or preposition###
+
+8	ON
+9	UP
+
+COUNTS:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+8	ON THE SLED
+9	UP THE LEDGE
+
+COUNTS:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+8	 IS
+12	 WERE
+
+COUNTS:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+8	IS
+12	WERE
+
+COUNTS:	2
+
+
+###V7	Progressive Suffix###
+
+12	GOING
+
+COUNTS:	1
+
+
+###V8	Adverb###
+
+5	THEN
+10	UP
+
+COUNTS:	2
+
+
+###V9	Modal preceeding verb###
+
+
+COUNTS:	0
+
+
+###V10	Third person singular present tense suffix###
+
+1	WANTS
+8	IS
+9	GOES
+
+COUNTS:	3
+
+
+###V11	Past tense modal###
+
+2	'LL
+
+COUNTS:	1
+
+
+###V12	Regular past tense suffix###
+
+
+COUNTS:	0
+
+
+###V13	Past tense auxiliary###
+
+12	WERE
+
+COUNTS:	1
+
+
+###V14	Medial adverb###
+
+4	THEN
+
+COUNTS:	1
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+12	 WERE
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+
+COUNTS:	0
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	SHE WANTS THE BALL
+2	AND SHE 'LL
+3	AND HE SAID THERE
+4	AND THEN THEY SEE ANOTHER BALL
+5	THEN SHE GOT THE
+6	THEN POP
+8	HIS BALL IS ON THE SLED
+9	AND SHE GOES UP THE LEDGE
+12	THEY WERE GOING TO SWING
+13	AND YOUR TURN
+
+COUNTS:	5
+
+
+###S2	Subject verb sequence###
+
+1	SHE WANTS 
+8	HIS BALL IS 
+12	THEY WERE GOING TO SWING
+
+COUNTS:	1
+
+
+###S3	Verb object sequence###
+
+1	WANTS THE BALL
+3	SAID , THERE
+4	SEE ANOTHER BALL
+5	GOT THE
+8	IS ON THE SLED
+9	GOES UP THE LEDGE
+
+COUNTS:	5
+
+
+###S4	Subject Verb Object Sequence###
+
+1	SHE WANTS THE BALL
+8	HIS BALL IS ON THE SLED
+
+COUNTS:	2
+
+
+###S5	Conjunction (any)###
+
+3	AND
+
+COUNTS:	1
+
+
+###S6	Sentence with two VP's###
+
+
+COUNTS:	0
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+12	GOING TO SWING
+
+COUNTS:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+
+COUNTS:	0
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+
+COUNTS:	0
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+
+COUNTS:	0
+
+
+###S16	Relative clause marked or unmarked###
+
+
+COUNTS:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+12	THEY WERE GOING TO SWING .
+
+COUNTS:	1
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-13
+NO OF UTTERANCES CONSIDERED: 13
+
+
+#########################
+NOUN COUNTS: 23
+VERB COUNTS: 28
+QUESTION COUNTS: 0
+SENTENCE COUNTS: 16
+TOTAL NO OF STRUCTURES COUNTS: 67
+##########################
+
+###Sentence Listing###
+
+1	SHE WANTS THE BALL .
+2	AND SHE 'LL .
+3	AND HE SAID , THERE .
+4	AND THEN THEY SEE ANOTHER BALL .
+5	THEN SHE GOT THE .
+6	THEN POP .
+7	WHEE .
+8	HIS BALL IS ON THE SLED .
+9	AND SHE GOES UP THE LEDGE .
+10	UP .
+11	PKOO .
+12	THEY WERE GOING TO SWING .
+13	AND YOUR TURN !

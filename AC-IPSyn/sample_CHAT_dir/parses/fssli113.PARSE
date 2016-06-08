@@ -1,0 +1,186 @@
+
+
+(S1 (S (NP (PRP he)) (VP (AUX was) (PP (IN in) (NP (NP (PRP$ his) (NN bedroom)) (PP (IN with) (NP (PRP$ his) (NN dog))))) (VP (VBG looking) (PP (IN at) (PP (IN in) (NP (DT the) (NN jar)))))) (. .)))
+
+
+
+
+
+(S1 (S (CC and) (NP (EX there)) (VP (AUX was) (NP (NP (DT a) (NN frog)) (ADVP (RB inside)))) (. .)))
+
+
+
+
+
+(S1 (S (RB then) (NP (PRP he)) (VP (VBD got) (PRT (RP on)) (PP (TO to) (NP (PRP$ his) (NN bed))) (PP (IN with) (NP (PRP$ his) (NN dog)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NNP frog)) (VP (VP (VBD hopped) (PRT (RP out)) (PP (IN onto) (NP (DT another) (NN jar)))) (CC and) (VP (VBD hopped) (PRT (RP out)) (ADVP (RB again)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT the) (NN boy)) (VP (VBD put) (NP (PRP$ his) (NN jumper)) (PP (IN for) (NP (NP (DT a) (NN piece)) (PP (IN of) (NP (NN wood) (CC or) (NN something)))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT the) (NN dog)) (VP (VBD got) (VP (VBN stuck) (PP (IN in) (NP (DT the) (NN fishbowl))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP he)) (VP (VBD looked) (PP (IN out) (NP (DT the) (NN window) (S (VP (TO to) (VP (VB try) (CC and) (VB find) (NP (DT the) (NN frog)))))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NP (DT the) (NN boy)) (CC and) (NP (DT the) (NN dog))) (VP (VBD jumped) (PRT (RP out))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT the) (NN boy)) (VP (AUX was) (ADJP (JJ angry))) (. .)))
+
+
+
+
+
+(S1 (S (SBAR (WHADVP (WRB when)) (S (VP (VBG looking) (PP (IN for) (NP (PRP him)))))) (VP (VBD saw) (NP (NP (NNS birds) (CC and) (NNS loads)) (PP (IN of) (NP (NNS trees)))) (PP (IN in) (NP (DT the) (NN forest)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP he)) (VP (VBD looked) (ADVP (RB down) (NP (DT a) (NN hole)))) (. .)))
+
+
+
+
+
+(S1 (S (CC and) (NP (DT the) (NN dog)) (VP (VBD found) (NP (DT a) (NN beehive))) (. .)))
+
+
+
+
+
+(S1 (S (CC and) (NP (PRP he)) (VP (VBD found) (NP (DT a) (NN squirrel) (CC or) (NN something))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NN dog)) (VP (VBD looked) (PP (IN at) (NP (DT the) (NNS beehives)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT the) (NN boy)) (VP (VBD looked) (PP (IN in) (NP (NP (DT a) (NN hole)) (PP (IN in) (NP (DT the) (NN tree)))))) (. .)))
+
+
+
+
+
+(S1 (S (ADVP (DT the) (CC and)) (NP (PRP he)) (VP (VBD found) (SBAR (DT some) (S (NP (DT the) (NN dog)) (VP (VBD found) (SBAR (S (VP (VBD found) (NP (DT some) (NNS bees))))))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NNS bees)) (VP (VBD went) (PP (IN after) (NP (DT the) (NN dog)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NN boy)) (VP (VBD fell) (PP (IN off) (NP (DT the) (NN tree)))) (. .)))
+
+
+
+
+
+(S1 (S (CC and) (NP (DT this) (NN owl)) (VP (VBD came) (PRT (RP out))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NN owl)) (VP (VBD went) (PP (IN after) (NP (DT the) (NN boy)))) (. .)))
+
+
+
+
+
+(S1 (S (CC but) (NP (DT the) (NN boy)) (VP (VBD went) (PP (IN into) (NP (DT a) (NN rock))) (S (VP (VBG looking) (PP (IN for) (NP (DT the) (NN dog)))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT the) (NN boy)) (VP (VBD got) (VP (VBN stuck) (PP (IN on) (NP (DT the) (NN reindeer))))) (. .)))
+
+
+
+
+
+(S1 (S (CC and) (NP (DT the) (NN dog)) (VP (VBD went) (PP (IN after) (NP (PRP it)))) (. .)))
+
+
+
+
+
+(S1 (S (NP (NNP reindeer)) (VP (VBD pushed) (NP (PRP him)) (ADVP (RB off))) (. .)))
+
+
+
+
+
+(S1 (S (CC and) (NP (NP (PRP they)) (NP (DT both))) (VP (VBD fell) (PP (IN off) (NP (DT a) (NN cliff)))) (. .)))
+
+
+
+
+
+(S1 (S (VP (VBD landed) (PP (IN in) (NP (DT the) (NN water)))) (. .)))
+
+
+
+
+
+(S1 (S (VP (VBD landed) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (DT each) (JJ other)))))) (. .)))
+
+
+
+
+
+(S1 (S (VP (VP (VBD went) (PP (IN near) (NP (DT a) (NN log)))) (CC and) (VP (VBD got) (PP (IN over) (NP (NN alright))))) (. .)))
+
+
+
+
+
+(S1 (S (VP (VBD found) (SBAR (DT a) (S (VP (VBD found) (NP (DT the) (NNS frogs)))))) (. .)))
+
+
+
+
+
+(S1 (NP (NP (JJ opposite) (NN side)) (PP (IN of) (NP (DT the) (NN log))) (. .)))
+
+
+
+
+
+(S1 (S (VP (VP (VBD found) (NP (DT a) (NN frog))) (CC and) (VP (VBD went) (ADVP (NN home)))) (. .)))
+
+
+

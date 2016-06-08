@@ -1,0 +1,66 @@
+
+
+(S1 (S (ADVP (RB Once)) (NP (EX there)) (VP (AUX was) (NP (DT a) (JJ little))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBD went) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (NNP a)))))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP He)) (VP (VBD made) (NP (PRP$ his))) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT The) (NN penguin)) (VP (VBD walked) (PRT (RP around))) (. .)))
+
+
+
+
+
+(S1 (FRAG (WHADVP (WRB When)) (NP (NN hat) (RB alone)) (. .)))
+
+
+
+
+
+(S1 (S (NP (DT The) (NN hat)) (VP (VBD grew) (ADJP (JJ sad))) (. .)))
+
+
+
+
+
+(S1 (S (NP (PRP It)) (VP (VBD found) (NP (DT another) (NN house)) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (DT a) (NNS snowmans) (NN head)))))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (ADVP (RB then)) (NP (DT the) (NN hat)) (VP (CC and) (VP (VBD found) (NP (PRP$ its)))) (. .)))
+
+
+
+
+
+(S1 (S (CC And) (ADVP (RB then)) (NP (CC and)) (VP (AUX had) (NP (DT a) (JJ nice))) (. .)))
+
+
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
+

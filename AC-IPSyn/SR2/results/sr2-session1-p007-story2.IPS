@@ -1,0 +1,619 @@
+FILENAME:sr2-session1-p007-story2
+
+
+###N1	Proper Mass or Count Noun###
+
+1	BOY
+1	GIRL
+1	STORY
+1	WILL
+2	BROTHER
+3	JANE
+3	KIDS
+3	TIME
+4	FRIEND
+4	SISTER
+5	BALL
+6	PLAYGROUND
+6	STRUCTURE
+8	SLIDE
+9	BOTTOM
+11	SWINGS
+12	LAUREN
+14	I
+14	MAY
+14	WILLIAM
+19	END
+
+SCORE:	2
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+7	SHE
+9	IT
+11	I
+16	YOU
+18	THEY
+
+SCORE:	2
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+1	GONNA
+1	LITTLE
+2	MY
+3	TWO
+4	THEIR
+7	SOME
+9	WHEE
+11	YELLOW
+14	BLUE
+15	SURE
+
+SCORE:	2
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A STORY
+1	LITTLE BOY
+1	LITTLE GIRL
+2	MY BROTHER
+3	A TIME
+3	TWO KIDS
+4	A SISTER
+4	THEIR FRIEND
+6	A PLAYGROUND
+6	A STRUCTURE
+7	SOME BALLS
+8	A SLIDE
+8	THE BALL
+9	THE BOTTOM
+11	THE SWINGS
+11	YELLOW BALL
+14	BLUE BALL
+16	A BALL
+19	THE END
+
+SCORE:	2
+
+
+###N5	Article used before a noun###
+
+1	A STORY
+3	A TIME
+4	A SISTER
+6	A PLAYGROUND
+6	A STRUCTURE
+8	A SLIDE
+8	THE BALL
+9	THE BOTTOM
+11	THE SWINGS
+16	A BALL
+19	THE END
+
+SCORE:	2
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	TELL A STORY
+3	UPON A TIME
+3	WERE TWO KIDS
+4	HAD A SISTER
+6	IN A PLAYGROUND
+6	ON A STRUCTURE
+7	LIKED SOME BALLS
+8	HIT A SLIDE
+9	TO THE BOTTOM
+10	CATCHED THE BALL
+13	HELD THE BALL
+16	HAVE A BALL
+
+SCORE:	2
+
+
+###N7	Plural suffix###
+
+3	KIDS
+7	BALLS
+11	SWINGS
+
+SCORE:	2
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+1	LITTLE BOY
+8	THE BALL
+
+SCORE:	2
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+1	A LITTLE BOY
+1	A LITTLE GIRL
+11	THE YELLOW BALL
+14	THE BLUE BALL
+
+SCORE:	2
+
+
+###N10	Adverb modifying adjective or nominal###
+
+8	SOON
+18	THEN
+
+SCORE:	2
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+SCORE:	0
+
+
+###N12	Others###
+
+
+SCORE:	0
+
+
+###V1	Verb###
+
+1	'M
+1	NAMED
+1	TELL
+3	WERE
+4	HAD
+5	LIKED
+6	CLIMB
+8	HIT
+9	WENT
+10	CATCHED
+10	HELD
+11	GOT
+14	HAVE
+14	PLEASE
+14	SAID
+16	GIVE
+17	GAVE
+18	PLAYED
+
+SCORE:	2
+
+
+###V2	Particle or preposition###
+
+1	ABOUT
+3	UPON
+6	IN
+6	ON
+6	UP
+11	OFF
+16	TO
+
+SCORE:	2
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	ABOUT A LITTLE GIRL
+3	UPON A TIME
+6	IN A PLAYGROUND
+6	ON A STRUCTURE
+9	TO THE BOTTOM
+16	TO YOU
+17	TO WILLIAM
+
+SCORE:	2
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	I 'M GONNA
+3	 WERE
+9	IT WENT WHEE
+
+SCORE:	2
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+SCORE:	2
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	'M
+3	WERE
+4	HAD
+11	HAVE
+14	HAVE
+16	HAVE
+
+SCORE:	2
+
+
+###V7	Progressive Suffix###
+
+
+SCORE:	0
+
+
+###V8	Adverb###
+
+3	ONCE
+6	ALSO
+8	SOON
+9	DOWN
+14	THEN
+16	NOT
+17	SADLY
+17	SO
+18	TOGETHER
+
+SCORE:	2
+
+
+###V9	Modal preceeding verb###
+
+11	MAY I HAVE THE YELLOW BALL
+16	WILL NOT HAVE A BALL
+
+SCORE:	2
+
+
+###V10	Third person singular present tense suffix###
+
+
+SCORE:	0
+
+
+###V11	Past tense modal###
+
+
+SCORE:	0
+
+
+###V12	Regular past tense suffix###
+
+1	NAMED
+5	LIKED
+6	LIKED
+7	LIKED
+10	CATCHED
+18	PLAYED
+
+SCORE:	2
+
+
+###V13	Past tense auxiliary###
+
+3	WERE
+4	HAD
+
+SCORE:	2
+
+
+###V14	Medial adverb###
+
+6	ALSO
+9	DOWN
+14	THEN
+17	SADLY
+
+SCORE:	2
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+SCORE:	0
+
+
+###V16	Past tense copula###
+
+3	 WERE
+9	IT WENT WHEE
+
+SCORE:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+17	SADLY
+
+SCORE:	1
+
+
+###Q1	Intonationally marked question###
+
+11	AND THEN JANE GOT OFF THE SWINGS AND SAID , MAY I HAVE THE YELLOW BALL , PLEASE ?
+
+SCORE:	1
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+SCORE:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+16	BUT IF I GIVE IT TO YOU , I WILL NOT HAVE A BALL .
+
+SCORE:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+SCORE:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+SCORE:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+SCORE:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+16	WILL NOT HAVE A BALL
+
+SCORE:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+SCORE:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+SCORE:	0
+
+
+###Q10	Tag Question###
+
+
+SCORE:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+SCORE:	0
+
+
+###S1	Two word combination###
+
+1	I 'M GONNA TELL A STORY ABOUT A LITTLE GIRL AND A LITTLE BOY NAMED JANE AND WILL
+2	MY BROTHER
+3	ONCE UPON A TIME THERE WERE TWO KIDS JANE AND WILL
+4	THEIR FRIEND LAUREN HAD A SISTER
+5	AND SHE LIKED TO PLAY BALL
+6	AND SHE ALSO LIKED TO CLIMB UP ON A STRUCTURE IN A PLAYGROUND
+7	SHE LIKED SOME BALLS
+8	SOON THE BALL HIT A SLIDE
+9	AND IT WENT WHEE DOWN TO THE BOTTOM
+10	THEN LAUREN CATCHED THE BALL AND HELD TO
+11	AND THEN JANE GOT OFF THE SWINGS AND SAID MAY I HAVE THE YELLOW BALL PLEASE
+12	SURE SAID LAUREN
+13	AND SHE HELD THE BALL
+14	AND THEN WILLIAM SAID MAY I PLEASE HAVE THE BLUE BALL
+15	AND SHE SAID SURE
+16	BUT IF I GIVE IT TO YOU I WILL NOT HAVE A BALL
+17	SO SHE SADLY GAVE IT TO WILLIAM
+18	AND THEN THEY PLAYED BALL TOGETHER
+19	THE END
+
+SCORE:	2
+
+
+###S2	Subject verb sequence###
+
+1	I 'M 
+4	THEIR FRIEND LAUREN HAD 
+7	SHE LIKED 
+11	JANE GOT OFF 
+16	I GIVE 
+
+SCORE:	2
+
+
+###S3	Verb object sequence###
+
+1	'M GONNA
+3	WERE TWO KIDS , JANE AND WILL
+4	HAD A SISTER
+5	LIKED TO PLAY BALL
+5	TO PLAY BALL
+6	LIKED TO CLIMB UP ON A STRUCTURE IN A PLAYGROUND
+6	TO CLIMB UP ON A STRUCTURE IN A PLAYGROUND
+7	LIKED SOME BALLS
+8	HIT A SLIDE
+9	WENT WHEE DOWN TO THE BOTTOM
+10	CATCHED THE BALL
+10	CATCHED THE BALL AND HELD TO
+11	GOT OFF THE SWINGS
+11	GOT OFF THE SWINGS AND SAID , MAY I HAVE THE YELLOW BALL
+12	SAID LAUREN
+13	HELD THE BALL
+16	GIVE IT TO YOU
+17	GAVE IT TO WILLIAM
+18	PLAYED BALL TOGETHER
+
+SCORE:	2
+
+
+###S4	Subject Verb Object Sequence###
+
+1	I 'M GONNA
+4	THEIR FRIEND LAUREN HAD A SISTER
+7	SHE LIKED SOME BALLS
+11	JANE GOT OFF THE SWINGS AND SAID , MAY I HAVE THE YELLOW BALL
+16	I GIVE IT TO YOU
+
+SCORE:	2
+
+
+###S5	Conjunction (any)###
+
+16	IF
+18	AND
+
+SCORE:	2
+
+
+###S6	Sentence with two VP's###
+
+1	I 'M GONNA TELL A STORY ABOUT A LITTLE GIRL AND A LITTLE BOY NAMED JANE AND WILL .
+5	AND SHE LIKED TO PLAY BALL .
+6	AND SHE ALSO LIKED TO CLIMB UP ON A STRUCTURE IN A PLAYGROUND .
+10	THEN , LAUREN CATCHED THE BALL AND HELD TO .
+11	AND THEN JANE GOT OFF THE SWINGS AND SAID , MAY I HAVE THE YELLOW BALL , PLEASE ?
+14	AND THEN , WILLIAM SAID , MAY I PLEASE HAVE THE BLUE BALL ?
+
+SCORE:	2
+
+
+###S7	Conjoined phrases###
+
+1	JANE AND WILL
+3	JANE AND WILL
+
+SCORE:	1
+
+
+###S8	Infinitive without catenative, marked with to###
+
+5	LIKED TO PLAY BALL
+6	LIKED TO CLIMB UP ON A STRUCTURE IN A PLAYGROUND
+
+SCORE:	1
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+SCORE:	0
+
+
+###S10	Adverbial Conjunction###
+
+16	IF
+
+SCORE:	1
+
+
+###S11	Propositional Complement###
+
+
+SCORE:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+SCORE:	0
+
+
+###S13	Wh-clause###
+
+
+SCORE:	0
+
+
+###S14	Bitransitive predicate###
+
+
+SCORE:	0
+
+
+###S15	Sentence with three or more VPs###
+
+1	I 'M GONNA TELL A STORY ABOUT A LITTLE GIRL AND A LITTLE BOY NAMED JANE AND WILL .
+11	AND THEN JANE GOT OFF THE SWINGS AND SAID , MAY I HAVE THE YELLOW BALL , PLEASE ?
+14	AND THEN , WILLIAM SAID , MAY I PLEASE HAVE THE BLUE BALL ?
+
+SCORE:	2
+
+
+###S16	Relative clause marked or unmarked###
+
+
+SCORE:	0
+
+
+###S17	Infinitive clause new subject###
+
+
+SCORE:	0
+
+
+###S18	Gerund###
+
+
+SCORE:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+16	IF I GIVE IT TO YOU
+
+SCORE:	1
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+SCORE:	0
+
+RANGE OF UTTERANCES GIVEN: 1-19
+NO OF UTTERANCES CONSIDERED: 19
+
+
+#########################
+NOUN SCORE: 20
+VERB SCORE: 24
+QUESTION SCORE: 3
+SENTENCE SCORE: 18
+IPSYN SCORE: 65
+##########################
+
+###Sentence Listing###
+
+1	I 'M GONNA TELL A STORY ABOUT A LITTLE GIRL AND A LITTLE BOY NAMED JANE AND WILL .
+2	MY BROTHER .
+3	ONCE UPON A TIME THERE WERE TWO KIDS , JANE AND WILL .
+4	THEIR FRIEND LAUREN HAD A SISTER .
+5	AND SHE LIKED TO PLAY BALL .
+6	AND SHE ALSO LIKED TO CLIMB UP ON A STRUCTURE IN A PLAYGROUND .
+7	SHE LIKED SOME BALLS .
+8	SOON THE BALL HIT A SLIDE .
+9	AND IT WENT WHEE DOWN TO THE BOTTOM .
+10	THEN , LAUREN CATCHED THE BALL AND HELD TO .
+11	AND THEN JANE GOT OFF THE SWINGS AND SAID , MAY I HAVE THE YELLOW BALL , PLEASE ?
+12	SURE , SAID LAUREN .
+13	AND SHE HELD THE BALL .
+14	AND THEN , WILLIAM SAID , MAY I PLEASE HAVE THE BLUE BALL ?
+15	AND SHE SAID , SURE .
+16	BUT IF I GIVE IT TO YOU , I WILL NOT HAVE A BALL .
+17	SO , SHE SADLY GAVE IT TO WILLIAM .
+18	AND THEN THEY PLAYED BALL TOGETHER .
+19	THE END .

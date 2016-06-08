@@ -1,0 +1,95 @@
+
+path=$1
+dev=$2
+trn=$3
+
+make rCounts
+make selFeats
+make iScale
+make trainRs
+make pSgT
+make pTgNt
+make pUgT
+make kn3Counts
+
+rm -f ${path}pSgT.txt 
+cat ${trn} | ${here}pSgT $path 
+rm -f ${path}pUgT.txt 
+cat ${trn} | ${here}pUgT $path 
+cat ${trn} | ${here}pTgNt $path 
+
+cat ${trn} | ${here}rCounts -L r $path 
+${here}selFeats r 50 $path 
+rm -f ${path}r.g
+${here}iScale r $path 
+cat ${dev} | ${here}trainRs -L r $path 
+rm -f ${path}r.ff 
+rm -f ${path}r.f
+
+cat ${trn} | ${here}rCounts -L m $path 
+${here}selFeats m 50 $path 
+rm -f ${path}m.g
+${here}iScale m $path 
+cat ${dev} | ${here}trainRs -L m $path 
+rm -f ${path}m.ff 
+rm -f ${path}m.f 
+
+cat ${trn} | ${here}rCounts -L l $path 
+${here}selFeats l 50 $path 
+rm -f ${path}l.g
+${here}iScale l $path 
+cat ${dev} | ${here}trainRs -L l $path 
+rm -f ${path}l.ff 
+rm -f ${path}l.f 
+
+cat ${trn} | ${here}rCounts -L u $path 
+${here}selFeats u 50 $path 
+rm -f ${path}u.g
+${here}iScale u $path 
+cat ${dev} | ${here}trainRs -L u $path 
+rm -f ${path}u.ff 
+rm -f ${path}u.f 
+
+cat ${trn} | ${here}rCounts -L h $path 
+${here}selFeats h 50 $path 
+rm -f ${path}h.g
+${here}iScale h $path 
+cat ${dev} | ${here}trainRs -L h $path 
+rm -f ${path}h.ff 
+rm -f ${path}h.f 
+
+cat ${trn} | ${here}rCounts -L lm $path 
+${here}selFeats lm 50 $path 
+rm -f ${path}lm.g
+${here}iScale lm $path 
+cat ${dev} | ${here}trainRs -L lm $path 
+rm -f ${path}lm.ff 
+rm -f ${path}lm.f 
+
+cat ${trn} | ${here}rCounts -L ru $path 
+${here}selFeats ru 98 $path 
+rm -f ${path}ru.g
+${here}iScale ru $path 
+cat ${dev} | ${here}trainRs -L ru $path 
+rm -f ${path}ru.ff 
+rm -f ${path}ru.f 
+
+cat ${trn} | ${here}rCounts -L rm $path 
+${here}selFeats rm 50 $path 
+rm -f ${path}rm.g
+${here}iScale rm $path 
+cat ${dev} | ${here}trainRs -L rm $path 
+rm -f ${path}rm.ff 
+rm -f ${path}rm.f 
+
+cat ${trn} | ${here}rCounts -L tt $path 
+${here}selFeats tt 100 $path 
+rm -f ${path}tt.g
+${here}iScale tt $path 
+cat ${dev} | ${here}trainRs -L tt $path 
+rm -f ${path}tt.ff 
+rm -f ${path}tt.f 
+
+cat ${trn} | kn3Counts ww $path
+
+

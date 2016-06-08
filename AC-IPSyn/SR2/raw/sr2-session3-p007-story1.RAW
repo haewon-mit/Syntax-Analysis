@@ -1,0 +1,623 @@
+FILENAME:sr2-session3-p007-story1
+
+
+###N1	Proper Mass or Count Noun###
+
+1	GIRL
+1	TIME
+2	BALL
+4	DOG
+5	CAT
+5	DAY
+7	SOFA
+8	BLOCK
+9	KITTEN
+9	STEPS
+11	KITTY
+13	CHAIR
+14	CEILING
+18	END
+
+COUNTS:	14
+
+
+###N2	Pronoun,Prolocative excluding modifiers###
+
+1	WHO
+3	IT
+9	THEY
+10	HER
+11	HE
+13	THEM
+15	SHE
+
+COUNTS:	7
+
+
+###N3	Modifier including adjectives, possessives and quantifiers###
+
+5	LITTLE
+5	NEW
+5	ONE
+7	MY
+8	ANOTHER
+15	THAT
+
+COUNTS:	6
+
+
+###N4	Two word NP preceded by article or modifier###
+
+1	A GIRL
+1	A TIME
+4	THE BALL
+4	THE DOG
+5	LITTLE GIRL
+5	NEW CAT
+5	ONE DAY
+6	THE CAT
+7	MY SOFA
+8	A BLOCK
+9	THE KITTEN
+11	THE KITTY
+13	A CHAIR
+13	THE GIRL
+14	THE CEILING
+14	THE SOFA
+15	THAT KITTY
+17	THE CHAIR
+18	THE END
+
+COUNTS:	19
+
+
+###N5	Article used before a noun###
+
+1	A GIRL
+1	A TIME
+6	THE CAT
+6	THE DOG
+8	A BLOCK
+9	THE KITTEN
+11	THE KITTY
+13	A CHAIR
+13	THE GIRL
+14	THE BALL
+14	THE CEILING
+14	THE SOFA
+16	THE CHAIR
+18	THE END
+
+COUNTS:	14
+
+
+###N6	Two word NP(as in N4) after verb or preposition###
+
+1	UPON A TIME
+1	WAS A GIRL
+4	CATCH THE BALL
+6	LIKE THE DOG
+7	OFF MY SOFA
+9	FOR THE KITTEN
+11	CHASE THE KITTY
+13	IN A CHAIR
+14	ONTO THE CEILING
+14	UNDER THE SOFA
+15	ON THE SOFA
+16	IN THE CHAIR
+17	TO THE CHAIR
+
+COUNTS:	10
+
+
+###N7	Plural suffix###
+
+9	STEPS
+
+COUNTS:	1
+
+
+###N8	Two word NP (as in N4 before verb)###
+
+2	THE BALL
+5	LITTLE GIRL
+6	THE CAT
+10	THE DOG
+
+COUNTS:	4
+
+
+###N9	Three word NP (Det-Mod-N or Mod-Mod-N)###
+
+5	A NEW CAT
+5	THE LITTLE GIRL
+
+COUNTS:	2
+
+
+###N10	Adverb modifying adjective or nominal###
+
+8	THEN
+
+COUNTS:	1
+
+
+###N11	Any other bound morpheme on N or adjective(if judged not to be stored as lexical unit###
+
+
+COUNTS:	0
+
+
+###N12	Others###
+
+
+COUNTS:	0
+
+
+###V1	Verb###
+
+1	LIKED
+1	PLAY
+1	WAS
+3	CAUGHT
+4	CATCH
+5	BOUGHT
+6	DID
+7	GET
+7	MEANS
+8	CAME
+9	CLIMB
+9	MADE
+10	FOLLOWED
+11	CHASE
+11	WANTED
+12	CURLED
+12	SLEEP
+12	WENT
+13	SAT
+13	WATCHED
+14	BOUNCED
+15	GO
+
+COUNTS:	22
+
+
+###V2	Particle or preposition###
+
+1	UPON
+6	LIKE
+7	OFF
+9	DOWN
+9	FOR
+9	ON
+12	UP
+13	IN
+14	ONTO
+14	UNDER
+17	TO
+
+COUNTS:	11
+
+
+###V3	Prepositional Phrase (Prep+NP)###
+
+1	UPON A TIME
+6	LIKE THE DOG
+7	OFF MY SOFA
+9	FOR THE KITTEN TO CLIMB DOWN
+13	IN A CHAIR
+14	ONTO THE CEILING
+14	UNDER THE SOFA
+15	ON THE SOFA
+16	IN THE CHAIR
+17	TO THE CHAIR
+
+COUNTS:	4
+
+
+###V4	Copula linking two nominals (nominal + copula + nominal, copula)###
+
+1	 WAS
+
+COUNTS:	1
+
+
+###V5	Catenative (pseudo-auxiliary) preceeding a verb (catenative,verb)###
+
+
+COUNTS:	0
+
+
+###V6	Auxiliary be, do, have in VP###
+
+1	WAS
+6	DID
+
+COUNTS:	2
+
+
+###V7	Progressive Suffix###
+
+
+COUNTS:	0
+
+
+###V8	Adverb###
+
+1	ONCE
+4	FIRST
+4	WOOF
+6	NOT
+12	THEN
+12	TOGETHER
+15	DOWN
+
+COUNTS:	7
+
+
+###V9	Modal preceeding verb###
+
+15	COULD GO ON THE SOFA
+16	COULD GO IN THE CHAIR
+
+COUNTS:	1
+
+
+###V10	Third person singular present tense suffix###
+
+1	WAS
+7	MEANS
+
+COUNTS:	2
+
+
+###V11	Past tense modal###
+
+16	COULD
+
+COUNTS:	1
+
+
+###V12	Regular past tense suffix###
+
+1	LIKED
+10	FOLLOWED
+11	WANTED
+12	CURLED
+13	WATCHED
+14	BOUNCED
+
+COUNTS:	6
+
+
+###V13	Past tense auxiliary###
+
+1	WAS
+6	DID
+
+COUNTS:	2
+
+
+###V14	Medial adverb###
+
+4	WOOF
+8	THEN
+12	TOGETHER
+15	DOWN
+
+COUNTS:	4
+
+
+###V15	Copula, Modal or Auxiliary used for emphasis or ellipsis(uncontractible context)###
+
+
+COUNTS:	0
+
+
+###V16	Past tense copula###
+
+1	 WAS
+
+COUNTS:	1
+
+
+###V17	Bound morpheme on a verb or an adjective(to make an adverb)###
+
+
+COUNTS:	0
+
+
+###Q1	Intonationally marked question###
+
+
+COUNTS:	0
+
+
+###Q2	Routine do/go existence name question or wh-pronoun alone###
+
+
+COUNTS:	0
+
+
+###Q3	Simple Negation +X ) neg=no(t), can't don't X=NP,PP,VP,Adj, Adv etc###
+
+6	AND THE CAT DID NOT LIKE THE DOG .
+
+COUNTS:	1
+
+
+###Q4	Initial Wh-pronoun followed by verb###
+
+
+COUNTS:	0
+
+
+###Q5	Negative Morpheme between subject and verb###
+
+
+COUNTS:	0
+
+
+###Q6	Wh-question with inverted modal, copula or auxillary###
+
+
+COUNTS:	0
+
+
+###Q7	Negation of copula, modal or auxiliary###
+
+6	DID NOT LIKE THE DOG
+
+COUNTS:	1
+
+
+###Q8	Yes/no question with inverted modal, copula or auxiliary###
+
+
+COUNTS:	0
+
+
+###Q9	Why, When, Which, Whose###
+
+
+COUNTS:	0
+
+
+###Q10	Tag Question###
+
+
+COUNTS:	0
+
+
+###Q11	Other: e.g questions with negation and inverted cop/aux/modal###
+
+
+COUNTS:	0
+
+
+###S1	Two word combination###
+
+1	ONCE UPON A TIME THERE WAS A GIRL WHO LIKED TO PLAY BALL
+2	THE BALL WENT UP
+3	AND SHE CAUGHT IT
+4	THE DOG WOOF LIKE CATCH THE BALL FIRST
+5	BUT ONE DAY THE LITTLE GIRL BOUGHT A NEW CAT
+6	AND THE CAT DID NOT LIKE THE DOG
+7	MEOW MEOW MEOW MEOW MEOW WHICH MEANS GET OFF MY SOFA
+8	THEN A BLOCK CAME AND THEN ANOTHER ONE
+9	AND THEY MADE STEPS FOR THE KITTEN TO CLIMB DOWN ON
+10	THE DOG FOLLOWED HER
+11	HE WANTED TO CHASE THE KITTY
+12	BUT THEN THEY CURLED UP TOGETHER AND WENT TO SLEEP
+13	THE GIRL SAT IN A CHAIR AND WATCHED THEM
+14	THE BALL BOUNCED UNDER THE SOFA AND BOUNCED UP ONTO THE CEILING
+15	THEN THAT KITTY DOWN DOWN THAT SHE COULD GO ON THE SOFA
+16	THE DOG COULD GO IN THE CHAIR
+17	AND HE WENT TO THE CHAIR
+18	THE END
+
+COUNTS:	10
+
+
+###S2	Subject verb sequence###
+
+2	THE BALL WENT UP
+10	THE DOG FOLLOWED 
+11	HE WANTED TO CHASE 
+13	THE GIRL SAT 
+14	THE BALL BOUNCED 
+15	SHE COULD GO 
+16	THE DOG COULD GO 
+
+COUNTS:	5
+
+
+###S3	Verb object sequence###
+
+1	LIKED TO PLAY BALL
+1	WAS A GIRL WHO LIKED TO PLAY BALL
+3	CAUGHT IT
+4	CATCH THE BALL FIRST
+4	LIKE CATCH THE BALL FIRST
+5	BOUGHT A NEW CAT
+6	DID NOT LIKE THE DOG
+6	LIKE THE DOG
+8	CAME , AND THEN ANOTHER ONE
+9	MADE STEPS FOR THE KITTEN TO CLIMB DOWN ON
+10	FOLLOWED HER
+11	TO CHASE THE KITTY
+11	WANTED TO CHASE THE KITTY
+13	SAT IN A CHAIR
+13	SAT IN A CHAIR AND WATCHED THEM
+14	BOUNCED UNDER THE SOFA
+14	BOUNCED UNDER THE SOFA AND BOUNCED UP ONTO THE CEILING
+15	COULD GO ON THE SOFA
+15	GO ON THE SOFA
+16	COULD GO IN THE CHAIR
+16	GO IN THE CHAIR
+17	WENT TO THE CHAIR
+
+COUNTS:	5
+
+
+###S4	Subject Verb Object Sequence###
+
+10	THE DOG FOLLOWED HER
+11	HE WANTED TO CHASE THE KITTY
+13	THE GIRL SAT IN A CHAIR AND WATCHED THEM
+14	THE BALL BOUNCED UNDER THE SOFA AND BOUNCED UP ONTO THE CEILING
+15	SHE COULD GO ON THE SOFA
+16	THE DOG COULD GO IN THE CHAIR
+
+COUNTS:	4
+
+
+###S5	Conjunction (any)###
+
+5	BUT
+9	AND
+15	THAT
+
+COUNTS:	3
+
+
+###S6	Sentence with two VP's###
+
+1	ONCE UPON A TIME THERE WAS A GIRL WHO LIKED TO PLAY BALL .
+4	THE DOG WOOF LIKE CATCH THE BALL FIRST .
+7	MEOW , MEOW MEOW MEOW MEOW , WHICH MEANS , GET OFF MY SOFA .
+9	AND THEY MADE STEPS FOR THE KITTEN TO CLIMB DOWN ON .
+11	HE WANTED TO CHASE THE KITTY .
+12	BUT THEN THEY CURLED UP TOGETHER AND WENT TO SLEEP .
+13	THE GIRL SAT IN A CHAIR AND WATCHED THEM .
+14	THE BALL BOUNCED UNDER THE SOFA AND BOUNCED UP ONTO THE CEILING .
+
+COUNTS:	6
+
+
+###S7	Conjoined phrases###
+
+
+COUNTS:	0
+
+
+###S8	Infinitive without catenative, marked with to###
+
+1	LIKED TO PLAY BALL
+9	MADE STEPS FOR THE KITTEN TO CLIMB DOWN ON
+11	WANTED TO CHASE THE KITTY
+12	WENT TO SLEEP
+
+COUNTS:	2
+
+
+###S9	Let/Make/Help/Watch introducer###
+
+
+COUNTS:	0
+
+
+###S10	Adverbial Conjunction###
+
+5	BUT
+15	THAT
+
+COUNTS:	2
+
+
+###S11	Propositional Complement###
+
+
+COUNTS:	0
+
+
+###S12	Conjoined sentences (Except for imperatives, will usually have subj + predicate in each clause)###
+
+
+COUNTS:	0
+
+
+###S13	Wh-clause###
+
+1	ONCE UPON A TIME THERE WAS A GIRL WHO LIKED TO PLAY BALL .
+7	MEOW , MEOW MEOW MEOW MEOW , WHICH MEANS , GET OFF MY SOFA .
+
+COUNTS:	2
+
+
+###S14	Bitransitive predicate###
+
+
+COUNTS:	0
+
+
+###S15	Sentence with three or more VPs###
+
+1	ONCE UPON A TIME THERE WAS A GIRL WHO LIKED TO PLAY BALL .
+12	BUT THEN THEY CURLED UP TOGETHER AND WENT TO SLEEP .
+
+COUNTS:	2
+
+
+###S16	Relative clause marked or unmarked###
+
+1	A GIRL WHO LIKED TO PLAY BALL
+
+COUNTS:	1
+
+
+###S17	Infinitive clause new subject###
+
+
+COUNTS:	0
+
+
+###S18	Gerund###
+
+
+COUNTS:	0
+
+
+###S19	Fronted or center-embedded subordinate clause###
+
+
+COUNTS:	0
+
+
+###S20	Other: e.g passive constructions e.g tag comments/intrusions###
+
+
+COUNTS:	0
+
+RANGE OF UTTERANCES GIVEN: 1-18
+NO OF UTTERANCES CONSIDERED: 18
+
+
+#########################
+NOUN COUNTS: 78
+VERB COUNTS: 64
+QUESTION COUNTS: 2
+SENTENCE COUNTS: 42
+TOTAL NO OF STRUCTURES COUNTS: 186
+##########################
+
+###Sentence Listing###
+
+1	ONCE UPON A TIME THERE WAS A GIRL WHO LIKED TO PLAY BALL .
+2	THE BALL WENT UP .
+3	AND SHE CAUGHT IT .
+4	THE DOG WOOF LIKE CATCH THE BALL FIRST .
+5	BUT ONE DAY THE LITTLE GIRL BOUGHT A NEW CAT .
+6	AND THE CAT DID NOT LIKE THE DOG .
+7	MEOW , MEOW MEOW MEOW MEOW , WHICH MEANS , GET OFF MY SOFA .
+8	THEN A BLOCK CAME , AND THEN ANOTHER ONE .
+9	AND THEY MADE STEPS FOR THE KITTEN TO CLIMB DOWN ON .
+10	THE DOG FOLLOWED HER .
+11	HE WANTED TO CHASE THE KITTY .
+12	BUT THEN THEY CURLED UP TOGETHER AND WENT TO SLEEP .
+13	THE GIRL SAT IN A CHAIR AND WATCHED THEM .
+14	THE BALL BOUNCED UNDER THE SOFA AND BOUNCED UP ONTO THE CEILING .
+15	THEN THAT KITTY , DOWN , DOWN THAT SHE COULD GO ON THE SOFA .
+16	THE DOG COULD GO IN THE CHAIR .
+17	AND HE WENT TO THE CHAIR .
+18	THE END .

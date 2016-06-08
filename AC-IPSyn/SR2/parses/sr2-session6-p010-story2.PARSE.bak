@@ -1,0 +1,49 @@
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX was)
+      (NP (NP (NP (DT a) (NN dinosaur))
+	   (VP (VBN named) (NP (NNP Lollipop))))
+       (CC and)
+       (NP (NP (NP (DT a) (NN dinosaur))
+	    (VP (VBN named) (NP (NNP Candycane))))
+	(CC and)
+	(NP (NP (DT a) (NN dinosaur))
+	 (VP (VBN named) (S (NP (NN Cookie))))))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT This) (NN one))
+     (VP (MD will) (VP (AUX be) (NP (NN Cookie))))
+     (. .)))
+
+
+
+(S1 (S (VP (VB Candycane)) (. .)))
+
+
+
+(S1 (S (NP (DT This) (CD one))
+     (VP (AUX is) (VP (VBN named) (S (NP (NNP Lollipop)))))
+     (. .)))
+
+
+
+(S1 (S (NP (DT This) (CD one))
+     (VP (AUX is) (VP (VBN named) (S (NP (NNP Candycane)))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (NP (PRP they)) (NP (DT all)))
+     (VP (VBD lived) (PP (IN in) (NP (DT the) (NN pool))))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+

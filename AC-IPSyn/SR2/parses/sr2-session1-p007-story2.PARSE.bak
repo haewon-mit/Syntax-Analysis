@@ -1,0 +1,163 @@
+
+(S1 (S (S (NP (PRP I)) (VP (AUX 'm) (ADJP (JJ gonna))))
+     (VP (VBP tell)
+      (NP (NP (DT a) (NN story))
+       (PP (IN about)
+	(NP (NP (DT a) (JJ little) (NN girl))
+	 (CC and)
+	 (NP (NP (DT a) (JJ little) (NN boy))
+	  (VP (VBN named) (NP (NNP Jane) (CC and) (NNP Will))))))))
+     (. .)))
+
+
+
+(S1 (FRAG (NP (PRP$ my) (NN brother)) (. .)))
+
+
+
+(S1 (S (ADVP (RB Once))
+     (PP (IN upon) (NP (DT a) (NN time)))
+     (NP (EX there))
+     (VP (AUX were)
+      (NP (NP (CD two) (NNS kids))
+       (, ,)
+       (NP (NNP Jane) (CC and) (NNP Will))))
+     (. .)))
+
+
+
+(S1 (S (NP (NP (PRP$ Their) (NN friend)) (NP (NNP Lauren)))
+     (VP (AUX had) (NP (DT a) (NN sister)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP she))
+     (VP (VBD liked) (S (VP (TO to) (VP (VB play) (NP (NN ball))))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP she))
+     (ADVP (RB also))
+     (VP (VBD liked)
+      (S (VP (TO to)
+	  (VP (VB climb)
+	   (PRT (RP up))
+	   (PP (IN on)
+	    (NP (NP (DT a) (NN structure))
+	     (PP (IN in) (NP (DT a) (NN playground)))))))))
+     (. .)))
+
+
+
+(S1 (S (NP (PRP She))
+     (VP (VBD liked) (NP (DT some) (NNS balls)))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB Soon))
+     (NP (DT the) (NN ball))
+     (VP (VBD hit) (NP (DT a) (NN slide)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP it))
+     (VP (VBD went)
+      (ADJP (JJ whee))
+      (ADVP (RB down) (PP (TO to) (NP (DT the) (NN bottom)))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB Then))
+     (, ,)
+     (NP (NNP Lauren))
+     (VP (VP (VBD catched) (NP (DT the) (NN ball)))
+      (CC and)
+      (VP (VBD held) (S (VP (TO to)))))
+     (. .)))
+
+
+
+(S1 (FRAG (CC And)
+     (RB then)
+     (SBAR (S (NP (NNP Jane))
+	    (VP (VP (VBD got)
+		 (PRT (RP off))
+		 (NP (DT the) (NNS swings)))
+	     (CC and)
+	     (VP (VBD said)
+	      (, ,)
+	      (SQ (MD May)
+	       (NP (PRP I))
+	       (VP (AUX have) (NP (DT the) (JJ yellow) (NN ball))))))))
+     (, ,)
+     (INTJ (UH please))
+     (. ?)))
+
+
+
+(S1 (S (ADJP (JJ Sure)) (, ,) (VP (VBD said) (NP (NNP Lauren))) (. .)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP she))
+     (VP (VBD held) (NP (DT the) (NN ball)))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (ADVP (RB then))
+     (PRN (, ,) (NP (NNP William)) (VP (VBD said)) (, ,))
+     (NP (NNP May) (NNP I))
+     (VP (VB please) (VP (AUX have) (NP (DT the) (JJ blue) (NN ball))))
+     (. ?)))
+
+
+
+(S1 (S (CC And)
+     (NP (PRP she))
+     (VP (VBD said) (, ,) (S (ADJP (JJ Sure))))
+     (. .)))
+
+
+
+(S1 (S (CC But)
+     (SBAR (IN if)
+      (S (NP (PRP I))
+       (VP (VBP give) (NP (PRP it)) (PP (TO to) (NP (PRP you))))))
+     (, ,)
+     (NP (PRP I))
+     (VP (MD will) (RB not) (VP (AUX have) (NP (DT a) (NN ball))))
+     (. .)))
+
+
+
+(S1 (S (ADVP (RB So))
+     (, ,)
+     (NP (PRP she))
+     (ADVP (RB sadly))
+     (VP (VBD gave) (NP (PRP it)) (PP (TO to) (NP (NNP William))))
+     (. .)))
+
+
+
+(S1 (S (CC And)
+     (RB then)
+     (NP (PRP they))
+     (VP (VBD played) (NP (NN ball)) (ADVP (RB together)))
+     (. .)))
+
+
+
+(S1 (NP (DT The) (NN end) (. .)))
+
+
